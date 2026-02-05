@@ -23,8 +23,7 @@ Rights: CC BY-NC 4.0
 
 ### Originally published on March 29th, 2022
 
-*\
-It seems that many people today experience a space problem. This applies
+*It seems that many people today experience a space problem. This applies
 to the physical world where living spaces in the city become less
 affordable by the day as wages continue to stagnate. And this is also
 the case for the digital spaces we inhabit, where governments and
