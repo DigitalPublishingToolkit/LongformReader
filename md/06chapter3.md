@@ -20,7 +20,7 @@ Rights: CC BY-NC 4.0
 # From Shitposting to Shitpublishing
 
 ## Ezequiel Soriano
-Originally published on February 10th, 2025
+### Originally published on February 10th, 2025
 
 These last years I have been spending my time publishing nonsensical
 books[^06chapter3_1] of illegible, plagiarized, stunning, low-quality, sublime, and
@@ -479,3 +479,4 @@ Xcol, UOC, USC, or the Institute of Network Cultures.*
 
 [^06chapter3_5]: Marshall McLuhan, *Understanding Media: The Extensions of Man,
     (Gingko Press, 1964)*
+### 

@@ -17,7 +17,7 @@ Rights: CC BY-NC 4.0
 ...
 
 
-### Reflections on Trigger Warnings: A Practice of Care, Refusal of Witnessing\
+### Reflections on Trigger Warnings: A Practice of Care, Refusal of Witnessing
 Chloë Arkenbout\
 Originally published on July 11th, 2024\
 \
