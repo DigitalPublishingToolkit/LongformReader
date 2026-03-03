@@ -66,13 +66,11 @@ of visual perception and its online extension, and what could be the
 political implications of an evolving social process established on
 semiotic ambiguity and post-truth.
 
-![A screenshot of a video game AI-generated content may be
-incorrect.](media/image1.png){width="6.268055555555556in"
-height="3.5166666666666666in"}
+![Screenshot from Neuro-Sama’s live Twitch on January 2023](imgs/11.1.png)
 
-Screenshot from Neuro-Sama’s live Twitch on January 2023
+<br/> 
 
-# Violence and Visual Culture: Beautifying Gaze and Wartime Online Self-Portrayal
+## Violence and Visual Culture: Beautifying Gaze and Wartime Online Self-Portrayal
 
 Violence has always found its own way to deal with its visual
 representation, whether it be in the arts, traditional media or the
@@ -262,13 +260,9 @@ construct of male desire, disconnected from the notion of real women,
 once brought to life by otaku fantasy, she gains an independent
 existence that compels us to reconsider our understanding of reality.
 
-![A cartoon of a person with blue hair AI-generated content may be
-incorrect.](media/image2.png){width="6.268055555555556in"
-height="3.513888888888889in"}
+![Screenshot from Gatebox Official Page’s Youtube video titled Gatebox- Promotion Movie 'KANPAI' English ver. to adversite their new AI product, 31 July 2018](imgs/11.2.png)
 
-Screenshots from Gatebox Official Page’s Youtube video titled Gatebox-
-Promotion Movie 'KANPAI' English ver. to adversite their new AI product,
-31 July 2018
+<br/> 
 
 Cultural anthropologist Patrick W. Galbraith wrote an applauded book
 titled *Otaku and the Struggle for Imagination in Japan*, where the
@@ -304,13 +298,9 @@ vessels used during World War II and are inspired by the names,
 histories and characteristics of real ships, such as the German Z1
 Leberecht Maas.
 
-![A cartoon of a person with guns AI-generated content may be
-incorrect.](media/image3.png){width="3.4896270778652667in"
-height="4.069646762904637in"}
+![Collectible character in the video game Azur Lane, based on the German destroyer ship Z1 Leberecht Maass. Saru Long, 2019. Title of work: Z1 (Azur Lane). Game developer: Yostar](imgs/11.3.png)
 
-Collectible character in the video game Azur Lane, based on the German
-destroyer ship Z1 Leberecht Maass. Saru Long, 2019. Title of work: Z1
-(Azur Lane). Game developer: Yostar
+<br/> 
 
 As scholars Francesco Toniolo and Stefano Caselli have pointed out, the
 bodies of the shipgirls in Azur Lane are at the centre of its trading
@@ -348,12 +338,9 @@ US Infantry Weapon with Girls” edition, available on Ebay, reveals a
 depiction of an allegedly underage manga girl in underwear wielding a
 rifle positioned between her legs.
 
-![A close-up of a magazine AI-generated content may be
-incorrect.](media/image4.png){width="4.721519028871391in"
-height="1.7759317585301837in"}
+![Preview pictures saved from an Ebay account selling the first edition of the Gun & Girl Illustrated issue](imgs/11.4.png)
 
-Preview pictures saved from an Ebay account selling the first edition of
-the Gun & Girl Illustrated issue (no longer available on the website)
+<br/> 
 
 ## Dakimakura
 
@@ -393,12 +380,9 @@ we are a part of \[…\] the generation that grew up playing Pokemon, and
 watching DBZ and Sailor Moon are now our country’s military personnel,
 first responders and armed citizens.”[^14chapter11_27]
 
-![A person holding an object AI-generated content may be
-incorrect.](media/image5.png){width="2.75949365704287in"
-height="2.2584678477690288in"}
+![Screenshot taken on the subreddit r/justneckbeardthings of a post by a now suspended account YungFeetGod69, 26 February 2020.](imgs/11.5.png)
 
-Screenshot taken on the subreddit r/justneckbeardthings of a post by a
-now suspended account YungFeetGod69, 26 February 2020.
+<br/> 
 
 ##  Virtualizing War
 
@@ -425,13 +409,11 @@ collectively commission and pay artists to create a canonical anime
 universe with semi-complex relationships between the protagonists and
 antagonists akin of fanfiction”.[^14chapter11_28]
 
-![A cartoon of a person with long white hair AI-generated content may be
-incorrect.](media/image6.png){width="2.7894860017497813in"
-height="2.9367093175853016in"}
+![Original picture downloaded from a /chug/ thread on 4chan](imgs/11.6.png)
 
-Original picture downloaded from a /chug/ thread on 4chan
+<br/> 
 
-# Realising War
+## Realising War
 
 Speaking of the flaunt of online war propaganda, the origins of digital
 aesthetics in military culture can be traced back to some YouTube videos
@@ -473,12 +455,9 @@ gratify a multitude of sexual fantasies tailored to the user’s fanbase,
 yet these bishojo/soldiers lack distinct identities: rather, the
 emphasis lies on replicating themselves identically.
 
-![A collage of a person in uniform AI-generated content may be
-incorrect.](media/image7.png){width="6.268055555555556in"
-height="2.686111111111111in"}
+![Screenshot taken from the section Shorts on the brvlcon YouTube account,May 2024](imgs/11.7.png)
 
-Screenshot taken from the section Shorts on the brvlcon YouTube account,
-May 2024
+<br/> 
 
 Historically, the soldier was often viewed as an anonymous individual,
 employed in the army without particular personal recognition. The
@@ -539,14 +518,11 @@ caustic irony: NATO was mocked for its desperate efforts to “grooming
 murderers” and accused of recruiting future drone operators who can
 “kill \[more easily\] from \[the comfort\] of a room”.
 
-![A cartoon of a soldier using a computer AI-generated content may be
-incorrect.](media/image8.png){width="5.027777777777778in"
-height="3.611111111111111in"}
+![A page featured in the NSA’s “fun book”. Graphic design by David Darchicourt](imgs/11.8.jpg)
 
-A page featured in the NSA’s “fun book”. Graphic design by David
-Darchicourt
+<br/> 
 
-No Makeup, Only Camouflage
+## No Makeup, Only Camouflage
 
 Back in 2019, IOF’s official Facebook account aspired to become a
 trendsetter by sharing posts of female soldiers with the hashtag and
@@ -557,15 +533,10 @@ the video *Camouflaged or not, our soldiers are masters of
 disguise* published on their official TikTok account, showing young
 soldiers playing hide and seek.[^14chapter11_39]
 
-[\
-](https://networkcultures.org/longform/wp-content/uploads/sites/31/2024/09/Immagine-2024-06-01-223539_300dpi.png)![A
-person with a face paint AI-generated content may be
-incorrect.](media/image9.png){width="6.268055555555556in"
-height="3.526388888888889in"}
+[
+](https://networkcultures.org/longform/wp-content/uploads/sites/31/2024/09/Immagine-2024-06-01-223539_300dpi.png)![Screenshot from IOF’s (also known as IDF) official Instagram account, date as seen in the posts (IOF Official account has 1.5 million followers as of 3 June 2024)](imgs/11.9.png)
 
-Screenshot from IOF’s (also known as IDF) official Instagram account,
-date as seen in the posts (IOF Official account has 1.5 million
-followers as of 3 June 2024)
+<br/> 
 
 The IOF’s TikTok official account was launched in 2020 and has earned
 431 thousand followers so far. Prior to October 2023, the most popular
@@ -670,16 +641,9 @@ affirmative because the escape offered by it is not escape from a bad
 reality at all but rather escape from the very idea of resistance to
 that reality. The only way out is surrender.”[^14chapter11_48]
 
-![A person and person holding objects AI-generated content may be
-incorrect.](media/image10.png){width="1.78504593175853in"
-height="3.554748468941382in"}![A person in military uniform holding an
-object AI-generated content may be
-incorrect.](media/image11.png){width="2.11624343832021in"
-height="3.556961942257218in"}
+![Left: Screenshot from the “Hanukkah Challenge” video posted on the israel_bidur TikTok account (29 November 2021). Right: Screenshot from a Yael Deri TikTok video (8 June 2021)](imgs/11.10.png)
 
-Left: Screenshot from the “Hanukkah Challenge” video posted on the
-israel\_bidur TikTok account (29 November 2021). Right: Screenshot from
-a Yael Deri TikTok video (8 June 2021)
+<br/> 
 
 ## Conclusion
 
@@ -757,7 +721,7 @@ perilous point of no return.
 *This essay is dedicated to the Palestinian Resistance and all the
 Sarāyāt.*
 
-***Noura Tafeche** is a visual artist, onomaturge, and independent
+***Noura Tafeche*** *is a visual artist, onomaturge, and independent
 researcher whose practice moves across installation, archival
 methodologies, experimental labs, videos, neologism creation, and
 miniature drawing. She holds a BA in New Technologies for Art from the
@@ -765,7 +729,7 @@ Brera Academy, with a particular focus on the field of net.art but The
 Influencers Festival has been her real education. Her research explores
 visual culture and its techno-political entanglements, with a focus on
 digital militarism, online aesthetics, internet hyper-niches,
-non-anglophone meme culture.She is also engaged in language
+non-anglophone meme culture. She is also engaged in language
 experimentation and the visual articulation of contemporary
 imaginaries.*
 
@@ -928,7 +892,7 @@ imaginaries.*
     Terror.” In The Aesthetics and Affects of Cuteness, edited by Joshua
     Paul Dale et al., 95–111. London: Routledge, 2016.
 
-[^14chapter11_31]: 
+[^14chapter11_31]: https://www.instagram.com/bralcon, https://www.youtube.com/@brvlcon
 
 [^14chapter11_32]: James Vincent. “Twitch Tells US Army to Stop Sharing Fake Prize
     Giveaways that Sent Users to Recruitment Page.” *The Verge*, July

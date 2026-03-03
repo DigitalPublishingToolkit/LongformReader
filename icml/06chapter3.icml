@@ -1,0 +1,1274 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?aid style="50" type="snippet" readerVersion="6.0" featureSet="513" product="8.0(370)" ?>
+<?aid SnippetType="InCopyInterchange"?>
+<Document DOMVersion="8.0" Self="pandoc_doc">
+    <RootCharacterStyleGroup Self="pandoc_character_styles">
+      <CharacterStyle Self="$ID/NormalCharacterStyle" Name="Default" />
+      <CharacterStyle Self="CharacterStyle/" Name="">
+        <Properties>
+          <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
+        </Properties>
+      </CharacterStyle>
+      <CharacterStyle Self="CharacterStyle/Bold Italic" Name="Bold Italic" FontStyle="Bold Italic">
+        <Properties>
+          <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
+        </Properties>
+      </CharacterStyle>
+      <CharacterStyle Self="CharacterStyle/Italic" Name="Italic" FontStyle="Italic">
+        <Properties>
+          <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
+        </Properties>
+      </CharacterStyle> 
+    </RootCharacterStyleGroup>
+    <RootParagraphStyleGroup Self="pandoc_paragraph_styles">
+      <ParagraphStyle Self="$ID/NormalParagraphStyle" Name="$ID/NormalParagraphStyle"
+          SpaceBefore="6" SpaceAfter="6"> <!-- paragraph spacing -->
+        <Properties>
+          <TabList type="list">
+            <ListItem type="record">
+              <Alignment type="enumeration">LeftAlign</Alignment>
+              <AlignmentCharacter type="string">.</AlignmentCharacter>
+              <Leader type="string"></Leader>
+              <Position type="unit">10</Position> <!-- first tab stop -->
+            </ListItem>
+          </TabList>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Blockquote &gt; Paragraph" Name="Blockquote &gt; Paragraph" LeftIndent="10">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Caption" Name="Caption" LeftIndent="0">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Figure" Name="Figure" LeftIndent="0">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Footnote &gt; Paragraph" Name="Footnote &gt; Paragraph" LeftIndent="0">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Header1" Name="Header1" LeftIndent="0" PointSize="36">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Header2" Name="Header2" LeftIndent="0" PointSize="30">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Header3" Name="Header3" LeftIndent="0" PointSize="24">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Paragraph" Name="Paragraph" LeftIndent="0">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle> 
+    </RootParagraphStyleGroup>
+    <RootTableStyleGroup Self="pandoc_table_styles">
+      <TableStyle Self="TableStyle/Table" Name="Table" />
+    </RootTableStyleGroup>
+    <RootCellStyleGroup Self="pandoc_cell_styles">
+      <CellStyle Self="CellStyle/Cell" AppliedParagraphStyle="ParagraphStyle/$ID/[No paragraph style]" Name="Cell" />
+    </RootCellStyleGroup>
+  <Story Self="pandoc_story"
+      TrackChanges="false"
+      StoryTitle=""
+      AppliedTOCStyle="n"
+      AppliedNamedGrid="n" >
+    <StoryPreference OpticalMarginAlignment="true" OpticalMarginSize="12" />
+
+<!-- body needs to be non-indented, otherwise code blocks are indented too far -->
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header1">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>From Shitposting to Shitpublishing</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Ezequiel Soriano</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Originally published on February 10th, 2025</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>These last years I have been spending my time publishing nonsensical books</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>https://www.artefactosnativos.com/</Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> of illegible, plagiarized, stunning, low-quality, sublime, and uncanny content. I was developing a weird publishing project that aimed to grasp the </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>extremely online</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> poetics, displacing shitty content from forums, wikis, and digital platforms into books. Practicing </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>trollish literature</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>. These books display cursed memes, poorly translated novels, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>keysmashed</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> text, random images, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>lorem ipsums</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, YouTube comments, Wikipedia graffiti, niche forum discussions, motivational quotes, spam, ai-generated blog entries, pixelated and saturated photos, boring amateur poems, and automatic video transcriptions. In this article, I describe these publishing experiments as attempts to go from shitposting to shitpublishing.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Figure">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Rectangle Self="uec" StrokeWeight="0" ItemTransform="1.00000 0 0 1.00000 134.52632 -155.36842">
+      <Properties>
+        <PathGeometry>
+          <GeometryPathType PathOpen="false">
+            <PathPointArray>
+              <PathPointType Anchor="-134.52632 -155.36842" LeftDirection="-134.52632 -155.36842" RightDirection="-134.52632 -155.36842" />
+              <PathPointType Anchor="-134.52632 155.36842" LeftDirection="-134.52632 155.36842" RightDirection="-134.52632 155.36842" />
+              <PathPointType Anchor="134.52632 155.36842" LeftDirection="134.52632 155.36842" RightDirection="134.52632 155.36842" />
+              <PathPointType Anchor="134.52632 -155.36842" LeftDirection="134.52632 -155.36842" RightDirection="134.52632 -155.36842" />
+            </PathPointArray>
+          </GeometryPathType>
+        </PathGeometry>
+      </Properties>
+      <Image Self="ue6" ItemTransform="1.00000 0 0 1.00000 -134.52632 -155.36842">
+        <Properties>
+          <Profile type="string">
+            $ID/Embedded
+          </Profile>
+        </Properties>
+        <Link Self="ueb" LinkResourceURI="file:imgs/03.1.png" />
+      </Image>
+    </Rectangle>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Caption">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Screenshot of Shitposting article in Wikipedia https://en.wikipedia.org/w/index.php?title=Shitposting&amp;oldid=1189859960 (or a keysmashed haiku)</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Definitions</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Wikipedia describes </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>shitposting</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> as “the act of using an online forum or social media page to post content that is satirical and of ‘aggressively, ironically, and trollishly poor quality’”. The most liked definition of </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>shitposting</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> in the Urban Dictionary says:</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Figure">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Rectangle Self="uec" StrokeWeight="0" ItemTransform="1.00000 0 0 1.00000 325.50000 -249.50000">
+      <Properties>
+        <PathGeometry>
+          <GeometryPathType PathOpen="false">
+            <PathPointArray>
+              <PathPointType Anchor="-325.50000 -249.50000" LeftDirection="-325.50000 -249.50000" RightDirection="-325.50000 -249.50000" />
+              <PathPointType Anchor="-325.50000 249.50000" LeftDirection="-325.50000 249.50000" RightDirection="-325.50000 249.50000" />
+              <PathPointType Anchor="325.50000 249.50000" LeftDirection="325.50000 249.50000" RightDirection="325.50000 249.50000" />
+              <PathPointType Anchor="325.50000 -249.50000" LeftDirection="325.50000 -249.50000" RightDirection="325.50000 -249.50000" />
+            </PathPointArray>
+          </GeometryPathType>
+        </PathGeometry>
+      </Properties>
+      <Image Self="ue6" ItemTransform="1.00000 0 0 1.00000 -325.50000 -249.50000">
+        <Properties>
+          <Profile type="string">
+            $ID/Embedded
+          </Profile>
+        </Properties>
+        <Link Self="ueb" LinkResourceURI="file:imgs/03.2.png" />
+      </Image>
+    </Rectangle>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Caption">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Screenshot of urban dictionary definition of 'Shitposting' by thesinner6666</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>However, the most flavored shitpublishing definitions linger in the shadows of these web pages. One of the last definitions on Urban Dictionary is:</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Rectangle Self="uec" StrokeWeight="0" ItemTransform="1.00000 0 0 1.00000 416.50000 -249.00000">
+      <Properties>
+        <PathGeometry>
+          <GeometryPathType PathOpen="false">
+            <PathPointArray>
+              <PathPointType Anchor="-416.50000 -249.00000" LeftDirection="-416.50000 -249.00000" RightDirection="-416.50000 -249.00000" />
+              <PathPointType Anchor="-416.50000 249.00000" LeftDirection="-416.50000 249.00000" RightDirection="-416.50000 249.00000" />
+              <PathPointType Anchor="416.50000 249.00000" LeftDirection="416.50000 249.00000" RightDirection="416.50000 249.00000" />
+              <PathPointType Anchor="416.50000 -249.00000" LeftDirection="416.50000 -249.00000" RightDirection="416.50000 -249.00000" />
+            </PathPointArray>
+          </GeometryPathType>
+        </PathGeometry>
+      </Properties>
+      <Image Self="ue6" ItemTransform="1.00000 0 0 1.00000 -416.50000 -249.00000">
+        <Properties>
+          <Profile type="string">
+            $ID/Embedded
+          </Profile>
+        </Properties>
+        <Link Self="ueb" LinkResourceURI="file:imgs/03.3.png" />
+      </Image>
+    </Rectangle>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>In the Shitposting Wikipedia article, on the 10th of November 2017, someone with the IP 204.109.101.63, erased the description of </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>shitpost</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> to copy-paste the entire script of Christopher Nolan's </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>The Dark Knight Rises</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>. In these shitposting gestures, we can identify the core idea of </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>shitpublishing</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>. Shitpublishing is shitposting in </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>literary</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> contexts, such as books, an encyclopedia, academic journal, or journalist articles.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Figure">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Rectangle Self="uec" StrokeWeight="0" ItemTransform="1.00000 0 0 1.00000 508.54737 -89.43158">
+      <Properties>
+        <PathGeometry>
+          <GeometryPathType PathOpen="false">
+            <PathPointArray>
+              <PathPointType Anchor="-508.54737 -89.43158" LeftDirection="-508.54737 -89.43158" RightDirection="-508.54737 -89.43158" />
+              <PathPointType Anchor="-508.54737 89.43158" LeftDirection="-508.54737 89.43158" RightDirection="-508.54737 89.43158" />
+              <PathPointType Anchor="508.54737 89.43158" LeftDirection="508.54737 89.43158" RightDirection="508.54737 89.43158" />
+              <PathPointType Anchor="508.54737 -89.43158" LeftDirection="508.54737 -89.43158" RightDirection="508.54737 -89.43158" />
+            </PathPointArray>
+          </GeometryPathType>
+        </PathGeometry>
+      </Properties>
+      <Image Self="ue6" ItemTransform="1.00000 0 0 1.00000 -508.54737 -89.43158">
+        <Properties>
+          <Profile type="string">
+            $ID/Embedded
+          </Profile>
+        </Properties>
+        <Link Self="ueb" LinkResourceURI="file:imgs/03.4.png" />
+      </Image>
+    </Rectangle>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Caption">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>A screenshot of the first talk entry of Wikiedia’s Shitposting article.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Spamming Books</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Shitposting</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> is about spamming, about flooding online communication with nonsensical rubbish. It is similar to the gesture of shouting in a public debate or pasting stickers on informative posters in the street. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Shitpublishing</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> is about categorizing these acts as done work, translating these oral gestures into literary or written ‘knowledge’. It turns </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>trash-talking</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> into </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>trash-writing</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>From a literary perspective, shitposting engages with text in its material dimension. It takes into account the materiality of language. As Goldsmith wrote about Mallarme’s poetry: “words are no longer primarily transparent content carriers; now their material quality must be considered as well”</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Kenneth Goldsmith, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Uncreative Writing</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, Columbia University Press, 2011.</Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Keysmashing</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> gives letters the same materiality that many modernist poets were experimenting with. It creates pieces of internet vernacular literature that are not meant to be read but to be weighed.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Figure">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Rectangle Self="uec" StrokeWeight="0" ItemTransform="1.00000 0 0 1.00000 676.00000 -288.00000">
+      <Properties>
+        <PathGeometry>
+          <GeometryPathType PathOpen="false">
+            <PathPointArray>
+              <PathPointType Anchor="-676.00000 -288.00000" LeftDirection="-676.00000 -288.00000" RightDirection="-676.00000 -288.00000" />
+              <PathPointType Anchor="-676.00000 288.00000" LeftDirection="-676.00000 288.00000" RightDirection="-676.00000 288.00000" />
+              <PathPointType Anchor="676.00000 288.00000" LeftDirection="676.00000 288.00000" RightDirection="676.00000 288.00000" />
+              <PathPointType Anchor="676.00000 -288.00000" LeftDirection="676.00000 -288.00000" RightDirection="676.00000 -288.00000" />
+            </PathPointArray>
+          </GeometryPathType>
+        </PathGeometry>
+      </Properties>
+      <Image Self="ue6" ItemTransform="1.00000 0 0 1.00000 -676.00000 -288.00000">
+        <Properties>
+          <Profile type="string">
+            $ID/Embedded
+          </Profile>
+        </Properties>
+        <Link Self="ueb" LinkResourceURI="file:imgs/03.5.png" />
+      </Image>
+    </Rectangle>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Caption">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Amazon Screenshot of the books ASDFGH by Asdfgh</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Shitpublishing approaches book-making in the same materialist way. Amazon hosts several books of this </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>keysmashed</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> shitpublishing ‘microgenre’. Books like </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Asdfgh</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> by Asdf Asdfg and ASD dfg, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>asdfgh</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> (Japanese Edition), </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>(Transparency) US - Cover creator or PDF Upload without checking checkbox</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> by asdfgh, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Marja: abhi marja</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> by asdfg asdf, or </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>safg</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> by asdf. These </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>keysmashed</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> books embody the fast, lazy, and materialist approach of shitposting. Shitpublishing focuses on the formal qualities of the books rather than their communicative qualities. eBooks are seen as digital artifacts that can be thrown, spammed, flood a platform, or be used as a trollish authority referenced in an online discussion.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>With their project </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Kindle'voke Ghost Writers</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> (2012), the Austrian artistic and publishing collective </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Traumawien</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> flooded Amazon's self-publishing platform with thousands of ebooks, exploiting a vulnerability in the upload system. The covers of these books imitate the iconic Willy Fleckhaus design of </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Suhrkamp Verlag</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> editions, but under this reliable design, they hide textual rubbish. The content, typeset as canonical dramas, was entirely composed of comments scraped from YouTube. The act of spamming the Amazon marketplace with interventionist, interface-specific literature,</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Karl Wolfgang Flender, “Literary Forkbombs: Interventionist Conceptual Writing in the Age of Amazon”, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Hyperrhiz, no.</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content> 20</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>,</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content> (2019), doi:10.20415/hyp/020.net01.</Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> was a shitpublishing gesture which used digital publications as projectile weapons.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Kindle'voke Ghost Writers</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> books function solely as data. As a cover; a product for Amazon to catalog and manage, and as a document that </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>occupies</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> space on the platform's servers. As conceptual writing works, these books are calling for a “thinkership” rather than a “readership”</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Vanessa Place &amp; Robert Fitterman, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Notes on Conceptualisms,</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content> (Ugly Duckling Presse, 2009).</Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>. But beyond this artistic framing, in the context of Amazon's workers, these books are not calling for a “readership”, nor a “thinkership”, but a “managership”: meaning that someone has to organize this data to prevent obfuscation of the platform's digital shelves.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Besides the aggressive quality of this gesture, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Kindle'voke Ghost Writers</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> also plays on a more symbolic dimension of shitpublishing. It turns YouTube comments into literature. This conceptual publishing project is a shitpost play that challenges the notions of what is deemed worthy of being published in a book. It muddles the distinctions between literature and content, users and authors, posting and publishing. Like Angela Genusa’s </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Spam Bibliography,</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> a book that presents all emails received in her spam folder between September 2012 and March 2013, formatted as a bibliography and sorted alphabetically. This work is described in the Library of Artistic Print on Demand (apod.li) as a “unique representation [which] makes spam messages appear as objects worth documenting and investigating”.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Figure">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Rectangle Self="uec" StrokeWeight="0" ItemTransform="1.00000 0 0 1.00000 315.50000 -225.00000">
+      <Properties>
+        <PathGeometry>
+          <GeometryPathType PathOpen="false">
+            <PathPointArray>
+              <PathPointType Anchor="-315.50000 -225.00000" LeftDirection="-315.50000 -225.00000" RightDirection="-315.50000 -225.00000" />
+              <PathPointType Anchor="-315.50000 225.00000" LeftDirection="-315.50000 225.00000" RightDirection="-315.50000 225.00000" />
+              <PathPointType Anchor="315.50000 225.00000" LeftDirection="315.50000 225.00000" RightDirection="315.50000 225.00000" />
+              <PathPointType Anchor="315.50000 -225.00000" LeftDirection="315.50000 -225.00000" RightDirection="315.50000 -225.00000" />
+            </PathPointArray>
+          </GeometryPathType>
+        </PathGeometry>
+      </Properties>
+      <Image Self="ue6" ItemTransform="1.00000 0 0 1.00000 -315.50000 -225.00000">
+        <Properties>
+          <Profile type="string">
+            $ID/Embedded
+          </Profile>
+        </Properties>
+        <Link Self="ueb" LinkResourceURI="file:imgs/03.6.jpg" />
+      </Image>
+    </Rectangle>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Caption">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Rule 84. There are no authors on the internet</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The Uncanny Book Valley 1: POD</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Shitpublishing defines the uncanny book valley. These </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>things</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> are made to look like books, but if you approach them as a “readership” you will have an </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>unheimlich</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> experience. These oddly familiar publications inhabit the margins of what is publishable. They are positioned somewhere between real books that sound fake and fake books that could be real. To </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>experience</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> this, we only need to have a look at Tim Holman's collection Always Judge a Book by its Cover, a list of strange books he found on Amazon with titles like:</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>How to Talk to Your Cat About Gun Safety</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>I Don't Care if My Best Friend's Mom is a Sasquatch, She's Hot and I'm Taking a Shower With Her</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>How to Raise Your I.Q. by Eating Gifted Children</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Sun-Beams May Be Extracted from Cucumbers, But the Process Is Tedious. an Oration, Pronounced on the Fourth of July, 1799. at the Request of the Citizens of New-Haven. by David Daggett</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>But nowadays, due to the popularization of generative AI tools, these kinds of lists will contain much weirder books. Look no further than books authored by chatGPT on Amazon. There are fascinating uncanny titles like </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>The AI Cookbook V: &quot;Mindful Munchies: AI Wellness&quot;</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> by George R. Martin III, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>The Ai-Eye of Argon: Or, I Wrote a Novel with A.I. Assistance, But You Probably Should Not</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> by Martin Berman-Gorvine or </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Chat GPT for Babies</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> by MR Mikhail Zerafa.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Figure">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Rectangle Self="uec" StrokeWeight="0" ItemTransform="1.00000 0 0 1.00000 477.50000 -336.00000">
+      <Properties>
+        <PathGeometry>
+          <GeometryPathType PathOpen="false">
+            <PathPointArray>
+              <PathPointType Anchor="-477.50000 -336.00000" LeftDirection="-477.50000 -336.00000" RightDirection="-477.50000 -336.00000" />
+              <PathPointType Anchor="-477.50000 336.00000" LeftDirection="-477.50000 336.00000" RightDirection="-477.50000 336.00000" />
+              <PathPointType Anchor="477.50000 336.00000" LeftDirection="477.50000 336.00000" RightDirection="477.50000 336.00000" />
+              <PathPointType Anchor="477.50000 -336.00000" LeftDirection="477.50000 -336.00000" RightDirection="477.50000 -336.00000" />
+            </PathPointArray>
+          </GeometryPathType>
+        </PathGeometry>
+      </Properties>
+      <Image Self="ue6" ItemTransform="1.00000 0 0 1.00000 -477.50000 -336.00000">
+        <Properties>
+          <Profile type="string">
+            $ID/Embedded
+          </Profile>
+        </Properties>
+        <Link Self="ueb" LinkResourceURI="file:imgs/03.7.png" />
+      </Image>
+    </Rectangle>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Caption">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Chat GPT for Babies Book Cover.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>But let's take it one step at a time. There are two milestones in the development of shitpublishing: Print on Demand (POD) platforms and ChatGPT. Desktop publishing on POD platforms, like lulu or Amazon, expanded the limits of publishing, thereby approaching the uncanny book valley. The automation and the speediness of the publishing process on these platforms is closing the gap between posting and publishing. Publishing something on lulu only takes 15 minutes longer than posting something on a blog. And even though for a lot of internet goblins, 15 minutes is an eternity, for others, those minutes are well spent turning internet rubbish into something greater.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>This was the case for many of the authors published on Troll Thread. The cover of Chris Sylvester’s </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>STILL LIFE WITH THE POKÉMON YELLOW VERSION TEXT DUMP IN 30 PT. MONACO FONT JUSTIFIED TO MARGIN DISTRIBUTED AS A PDF OR A BOOK CONVERTED FROM A MICROSOFT WORD DOCUMENT BY CHRIS SYLVESTER 2012/2013</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> depicts a mail from Ashugi Kamaguchi that exemplifies the relevance of trolling in shitpublishing. Trolling about authorship, originality, authenticity, urgency, value, and hard work:</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Figure">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Rectangle Self="uec" StrokeWeight="0" ItemTransform="1.00000 0 0 1.00000 320.50000 -426.50000">
+      <Properties>
+        <PathGeometry>
+          <GeometryPathType PathOpen="false">
+            <PathPointArray>
+              <PathPointType Anchor="-320.50000 -426.50000" LeftDirection="-320.50000 -426.50000" RightDirection="-320.50000 -426.50000" />
+              <PathPointType Anchor="-320.50000 426.50000" LeftDirection="-320.50000 426.50000" RightDirection="-320.50000 426.50000" />
+              <PathPointType Anchor="320.50000 426.50000" LeftDirection="320.50000 426.50000" RightDirection="320.50000 426.50000" />
+              <PathPointType Anchor="320.50000 -426.50000" LeftDirection="320.50000 -426.50000" RightDirection="320.50000 -426.50000" />
+            </PathPointArray>
+          </GeometryPathType>
+        </PathGeometry>
+      </Properties>
+      <Image Self="ue6" ItemTransform="1.00000 0 0 1.00000 -320.50000 -426.50000">
+        <Properties>
+          <Profile type="string">
+            $ID/Embedded
+          </Profile>
+        </Properties>
+        <Link Self="ueb" LinkResourceURI="file:imgs/03.8.png" />
+      </Image>
+    </Rectangle>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Caption">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Cover of </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>STILL LIFE WITH THE POKÉMON YELLOW VERSION TEXT DUMP IN 30 PT. MONACO FONT JUSTIFIED TO MARGIN DISTRIBUTED AS A PDF OR A BOOK CONVERTED FROM A MICROSOFT WORD DOCUMENT BY CHRIS SYLVESTER 2012/2013</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, by Chris Sylvester</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Shitpublishing is a performance that implies the gesture of publishing. We should not interpret these creative acts by actually reading the books, but through considering the act of publishing. However, publishing creates </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>things</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> that remain. Shitpublishing gestures produce ambivalent books that live on despite their ephemeral nature, generating new temporalities. This is where the uncanny character lies. These books are glitches in literary technology, mirroring the implicit decontextualization of the very act of writing and publishing.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Similar to many performers, shitpublishers engaged in this materialistic, appropriationist, and fast approach, challenge cultural valorization. They produce artifacts that question the notion of the book as an instrument of knowledge. This is the case for Holaquehase's book </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Art Garfunkel ha leído más libros que tú</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> [</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Art Garfunkel has read more books than you have</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>], which compiled all the books read by the singer since 1960, posted by him on his website. Also, Gregor Weichbrodt published a brilliant comment on hard work and artistic valorization in his </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Dictionary of Non-notable Artists</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>. After his Wikipedia page was nominated for deletion from the German Wikipedia, Gregor wrote a Python script to download the contents of every “article for deletion”-page from the past ten years and filtered the results by artistic occupation, subsequently publishing a dictionary dedicated to these artists.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Among many shitpublishers, the performative trolling character of the books is related to </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>hacking</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>. Sometimes, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Poetry</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> or </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Art</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> functions as a hack to publicize things while avoiding legal issues. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Money</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> by Maker, for example, is a book consisting of 740 pages of scanned hundred dollar bills. When printed by someone, the publisher, TROLL THREAD PRESS, cannot be held legally responsible for potential misuse, even though they don’t discourage it either. But besides the daring imagination of printing money, in 2018, Paul Soulellis published </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Steve, Harvey and Matt (2018)</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, another 734 page artist book used to publicize sensitive political material. Soulellis describes the book on his github as follows:</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>This project [...] restores access to 1,964 climate change-related URLs that were removed from www.EPA.gov on April 28, 2017. The URLs point to web pages, documents, presentations, publications, and other files that were purged by the U.S. Environmental Protection Agency under the direction of EPA Administrator Scott Pruitt and the Trump administration. Some of the assets had been accessible on the web since 1997. [...] The 734-page printed book contains EPA emails and spreadsheets that detail the purge, obtained by Freedom of Information Act requests</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Soulellis' gesture of publicizing emails through the medium of a book or installation is also reflected by Kenneth Goldsmith’s book </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>HILLARY: The Hillary Clinton Emails</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, which compiled all emails sent from the clintonemail.com domain between 2009 and 2013 as “an anti-monument to the folly of Trump’s heinous smear campaign against Clinton”. Both Soulellis and Goldsmith instrumentalized the literary format to publicize relevant political information.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>But for most shitpublishers, it is only about </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>expanded shitposting</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>; about spreading shit in different formats, embracing the mutability and the hybridness of the digital world. Like </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Primera antología poética Los subtitulos de las batallas de gallos</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> [</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>First poetry anthology The subtitles of the rap battles</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>], a book made up of YouTube automated subtitles of rap battles. This book begins with the paradigmatic sentence: “to all those fans of rap battles, if you truly like it, you like it anyway”. Or </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Cedeira Miope</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> [</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Shortsighted Cedeira</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>] a book of low-definition 144p images of a Galician town. Or </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Soccer Smoker</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, a zine composed exclusively of b/n photographs of soccer players smoking. Or </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Tutorial de Paella Clásica</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, a printed powerpoint presentation created by the author's father about how to cook a Paella.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The Uncanny Book Valley 2. The Advent of chatGPT</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>With the advent of ChatGPT, StableDiffusion, and other broadly used generative AI tools, shitpublishing created a deeper uncanny book valley. The power of Large Language Models (LLMs) overpassed the gesture of publishing appropriated materials from the internet, copypasted non-sensical rubbish, classified material, or even entire websites. LLMs can produce realistic textual </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>artifacts</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> that meet the expectations of what a book should look and feel like. ChatGPT is capable of producing originality, legibility, and common rhetorical and literary figures just as quickly as copypasting. Now, lazy and fast books look more like actual books and, at the same time, they have become much more unpleasant and uncanny than copypasted books.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Figure">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Rectangle Self="uec" StrokeWeight="0" ItemTransform="1.00000 0 0 1.00000 150.00000 -100.00000">
+      <Properties>
+        <PathGeometry>
+          <GeometryPathType PathOpen="false">
+            <PathPointArray>
+              <PathPointType Anchor="-150.00000 -100.00000" LeftDirection="-150.00000 -100.00000" RightDirection="-150.00000 -100.00000" />
+              <PathPointType Anchor="-150.00000 100.00000" LeftDirection="-150.00000 100.00000" RightDirection="-150.00000 100.00000" />
+              <PathPointType Anchor="150.00000 100.00000" LeftDirection="150.00000 100.00000" RightDirection="150.00000 100.00000" />
+              <PathPointType Anchor="150.00000 -100.00000" LeftDirection="150.00000 -100.00000" RightDirection="150.00000 -100.00000" />
+            </PathPointArray>
+          </GeometryPathType>
+        </PathGeometry>
+      </Properties>
+      <Image Self="ue6" ItemTransform="1.00000 0 0 1.00000 -150.00000 -100.00000">
+        <Properties>
+          <Profile type="string">
+            $ID/Embedded
+          </Profile>
+        </Properties>
+        <Link Self="ueb" LinkResourceURI="file:imgs/03.9.jpg" />
+      </Image>
+    </Rectangle>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Caption">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The Uncanny Book Valley. 1) A notebook; 2) List of recurring The Simpsons characters (Amperamp Press, 2013); 3) Blank On Demand by Silvio Lorusso and Giulia Ciliberto; 4) The Communist Manifesto (in Comic Sans) by Friedrich Engels and Karl Marx; 5) Los amigos de la aventura by Dan Wislow; 6) “Lance and the Pawsitively Perfect Christmas” by Charmaine Lewis; 7) Be bold with bananas by Fruit Distributors Ltd; 8) Don Quixote by Miguel de Cervantes.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>I have some paradigmatic examples of these AI generated shitbooks in my virtual library. I found lots of children books, like Mahlon Berv’s </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>A Journey Through Time - The World's History For Kids</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, described as “The World's History, as taught by famous personalities such as Nelson Mandela, Bruce Lee, Marie Antoinette”; or Cynthia Maitland’s 3-pages book </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Billy the Brave Bull Terrier: A Tale of Self-Acceptance and Kindness</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>. Other uncanny gems include: </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Poet V: A Collection of AI-Generated Poetry About Compassion for all Beings, Options for the end of the world by chatGPT: In this book, chatGPT will consider the most popular options for the end of the world and give their prediction of probability, Bitcoin Fixes This</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> or </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>The Art of War Chat GPT: A.I. interpretation</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>. And, of course, there are the missing links between posting and publishing like Joshua Word’s books </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>300 list of movies you can watch this Halloween: 1927 to 2024</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> or </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>40 HINDI MOVIES TO WATCH WITH FAMILY ON THIS DIWALI</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>. All these books, which were authored by chatGPT, inhabit the uncanny valley created by the collision of OpenAI’s and Amazon Books’ tectonic faults.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>LLMs not only accelerate the writing and publishing process, but also the lifespan of books. The temporality of these publications is beyond fast reading or accelerated obsolescence. These books reconfigure conceptual writing and the attention economy in a wild way. They are not meant to be read but to endlessly circulate on Amazon. They are spectral images of books. Their life span is not fast but immediate. The cover, the title, the description, and the tags are the only content that matters. The content is relegated to the metadata. This idea is brilliantly represented in Chuck Tingle’s book </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Pounded In The Butt By My Bizarre Assumption That Chuck Tingle Books Are Just Covers And Not Actual Books</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>There are some outstanding moves in the milieu of shitpublishing. Gestures that blur the already blurry environment of fast self-publishing. Chuck Tingle’s Amazon Books production employs this accelerated and bizarre flow of shitpublishing and fast self-publishing to create a collection of surreal gay erotica. Kindle books like </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Pounded In The Butt By My Handsome Sentient Library Card Who Seems Otherworldly But In Reality Is Just A Natural Part Of The Priceless Resources Our Library System Provides, Pounded By The Gay Unicorn Football Squad, Absolutely No Thoughts Of Pounding During My Fun Day With This Kind T-Rex Because I'm Aromantic And Asexual And That's A Wonderfully Valid Way Of Proving Love Is Real</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, or </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Pounded In The Butt By My Book &quot;Pounded In The Butt By My Own Butt&quot;</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> twist the reality of Amazon shitpublishing. Chuck Tingle creates a game of mirrors within a game of mirrors, publishing slightly real books that look like fake books and are in fact fake books whose fakeness makes them real books.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>This Is Not the Flood We Expected (or Is It?)</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Similarly to what happened to shitposting, in recent years shitpublishing has become darker. Once upon a time, shitposting consisted of silly playful gestures by a bunch of online nerds. Nowadays, due to infamous characters like Steve Bannon, former adviser to Donald Trump, shitposting is becoming synonymous with far-right, racist, anti-feminist, and transphobic communicational strategies. Bannon’s quote exemplifies this turn: “The Democrats don’t matter. The real opposition is the media. And the way to deal with them is to flood the zone with shit.” Many right-wing parties in the USA, Brazil, Argentina, Germany, Spain or, Netherlands (among many others) have adopted strategies linked to shitposting (from fake news to spam) to flood the zone with hate speech, fear, and anger.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Related to publishing, chatGPT has changed the rules of shitpublishing. As McLuhan (1964) said:</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The ‘message’ of any medium or technology is the change of scale or pace or pattern that it introduces into human affairs. The railway did not introduce movement or transportation or wheel or road into human society, but it accelerated and enlarged the scale of previous human functions.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Marshall McLuhan, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Understanding Media: The Extensions of Man, (Gingko Press, 1964)</Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Popular LLMs have changed the shitpublishing scale. There have always been crappy children's books, ideologically problematic self-help guides or authors who make a career out of publishing garbage. However, due to chatGPT, these phenomena have grown exponentially.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>A few years ago, I published two books that lowkey hacked the cultural capital of authorship: </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Un libro según la UNESCO</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> [</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>A Book According to UNESCO</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>] is a book that publishes the definition of a book by the United Nations agency in 49 pages, the minimum number of pages required by UNESCO for a publication to qualify as a book. And </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Una cosa hecha</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> [</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>One less thing on my bucket list</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>], a book that repeated the sentence “Plant a Tree, Have a Son, Write a Book” as many times as needed to fill 50 pages.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The goal with these books was to give them an ISBN and add them to my CV in order to increase my publications section as a PhD student. A few months later I came across this article: ‘A researcher who publishes a study every two days reveals the darker side of science’. Apparently, “Thousands of scientists around the world publish at least one study every five days”. It seems that my naive act of hacking the curriculum is an act that is carried out with worse intentions and better means by academics all over the world.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>This scenario should lead us to ask ourselves how to deal with the new scale of “flooding the zone with shit” that LLMs facilitate. The poetic gestures of shitpublishing (from Troll Thread to Chuck Tingle) are exercises that radically mimic broader postdigital publishing dynamics. These artistic gestures emulate the general dynamics of shitpublishing, re-framing these publishing gestures to ambivalently portray the situation. The critical dimension of these literary gestures lies in the fact that they unveil shitpublishing, reframing it as critical and meticulous observation.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Likewise, the artistic exercises of shitpublishing create a necessary reflection on cultural valorization and our understanding of culture or knowledge. They expose a sort of ideological consensus about books being the </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>guardians of knowledge</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>. Instead of reproducing a Fahrenheit 451-style critical discourse on censorship, they dismantle the technology of the book as inherently emancipatory.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>But these acts of radical mimesis of late-platform capitalism's accelerated dynamics simultaneously reproduce these forms while criticizing them. Shitpublishing is digital publishing accelerationism. And we know that accelerationism is fine for aesthetics but that it is not a wise political tactic. Maybe shitpublishing is as political and activist as avant-garde literature could be. In this article, I have talked about shitpublishing as closely related to hacking. But, considering it in broader political terms, what is it hacking against? Perhaps the very idea of the book, the value given to the written word, or literacy as a technology. If it is those things, then it's the same as in Pop Art, Dadaism or Conceptual Writing. Maybe the political potential is not in the “genre” or the “tool”, but in the contexts you flood with shit.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Figure">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Rectangle Self="uec" StrokeWeight="0" ItemTransform="1.00000 0 0 1.00000 283.15966 -206.92437">
+      <Properties>
+        <PathGeometry>
+          <GeometryPathType PathOpen="false">
+            <PathPointArray>
+              <PathPointType Anchor="-283.15966 -206.92437" LeftDirection="-283.15966 -206.92437" RightDirection="-283.15966 -206.92437" />
+              <PathPointType Anchor="-283.15966 206.92437" LeftDirection="-283.15966 206.92437" RightDirection="-283.15966 206.92437" />
+              <PathPointType Anchor="283.15966 206.92437" LeftDirection="283.15966 206.92437" RightDirection="283.15966 206.92437" />
+              <PathPointType Anchor="283.15966 -206.92437" LeftDirection="283.15966 -206.92437" RightDirection="283.15966 -206.92437" />
+            </PathPointArray>
+          </GeometryPathType>
+        </PathGeometry>
+      </Properties>
+      <Image Self="ue6" ItemTransform="1.00000 0 0 1.00000 -283.15966 -206.92437">
+        <Properties>
+          <Profile type="string">
+            $ID/Embedded
+          </Profile>
+        </Properties>
+        <Link Self="ueb" LinkResourceURI="file:imgs/03.10.png" />
+      </Image>
+    </Rectangle>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Caption">
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Shitpublishing, of course, pertains to speed and irrelevancy. It is fast publishing but, of course, it is not urgent publishing. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>In Here and now? Explorations in Urgent Publishing</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, the INC reflects on the fact that ‘Despite the promises of the desktop publishing revolution and the immediacy of publishing on the web, acceleration and optimization did not speed up the publishing process as much as hoped for’. Well, maybe it did speed up the publishing process towards weird places that are still unexplored. Towards practices and ways that we must try to understand in order to deal with the undetermined consequences they may bring. Maybe it will cause the fall (or bigger success) of platforms like Amazon Books, or it will challenge the classist approaches to books as cultural goods, and therefore, books will no longer be seen as something inherently positive. Perhaps reading will no longer be synonymous with critical thinking, and that’s something I still don’t know how to take.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Special thanks to Diego Asterio for her sharp comments on this text. </Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold Italic">
+    <Content>Ezequiel Soriano</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content> is an anthropologist and artist interested in digital orality, plagiarism, and machine creativity. Through textual experimentation and ethnographic research, he explores everyday practices that play with disciplinary mechanisms in order to disrupt them. His artwork engages with an ordinary, scattered, and tactical creativity that participates in a post-digital medieval carnival. He manages the publishing lab Artefactos Nativos and has collaborated with Santa Mònica Arts Centre, Medialab Matadero, La Escocesa, Hangar, CCCB, Xcol, UOC, USC, or the Institute of Network Cultures.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+
+  </Story>
+  
+</Document>

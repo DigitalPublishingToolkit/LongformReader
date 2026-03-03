@@ -17,19 +17,21 @@ Rights: CC BY-NC 4.0
 ...
 
 
-# Welcome &gt;\_&lt; Take a Seat Wherever: The Spatial Politics of the Bedroom
+#Welcome &gt;\_&lt; Take a Seat Wherever: The Spatial Politics of the Bedroom
 
-## Ruben Stoffelen
+##Ruben Stoffelen
 
-Where are you right now? In your bed? At your desk? In your room? Where
+###Originally published on December 10th, 2026
+
+*Where are you right now? In your bed? At your desk? In your room? Where
 do you keep all your stuff? Do you watch TikToks in your bed? How much
 is your rent? Do you have a chill landlord? Do your parents pay for part
 of your rent? How many times did you move? Can we hang out in your room?
-Can your roommates hear us rn?
+Can your roommates hear us rn?*
 
-![A cartoon of a child in a room with computer equipment AI-generated
-content may be incorrect.](media/image1.png){width="6.268055555555556in"
-height="3.1319444444444446in"}
+![](imgs/21.1.png)
+
+<br/>
 
 My bedroom has always been a significant space to me. When I was a kid
 and lived with my parents, my bedroom was a space for privacy and
@@ -54,11 +56,11 @@ slowness is overhauled by the rapidity of computational temporalities.
 With a computer or a phone, the bedroom becomes a portal as much as it
 is a safe space, it becomes as vast as it is cozy.
 
-![A desk with a computer keyboard and other objects AI-generated content
-may be incorrect.](media/image2.png){width="6.268055555555556in"
-height="4.699305555555555in"}Jon Rafman, You Are Standing in an Open
-Field (Mount Adams, Washington) Spike Edition, 2019, Archival pigment
-print on Hahnemühle photo rag paper, 80 x 107 cm
+![Jon Rafman, *You Are Standing in an Open
+Field (Mount Adams, Washington)*, Spike Edition, 2019, Archival pigment
+print on Hahnemühle photo rag paper, 80 x 107 cm](imgs/21.2.png)
+
+<br/>
 
 Through networked technologies and digital culture, the bedroom was
 culturally revitalized, spawning several figures and characters: the
@@ -76,9 +78,9 @@ have a job. But NEET’s don’t only exist as imagined characters, they
 inhabit physical spaces, mainly their bedrooms, occupying the desk which
 hosts their computer setup.
 
-![A room full of boxes and a cartoon child AI-generated content may be
-incorrect.](media/image3.png){width="6.268055555555556in"
-height="4.168055555555555in"}
+![](imgs/21.3.png)
+
+<br/>
 
 The bedroom also became more significant in the age of neoliberal-policy
 induced precariousness. We are, more often than not, banished to small
@@ -103,9 +105,9 @@ Through networked technologies we enter alternative worlds and
 temporarily escape precarity – maybe we even overcome precarity all
 together.
 
-![A cartoon characters and objects AI-generated content may be
-incorrect.](media/image4.png){width="3.825in"
-height="3.639809711286089in"}
+![](imgs/21.4.png)
+
+<br/>
 
 Keeping this in mind, it makes sense that popular culture reflects the
 renewed significance of the bedroom. With it being widely referenced in
@@ -140,14 +142,13 @@ NEET’s and the incels, spending all day in your bedroom was even
 encouraged. The pandemic pushed us to the point of no return: the
 bedroom is the best we’re gonna get.
 
-![A person in a white robe AI-generated content may be
-incorrect.](media/image5.png){width="6.268055555555556in"
-height="6.2027777777777775in"}
+![(from top to bottom): Clairo, Pretty Girl, *YouTube*, 2018 & Tracey Emin,
+*My Bed*, Box frame, mattress, linen, pillows, and various objects, 1998](imgs/21.5.png)
 
-(from top to bottom): Clairo, Pretty Girl, YouTube, 2018 & Tracey Emin,
-My Bed, Box frame, mattress, linen, pillows, and various objects, 1998
+<br/>
 
-## Politics of Refusal
+
+##Politics of Refusal
 
 There is a productive dichotomy which takes place in the bedroom: on the
 one hand, it can become an aspirational space, a makeshift office, maybe
@@ -173,13 +174,9 @@ open the door to big tech and the totalizing force of networked
 capitalism. Through technology, the bedroom can become a space for labor
 and surveillance, it can even start to resemble a factory.
 
-![A collage of a bedroom with a bed and a bed with a bed and a bed with
-a bed and a bed with a bed and a bed with a bed and a bed with a bed
-AI-generated content may be
-incorrect.](media/image6.png){width="6.268055555555556in"
-height="6.717361111111111in"}
+![Micaela Carolan, 100 Empty Cam Rooms, *Do Not Research*, 2024](imgs/21.6.png)
 
-Micaela Carolan, 100 Empty Cam Rooms, Do Not Research, 2024
+<br/>
 
 On the other end of the spectrum, the NEET spends all their time in
 their room being intentionally unproductive; they principally reject
@@ -203,9 +200,9 @@ gesture at the refusal of work through the rejection of wage labor). The
 NEET is visually almost always depicted as pepe, whereas the wagie is a
 frequently seen as a seething or tired wojak in a McDonald’s uniform:
 
-![A cartoon of a frog sitting on a chair AI-generated content may be
-incorrect.](media/image7.png){width="6.268055555555556in"
-height="3.0902777777777777in"}
+![](imgs/21.7.png)
+
+<br/>
 
 The figure of the NEET is culturally derived from the Japanese term
 Hikikomori, which refers to people who live a hermit-esque lifestyle,
@@ -233,9 +230,9 @@ getting a job, precariousness, etc. You can’t tell me that these posts
 are not gesturing at radical, post-capitalist and post-scarcity
 sentiments.
 
-![A screenshot of a chat AI-generated content may be
-incorrect.](media/image8.png){width="6.268055555555556in"
-height="4.811111111111111in"}
+![](imgs/21.8.png)
+
+<br/>
 
 The incel wiki mentions the NEET army, described as:
 
@@ -265,11 +262,11 @@ wallowing in naivety. The NEET subreddit explicitly lists “no
 daytrading/crypto posting.” as one of its rules, for example. The NEET
 is the anti-hero to the hustlepreneur; the anti-entrepreneur.
 
-![A person holding a cup AI-generated content may be
-incorrect.](media/image9.png){width="6.268055555555556in"
-height="5.841666666666667in"}
+![](imgs/21.9.png)
 
-## Agential Panic
+<br/>
+
+##Agential Panic
 
 It should be mentioned that there are some NEETs who engage in online
 ways of making money, namely stock or crypto trading, as well as NEETs
@@ -333,11 +330,11 @@ still largely grounded in a highly anthropocentric, individualized,
 libertarian framework, an attitude which is exemplified by the
 hustlepreneur, and subverted by the NEET.
 
-![A kitchen with a stove and a refrigerator AI-generated content may be
-incorrect.](media/image10.png){width="6.268055555555556in"
-height="5.401388888888889in"}
+![](imgs/21.10.png)
 
-## The NEET and Hustlepreneur Dichotomy
+<br/>
+
+##The NEET and Hustlepreneur Dichotomy
 
 There is a productive dichotomy which takes place in the bedroom: the
 NEET and the hustlepreneur neatly fit into this framework of agential
@@ -367,7 +364,7 @@ self-violence and humiliation that \[semiocapitalist\] competition
 brings about” going on to state that, in his personal interactions with
 Hikikomori in Japan, “they are acutely conscious that only by
 extricating themselves from the routine of daily life could their
-personal autonomy be preserved.”2
+personal autonomy be preserved.”[^24chapter21_3]
 
 Sticking with the hustlepreneur-NEET dichotomy a little longer, we can
 also explore both the concepts of hopium and copium through these
@@ -394,12 +391,12 @@ autonomy through their entanglement in planetary computational systems
 and neoliberal-policy induced precarity, but they are also othered by
 ‘normies’. NEETdom is heavily associated with shame; being laughed at
 when applying for jobs, feeling like parasites, often sharing qualities
-with incels[^24chapter21_3]—such as being unable to take part in romantic
+with incels[^24chapter21_4]—such as being unable to take part in romantic
 relationships or social life more broadly—the NEET entry on the incel
 wiki states: “One would expect a large number of male NEETs to also be
 incel (NEETcel), due to female economic and educational hypergamy and
 the overlap between NEETdom and mental illnesses that generally hamper
-male sexual success (such as social anxiety and autism).”[^24chapter21_4] NEETs feel
+male sexual success (such as social anxiety and autism).”[^24chapter21_5] NEETs feel
 othered by society and simultaneously other ‘normies’ and position
 themselves as enlightened, occupying an awkward position. But NEETs are
 othered differently than incels: whereas incels feel othered due to
@@ -441,18 +438,18 @@ between labor and value has been obscured beyond recognition. As Franco
 “competition, \[which\] is all about subduing, cheating, predating.
 Blaming the victims is part of the game: you are guilty of your
 inability to subdue, to cheat and to plunder, therefore you will be
-submitted to the blackmail of debt and to the tyranny of austerity.”[^24chapter21_5]
+submitted to the blackmail of debt and to the tyranny of austerity.”[^24chapter21_6]
 Financial capitalism profits from doom, and therefore incentivizes it—it
 actively produces nihilism, and so NEETs naturally appear, sometimes as
 hopeful postcapitalists, but mostly as doomer nihilists. When the world
 is a sinking ship, the best thing to do is to get comfy in your room
 while you’re hooked up to copium.
 
-![A screenshot of a computer AI-generated content may be
-incorrect.](media/image11.png){width="4.6875in"
-height="5.232799650043744in"}
+![](imgs/21.11.png)
 
-## Battlestations
+<br/>
+
+##Battlestations
 
 For both the hustlepreneur and the NEET, bedrooms become headquarters
 and desktops become battlestations; they rely on their bedrooms and
@@ -469,7 +466,7 @@ spectator instead of a user. New media instead allows and encourages
 responsiveness, and is fundamentally underpinned by a bilateral dynamic
 between user and device. As Wendy Hui Kyong Chun cleverly put it,
 networked devices mark the difference “between the empowered user and
-the couch potato”[^24chapter21_6]. Users have responsibility, their interaction with
+the couch potato”[^24chapter21_7]. Users have responsibility, their interaction with
 their device relies on their input, and responsibility is empowering
 insofar as it hinges on the agency and autonomy of the responsible.
 Furthermore, as users we can customize platforms, are under the
@@ -478,10 +475,9 @@ Particularly in the case of the NEET, who relinquishes all IRL (or AFK)
 responsibilities, their onlineness most likely stabilizes the shakiness
 induced by a complete lack of responsibility in the ‘real world’.
 
-![A computer on a table AI-generated content may be
-incorrect.](media/image12.png){width="6.268055555555556in"
-height="4.2125in"}\
-Nick Vyssotsky, *Display of Commodity Accessories (Zack's Room*)
+![Nick Vyssotsky, *Display of Commodity Accessories (Zack's Room*)](imgs/21.12.png)
+
+<br/>
 
 The word battlestation is therefore particularly revealing; referring to
 expanded and elaborate desktop setups that often feature multiple
@@ -525,9 +521,11 @@ agency and control, something which is underscored by its military
 origins. For the NEET or the hustlepreneur, screens and computers are
 modes of empowerment and control. It’s no coincidence that the crypto
 traders desk and the PC gamer setup resemble the control rooms of drone
-operators.![A collage of several monitors AI-generated content may be
-incorrect.](media/image13.png){width="6.268055555555556in"
-height="5.3069444444444445in"}
+operators.
+
+![](imgs/21.13.png)
+
+<br/>
 
 The desire for agency and autonomy which is achieved through a
 battlestation can be expanded to the bedroom in general, which is most
@@ -553,17 +551,19 @@ digital culture and agency.*
 
 [^24chapter21_2]: Jernej Markelj and Daniel de Zeeuw. “Caught in the Loops of
     Digital Agency Panic : On NPCs and Internet Addicts”.
-    *NECSUS\_European Journal of Media Studies,* 2023.
+    *NECSUS European Journal of Media Studies,* 2023.
     http://dx.doi.org/10.25969/mediarep/21712
+    
+[^24chapter21_3]: Franco 'Bifo' Berardi, *Heroes: Mass Murder and Suicide*, (London, 2015).
 
-[^24chapter21_3]: See Kate Babin’s *Condemned to Rot Alone: The Incel Paradox of
+[^24chapter21_4]: See Kate Babin’s *Condemned to Rot Alone: The Incel Paradox of
     Collective Loneliness*, on page \[…\] in this book
 
-[^24chapter21_4]: “NEET,” Incels Wiki, https://incels.wiki/w/NEET.
+[^24chapter21_5]: “NEET,” Incels Wiki, https://incels.wiki/w/NEET.
 
-[^24chapter21_5]: Franco ‘Bifo’ Berardi, *Heroes: Mass Murder and Suicide*, London:
+[^24chapter21_6]: Franco ‘Bifo’ Berardi, *Heroes: Mass Murder and Suicide*, London:
     Verso, 2015.
 
-[^24chapter21_6]: Wendy Hui Kyong Chun, “Crisis, Crisis, Crisis, or Sovereignty and
+[^24chapter21_7]: Wendy Hui Kyong Chun, “Crisis, Crisis, Crisis, or Sovereignty and
     Networks.” *Theory, Culture & Society*, vol. 28, no. 6, 2011, pp.
     91–112, https://doi.org/10.1177/0263276411418490.

@@ -17,14 +17,13 @@ Rights: CC BY-NC 4.0
 ...
 
 
-# Witnessing: UKRAiNATV’s Anthologies and How To Not (Just) Watch
+#Witnessing: UKRAiNATV’s Anthologies and How To Not (Just) Watch
 
-## Giulia Timis
+##Giulia Timis
 
-### Originally published on July 16th, 2024
+###Originally published on July 16th, 2024
 
-## \
-Bridge 1
+##Bridge 1
 
 Beginnings are always difficult, and endings don’t really exist. It’s
 even more difficult to try and put my involvement with the Poland-based
@@ -36,8 +35,8 @@ text is also an attempt to draw up a theory of the collective itself,
 through the lenses of Susan Sontag’s investigation of photographic
 evidence and Gerda Taro’s life of resistance. It also contains examples
 of independent media, like Radio B92, and records of all the people I
-interviewed in Poland while drafting my thesis.[^16chapter13_1]\
-\
+interviewed in Poland while drafting my thesis.[^16chapter13_1]
+
 In 2024 we are witnessing a series of crimes against humanity, on a
 scale and intensity sadly traceable to something we thought buried in
 history, a bad memory that would serve as a warning to future
@@ -46,16 +45,16 @@ they are active representatives of geopolitical phenomena (Russia's
 exclusion from the Venice Biennale in 2022[^16chapter13_2]). The war perpetrated by
 Russia, which had the worst of consequences on February 24, 2022, with
 the full-scale invasion of Ukrainian territories, kicked off a series of
-horrors that still resonate in news channels today.\
-\
+horrors that still resonate in news channels today.
+
 In September 2023, I moved to Amsterdam from Italy, where I have now
 spent 10 months adjusting to the climate, taking vitamin D supplements,
 and improving my waterproof wardrobe. Surprisingly, the transition
 itself felt smooth and seamless. After nearly a year of working with
 UKRAiNATV - an art collective based in Kraków that experiments with live
 audiovisual connections - I started my collaboration with the Institute
-of Network Cultures.\
-\
+of Network Cultures.
+
 UKRAiNATV started their activities in March 2022, expanding its reach to
 other similar communities as early as November 2022. That same month,
 Geert Lovink visited the studio. Since then, our main goal has been to
@@ -70,8 +69,8 @@ collaborating with THE VOID, an INC research project on tactical video
 and an audiovisual publishing venue for practice-based research. This
 place has become my "*home base,*" and it's where I want to start
 sharing the research that has absorbed me over the past year and a
-half.\
-\
+half.
+
 In June 2024, while UKRAiNATV was taking part in the Sonar festival
 (Barcelona), I joined them from Amsterdam in an online roundtable
 together with Tommaso Campagna and Geert Lovink. The participants also
@@ -80,8 +79,8 @@ included János Sugár from the *Hungarian University of Fine Arts*
 collective RE: Frame.TV (Kyiv), and Gleb Dovzuk from UKRAiNATV's studio
 (Kraków). This meeting underscored the importance of our network's
 connections once again. The presence of all the participants, even if
-online, strengthened the acknowledgment that no one is alone.\
-\
+online, strengthened the acknowledgment that no one is alone.
+
 Same year but in May, during THE VOID – Tactical Video \#3, an online
 call with Ukraine was disrupted due to issues with the electric
 generators in their studio. The situation in Kyiv has in fact worsened,
@@ -93,8 +92,8 @@ of maintaining an independent, on-the-ground network of connections.
 *This* network, centered on immediate sharing and filtered through the
 communications happening within each circle, is crucial for establishing
 a more diverse framework, in an era marked by the growing polarization
-of information sources.\
-\
+of information sources.
+
 Though the timeline has been a bit jumpy, I need to return to the
 beginning of the story. From September 2022 to June 2023, I had the
 opportunity to participate in a nine-month cultural exchange program in
@@ -104,14 +103,14 @@ outbreak of war in Ukraine, began mobilizing in support of Ukrainian
 refugees crossing the border. In the months following - February and
 March - the basement of Kraków Główny was filled with displaced people:
 women and children mainly, crammed into the station, sleeping on a floor
-of makeshift beds.\
-![A group of people in a building AI-generated content may be
-incorrect.](media/image1.jpg){width="6.268055555555556in"
-height="4.183333333333334in"}\
-Figure 1: Ukrainian refugees gather at the main train station after
+of makeshift beds.
+
+![Figure 1: Ukrainian refugees gather at the main train station after
 fleeing the Russian invasion of Ukraine, in Kraków, Poland, 14 March,
-2022. Picture published on Reuters by Fabrizio Bensch.\
-\
+2022. Picture published on Reuters by Fabrizio Bensch.](imgs/13.1.jpg)
+
+<br/>
+
 A similar image could be seen in Warsaw.[^16chapter13_3] Hearing firsthand
 testimonies of those who had to flee because of war allowed me to change
 my understanding of an emergency – from witnessing it from afar, to
@@ -128,8 +127,8 @@ channels, they started to create a support network. The studio was
 situated in the Intermedia Department of Kraków’s Academy of Fine Arts.
 Perhaps this network of support—of which I was not necessarily the
 primary recipient—saved me when I arrived in Kraków as an Erasmus
-student, trying to escape my own reality, though certainly not a war.\
-\
+student, trying to escape my own reality, though certainly not a war.
+
 At first, I needed a place where I could use the Virtual Reality setup
 for an event organized for the *Digital Week* in Milan. Some colleagues
 and I in Italy were working on a VR environment, and since it was going
@@ -143,8 +142,8 @@ people involved in art, politics, tea ceremonies, raves, and events. I
 was not even speaking the language, so I certainly didn't expect to be
 quickly absorbed into that strange and somewhat crazy melting pot. And I
 certainly didn't expect to deal with war, or war stories, which the
-people walking into the space carried with them.\
-\
+people walking into the space carried with them.
+
 After almost two years of Russian colonial warfare, UKRAiNATV presents
 itself as a web-tv platform that operates offline and online (on a
 conglomerate of platforms such as Twitch, YouTube, Facebook, etc.). Once
@@ -153,8 +152,8 @@ performances, videos, interviews and DJ sets - giving a stage and a
 bullhorn to a series of guests visiting the studio. Each episode is
 categorized under the name *\#EFIR*.[^16chapter13_4] The headquarters are at the
 23rd of Berka Joselewicza, in the Intermedia Department of the Academy
-of Fine Arts in Krakow.\
-\
+of Fine Arts in Krakow.
+
 From the outset, the space itself offers a unique environment where the
 collective provides a place for newcomers. Since November 2022, the
 group has been working to expand its network. Through collaborations
@@ -170,9 +169,9 @@ new aesthetic emerges. *Streamart* represents the dynamic and continuous
 flow of energy in hybrid spaces and times, encapsulating the
 entanglement of human and non-human entities. In this context, the
 virtual is seen in its potential form, while keeping grounded in the
-coziness of the studio.\
-\
-Bridge 2
+coziness of the studio.
+
+##Bridge 2
 
 The concept of the streamart was a central theme in the thesis I was
 writing for my studies in Italy (*UKRAiNATV e la Streamart: Esempi di
@@ -191,22 +190,21 @@ for diverse and often dissident voices, broadcasting alternative music
 and real-time news that defied government censorship. Its history was
 marked by an extraordinary commitment to press freedom and civic
 activism, becoming a symbol of resistance and hope for Serbia and the
-international community.\
-\
-![A group of people in a room AI-generated content may be
-incorrect.](media/image2.jpg){width="6.268055555555556in"
-height="4.185416666666667in"}\
-Figure 2: Manuela Nikolić Peršon, passed away in 2011 at the age of 47
+international community.
+
+![Figure 2: Manuela Nikolić Peršon, passed away in 2011 at the age of 47
 in Sweden, Zoran Mamula, died at the age of 37 in 2001, Dušan Mašić died
 at the age of 56 in 2022. The photo also features sound engineer Petar
-Savić and Nenad Zafirović.\
-\
+Savić and Nenad Zafirović.](imgs/13.2.jpg)
+
+<br/>
+
 During the war years, Radio B92 was one of the few sources of
 independent information, broadcasting unbiased news that was often at
 odds with state media propaganda. The station also maintained critical
 coverage of the facts, offering a different perspective and encouraging
-dialogue between the parties.\
-\
+dialogue between the parties.
+
 Because of the Milošević regime's censorship, the station suffered the
 blocking of its signal. However, it managed to broadcast via satellite
 from abroad, thus continuing to reach Serbian audiences and the ranks of
@@ -215,8 +213,8 @@ played a key role in introducing alternative music and underground
 culture to Serbia. It promoted local and international artists,
 providing a platform for creative expression outside the limits imposed
 by the regime. Matthew Collin, the author of "*This is Serbia Calling*”,
-writes:[^16chapter13_7]\
-\
+writes:[^16chapter13_7]
+
 *“By the time I got there, ten days after it all kicked off, there was
 about half a million people in the streets demonstrating against the
 theft of election results by the government of Slobodan Milosevic. But
@@ -226,16 +224,16 @@ had another ‘cultural’ element to it—music, film, art were all important
 to this. There were a lot of ways that messages were being transmitted,
 not just through your classic placard that you see on every
 demonstration, but in a really creative way, and this is what inspired
-me to get involved.”*[^16chapter13_8]\
-\
+me to get involved.”*[^16chapter13_8]
+
 What Collin emphasizes here, is the way activism and counterculture
 spontaneously worked synergistically to raise their voices against a
 regime that was oppressing them. These two worlds have often worked in
 sync, though not always with positive outcomes. However, history records
 several instances where underground cultural entities have facilitated
 social and cultural revolutions, such as Pirate Radio in the UK during
-the 1960s. Collin, in the same article of *Variant № 22*, continues:\
-\
+the 1960s. Collin, in the same article of *Variant № 22*, continues:
+
 *"Those demonstrations failed, as we all know, and some people argue
 that just being out on the streets in numbers and just creating a
 cultural alternative is not enough, that you actually need more power
@@ -249,9 +247,9 @@ together with the independent media scene, especially in the context of
 war and repressive regimes. Yet, I still had questions about how to
 represent that pain on screen: what about some of the interviews I had
 recorded in the studio? Or, for instance, the very use of visual
-elements to archive those collective memories?\
-\
-Bridge 3
+elements to archive those collective memories?
+
+##Bridge 3
 
 Wanting more, I looked carefully into others' work and research, finally
 coming across two of Susan Sontag's main writings: *On Photography*
@@ -260,8 +258,8 @@ photographic images change our perception and understanding of the
 world, highlighting their potential both as a vehicle of knowledge and
 as a tool for manipulating reality. The book focuses on the idea that
 photography can be considered a form of critical documentation, as it
-captures snapshots of life, thus revealing a hidden side of the world.\
-\
+captures snapshots of life, thus revealing a hidden side of the world.
+
 In *Regarding the Pain of Others*, Sontag delves deeper into the
 portrayal of pain and suffering in media and art. The numerous images of
 conflicts featured in her book, particularly those from wars
@@ -277,8 +275,8 @@ video serve as an important visual testimony to civil suffering and
 human rights violations. They become the visual testimony of war’s
 chaos. Photographers working in high-conflict zones face complex ethical
 dilemmas, trying to balance the desire to document reality with the
-awareness not to turn human suffering into a sensationalist spectacle.\
-\
+awareness not to turn human suffering into a sensationalist spectacle.
+
 Another point Sontag discusses is how easily a picture can be
 manipulated or repurposed. The improper use of visual documentation is a
 crucial aspect of the dissemination of news in real-time. In her book,
@@ -287,8 +285,8 @@ children. This same image was then used by the opposing side, to
 motivate soldiers for the fight, instrumentalizing the sight of
 slaughtered child bodies for their own cause. One could draw a modern
 parallel to the destruction of the Al-Ahli Baptist Hospital in Gaza on
-the evening of October 17, 2023.\
-\
+the evening of October 17, 2023.
+
 Although more than fifty years have passed since the events recounted by
 Sontag, and technology has advanced in no small measure as the amount of
 evidence gathered at any moment, we still struggle to establish the
@@ -297,9 +295,9 @@ and images open the same questions as a photograph taken during the
 Yugoslav wars. Or at least, this is still the main argument major media
 press and political representatives use when asked about the events.
 Evidence is not enough, and even if it was, would it justify the
-atrocities occurring before our eyes?\
-\
-Bridge 4
+atrocities occurring before our eyes?
+
+##Bridge 4
 
 After finishing Sontag’s *Regarding the Pain of Others*, I found myself
 reading Helena Janeczek's “*The Girl with the Leica*” (2017), which was
@@ -307,8 +305,8 @@ sitting in the upper corner of my library for more than I could
 remember. These serendipitous moments often occur when collecting
 articles and books for research. Assuming the woman winking on the cover
 of Janeczek's book was a photographer, I connected the two. As I read
-further, this seemingly minor link became a fortunate coincidence.\
-\
+further, this seemingly minor link became a fortunate coincidence.
+
 Gerda Taro, born Gerda Pohorylle, was a photographer and pioneer of
 photojournalism during the Spanish Civil War. Of Jewish descent, she
 worked closely with Hungarian-born photographer Robert Capa, and
@@ -322,8 +320,8 @@ became a witnessing tool, confronting the gender biases of her epoch.
 Janeczek's narrative peels back layers of Taro's existence, revealing a
 life interwoven with courage and a relentless pursuit of authenticity.
 The account also resonates with the vibrant and affirmative essence of
-Gerda, as echoed by the voices of those who fought alongside her.\
-\
+Gerda, as echoed by the voices of those who fought alongside her.
+
 Janeczek's book exists in between a novel and an investigative
 biography. As a journalist herself, she reconstructs the everyday life
 and almost romantic facets of Gerda’s existence. This intimate
@@ -342,14 +340,13 @@ lovers. She decides to go to the front to document the Spanish Civil
 War, and simultaneously takes photographs of soldiers playing with
 birds. She documents women training to fight on the bank of a river, and
 this whole set of features comes across as dissonant, almost
-scandalous.\
-\
-![A group of women standing in a line AI-generated content may be
-incorrect.](media/image3.jpg){width="6.268055555555556in"
-height="6.743055555555555in"}\
-Figure 3: Gerda Taro, Republic militiawomen training on the beach
-outside Barcelona, August 1936.\
-\
+scandalous.
+
+![Figure 3: Gerda Taro, Republic militiawomen training on the beach
+outside Barcelona, August 1936.](imgs/13.3.jpg)
+
+<br/>
+
 Clearly, the actions of a young, spoiled girl, ready to throw her life
 away for a bit of action. This thought comes up because what we see here
 is very different from what we want to see. Horrors are louder when
@@ -371,8 +368,8 @@ however they feel is right. This stance is radical: we are doing this
 for ourselves, to find some solace in a horrific situation. We deny
 anyone the right to dictate how we should feel (e.g., *If you feel sad,
 show sadness*). We don’t adhere to restrictive norms that seek to
-simplify and regulate our complex emotional responses.\
-\
+simplify and regulate our complex emotional responses.
+
 On the day that marks the second year of colonial war in Ukraine, we
 organized a 24-hour event in our studio, where musicians, performers,
 and artists were invited to play, hold each other, squeeze, have fun,
@@ -381,8 +378,8 @@ for those who cope with their grief in different ways. However, the
 people around me were the same whose friends and family living in
 Ukraine, some of them on the frontlines; or they were political refugees
 from countries aligned with Russia (Belarus primarily). For them, it
-seemed to work.\
-\
+seemed to work.
+
 Gerda Taro died in a tragic accident while covering the Spanish Civil
 War on July 26, 1937, at the age of 26. While documenting the Battle of
 Brunete, she was run over by the tracks of a friendly tank. On her 27th
@@ -398,8 +395,8 @@ herself, which have made it possible to give motherhood to the
 photographs produced simultaneously with Robert Capa, and which have
 often been wrongfully attributed to him, with whom she worked closely.
 In an interview held during *Festival Letteratura di Mantova*, Helena
-Janeczek says:\
-\
+Janeczek says:
+
 *"After discovering her, in Milan, in the first monographic exhibition
 dedicated to her, I got an excellent biography (...) and made contact
 with the author, Irme Schaber, who also devoted herself to the
@@ -413,31 +410,30 @@ biographical novel about Gerda, to tell only the story of Robert Capa's
 girlfriend and the heroic photojournalist who died in Spain in 1937. I
 wanted to tell it through the eyes of others."*[^16chapter13_10]
 
-![A truck on fire on the road AI-generated content may be
-incorrect.](media/image4.jpeg){width="6.268055555555556in"
-height="4.403472222222222in"}\
-Figure 4: A photo by Gerda Taro, one of her last shots, Brunete, July
-1937.\
-\
+![Figure 4: A photo by Gerda Taro, one of her last shots, Brunete, July
+1937.](imgs/13.4.jpeg)
+
+<br/>
+
 Her contribution to international photojournalism was later recognized
 as fundamental to the historical understanding of the Spanish Civil War
 and the role of women as photojournalists. Although her life was
 tragically cut short, the impact she had in the field of war photography
-continues to inspire.\
-\
+continues to inspire.
+
 *If the lure of photography is the promise of unvarnished documentary
 truth—a chemical imprint of reality as it is at the moment the shutter
 release is pressed—photographers and their editors have always known
 that this promise is deceptive. Precisely because they capture the
 details of a singular moment, photographs call attention to what they
 leave out: everything that precedes and follows that one moment—and
-everything that’s outside the frame.\
-\
-*In giving shape to this discourse, I must go back to Sontag,
+everything that’s outside the frame.*
+
+In giving shape to this discourse, I must go back to Sontag,
 specifically to her theater adaptation of Beckett’s "*Waiting for
 Godot*.” She describes her experience in “*Waiting For Godot In
-Sarajevo*,” published by the *Performing Arts Journal, Inc.*\
-\
+Sarajevo*,” published by the *Performing Arts Journal, Inc.*
+
 *“I went to Sarajevo in mid-July 1993 to stage a production of “Waiting
 for Godot” not so much because I'd always wanted to direct Beckett's
 play (although I had), as because it gave me a practical reason to
@@ -499,7 +495,7 @@ She continues:
 >
 > -I don't have a message.
 >
-> -\[Same question, repeated more emphatically.\]
+> -[Same question, repeated more emphatically.]
 >
 > -That it's possible to come here. That other people should come and
 >
@@ -517,7 +513,7 @@ She continues:
 >
 > -Aren't you afraid?
 >
-> -\[Sigh.\]
+> -[Sigh.]
 >
 > -Is this a political act?
 >
@@ -533,7 +529,7 @@ She continues:
 >
 > -Why do you think other people like you don't come?
 >
-> -\[Various diffident or testy answers.\]
+> -[Various diffident or testy answers.]
 >
 > And so on.”[^16chapter13_11]
 
@@ -544,14 +540,14 @@ who strive to keep the cultural scene alive during these tragic times.
 The experiences of those living with the constant threat of bomb scare
 for the past two years, echoes the suffering of victims of
 indiscriminate attacks long ago. It’s an act of solidarity with those
-who are still resisting every day.\
-\
+who are still resisting every day.
+
 I’m writing this down, and from the belief that cultural practices can
 help us establish horizontal alliances, based on the equality of the
 participants; and to develop a bond of empathy with those around us.
 Perhaps I can describe the sense of closeness I've developed with some
-of the people I met in the studio through a personal anecdote:\
-\
+of the people I met in the studio through a personal anecdote:
+
 The process of preparing for an EFIR, where most people involved were
 not aware of the specifics of such a production or what roles everyone
 was responsible for, was projecting us into a moment of performative
@@ -566,25 +562,25 @@ conversation flowed much more seamlessly. It felt like we were sharing a
 secret; as if we just stole some apples, and now we were taking our
 breath after a rocambolesque run. Our eyes sparkled in the semi-darkness
 of a dusty barn, and we were happy. Up-to-no-good connection. There is
-now an unbreakable oath between us.\
-\
+now an unbreakable oath between us.
+
 Sontag's visit to Sarajevo had a profound impact on her, which she later
 documented in a series of essays. Her engagement and observations of the
 conflict contributed to a broader discourse on the responsibility of
 media and individuals in the face of suffering. Her work remains
 influential in discussions about the ethics of war representation and
-the impact of images on our understanding of global events.\
-![A group of people posing for a photo AI-generated content may be
-incorrect.](media/image5.png){width="6.268055555555556in"
-height="4.218055555555556in"}\
-Figure 5: The cast of the Sarajevo production of Waiting for Godot.
+the impact of images on our understanding of global events.
+
+![Figure 5: The cast of the Sarajevo production of Waiting for Godot.
 Seated: Ines Fancovic, Sead ('Sejo') Bejtovic, Mirza Halilovic, Nada
 Djurevska, Izudin ('Izo') Bajrovic, Susan Sontag. Standing:
 MilijanaZirojevic, VeliborTopic, Admir ('Atko') Glamocak, Irena
 Mulamuhic. In the lobby of the Youth Theater, Sarajevo, late July 1993.
-Picture by Annie Leibovitz.\
-\
-Bridge 5
+Picture by Annie Leibovitz.](imgs/13.5.png)
+
+<br/>
+
+##Bridge 5
 
 Taro employs photography as a means of resistance, while Sontag
 expresses herself through writing and directing plays. Inspired by their
@@ -607,8 +603,8 @@ time I lived in Poland (much closer to Ukrainian borders and culture
 than Italy). My starting argument was that, given the geographical
 proximity and the presence of a community of political refugees and
 displaced people from neighboring former Soviet countries, my
-understanding of the war in Ukraine changed at a higher speed.\
-\
+understanding of the war in Ukraine changed at a higher speed.
+
 Through several conversations with Erasmus students my age, but from
 very different geopolitical backgrounds—Germany, Lithuania, Czech
 Republic, and so on—I started to realize more strongly how true it is
@@ -620,15 +616,13 @@ with no direct involvement in the situation, yet expressing strongly
 held viewpoints on the matter. To give a more concrete form to these
 reflections, I decided to draw up a form to be submitted to a sample of
 40 respondents, from the 4 macro-groups mentioned above: Poland,
-Belarus, Ukraine, and expats.\
-\
-\
-![A paper with writing on it AI-generated content may be
-incorrect.](media/image6.png){width="6.313953412073491in"
-height="4.4680708661417325in"}\
-Figure 6: Example of a form containing responses from a participant in
-the interview project.\
-\
+Belarus, Ukraine, and expats.
+
+![Figure 6: Example of a form containing responses from a participant in
+the interview project.](imgs/13.6.png)
+
+<br/>
+
 Several trends emerged during the interviews, which were conducted in
 one-on-one meetings, generally in quiet places, allowing a private
 conversation. It should be noted that the interviewees were not aware of
@@ -645,15 +639,15 @@ Conversely, groups less closely connected to the subject matter (Expats,
 Poles) encountered greater challenges with their responses. This could
 be attributed to either a lack of clear recollection, leading to a
 perceived manipulation of memories by participants, or because the
-question itself stirred discomfort.\
-\
+question itself stirred discomfort.
+
 This is not a sociological or scientific study, there is no basis for
 conducting it; my intentions during this research were mainly three: to
 outline a trend, provoke reflection, and create an archive of memories.
 The first objective addresses a primarily personal need: to engage with
 diverse individuals and understand the potential points of agreement and
-disagreement.\
-\
+disagreement.
+
 Each interview consisted of two distinct parts, ensuring a comprehensive
 and articulate view of the interviewees' experiences. The first part, a
 detailed and related image form, provides an in-depth analysis of the
@@ -669,21 +663,23 @@ themselves. The curiosity in knowing the most personal details of a
 stranger (*What is your favorite place here? How often do you see your
 family/friends?*) has always had something fascinating in my eyes, and I
 thought it might prepare the viewer for the second phase of the
-interview.\
-\
+interview.
+
 The second part of the form involves a spoken interview, broken down
-into three key questions:\
-![A screenshot of a white paper with black text AI-generated content may
-be incorrect.](media/image7.png){width="5.628564085739282in"
-height="2.2325590551181103in"}\
+into three key questions:
+
+![](imgs/13.7.png)
+
+<br/>
+
 The goal of this second part was to prompt those being interviewed, and
 future listeners, to reflect on the subjectivity of their memories, even
 in broader contexts such as the onset of war. This second phase somewhat
 reinforced my initial thesis, namely that the geopolitical proximity of
 the groups of Belarusians and Ukrainians, and sometimes Poles, had
 indelibly carved February 24, 2022, into their memories. For the expats,
-among whom I place myself, this memory was often blurred.\
-\
+among whom I place myself, this memory was often blurred.
+
 The third and ultimate objective was to establish an archive that would
 compile the memories of the Kraków community surrounding me during that
 period. The initial presentation of this collected material took place
@@ -691,8 +687,8 @@ in June 2023 at a group exhibition held within the Intermedia department
 of the ASP Academy of Fine Arts in Kraków. For this inaugural
 exhibition, the interviews were printed on forty individual sheets of
 paper and suspended from a framework composed of wire mesh and three
-wooden beams affixed to the gallery ceiling.\
-\
+wooden beams affixed to the gallery ceiling.
+
 For the second exhibit, I developed a web radio.[^16chapter13_12] The event began at
 midnight on February 23, 2024, at the same time as the UKRAiNATV
 livestream set up for the second year of the war. The radio program
@@ -703,14 +699,14 @@ interactive programming, allowing visitors to the venue, set up in a
 room adjacent to the main studio, to participate by giving an interview
 in turn. Participants then had the opportunity to share their stories on
 the web radio, thus expanding the diversity of voices represented in the
-event.\
-\
+event.
+
 The installation had two main goals: first, to stimulate reflection
 regarding the ongoing conflict in listeners, highlighting the importance
 of an empathic connection with the reality of war; second, the project
 aims to counter the process of media de-humanization by promoting
-empathy through the testimonies collected.\
-\
+empathy through the testimonies collected.
+
 One of the sources of inspiration for this project was the work by
 Ukrainian artist Timothy Maxymenko. His project, “Listening portals”
 (“Звукові портали”), consists of creating sound portals through
@@ -718,8 +714,8 @@ custom-built loudspeakers, then sending them to three different
 Ukrainian cities-Kyiv, Kharkiv, and Odessa. Every day, for 24 hours,
 with the help of a special mini-computer and microphones located in each
 of the boxes, the recorded sound is streamed and broadcast live on the
-portals' dedicated website.\
-\
+portals' dedicated website.
+
 I could not help but imagine an ideal analogy with the work of B92 and
 pirate radio projects as well, as I thought about the best way to share
 the collected interviewees' memories. In general, the project's purpose
@@ -733,14 +729,12 @@ human being mediates the experiences of war easier to feel unrelated to.
 But it’s not. The trends that emerged during the conversations
 underscore the variability of perceptions and memories related to
 conflict, illustrating the intricate nature of our recollections, even
-concerning events we might regard as universal.\
-\
-![A group of people dancing in a room AI-generated content may be
-incorrect.](media/image8.jpeg){width="6.268055555555556in"
-height="4.7027777777777775in"}\
-Figure 7: Picture taken during the 24-hours event held in the UKRAiNATV
-studio, 24 February 2024, Kraków.\
-\
+concerning events we might regard as universal.
+
+![Figure 7: Picture taken during the 24-hours event held in the UKRAiNATV studio, 24 February 2024, Kraków.](imgs/13.8.png)
+
+<br/>
+
 My personal experience with UKRAiNATV encompasses a set of practices
 rooted in artistic resistance, like those described here. This is just
 my account, yet similar realities exist everywhere: where performance,
@@ -754,15 +748,15 @@ collection. It becomes a media repository, an active archive online, and
 an artistic collective offline. This synthesis creates a collective
 media where streamart and various forms of expression converge,
 embodying a form of resistance and defiance against academic language
-and common sense.\
-\
+and common sense.
+
 Through the analysis of these, all emerge as pivotal figures, whose
 task—sometimes rooted in privilege—is to amplify experiences and
 testimonies that might otherwise fade into obscurity. In a world often
 scarred by conflict and injustice, their mission became constructing
 bridges of understanding and solidarity, contributing to a more
-inclusive and liberated future for all.\
-\
+inclusive and liberated future for all.
+
 ***Giulia Timis** is an Amsterdam-based artist and researcher developing
 practices around live-streaming production, tactical video, and hybrid
 media performances. Her work focuses on collective media practices,

@@ -17,21 +17,23 @@ Rights: CC BY-NC 4.0
 ...
 
 
-### Reflections on Trigger Warnings: A Practice of Care, Refusal of Witnessing
-Chloë Arkenbout\
-Originally published on July 11th, 2024\
-\
-Trigger warning: various topics that trigger warnings are often used for are briefly discussed in this article, such as (in order of appearance) car crashes, trauma, PTSD, misogyny, war, the genocide of Palestinian people and burnout.\
-\
-“Survival is the ability to swim in strange water.” – Ocean Vuong\
-\
-Public discussions addressing injustice, filled with footage of horrendous violence and emotionally charged and often personal content of various types of harm and abuse, are common on many social media platforms. Sharing is an important way to foster awareness, solidarity, and understanding. Yet for some people who have experienced similar things being pointed out, seeing this content can evoke strong responses. If you know what that feels like, you probably also have had moments of wishing you were given a heads-up, so you could have decided for yourself whether and when to engage with what appeared on your feed, depending on your emotional capacity. I know I have.\
-\
-Wikipedia defines a trigger warning as “a warning that a work contains writing, images, or concepts that may be distressing to some people.” On social media platforms, some users mention a trigger with their content so users can stop engaging with it if they wish.\
-\
-Discussions on whether to include them in course material in educational contexts have been going on for years and the trigger warning has a history that originated long before the web. The thing you’d probably think of first is the parental advisory system for TV shows and films, which are used to warn parents of content that they might deem inappropriate for their children. A more recent example along these lines is [DoesTheDogDie](https://www.doesthedogdie.com/), a community-based website with a repository of films and their potential triggers. Founder [John Wipple writes that in 2023](https://www.doesthedogdie.com/blog/i-spoil-movies-and-im-proud-of-it) “the site currently tracks over 180 categories of “triggers” \[and\] the number of requests for new trigger categories has swelled to 2,413.”[^11chapter8_1] According to him, “the data makes it obvious that there is an unmet need for very specific content warnings for all forms of entertainment. \[…\] The reality is that terrible things happen to us all and we do our best to live one day at a time. Users of DoesTheDogDie are just trying to stay sane. In fact, \[Wipple has\] been contacted by several mental health professionals saying that they routinely recommend DoesTheDogDie as a resource to their clients.” 
+# Reflections on Trigger Warnings: A Practice of Care, Refusal of Witnessing
+##Chloë Arkenbout
+###Originally published on July 11th, 2024
 
-![](media/image1.png){width="6.5in" height="3.625in"}
+*Trigger warning: various topics that trigger warnings are often used for are briefly discussed in this article, such as (in order of appearance) car crashes, trauma, PTSD, misogyny, war, the genocide of Palestinian people and burnout.*
+
+> “Survival is the ability to swim in strange water.” – Ocean Vuong
+
+Public discussions addressing injustice, filled with footage of horrendous violence and emotionally charged and often personal content of various types of harm and abuse, are common on many social media platforms. Sharing is an important way to foster awareness, solidarity, and understanding. Yet for some people who have experienced similar things being pointed out, seeing this content can evoke strong responses. If you know what that feels like, you probably also have had moments of wishing you were given a heads-up, so you could have decided for yourself whether and when to engage with what appeared on your feed, depending on your emotional capacity. I know I have.
+
+Wikipedia defines a trigger warning as “a warning that a work contains writing, images, or concepts that may be distressing to some people.” On social media platforms, some users mention a trigger with their content so users can stop engaging with it if they wish.
+
+Discussions on whether to include them in course material in educational contexts have been going on for years and the trigger warning has a history that originated long before the web. The thing you’d probably think of first is the parental advisory system for TV shows and films, which are used to warn parents of content that they might deem inappropriate for their children. A more recent example along these lines is DoesTheDogDie, a community-based website with a repository of films and their potential triggers. Founder John Wipple writes that in 2023 “the site currently tracks over 180 categories of “triggers” \[and\] the number of requests for new trigger categories has swelled to 2,413.”[^11chapter8_1] According to him, “the data makes it obvious that there is an unmet need for very specific content warnings for all forms of entertainment. \[…\] The reality is that terrible things happen to us all and we do our best to live one day at a time. Users of DoesTheDogDie are just trying to stay sane. In fact, \[Wipple has\] been contacted by several mental health professionals saying that they routinely recommend DoesTheDogDie as a resource to their clients.” 
+
+![](imgs/08.1.png)
+
+<br/> 
 
 In the introduction to *Trigger Warnings: History, Theory, Context*,
 which was published in 2017, Emily J. M. Knox mentions a paper by Chris
@@ -43,9 +45,9 @@ social power, or as the opposite of exposure therapy, a form of
 censorship, and the hindrance of something uncomfortable that is needed
 to be an educated person. These are similar to the arguments Wendy Wyatt
 presents in *The Ethics of the Trigger Warning* in 2016.[^11chapter8_3] I am not
-particularly interested in the ‘[is the fear of being offensive killing
+particularly interested in the ‘is the fear of being offensive killing
 free
-speech’](https://www.goodreads.com/book/show/25498009-trigger-warning)
+speech’
 debates that seem to drag on even now, almost 10 years later, or looking
 at this from such a binary perspective.[^11chapter8_4] What I would like to do, is
 share some thoughts on trigger warnings by reflecting on what it means
@@ -58,19 +60,19 @@ stuck on the (social media) platform(s).
 As always, it is important to look at the words we use to describe a
 phenomenon to see what political dimensions are ingrained in them.
 
-***Trigger (noun):** 1) to cause a strong emotional reaction of fear,
-shock, anger, or worry in someone, especially because they are made to
-remember something bad that has happened in the past 2) to cause
-something to start 3) a part of a gun that causes the gun to fire when
-pressed *
+> **Trigger (noun):** 1) to cause a strong emotional reaction of fear,
+> shock, anger, or worry in someone, especially because they are made to
+> remember something bad that has happened in the past 2) to cause
+> something to start 3) a part of a gun that causes the gun to fire when
+> pressed 
 
 So a trigger could be a catalyst of an emotional reaction related to
 something that happened in the past, with a connotation of violence (the
 gun). Or that something violent that has happened in the past is
 activated by something in the present, causing distress.
 
-***Warning (noun):** something that makes you understand there is a
-possible danger or problem, especially one in the future*
+> **Warning (noun):** something that makes you understand there is a
+> possible danger or problem, especially one in the future
 
 To warn someone of something indicates that something negative can still
 be averted. Assuming that the warner warns because they do not want
@@ -81,23 +83,23 @@ Before we dive into the politics of the trigger warning, we need to
 understand the politics of trauma first. The dictionary definition is as
 follows:
 
-***Trauma** (noun): severe and lasting emotional shock and pain caused
-by an extremely upsetting experience, or a case of such shock happening*
+> **Trauma (noun)**: severe and lasting emotional shock and pain caused
+> by an extremely upsetting experience, or a case of such shock happening
 
-I could attempt to write an elaborate essay on the [medical
-conditions](https://hulpgids.nl/informatie/ziektebeelden/trauma-en-stressorgerelateerde-stoornissen/posttraumatische-stress-stoornis/ptss-dsm-5-criteria)
+I could attempt to write an elaborate essay on the medical
+conditions
 related to trauma here as well, however, I am not a medical expert and
 for sharing my thoughts on trigger warnings, how Staci K. Haines defines
 trauma in *The Politics of Trauma* is the most relevant:[^11chapter8_5]
 
-> “Trauma is an experience, series of experiences, and/or impacts from
+> Trauma is an experience, series of experiences, and/or impacts from
 > social conditions, that break or betray our inherent need for safety,
 > belonging, and dignity. They are experiences that result in us having
 > to vie between our inherent needs, often setting one against the
 > other. For example, it might leave us with the impact of “I can be
 > safe but not connected (isolated),” or “I have to give up my dignity
 > to be safe or connected.” This is untenable, because all of these
-> needs are constitutive or inherent in us.”
+> needs are constitutive or inherent in us.
 
 She explains that when we are not successfully protected during
 traumatic events, those experiences are stored within ourselves, and
@@ -105,8 +107,8 @@ therefore keep shaping our present experience in the world. Sometimes
 this results into people developing PTSD symptoms. Again, this is a
 wildly specific definition and only one interpretation of what trauma
 is. I can highly recommend reading more about the topic from different
-angles to gain a deeper understanding ([in Haines'
-book](https://www.goodreads.com/book/show/51265181-the-politics-of-trauma),
+angles to gain a deeper understanding (in Haines'
+book,
 or *My Grandmother’s Hands* by Resmaa Menakem, *What my Bones Know* by
 Stephanie Foo, *It Didn’y Start With You* by Mark Wolynn, *Trauma and
 Recovery* by Judith L. Herman, *Touch Me I’m Sick* by Margeaux Feldman,
@@ -124,7 +126,7 @@ about this. Especially in our current times, where genocides can be
 live-streamed on our smartphones every second of every day. Haines
 explains this process as follows:
 
-> “Systemic trauma is the repeated, ongoing violation, exploitation,
+> Systemic trauma is the repeated, ongoing violation, exploitation,
 > dismissal of, and /or deprivation of groups of people. State
 > institutions, economic systems, and social norms that systematically
 > deny people access to safety, mobility, resources, food, education,
@@ -133,7 +135,7 @@ explains this process as follows:
 > belonging, and dignity traumatically impacts individuals and whole
 > groups of people. \[…\] Like individual trauma, systemic trauma
 > overwhelms and breaks down safety, connection, and dignity in the
-> minds, bodies, and spirits of individuals and communities.”
+> minds, bodies, and spirits of individuals and communities.
 
 Looking specifically at what a **trauma trigger** is then, to return to
 the original subject, Wikipedia defines it as follows:
@@ -154,15 +156,15 @@ at least in theory, it is not that much to ask. However, things become
 more complicated when looking into what is happening through informal
 language.
 
-This is an edited summary of some of the definitions found on [the Urban
-Dictionary](https://www.urbandictionary.com/define.php?term=Triggered&page=3):
+This is an edited summary of some of the definitions found on the Urban
+Dictionary:
 
-***Triggered (adjective):** being unreasonably upset, pissed off,
-annoyed or offended in a cringe way – often when social justice warriors
-or special snowflakes can’t take a joke *
-
-*“Lol this ‘feminazi’ is sooo triggered cus I told her to make me a
-sandwich!! Lol.”*
+> **Triggered (adjective):** being unreasonably upset, pissed off,
+> annoyed or offended in a cringe way – often when social justice warriors
+> or special snowflakes can’t take a joke *
+> 
+> *“Lol this ‘feminazi’ is sooo triggered cus I told her to make me a
+> sandwich!! Lol.”*
 
 The discussions around triggers are blurred by default because of the
 language that concerns it is too. Being offended is not the same thing
@@ -270,8 +272,9 @@ give it a trigger warning. The ‘sensitive content’ label in Instagram
 for example, where content is hidden and you have to click on a button
 first before the content is revealed.
 
-![](media/image2.png){width="2.694484908136483in"
-height="2.7968755468066493in"}
+![](imgs/08.2.png)
+
+<br/> 
 
 Instagram frequently shadowbans content (making it less visible to other
 users in various ways, of which adding a trigger warning is just one) on
@@ -340,71 +343,52 @@ they contribute to our ability to navigate swimming in strange waters.
 
 When you encounter a trigger warning:
 
--   Am I inclined to avoid content related to the warning in question?
-    > Why?
+-   Am I inclined to avoid content related to the warning in question? Why?
 
 -   Is the warning specific enough to inform me properly?
 
--   If it is not, am I comfortable taking the risk of encountering
-    > content that could trigger me?
+-   If it is not, am I comfortable taking the risk of encountering content that could trigger me?
 
 -   How strong could my reaction be when encountering the content?
 
--   Do I have the capacity for such a reaction in case it happens? Do I
-    > know how to regulate myself? What I need in terms of care or
-    > co-reculation if it happens? Do I have people to support me?
+-   Do I have the capacity for such a reaction in case it happens? Do I know how to regulate myself? What I need in terms of care or co-reculation if it happens? Do I have people to support me?
 
--   Does the content relate to my own experiences or does it consider
-    > others?
+-   Does the content relate to my own experiences or does it consider others?
 
--   Will the content inform me of current events or experiences of
-    > others that are important to be aware of?
+-   Will the content inform me of current events or experiences of others that are important to be aware of?
 
--   Have I been avoiding this topic or have I already engaged with it
-    > frequently?
+-   Have I been avoiding this topic or have I already engaged with it frequently?
 
--   Could I be confusing distress or danger with discomfort? Have I
-    > considered my privilege?
+-   Could I be confusing distress or danger with discomfort? Have I considered my privilege?
 
--   Could I be confusing discomfort with distress or danger? Have I
-    > considered my current mental state in relation to the content and
-    > should I consider protecting myself?
+-   Could I be confusing discomfort with distress or danger? Have I considered my current mental state in relation to the content and should I consider protecting myself?
 
--   If I decide not to engage with this content, do I want to do so at a
-    > later time?
+-   If I decide not to engage with this content, do I want to do so at a later time?
 
--   Is this warning human-made or automatically generated by the
-    > platform I am on?
+-   Is this warning human-made or automatically generated by the platform I am on?
 
--   If it is automatically generated, what values does the platform
-    > operate on and what could that mean for this warning and my choice
-    > in engaging with its content or not?
+-   If it is automatically generated, what values does the platform operate on and what could that mean for this warning and my choice in engaging with its content or not?
 
 When you consider using a trigger warning:
 
 -   Who is this trigger warning for? Who am I trying to protect and why?
 
--   Is the way I worded my trigger specific enough for people to be
-    > properly informed about the possible risk?
+-   Is the way I worded my trigger specific enough for people to be properly informed about the possible risk?
 
--   Should I make a distinction in my warning, addressing the people
-    > whom I am trying to protect by informing them of the risks and the
-    > people I do want to look at the content?
+-   Should I make a distinction in my warning, addressing the peoplewhom I am trying to protect by informing them of the risks and the people I do want to look at the content?
 
--   Could the content I want to share be flagged by the platform's
-    > content moderation systems?
+-   Could the content I want to share be flagged by the platform's content moderation systems?
 
--   Should I consider using [alternative
-    > tactics](https://networkcultures.org/tactical-media-room/2024/03/28/theory-fragments-of-the-shadowban-navigating-censorship-of-palestinian-content/)
-    > to make sure the content I want to share reaches people?
+-   Should I consider using alternative tactics to make sure the content I want to share reaches people?
 
-*— *
 
 *A thank you to my colleagues, comrades and friends who helped shape my
 thoughts on these topics: Geert Lovink, Pleun Westendorp, Niek Heijne,
 Liyah Park, Lucija Pelicaric, Frederieke van Wijk, Jamie Brands, Daryll
 Landbrug, Alexandra Greene, Laura Dubourjal, and Jamil Fiorino-Habib,
-among others. *
+among others.* 
+
+***Chloë Arkenbout*** *has been part of the core team of the Institute of Network Cultures since 2020. Their personal research revolves around what it means to be (in)visible in the (semi) digital public sphere – discussing the political and emotional dimensions of subjects such as comment discussions, call-out culture, shadow banning, conflict & care in social movements, and political memes. She also co-edited the three Critical Meme Readers that INC published in 2021, 2022 and 2024. Additionally, she works as a teacher at the Communication and Multimedia Design program at the Amsterdam University of Applied Sciences. Before joining the INC, she worked as an independent journalist and communications specialist in the cultural and social sector.*
 
 [^11chapter8_1]: John Whipple. “I Spoil Movies and I’m Proud of It.” DoesTheDogDie,
     [www.doesthedogdie.com/blog/i-spoil-movies-and-im-proud-of-it](http://www.doesthedogdie.com/blog/i-spoil-movies-and-im-proud-of-it).

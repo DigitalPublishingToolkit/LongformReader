@@ -1,0 +1,692 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?aid style="50" type="snippet" readerVersion="6.0" featureSet="513" product="8.0(370)" ?>
+<?aid SnippetType="InCopyInterchange"?>
+<Document DOMVersion="8.0" Self="pandoc_doc">
+    <RootCharacterStyleGroup Self="pandoc_character_styles">
+      <CharacterStyle Self="$ID/NormalCharacterStyle" Name="Default" />
+      <CharacterStyle Self="CharacterStyle/" Name="">
+        <Properties>
+          <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
+        </Properties>
+      </CharacterStyle>
+      <CharacterStyle Self="CharacterStyle/Bold Italic" Name="Bold Italic" FontStyle="Bold Italic">
+        <Properties>
+          <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
+        </Properties>
+      </CharacterStyle>
+      <CharacterStyle Self="CharacterStyle/Cite" Name="Cite">
+        <Properties>
+          <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
+        </Properties>
+      </CharacterStyle>
+      <CharacterStyle Self="CharacterStyle/Italic" Name="Italic" FontStyle="Italic">
+        <Properties>
+          <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
+        </Properties>
+      </CharacterStyle>
+      <CharacterStyle Self="CharacterStyle/Link" Name="Link">
+        <Properties>
+          <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
+        </Properties>
+      </CharacterStyle> 
+    </RootCharacterStyleGroup>
+    <RootParagraphStyleGroup Self="pandoc_paragraph_styles">
+      <ParagraphStyle Self="$ID/NormalParagraphStyle" Name="$ID/NormalParagraphStyle"
+          SpaceBefore="6" SpaceAfter="6"> <!-- paragraph spacing -->
+        <Properties>
+          <TabList type="list">
+            <ListItem type="record">
+              <Alignment type="enumeration">LeftAlign</Alignment>
+              <AlignmentCharacter type="string">.</AlignmentCharacter>
+              <Leader type="string"></Leader>
+              <Position type="unit">10</Position> <!-- first tab stop -->
+            </ListItem>
+          </TabList>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Blockquote &gt; Paragraph" Name="Blockquote &gt; Paragraph" LeftIndent="10">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Caption" Name="Caption" LeftIndent="0">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Figure" Name="Figure" LeftIndent="0">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Footnote &gt; Paragraph" Name="Footnote &gt; Paragraph" LeftIndent="0">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Header1" Name="Header1" LeftIndent="0" PointSize="36">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Header2" Name="Header2" LeftIndent="0" PointSize="30">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Header3" Name="Header3" LeftIndent="0" PointSize="24">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Paragraph" Name="Paragraph" LeftIndent="0">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle> 
+    </RootParagraphStyleGroup>
+    <RootTableStyleGroup Self="pandoc_table_styles">
+      <TableStyle Self="TableStyle/Table" Name="Table" />
+    </RootTableStyleGroup>
+    <RootCellStyleGroup Self="pandoc_cell_styles">
+      <CellStyle Self="CellStyle/Cell" AppliedParagraphStyle="ParagraphStyle/$ID/[No paragraph style]" Name="Cell" />
+    </RootCellStyleGroup>
+  <Story Self="pandoc_story"
+      TrackChanges="false"
+      StoryTitle=""
+      AppliedTOCStyle="n"
+      AppliedNamedGrid="n" >
+    <StoryPreference OpticalMarginAlignment="true" OpticalMarginSize="12" />
+
+<!-- body needs to be non-indented, otherwise code blocks are indented too far -->
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header1">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Entropyposting or the Art of Sabotaging Your Online Self</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Arianna Caserta</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Originally published November 4th, 2024</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>In an ocean of perfectly constructed auto narrations, users draft an ode to the &quot; non-readable&quot; in search of the only method to reappropriate the entropic and spectral side of the Internet.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>I remember scrolling through Yung Lean's Instagram profile meant trying to decode the rules of a universe nobody knew anything about. Pages full of distorted shapes, ultra-bright objects, mysterious textures and blurry surfaces of dubious origin that create confusion in the comments section. In a virtual ocean of packaged and well-structured Instagram feeds, Lily-Rose Depp  - nepo baby on the rise - was posting blurry pictures of herself and her friends. Ugly, unpolished photos, depicting actions far more ordinary than was expected of someone her status. Her profile repelled—and at the same time fed—the frenzied appetite for gossip.  Translated into a spasmodic hunt for clues that would reveal her luxurious lifestyle, fans were digging into the folds of her personal online narrative. Why were these people using Instagram in the exact opposite way it was meant to? Why were they, on purpose, offering their audience something so ambiguous and unreadable?</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Today's users have more than absorbed the aesthetics of the undecipherable, causing its rules to be able to spill over into every field of the visual landscape: design, fashion, beauty, performative and figurative art. But the intense adoration for entropyposting—the impulse of sharing non-decodable and unreadable information online—goes far beyond the luminescent hyperpop-esque imagery cleverly manufactured by Drain Gang. And far deeper than any product that lo-fi aesthetics has ever spawned. As much as I recollect its form, entropyposting doesn't even resemble the primitive act of &quot;Instagram dumping&quot;, sometimes affiliated with Shitposting. The latter is about an effortless, unbothered, post-ironic narration: it is about merging into the chasm of images online. Entropyposting is exactly the opposite. It is cryptical, mysterious, sorcerous, and complex: it forces you to stop and take a pause from the chasm, trying to decrypt something. It is - if anything - closer to a method of pushing technology to its limits, generating useless content and making social interactions less clear and progressively more complicated.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Figure">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Rectangle Self="uec" StrokeWeight="0" ItemTransform="1.00000 0 0 1.00000 555.00000 -325.00000">
+      <Properties>
+        <PathGeometry>
+          <GeometryPathType PathOpen="false">
+            <PathPointArray>
+              <PathPointType Anchor="-555.00000 -325.00000" LeftDirection="-555.00000 -325.00000" RightDirection="-555.00000 -325.00000" />
+              <PathPointType Anchor="-555.00000 325.00000" LeftDirection="-555.00000 325.00000" RightDirection="-555.00000 325.00000" />
+              <PathPointType Anchor="555.00000 325.00000" LeftDirection="555.00000 325.00000" RightDirection="555.00000 325.00000" />
+              <PathPointType Anchor="555.00000 -325.00000" LeftDirection="555.00000 -325.00000" RightDirection="555.00000 -325.00000" />
+            </PathPointArray>
+          </GeometryPathType>
+        </PathGeometry>
+      </Properties>
+      <Image Self="ue6" ItemTransform="1.00000 0 0 1.00000 -555.00000 -325.00000">
+        <Properties>
+          <Profile type="string">
+            $ID/Embedded
+          </Profile>
+        </Properties>
+        <Link Self="ueb" LinkResourceURI="file:imgs/02.1.jpg" />
+      </Image>
+    </Rectangle>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Caption">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Screenshots from Yung Lean’s and Lily-Rose Depp’s Instagram</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>There is something about the anti-glamourous attitude of these celebrities sharing unappealing, blurry, badly cropped, crooked, or extremely pixelated images that are reminiscent of the uncommitted and often boring way of dressing that some super-rich people like to be seen in public.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Simon Usborne. “Mark Zuckerberg and the Art of Being Smart Casual.” </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>The Independent</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, November 10, 2014.</Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> As Caroline Busta writes in “The internet didn't kill counterculture-you just won't find it on Instagram”:</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Caroline Busta. “The internet didn’t kill counterculture — you just won’t find it on Instagram.” </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Document Journal</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, January 14, 2021.</Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>&quot;Away from the parades, palaces, and disproportionate girths of modern-day strongmen like Viktor Orbán, Kim Jong Un and Donald Trump, the most iconic features you'll find among the big tech set are more likely to be a black turtleneck, a Patagonia fleece jacket, and the absence of handbags.&quot;</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Busta suggests that &quot;real power keeps a low profile because it doesn't need a social media presence: it owns it.&quot; This is one hypothesis: celebrities do not need to try. Their game has already been played, and their engagement stays unchanged. They do not follow the algorithm: they shape it.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The truth is that one cannot think of entropyposting (as we know it today) only as a way to betray the platform. Like every other Internet trend, entropyposting is far from being a rebellion against technological hegemony: rather, it is once again a disposable way of representing oneself online; a modus operandi ready to catch up with users all over the world until it disappears to make way for the next trend.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>However, there is no limit when unreadability becomes the Zeitgeist: if it's true celebrities narrate themselves in lowkey terms to betray their audience's craving for information, the final stage of entropyposting resembles anything but a way to go unnoticed. The denial of gossip, glitz, and information pornography to the voyeuristic user has shown the latter something unfamiliar: if the ‘degree of disorder’ rises, it increases its non-readability and unpredictability. A rise in disorder corresponds to an increase in entropy, and entropy—understood as the measure of the complexity in a message—creates information. Clear information gives less information than a glossy non-entropic narrative would. Instead, a complex narrative generates curiosity, answers unasked questions, doesn't stop at the surface, and triggers the creation of infinite possible worlds.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The key, then, is to find something that forces a break in the flow, that demands more attention. And in a world of perfectly structured Instagram reels, TikTok formats and trends, pre-packaged branded posts with their appropriate #adv hashtag, and social media management courses that teach step-by-step how to beat the algorithm, content slips by our attention as if it never laid on it before. The only way to resist? Increase the degree of disorder. Force the user to pause for more than the 2.5 seconds of maximum attention span calculated by social media analytics. Add entropifying to one's own online narrative.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Figure">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Rectangle Self="uec" StrokeWeight="0" ItemTransform="1.00000 0 0 1.00000 384.00000 -213.00000">
+      <Properties>
+        <PathGeometry>
+          <GeometryPathType PathOpen="false">
+            <PathPointArray>
+              <PathPointType Anchor="-384.00000 -213.00000" LeftDirection="-384.00000 -213.00000" RightDirection="-384.00000 -213.00000" />
+              <PathPointType Anchor="-384.00000 213.00000" LeftDirection="-384.00000 213.00000" RightDirection="-384.00000 213.00000" />
+              <PathPointType Anchor="384.00000 213.00000" LeftDirection="384.00000 213.00000" RightDirection="384.00000 213.00000" />
+              <PathPointType Anchor="384.00000 -213.00000" LeftDirection="384.00000 -213.00000" RightDirection="384.00000 -213.00000" />
+            </PathPointArray>
+          </GeometryPathType>
+        </PathGeometry>
+      </Properties>
+      <Image Self="ue6" ItemTransform="1.00000 0 0 1.00000 -384.00000 -213.00000">
+        <Properties>
+          <Profile type="string">
+            $ID/Embedded
+          </Profile>
+        </Properties>
+        <Link Self="ueb" LinkResourceURI="file:imgs/02.2.jpg" />
+      </Image>
+    </Rectangle>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Caption">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Screenshots from Death Grips’ Instagram posts</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>But the music industry is the cradle of more than just one aesthetic shift: the creepy Instagram profile of Sacramento trio Death Grips lends itself to entropyposting theories to such an extent that it may provide a visual essay for it. With music videos and album covers designed to trigger the madness and curiosity of Reddit users worldwide, the trio pioneered the art of entropyposting by paving the way for the </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>L'Âge d'Or</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> it is undergoing today (yes, all your friends have shared a still from the Guillotine video at least once, no matter the context). These are semantic stimuli that are impossible to categorize, and complex to approach except with a cynical, sneering, post-ironic attitude: authorless remnants on the fringes of that glossy Internet that you believe you rule at the click of a button, with its reassuring windows, annoying pop-ups and well-distributed hierarchies; interfaces whose every secret we are certain to know. </Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The idea of the ‘digital wreckage’ has been pondered most of all by English experimental musician and visual artist Dean Blunt. It is shocking to trace his influence in so many musical scenes that have arisen in the very last few years in Europe: godfather of a certain sub-genre of avant-garde pop and, since 2012, founder of the music label World Music, Blunt is considered one of the most prolific figures in Internet music, famous for always imagining his production in a contradictory, ubiquitous, multifaceted aesthetic flow, where different stimuli overlap, refusing the dynamics of a market that conceives a musical product as a well-packaged object dictated by the reins of majors. </Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Starting in the 2010s, the Insta account World Music released covers of hundreds of singles and mixtapes drawing on unprecedented art direction: pixelated screenshots from Facebook homes, photos downloaded from Google Images in the worst possible quality, underwhelming graphics created in Paint, triumphs of Comic Sans, stretched emojiis, and stock images. With those projects with such ambiguous visual identities released on Bandcamp, World Music declared itself against a hierarchy of images, - and music - poking fun at the somewhat clumsy care with which artists curated their projects, underestimating the fact that they would be dispersed across the web along with all the other nomadic images and sounds that take part in the stream. Dean Blunt and World Music caused a détournement: instead of trying to emerge, they were preoccupied with blending perfectly into the cacophonous landscape of information of all types and forms, to navigate the Web aimlessly, authorless, recipientless. That is, until the abstraction of the </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Black Metal </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>album (apologies to Kanye West and his Donda, which came much later).</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Figure">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Rectangle Self="uec" StrokeWeight="0" ItemTransform="1.00000 0 0 1.00000 421.00000 -430.00000">
+      <Properties>
+        <PathGeometry>
+          <GeometryPathType PathOpen="false">
+            <PathPointArray>
+              <PathPointType Anchor="-421.00000 -430.00000" LeftDirection="-421.00000 -430.00000" RightDirection="-421.00000 -430.00000" />
+              <PathPointType Anchor="-421.00000 430.00000" LeftDirection="-421.00000 430.00000" RightDirection="-421.00000 430.00000" />
+              <PathPointType Anchor="421.00000 430.00000" LeftDirection="421.00000 430.00000" RightDirection="421.00000 430.00000" />
+              <PathPointType Anchor="421.00000 -430.00000" LeftDirection="421.00000 -430.00000" RightDirection="421.00000 -430.00000" />
+            </PathPointArray>
+          </GeometryPathType>
+        </PathGeometry>
+      </Properties>
+      <Image Self="ue6" ItemTransform="1.00000 0 0 1.00000 -421.00000 -430.00000">
+        <Properties>
+          <Profile type="string">
+            $ID/Embedded
+          </Profile>
+        </Properties>
+        <Link Self="ueb" LinkResourceURI="file:imgs/02.3.png" />
+      </Image>
+    </Rectangle>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Caption">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>A selection of album covers from World Music projects (Dean Blunt, Bar Italia, Inga Copeland, Hype Williams), 2009-2023</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Direct descendants of Dean Blunt’s heritage, the Spanish visual artist duo Fomotrauma, associated with the Spanish label Rusia IDK, is the best example of the impact of world music operations on digital natives: a new school of artists that take their cue from the exauthoring of newly created images, ready instead to give context back to the precious digital junk that is destined to be lost and rediscovered in an endless cycle of downloads and screenshots.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Figure">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Rectangle Self="uec" StrokeWeight="0" ItemTransform="1.00000 0 0 1.00000 562.00000 -366.00000">
+      <Properties>
+        <PathGeometry>
+          <GeometryPathType PathOpen="false">
+            <PathPointArray>
+              <PathPointType Anchor="-562.00000 -366.00000" LeftDirection="-562.00000 -366.00000" RightDirection="-562.00000 -366.00000" />
+              <PathPointType Anchor="-562.00000 366.00000" LeftDirection="-562.00000 366.00000" RightDirection="-562.00000 366.00000" />
+              <PathPointType Anchor="562.00000 366.00000" LeftDirection="562.00000 366.00000" RightDirection="562.00000 366.00000" />
+              <PathPointType Anchor="562.00000 -366.00000" LeftDirection="562.00000 -366.00000" RightDirection="562.00000 -366.00000" />
+            </PathPointArray>
+          </GeometryPathType>
+        </PathGeometry>
+      </Properties>
+      <Image Self="ue6" ItemTransform="1.00000 0 0 1.00000 -562.00000 -366.00000">
+        <Properties>
+          <Profile type="string">
+            $ID/Embedded
+          </Profile>
+        </Properties>
+        <Link Self="ueb" LinkResourceURI="file:imgs/02.4.jpg" />
+      </Image>
+    </Rectangle>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Caption">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>from Fomotrauma’s Instagram profile</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>In the paranoid loop of content suggested to users according to their darkest inclinations, new generations of users are interested in bringing backscattered images, giving entropy to the interface to try and break free from a constrained system, and bringing uncertainty back into preconfigured patterns. The Internet has always been spoken of as something extremely close to magic, a black box of spectres that has more in common with ghosts than with codes. But how much abstraction is allowed in a system made of interfaces?</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Entropyposting is a practice of compressions, reiterations, confused processes, of fascination with all visual impulses that are difficult to place, with no point of departure and therefore no point of arrival. Something that resembles the immateriality of a GAN-generated image or a portrait by Gerhard Richter, who worked on that inaccessibility that only mass-media reproduction can give to an image. Or even as in the case of American photographer Thomas Ruff’s JPEGs series, - composed of images downloaded from the Internet and resized to worsen their quality to the maximum - or the spray paintings by Turin-based artist WOC, which crudely reproduces iconic pop culture images by worsening something we'd be able to enjoy in 4K. </Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The world of art microcelebrities has more than absorbed the spirit of the times of which entropyposting is the child: the highly followed profiles of art director Ben Ditto (or as Interview Mag recently called him, “The Renaissance Man of the Internet Age”</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Interview. “Meet Ben Ditto, The Guy Meme-ing His Way Through War.” Interview Magazine, March 14, 2022. </Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-1" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>https://www.interviewmagazine.com/culture/search-history-meet-ben-ditto-the-guy-meme-ing-his-way-through-war</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>) seem like dark portals to gore, horror, and ironic images, all fused together in an exquisitely pop way. The founder and editor-in-chief of Coeval Magazine, Donald Gjoka, holds the same power: his Internet activity enraptures and confuses, portraying an online dimension where AI-created images, post-ironic memes, and childish drawings coexist on the same surface.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Figure">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Rectangle Self="uec" StrokeWeight="0" ItemTransform="1.00000 0 0 1.00000 268.00000 -265.00000">
+      <Properties>
+        <PathGeometry>
+          <GeometryPathType PathOpen="false">
+            <PathPointArray>
+              <PathPointType Anchor="-268.00000 -265.00000" LeftDirection="-268.00000 -265.00000" RightDirection="-268.00000 -265.00000" />
+              <PathPointType Anchor="-268.00000 265.00000" LeftDirection="-268.00000 265.00000" RightDirection="-268.00000 265.00000" />
+              <PathPointType Anchor="268.00000 265.00000" LeftDirection="268.00000 265.00000" RightDirection="268.00000 265.00000" />
+              <PathPointType Anchor="268.00000 -265.00000" LeftDirection="268.00000 -265.00000" RightDirection="268.00000 -265.00000" />
+            </PathPointArray>
+          </GeometryPathType>
+        </PathGeometry>
+      </Properties>
+      <Image Self="ue6" ItemTransform="1.00000 0 0 1.00000 -268.00000 -265.00000">
+        <Properties>
+          <Profile type="string">
+            $ID/Embedded
+          </Profile>
+        </Properties>
+        <Link Self="ueb" LinkResourceURI="file:imgs/02.5.jpg" />
+      </Image>
+    </Rectangle>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Caption">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>JPEG, Thomas Ruff</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Debunking the idea that every trend is destined to disappear over time, the aesthetic trend that has most powerfully devirtualized the practice of Entropyposting is definitely permanent: tattoos. The aesthetic has translated its hallmarks into messy, twisted, web-like designs that resemble time-worn manuscripts or the glitchy interface of a poorly designed website. In the world of moving images, director Ryan Trecartin embodies the beating heart of entropyposting practices by presenting himself as a leader of chaotic imaginaries and a narrator of worlds of absolute digital schizophrenia, where every scene seems to come straight from a home video shot by teenagers caught in collective hysteria, or from the darkest corners of the deep web.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Ryan Trecartin. I-Be Area. 2007. Digital color video with sound, 128 min. Solomon R. Guggenheim Museum, New York. </Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-2" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>https://www.guggenheim.org/artwork/22506</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> </Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>For the same reasons, meme culture has begun to revolve around cryptic infographics and all-text images. As Biz Sherbert explains in the essay “Intimaxy and the Machine: Godposting – or: New Internet Esotericism”, today's kabbalistic graphics macerate and reject hyper-readability by swallowing perfectly curated, user-friendly blocks of text and turning them into something deliberately hard to read, something viscous enough to tickle the brain's grooves before thought slips over them and is already clicking on the next story.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Biz Sherbert. “Intimacy and the Machine: Godposting – or: New Internet Esotericism.” Various Artists. September 15, 2021. https://various-artists.com/godposting/</Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> In Talk Magazine, writer Alexi Alario, adds, &quot;that's why the unnecessary complexity and baroqueness of these charts are so appealing: because they force us to spend time decoding something.&quot;</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Sans Serif? Out. Deep-fried fonts and overlapping elements? In. And no, sorry, you will not be able to consume this meme in 0.3 seconds. You'll have to wait and read the whole thing before (maybe) you can be rewarded with a dopamine rush.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Figure">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Rectangle Self="uec" StrokeWeight="0" ItemTransform="1.00000 0 0 1.00000 528.00000 -317.00000">
+      <Properties>
+        <PathGeometry>
+          <GeometryPathType PathOpen="false">
+            <PathPointArray>
+              <PathPointType Anchor="-528.00000 -317.00000" LeftDirection="-528.00000 -317.00000" RightDirection="-528.00000 -317.00000" />
+              <PathPointType Anchor="-528.00000 317.00000" LeftDirection="-528.00000 317.00000" RightDirection="-528.00000 317.00000" />
+              <PathPointType Anchor="528.00000 317.00000" LeftDirection="528.00000 317.00000" RightDirection="528.00000 317.00000" />
+              <PathPointType Anchor="528.00000 -317.00000" LeftDirection="528.00000 -317.00000" RightDirection="528.00000 -317.00000" />
+            </PathPointArray>
+          </GeometryPathType>
+        </PathGeometry>
+      </Properties>
+      <Image Self="ue6" ItemTransform="1.00000 0 0 1.00000 -528.00000 -317.00000">
+        <Properties>
+          <Profile type="string">
+            $ID/Embedded
+          </Profile>
+        </Properties>
+        <Link Self="ueb" LinkResourceURI="file:imgs/02.6.jpg" />
+      </Image>
+    </Rectangle>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Caption">
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Figure">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Rectangle Self="uec" StrokeWeight="0" ItemTransform="1.00000 0 0 1.00000 294.00000 -297.00000">
+      <Properties>
+        <PathGeometry>
+          <GeometryPathType PathOpen="false">
+            <PathPointArray>
+              <PathPointType Anchor="-294.00000 -297.00000" LeftDirection="-294.00000 -297.00000" RightDirection="-294.00000 -297.00000" />
+              <PathPointType Anchor="-294.00000 297.00000" LeftDirection="-294.00000 297.00000" RightDirection="-294.00000 297.00000" />
+              <PathPointType Anchor="294.00000 297.00000" LeftDirection="294.00000 297.00000" RightDirection="294.00000 297.00000" />
+              <PathPointType Anchor="294.00000 -297.00000" LeftDirection="294.00000 -297.00000" RightDirection="294.00000 -297.00000" />
+            </PathPointArray>
+          </GeometryPathType>
+        </PathGeometry>
+      </Properties>
+      <Image Self="ue6" ItemTransform="1.00000 0 0 1.00000 -294.00000 -297.00000">
+        <Properties>
+          <Profile type="string">
+            $ID/Embedded
+          </Profile>
+        </Properties>
+        <Link Self="ueb" LinkResourceURI="file:imgs/02.7.jpg" />
+      </Image>
+    </Rectangle>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Caption">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>From the profiles </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Cite">
+    <Content>@3rd.world.elite</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Cite">
+    <Content>@welcometomymemepage</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Cite">
+    <Content>@paranoiastate</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The visual landscape has completely changed. Tired of the vulgar, didactical, and all-too-obvious content that TikTok stars keep shoving down our throats, we now know that we have to aim for closure, restlessness, mystery, for silence. We want to decode, not be decoded.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>In the essay “In Defense of the Poor Image”, published in November 2009 for Issue #10 of e-flux, artist Hito Steyrl defined the implications of sharpness in establishing class privilege, where the &quot;poor&quot; image&quot;, &quot;a rag or a rip, an AVI or a JPEG, a file whose name is deliberately misspelled&quot; is opposed to the privileged position of high resolution, (&quot;Focus is identified as a class position&quot;), legitimizing itself in opposition with the violent dislocation and circulation of audio-visual debris without credibility. It is Hito Steyerl herself who points to an essential change, a major semiotic shift where the phenomenon of poor images fits perfectly:</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>&quot;On the one hand, [the poor image] works against the fetish value of high resolution. On the other hand, this is precisely why it ends up fitting perfectly into an information capitalism that thrives on compressed attention spans, on impression rather than immersion, on intensity rather than contemplation, on previews rather than visions.&quot;</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Born in response to the privatization of online narratives - where every post is commodified and serves to give a very specific piece of information - entropyposting is not structured to signify, but to counter-signify. Seeking to diverge, however, the territory of poor imagery lends itself to the more distinctive dynamics of capitalism: narratives lose matter and gain speed, and their inability to focus makes room for submissiveness.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Restoring importance to the magma of pixels by making fun of those same images and the way they spread so quickly is a way of feeling like the Web Makers of one's own destiny, of restoring the Internet to something fickle, imperfect, failing, and non-corporate. If the promise of Web 3.0 is a user-centred Internet, the natural motion is to break up the interface or to go against it to the point of interference. But if the interface adapts, it grows new limbs, like a multifaceted self-regenerating monster.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Please, beware of your entropyposter friends who suddenly delete all the photos from their social media accounts, change their user name to an endless code of letters and numbers and suddenly share a blurry screenshot of a video game interface or the overexposed photo of a garbage dumpster seen on a back road to their parents' house.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>On the Internet, nothing is truly spontaneous or dictated by instinct. Our profiles are no different from the walls of an art gallery or museum: everything posted is a symbol of something that can be deciphered and understood in its context. Just like a ready-made that acquires new meaning when displayed in a fancy gallery, each of our enigmatic contents hides a secret message. We’re aiming to be obscure, to convince ourselves that we have finally come to understand something that no one else can ever come close to grasp. We have had enough of internet microtrends, the endless little niches that suddenly turn mainstream. We are tired of coming face to face with the fact that we are all, hopelessly, inevitably, the same. We long for individuality, not globalization. And the saddest thing? Instagram is far from saving us. Because nothing, absolutely nothing is too complex for users. And if entropy is the Zeitgeist, there is no secret anymore: we've discovered it already.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold Italic">
+    <Content>Arianna Caserta</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content> (Rome, 2001) is a writer and researcher focusing on online identities, post-internet art, and the intersections between film and internet culture. Her work has appeared in online magazines including Dazed, i-D, 032c and Nero Editions. She holds a BA in Film and Photography, where she wrote a final dissertation about teen nihilism in cinema, and she's currently a MA student in Film Theory, where she investigates the links between cinema and digital culture.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+
+  </Story>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//www.guggenheim.org/artwork/22506?utm_source=chatgpt.com" Name="link" DestinationURL="https://www.guggenheim.org/artwork/22506?utm_source=chatgpt.com" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-2" Name="https://www.guggenheim.org/artwork/22506?utm_source=chatgpt.com" Source="htss-2" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/https%3a//www.guggenheim.org/artwork/22506?utm_source=chatgpt.com</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//www.interviewmagazine.com/culture/search-history-meet-ben-ditto-the-guy-meme-ing-his-way-through-war?utm_source=chatgpt.com" Name="link" DestinationURL="https://www.interviewmagazine.com/culture/search-history-meet-ben-ditto-the-guy-meme-ing-his-way-through-war?utm_source=chatgpt.com" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-1" Name="https://www.interviewmagazine.com/culture/search-history-meet-ben-ditto-the-guy-meme-ing-his-way-through-war?utm_source=chatgpt.com" Source="htss-1" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/https%3a//www.interviewmagazine.com/culture/search-history-meet-ben-ditto-the-guy-meme-ing-his-way-through-war?utm_source=chatgpt.com</Destination>
+    </Properties>
+  </Hyperlink>
+</Document>

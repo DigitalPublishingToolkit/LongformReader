@@ -28,8 +28,9 @@ on this envelope is marked in black: classified. The sender is a
 constellation[^15chapter12_1], X. The contents of the envelope: time.
 
 ![A blue grid around the earth AI-generated content may be
-incorrect.](media/image1.png){width="4.107739501312336in"
-height="2.2891568241469815in"}
+incorrect.](imgs/12.1.png)
+
+<br/> 
 
 Humans exist within spaces that are shaped by their presence, which
 gives these spaces rhythm, form, meaning, size, and continuity. These
@@ -76,11 +77,9 @@ of synchronization but also one of memory and anticipation. The past is
 inscribed within it, manifesting through cultural artifacts,
 environmental scars, generational trauma and historical inequities.
 
-![A close up of a rock AI-generated content may be
-incorrect.](media/image2.png){width="4.156626202974628in"
-height="2.313637357830271in"}
+![Chronosphere (2024), still image from the video](imgs/12.2.png)
 
-Chronosphere (2024), still image from the video
+<br/> 
 
 When I try to envision what the "chrono" or temporal aspect encapsulates
 within this sphere, I realise how constrained I am by the limitations of
@@ -129,13 +128,9 @@ cultures, natural environments and artificial intelligence, and the
 micro and macro scales of existence are interconnected in time, forming
 a dynamic and evolving planetary continuum.
 
-![A group of people in a room AI-generated content may be
-incorrect.](media/image3.png){width="2.4726804461942256in"
-height="3.139750656167979in"}
+![Illustration from the “Anti Zoom” by Bruno Latour, 2014](imgs/12.3.png)
 
-Illustration from the “Anti Zoom” by Bruno Latour, 2014
-
-## 
+<br/> 
 
 ## NEW SPACE
 
@@ -164,9 +159,9 @@ and can afford the immediacy. Low-Earth orbit is becoming commercialized
 as the frontier for a planetary spectacle of simultaneously unfolding
 scalar narratives.
 
-![A city with a circular structure AI-generated content may be
-incorrect.](media/image4.png){width="3.7108431758530185in"
-height="2.1518449256342955in"}
+![](imgs/12.4.png)
+
+<br/> 
 
 The terrestrial order is transitioning into a virtual one, where the
 colonization and extraction from physical spaces merges with the
@@ -236,9 +231,9 @@ timeless, incorporeal framework of the camera obscura and became
 embedded within another apparatus—the unstable physiology and
 temporality of the human body.
 
-![A black screen with blue text AI-generated content may be
-incorrect.](media/image5.png){width="3.9509798775153104in"
-height="1.8853171478565178in"}
+![](imgs/12.5.png)
+
+<br/> 
 
 In August 1966, Lunar Orbiter 1 captured the first photograph of Earth
 from lunar orbit, marking the first time an image of Earth was taken by
@@ -301,9 +296,9 @@ their ability to deliver timely data to inform military strategies and
 media coverage. Their constellations function like a living organism.
 Instead of merely seeing our planet, they sense it through time.
 
-![A screenshot of a satellite image AI-generated content may be
-incorrect.](media/image6.png){width="3.9270833333333335in"
-height="2.0914577865266843in"}
+![](imgs/12.6.png)
+
+<br/> 
 
 Synthetic Aperture Radar (SAR) imagery is a remote sensing technology
 produced from low Earth orbit. It operates by transmitting signals to
@@ -367,17 +362,12 @@ surfaces as video streams. Processed by computer vision and machine
 learning, these systems transform geospatial data into the surface of
 the image and further - into future predictive tools. He writes:
 
-> “As aerial images become data, then, the Earth is operationalised as a
-> legible screen, where the predicted predates the perceived.”
+> As aerial images become data, then, the Earth is operationalised as a
+> legible screen, where the predicted predates the perceived.
 
-![A collage of images of a stream AI-generated content may be
-incorrect.](media/image7.png){width="3.674699256342957in"
-height="2.3083923884514435in"}
+![Landscape Prediction: An Earthology of Moving Landforms, Abelardo Gil-Fournier](imgs/12.7.jpg)
 
-Landscape Prediction: An Earthology of Moving Landforms, Abelardo
-Gil-Fournier
-
-## 
+<br/>  
 
 ## TACHYON
 
@@ -449,10 +439,9 @@ which effectively becomes our future. In this version of the future,
 certain events have already transpired, and what we receive is merely
 their documentation—Tachyonic Data.
 
-![](media/image8.png){width="3.6062674978127736in"
-height="2.4096391076115484in"}
+![“Tachyoness”, installation view, Munch Museum, 2022](imgs/12.8.png)
 
-“Tachyoness”, installation view, Munch Museum, 2022
+<br/>  
 
 Instead of past-present-future we are witnessing a shift to
 past-future-present: past is being analyzed into a speculative future
@@ -555,13 +544,9 @@ changes in the environment. In InSAR, time is not just a measure—it is
 the essence of how space, movement, and change are represented and
 understood.
 
-![A metal structure with a picture frame AI-generated content may be
-incorrect.](media/image9.png){width="3.4487784339457566in"
-height="2.303643919510061in"}
+![Sensing The Near Real Time, Digital screens, stainless steel, simulated nuclear waste glass, soil. Installation photography: Øystein Thorvaldsen/Henie Onstad Kunstsenter](imgs/12.9.jpg)
 
-Sensing The Near Real Time, Digital screens, stainless steel, simulated
-nuclear waste glass, soil. Installation photography: Øystein
-Thorvaldsen/Henie Onstad Kunstsenter
+<br/>  
 
 On March 4, 2022 Russian forces attacked the Zaporizhzhia Nuclear Power
 Plant, Europe's largest nuclear facility.[^15chapter12_23] This act of nuclear
@@ -588,13 +573,11 @@ are lost forever."[^15chapter12_27] Today, natural resources and ecosystems are
 being deliberately destroyed, resulting in enduring environmental damage
 that affects communities for generations. And this unperceivable on its
 scale to humans, longer than human trauma becomes a weapon by
-itself.![](media/image10.png){width="3.088234908136483in"
-height="2.4976859142607175in"}
+itself.
 
-FA satellite image of the bottom of Kakhovka reservoir, now covered with
-newly grown willow forests. I have obtained this image with the
-Sentinel-2 L2A satellite’s imager, which detects light reflected by
-vegetation.
+![FA satellite image of the bottom of Kakhovka reservoir, now covered with newly grown willow forests. I have obtained this image with the Sentinel-2 L2A satellite’s imager, which detects light reflected by vegetation.](imgs/12.10.png)
+
+<br/>  
 
 In “Pollution as a Weapon of War,” Svitlana Matviyenko examines the
 layered impacts of war on ecosystems, focusing on both immediate and
@@ -612,15 +595,13 @@ reality of war, producing what Mbembe calls “death-worlds,” where
 populations endure terrible conditions that reduce life to a state of
 mere survival. Svitlana Matviyenko writes:
 
-> “Paradoxically, extreme cases of fast violence in war may also be made
+> Paradoxically, extreme cases of fast violence in war may also be made
 > ‘invisible,’ but by their overwhelming number and their capacity to
 > produce shock and trauma: witnesses of war and war crimes often report
 > that their memories collapse days of violence into one
 > undifferentiated continuity. Together, cases of fast and slow violence
 > compose the chaotic reality of war, whose production of necropolitical
-> ‘death-worlds’ does not lend itself to easy comprehension.”
-
-## 
+> ‘death-worlds’ does not lend itself to easy comprehension.
 
 ## MEMORY, ANTICIPATION, AND COEXISTENCE
 
@@ -657,7 +638,7 @@ and a tangible reality, invites us to view time as a collective and
 dynamic environment shaped by the choices we make in crafting the world
 we share.
 
-***Lesia Vasylchenko** is a Ukrainian artist currently based in Norway.
+***Lesia Vasylchenko*** *is a Ukrainian artist currently based in Norway.
 She works across a range of media, including video, photography,
 installation, and curatorial. Vasylchenko explores encounters between
 visual cultures, media technologies, and chronopolitics. She is the
@@ -669,7 +650,7 @@ National Academy of the Arts. Vasylchenko is the recipient of the
 Sandefjord Kunstforening Art Prize (2023) and is currently nominated for
 the PinchukArtCentre Prize (2025). Her work is part of the collection of
 the Museum of Contemporary Art KIASMA / Finnish National Gallery in
-Helsinki.*
+Helsinki*.
 
 [^15chapter12_1]: A space satellite constellation is a group of satellites that work
     together in a coordinated way to provide continuous coverage or

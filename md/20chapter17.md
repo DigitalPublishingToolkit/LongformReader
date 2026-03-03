@@ -17,7 +17,7 @@ Rights: CC BY-NC 4.0
 ...
 
 
-# Youmaxxing*:* Masculinity, the RedPill, and the Online Self-Improvement Culture. Journey into the Italian Manosphere.
+# Youmaxxing: Masculinity, the RedPill, and the Online Self-Improvement Culture
 
 ## Francesco Barchiesi
 
@@ -77,7 +77,7 @@ wardrobe and redo your look. They take you shopping, to the hairdresser,
 to the cosmetician. They buy you clothes, fix them on you, comb your
 hair, tell you what to wear for the day, and force you to smile to make
 an impression.[^20chapter17_4] The mother’s caring gaze, worrying about *how you are
-seen* []{#OLE_LINK1 .anchor}— except now you are paying for it, and this
+seen* — except now you are paying for it, and this
 attention is provided as a service.
 
 PLA is embodied by the two founders, Christian and Steve. On their
@@ -127,9 +127,9 @@ fundamental continuity echoes between these two discourses: there is one
 male narrative of permanent self-improvement, oriented towards the
 attainment of the same *object of valor* (to put it in semiotic terms).
 
-![A collage of a couple of people AI-generated content may be
-incorrect.](media/image1.png){width="6.268055555555556in"
-height="2.129861111111111in"}
+![](imgs/17.1.png)
+
+<br/>
 
 The pick-up artist (PUA) movement emerged with the appearance of the
 first ‘seduction manuals’ as a popular sub-genre on the bedrock of
@@ -253,9 +253,9 @@ more direct precursor in the mythopoetic movements of the 1990s,
 specifically the 'deep masculine' research groups inspired by Robert
 Bly’s *Iron John*.
 
-![A group of men in armor AI-generated content may be
-incorrect.](media/image2.jpeg){width="2.2173917322834646in"
-height="1.7243372703412074in"}
+![](imgs/17.2.jpg)
+
+<br/>
 
 Quite a tangible representation of the neoliberal turn: what starts as a
 political experience capsizes into the self-help business-culture within
@@ -324,9 +324,9 @@ very existence of the expression “broicism” itself; [^20chapter17_21] why so
 like Andrew Tate refers to stoic Marcus Aurelius. Tate's dark flower
 blooms from all this wide sowing.
 
-![A statue of a person with a beard AI-generated content may be
-incorrect.](media/image3.jpg){width="6.268055555555556in"
-height="3.5256944444444445in"}
+![](imgs/17.3.jpg)
+
+<br/>
 
 It was December 2022 when former kickboxing champion Andrew Tate and his
 brother Tristan were arrested by Romanian authorities. They have been
@@ -437,9 +437,9 @@ those with ‘hunter’s eyes’ from the prey, which is the ‘lamb’.[^20chap
 Sticking to this parameter, not even Jacob Elordi is safe (he is
 actually poorly rated in the forums).
 
-![A collage of a person making a face AI-generated content may be
-incorrect.](media/image4.jpg){width="5.654847987751531in"
-height="3.1808508311461066in"}
+![](imgs/17.4.jpeg)
+
+<br/>
 
 But this is just *softmaxxing*. On the other hand, *hardmaxxing*
 involves much more invasive practices, from official plastic surgery —
@@ -466,7 +466,7 @@ tainted by racism. Caucasian ethnicity is considered to be the “most
 valuable”, and users suggest that non-white people should embrace
 “whitemaxxing” through makeup and skin treatments. Asian males, widely
 considered the least attractive to Western heterosexual women within
-this community, are called ‘[currycels](https://incels.wiki/w/Currycel)’
+this community, are called ‘currycels’
 after their ethnicity, and they represent a significant portion of the
 user base in incels forums, especially in the UK (the legal country of
 the largest online community, ‘incel.is’), where there is a major
@@ -512,10 +512,9 @@ reference to the RedPill Theory and the *inceldom* ever made explicit.
 Shami has about half a million followers on Instagram by now, and his
 community has more than three thousand (paying) members.
 
-![Image may contain Chad meme Architecture Building Spire Tower Adult
-Person Face Head City Metropolis Urban and Clock
-Tower](media/image5.png){width="5.161672134733158in"
-height="3.8715398075240595in"}
+![](imgs/17.5.png)
+
+<br/>
 
 Studies on post-feminism have since long focused on the concept of
 “aesthetic labor”,[^20chapter17_46] the industrious and ceaseless work of looking
@@ -590,9 +589,9 @@ boisterous than what the Beta Uprising of incels used to be (see Elliot
 Rodger, Alek Minassian, and the other massacres),[^20chapter17_54] but no less
 alarming in the bigger picture.
 
-![A collage of images of people using computers AI-generated content may
-be incorrect.](media/image6.jpg){width="5.555555555555555in"
-height="3.1805555555555554in"}
+![](imgs/17.6.jpg)
+
+<br/>
 
 If Andrew Tate’s story illustrated the mainstreaming of an ideology, in
 the case of Mogwarts and these trends on TikTok we are also clearly
@@ -657,12 +656,11 @@ target as well.[^20chapter17_61]
 
 The crisis is latent, but endemic.
 
-![A black t-shirt with a person in a suit and a flag AI-generated
-content may be
-incorrect.](media/image7.jpg){width="2.4060859580052494in"
-height="2.65in"}
+![](imgs/17.7.jpg)
 
-***Francesco Barchiesi** is a full-time PhD student at the University of
+<br/>
+
+***Francesco Barchiesi*** *is a full-time PhD student at the University of
 Birmingham, currently digging into the world of incel culture. Having
 spent most of his life in Bologna (Italy) navigating the clouds of
 Philosophy and Semiotics, his research is essentially an excuse to

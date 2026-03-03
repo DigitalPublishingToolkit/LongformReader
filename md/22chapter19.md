@@ -21,7 +21,7 @@ Rights: CC BY-NC 4.0
 
 ## Anielek Niemyjski 
 
-### Originally Published July 18^th^, 2025
+### Originally Published July 18th, 2025
 
 I'm 13 and my best friend from primary school asks me if I have an
 account on Tumblr. I do, but I'm not sure if I want her to know. She
@@ -43,13 +43,13 @@ coming-of-age movies. I frantically scroll through my own blog as if
 seeing it for the first time, suddenly aware of how performative my pain
 looks when viewed through someone else's eyes.
 
-![A person looking down with his hands on his chest AI-generated content
-may be incorrect.](media/image1.gif){width="5.502158792650919in"
-height="2.9754090113735785in"}\
-\
-![A close up of a book AI-generated content may be
-incorrect.](media/image2.jpeg){width="4.3688527996500435in"
-height="3.5050404636920387in"}
+![](imgs/19.1.png)
+
+<br/>
+
+![](imgs/19.2.jpg)
+
+<br/>
 
 In the next couple of years, I will forget all about Tumblr, and I will
 slowly stop reblogging. I will migrate to different platforms with my
@@ -85,9 +85,9 @@ and asking strangers on the internet how to commit suicide, to suicide
 notes, and a forum where visitors share their struggles, jokes,
 experiences, and offers of help.
 
-![A red room with a red wall and a red background AI-generated content
-may be incorrect.](media/image3.png){width="6.268055555555556in"
-height="3.092361111111111in"}
+![](imgs/19.3.png)
+
+<br/>
 
 While exploring the domain of mouchette.org, I noticed myself getting
 lost in the same familiar feelings that, up until now, were intrinsic to
@@ -103,22 +103,21 @@ difference was Mouchette’s website being a carefully constructed
 artwork, and our Tumblr blogs were most often unconscious, messy
 autofictions.
 
-![A screenshot of a movie AI-generated content may be
-incorrect.](media/image4.png){width="6.268055555555556in"
-height="3.821527777777778in"}
+![](imgs/19.4.png)
+
+<br/>
 
 Lauren Berlant’s concept of *intimate publics* helps explain Tumblr’s
-ecosystem of shared vulnerability. In The Female Complaint, Berlant
+ecosystem of shared vulnerability. In The Female Complaint[^22chapter19_1], Berlant
 argues that:
 
 > an intimate public is an achievement. Whether linked to women or other
 > nondominant people, it flourishes as a porous, affective scene of
 > identification among strangers that promises a certain experience of
 > belonging and provides a complex of consolation, confirmation,
-> discipline, and discussion about how to live as an x.[]{#_ftnref1
-> .anchor}[^22chapter19_1]
+> discipline, and discussion about how to live as an x.
 
-*Tumblr operationalized this: the platform’s reblog function turned
+Tumblr operationalized this: the platform’s reblog function turned
 intimate, personal suffering into viral, communal texts. Every
 disturbing post wasn’t only a cry for help, but a template others could
 adapt. Notes under graphic self-harm posts functioned as a perverse
@@ -128,7 +127,7 @@ party gifs with confessions about your eating disorder, to make your
 suffering palatable enough to be consumed by strangers. We weren’t
 expressing sadness; in reality, we were competing in what could only be
 called the Trauma Olympics, where visibility passed for validation, and
-the most graphic posts received the most notes.*
+the most graphic posts received the most notes.
 
 This tension between real pain and performed pain is where Mouchette
 becomes most illuminating. In an interview with Annet Dekker, Neddam
@@ -174,7 +173,7 @@ identity formation into engagement data.
 
 I want to end this essay with a \#hopecore message I found while
 perusing the suicide forum of mouchette.org. I am leaving you with a
-message from Loraen O. D. from the 10^th^ of May 2010.
+message from Loraen O. D. from the 10th of May 2010.
 
 > Live to love deary if nothing else. Pleasing to all and as addictive
 > as a smile, love is all you need. All other emotion crumbles before
@@ -194,7 +193,7 @@ message from Loraen O. D. from the 10^th^ of May 2010.
 > in. To start you off and to end my note I'd like to say: Good luck,
 > have fun, and I Love You!
 
-***Anielek Niemyjski** is an independent researcher based in Amsterdam.
+***Anielek Niemyjski*** *is an independent researcher based in Amsterdam.
 They are an Artistic Research graduate of the Academy of Fine Arts in
 Warsaw. Drawing on digital nostalgia and online archives, their research
 practice explores collective memory, identity, and resistance in

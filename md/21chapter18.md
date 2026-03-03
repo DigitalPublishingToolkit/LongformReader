@@ -17,11 +17,11 @@ Rights: CC BY-NC 4.0
 ...
 
 
-# Condemned to Rot Alone: The Incel Paradox of Collective Loneliness
+#Condemned to Rot Alone: The Incel Paradox of Collective Loneliness
 
-## Kate Babin
+##Kate Babin
 
-### Originally published on September 5th, 2023
+###Originally published on September 5th, 2023
 
 > “Whether we learn how to love ourselves and others will depend on the
 > presence of a loving environment. Self-love cannot flourish in
@@ -48,16 +48,16 @@ simultaneously experience debilitating loneliness? They are attempting
 to bond over a specific sense of mutual longing, yet it is clear that
 their attempts at connection over a shared loneliness plunges the
 members of this incel forum deeper into isolation, attaching their
-identity to a sense of failure they can’t escape from.\
-\
+identity to a sense of failure they can’t escape from.
+
 They are alone and always will be.
 
-But how can they be lonely together?\
-\
-![A drawing of two men AI-generated content may be
-incorrect.](media/image1.jpeg){width="4.333708442694663in"
-height="3.940476815398075in"}\
-\
+But how can they be lonely together?
+
+![](imgs/18.1.jpeg)
+
+<br/>
+
 It's not a new or radical statement to say that many online spaces
 populated by incels are volatile. With extreme misogyny on full display,
 infused with hostility towards those both within and outside of the
@@ -71,8 +71,8 @@ for its members to connect with one another in a meaningful way? In a
 way that would help them feel less alone. I decided to explore this
 paradox of collective loneliness by looking at a popular incel forum,
 how the affordances of the site and intricacies of the ideology
-influence members’ behavior toward each other.\
-\
+influence members’ behavior toward each other.
+
 In a VICE News video titled “This Is What The Life Of An Incel Looks
 Like”, a reporter spends a day with a young guy named Joey, who
 identifies as an incel. We see him laughingly interacting with fellow
@@ -90,25 +90,23 @@ podcast interview, equated the community to a black hole. He said that
 joining the subculture is a downward spiral that sucks you in,
 perpetuating ideologies born from trauma, depression and abuse. Men
 whose loneliness pushes them to seek solace online are robbed of the
-comfort that collectivity is meant to provide.\
-\
+comfort that collectivity is meant to provide.
+
 In a group of over 20K users who presumably share each other's desperate
 need to connect with others, what is it about the space that plunges its
 members deeper into isolation? An isolation that has been linked to
 multiple mass murderers and suicides within the community. What aspects
 of the forum perpetuate the negative affect that ultimately leads
-members of the community to act out in these ways?\
-\
-![A person sitting at a computer AI-generated content may be
-incorrect.](media/image2.jpeg){width="6.268055555555556in"
-height="2.4819444444444443in"}
+members of the community to act out in these ways?
 
-## 
+![](imgs/18.2.jpeg)
+
+<br/>
 
 ## The Incel
 
-Before answering these questions, let me first set the stage.\
-\
+Before answering these questions, let me first set the stage.
+
 The incel community does not exist in a vacuum. It is part of a larger
 online network of men-centered groups aptly named ‘the manosphere’ that
 consists of varying degrees of anti-feminist collectives. The belief
@@ -125,8 +123,8 @@ with women is determined by their social status or ‘sexual market value’
 not deemed conventionally attractive, are unable to form romantic or
 sexual relationships with women. Bluepilled men are ignorant, delusional
 normies[^21chapter18_5] that are continuously manipulated by promiscuous women for
-their money and resources.\
-\
+their money and resources.
+
 In 2016 journalist Stephen Marche spent time on the now quarantined
 subreddit r/TheRedPill (TRP) and summed up the essence of the manosphere
 in a surprisingly poetic way for his article *Swallowing the Red Pill: a
@@ -158,14 +156,13 @@ consider ‘the feminist delusion’. In short, the beliefs perpetuated on
 the forum push the anti-feminist narrative that women empowerment and
 the subsequent financial independence that many women have gained has
 ruined the romantic prospects for men who do not fit a very specific
-idea of physical attractiveness and masculinity.\
-\
-\
-The Blackpill
+idea of physical attractiveness and masculinity.
 
-![A cartoon of a frog holding a pill AI-generated content may be
-incorrect.](media/image3.jpeg){width="4.416666666666667in"
-height="2.8190135608048994in"}
+##The Blackpill
+
+![](imgs/18.3.jpeg)
+
+<br/>
 
 In a world of normies who are either redpilled or bluepilled, the incel
 (within the aforementioned forum) is blackpilled. Being blackpilled
@@ -186,15 +183,13 @@ Blackpillers, according to the Incel Wiki Blackpill page, believe that
 unconstrained mating context, as women are assumed to choose based on
 looks rather than personality or effort.” Basically, young men embracing
 the blackpill leads to a biological determinist influenced nihilism that
-is rampant on the forum.\
-\
-\
-\
-The Wiki
+is rampant on the forum.
 
-![A close-up of a sign AI-generated content may be
-incorrect.](media/image4.png){width="6.268055555555556in"
-height="1.6208333333333333in"}
+##The Wiki
+
+![](imgs/18.4.png)
+
+<br/>
 
 To understand more about the various acronyms and the history of
 inceldom I perused the Incel Wiki, which is a rich source of incel
@@ -211,13 +206,14 @@ holes*. As well as the one about ‘Femoids’ or ‘foids’[^21chapter18_13] t
 to women as toilets and includes charming memes like the one below.
 Despite this, it has been incredibly helpful for understanding incel
 related slang and history, as well as providing memes and interesting
-visuals related to inceldom.\
-![A person lifting a barbell AI-generated content may be
-incorrect.](media/image5.png){width="4.583333333333333in"
-height="3.341781496062992in"}\
-Image from Incels.wiki - Femoid\
-Lonely Together\
-\
+visuals related to inceldom.
+
+![Image from Incels.wiki - Femoid](imgs/18.5.png)
+
+<br/>
+
+##Lonely Together
+
 In November 2017, the community based network Reddit implemented a new
 policy that prohibited incitement of violence on the platform. The 40K
 member subreddit /r/incels was banned and users moved to more heavily
@@ -230,8 +226,8 @@ This is where some believe the essence of /r/incels or men "howling
 their misery" within "the digital ruins of exploded masculinity"
 originated from. /r9k/ was and still is used for sharing original[^21chapter18_15]
 personal anecdotes that are often bleak and involuntary celibate
-adjacent.\
-\
+adjacent.
+
 This website that was created in response to Reddit's mass banning of
 violent subreddits is reminiscent of early internet forums. The default
 style is Dark Mode and the color scheme is dark blue with white text.
@@ -243,8 +239,8 @@ to the threads which are ranked by number of responses. There is a
 *Rules and FAQ* page where the admins have outlined who can and cannot
 join the forum, what sort of behaviour will not be tolerated and what
 kind of content is allowed to be posted. Some fun cherry picked examples
-are:\
-\
+are:
+
 **Women and LGBT Individuals (Not allowed):** Banned on sight, no
 exceptions. This is a heterosexual male-only forum.
 
@@ -258,10 +254,10 @@ an exception, as the community has voted to allow it.
 **Do not troll, bait, proselytize, post platitudes, mass tag users, or
 necropost** (i.e., do not post in inactive threads older than \~1 month
 unless you have something to contribute - plain agreement, mere quoting,
-and meaningless one-liners don't qualify as contributing).\
-\
-Another rule worth noting:\
-\
+and meaningless one-liners don't qualify as contributing).
+
+Another rule worth noting:
+
 **Do not persecute, harass, or attack others.**
 
 This rule is clearly not followed or enforced by moderators. One of the
@@ -272,8 +268,8 @@ lacked any sense of camaraderie, or as Marche put it, fellow-feeling.
 Incels are just plain mean to each other. Not only did I see these
 interactions play out on the forum but I also saw a lot of posts made by
 incels themselves complaining about this open hostility towards their
-own ‘brocels’.\
-\
+own ‘brocels’.
+
 Incels are no strangers to self-loathing, this is clear just by
 considering an initial description of the community and the concept of
 involuntary celibacy itself. However, it was interesting to see the way
@@ -282,15 +278,15 @@ similar, if not the same, as them. For incels self loathing doesn’t just
 morph into an extreme hatred of women and a sense of utter hopelessness.
 This hatred is also projected heavily onto other incels within their
 community; creating such a hostile digital environment that engaging
-with these forums can be considered a form of digital self-harm.\
-\
+with these forums can be considered a form of digital self-harm.
+
 During my time as a lurker on the forum, I identified four main factors
 that prevent supportive connection between members on the forum,
 perpetuating their low self esteem and deep feelings of isolation:
 **Othering the in-group, clogging up the forum, asserting masculinity
-through shitposting** and **fatalism.\
-\
-**Othering the In Group
+through shitposting** and **fatalism.**
+
+##Othering the In Group
 
 **A.K.A. “everyone is fakecel except me theory”**
 
@@ -307,8 +303,8 @@ the out group and ‘other’ by positioning themselves as oppressed and
 marginalized by society. Identity and self-image are often created
 through the concept of juxtaposing oneself against the ‘other’ and
 constructing the self through sameness within the community. At the same
-time the ‘other’ is constructed through conceptions of difference.\
-\
+time the ‘other’ is constructed through conceptions of difference.
+
 Incels, however, have constructed their identity around the ‘other’
 possessing similarities that incels lack. A common hypocritical theme
 within the community is the idea that all women think and act a certain
@@ -319,8 +315,8 @@ vernacular reflects that. The ‘us’ versus ‘them’ mentality manifests in
 destructive ways. While they ‘other’ themselves they manage to fracture
 their collectivity with very strict definitions of who can be considered
 a truecel[^21chapter18_18] those who are meant to be a part of the in-group and find
-community instead become excluded with increasing hostility.\
-\
+community instead become excluded with increasing hostility.
+
 Some fakecels[^21chapter18_19] (seriously check out the Incel Wiki Glossary for
 definitions if you’re lost, there is only so much I can do) are
 considered fake because they are either knowingly or unknowingly
@@ -332,8 +328,8 @@ sometimes due to their standards being too high for sexual or romantic
 partners, claiming a true incel would ‘get with’ any woman if only they
 could. Other reasons may be that they believe a volcel could
 ‘ascend’[^21chapter18_21] if they relocated to a larger city[^21chapter18_22] or worked on their
-physical appearance.[^21chapter18_23]\
-\
+physical appearance.[^21chapter18_23]
+
 Truecels are those who have no hope of ascension. There is no amount of
 exercise, plastic surgery or money that will ever make them attractive
 to women, this is often attributed to facial structure, height or a
@@ -341,26 +337,25 @@ disability. This belief that the other self-defined incels in the
 community are not actually experiencing the same degree of social
 rejection and loneliness as those who consider themselves truecels
 perpetuates negative affectivity around the interactions members have
-with each other on the forum.\
-\
+with each other on the forum.
+
 While the forum states its purpose as being to **“talk to people just
 like you”,** many incels are convinced that their fellow forum members
 are nothing like them and instead are there due to their own
-self-inflicted failures or lack of self-awareness.\
-\
-\
-Failed Normies
+self-inflicted failures or lack of self-awareness.
 
-![A screenshot of a computer AI-generated content may be
-incorrect.](media/image6.png){width="6.268055555555556in"
-height="1.3563735783027122in"}
+##Failed Normies
+
+![](imgs/18.6.png)
+
+<br/>
 
 The legitimacy of one’s inceldom is impossible to prove in this
 pseudonymous environment. The cognitive affordances of the forum have a
 much looser definition of what constitutes an incel. Describing an incel
 under the *Membership* section of the *FAQ* as “A man (18+) who desires
-a romantic relationship but is unable to enter one.”\
-\
+a romantic relationship but is unable to enter one.”
+
 Though this becomes rather subjective when actually signing up to the
 forum, the registration page requires the aspiring member to explain
 their situation, asking “Why do you want to join? Are you incel? Tell us
@@ -368,26 +363,27 @@ about yourself. If you are lazy here you will be rejected.” What is
 considered truly incel is then in the hands of the admins that are
 approving members. However, the authority of this decision is not a
 guarantee that the new member will be accepted by the other members as
-an actual true incel once a member of the forum.\
-\
-OK GrAYcel\
+an actual true incel once a member of the forum.
+
+##OK GrAYcel
+
 The forum allows users to pick their own username, tagline and avatar.
 Few rules exist for avatars[^21chapter18_24] and usernames, the main one being that
 usernames should be masculine sounding, specifically they must “create
 the kind of username that when you yourself look at it or other’s view
 it, that it gives off the vibe that a masculine heterosexual male
 created the name, otherwise your new account will be rejected
-effectively banning you from the website.”\
-\
+effectively banning you from the website.”
+
 Beyond being associated with a username, an avatar and a tagline, forum
 members have ranks which are determined by the number of times they have
 posted on the site. According to the Rules and FAQ page the ranking and
-starring of members functions as stated:\
-\
-![A blue background with white text AI-generated content may be
-incorrect.](media/image7.png){width="6.268055555555556in"
-height="0.7861111111111111in"}\
-\
+starring of members functions as stated:
+
+![](imgs/18.7.png)
+
+<br/>
+
 The concept of a graycel derives from this ranking system. If a member
 has any number of posts below 500, their username and stars are
 displayed as gray and their title below their username is listed as
@@ -400,8 +396,8 @@ popular insult and there are posts by members that point out how
 unsupportive that environment can be for new members or members who
 choose not to post excessively. One of the comments I came across during
 my time on the forum addressed the way members respond to newer or naive
-members by belittling them, writing:\
-\
+members by belittling them, writing:
+
 *“Calling naive members GrAYcels/cucks instead of correcting them, so
 that some of us had finally something to feel good about (number of
 shitposts and time spent on a forum for people who cannot succeed in
@@ -426,8 +422,8 @@ support were graycels who have since been banned. This contributes to
 how the site cannot function as the support forum it claims to be and
 why members seeking company on these forums continue to deal with
 debilitating loneliness despite each other’s company. There is no room
-for compassion beyond distrust.\
-\
+for compassion beyond distrust.
+
 **"Yeah, something's definitely not right with practically ALL incel
 spaces."**
 
@@ -442,9 +438,9 @@ hostility and distrust between members. It further complicates the ‘us’
 versus ‘them’ dynamic that often shapes and empowers online subcultures.
 There is no clear ‘in-group’ that members can latch onto which causes
 unstable identities as well as low quality relationships within the
-forum.\
-\
-Sex Havers and LARPers
+forum.
+
+##Sex Havers and LARPers
 
 One concern of those within the community are LARPers. LARP or Live
 Action Roleplay often refers to acting out role playing games with real
@@ -453,8 +449,8 @@ registered members of an incel forum that are actually ‘sex havers’
 impersonating incels. Members of the forum are similarly concerned with
 false flagging and astroturfing, which is when fakecels join the forum
 and create posts intended to make the community look bad. Incel Wiki
-claims that:\
-\
+claims that:
+
 *“Users of r/IncelTears*[^21chapter18_25] *and other incelphobic terrorist groups
 have a tendency to take part in astroturfing by posting false flags
 \[in\] communities in the incelosphere to make incels look bad.”*
@@ -471,8 +467,8 @@ to the LARPers in his post, stating: **“You should look elsewhere, here
 you only get in the way of people who want to find solutions to a
 problem that is destroying them physically and mentally every day.”**
 The majority of replies on that specific thread were agreeing with this
-sentiment.\
-\
+sentiment.
+
 Incels who are seeking to quell their social loneliness by co-ruminating
 with peers are instead bombarded with ridicule and irrelevant
 inflammatory statements riddled with slurs. Members believe that those
@@ -487,8 +483,8 @@ that many of the active members of the forum are fakecels with ulterior
 motives. He wrote: “I bet a lot of the guys are here to feed on our
 suffering like parasites.” The idea that these types of forums are
 populated by users with bad intentions is something Laura Bates
-addresses in Men Who Hate Women:\
-\
+addresses in Men Who Hate Women:
+
 *“You really feel the contradictions of the community: vulnerable,
 unhappy men mingling closely with men determined to wreak as much
 destruction as possible. You watch as people in urgent need of mental
@@ -502,9 +498,9 @@ other on the majority of threads. This inability to trust one another
 feeds into the already hostile environment regardless of if those who
 are posting are LARPing or not. The forum is rife with distrust and
 paranoia which impedes collectivity and community formation in a serious
-way.\
-\
-Clogging Up the Forum
+way.
+
+##Clogging Up the Forum
 
 **A.K.A. “they just make the sewers more miserable”**
 
@@ -517,8 +513,8 @@ gamified approach to their pseudonymous identities. Although the Rules
 and FAQ page attempts to account for this by not allowing “low effort
 posting” in the main subforums (The Lounge subforum is a free for all),
 this rule is rarely upheld. Low effort posting is defined by the forum
-as:\
-\
+as:
+
 *"Content that is unrelated to a thread, posted for memetic value, or
 spam-like in nature. Examples: an emote reply, quoting someone and
 adding nothing else, one-word replies, and many other variations. The
@@ -547,9 +543,9 @@ refuge from the outside world that it claims to be. On the same thread
 members attributed the forum’s problems to fakecels, graycels and
 larpers, one comment placed the blame on postmaxxers. It read: **“I will
 never understad \[sic\] why they feel good for having a high post count.
-They just make the sewers more miserable.”\
-\
-**In the same 2019 Incel podcast interview, Galante claimed that
+They just make the sewers more miserable.”**
+
+In the same 2019 Incel podcast interview, Galante claimed that
 although the site is heavily moderated to prevent it, there are
 inevitably going to be posts that flood the site and as he puts in, clog
 up the forum. He attributes this to users seeking instant gratification,
@@ -569,8 +565,8 @@ get moved to the top of the page are those with the most replies. This
 is another affordance of the site that encourages excessively posting
 low effort replies or creating posts with controversial topics that will
 attract a lot of vitriol. Admins disabling the ‘like’ feature in order
-to discourage low effort posting was not successful.\
-\
+to discourage low effort posting was not successful.
+
 The user ranking system by number of posts, lack of moderation within
 threads and the fact that posts with the most replies are the most
 visible on the site enables the postmaxxing that disrupts any real
@@ -581,7 +577,7 @@ obtain validation and attention. This behavior within the threads
 overpowers much of the potential social support and as a result
 perpetuates the negative affect between members.
 
-## Shitposting
+##Shitposting
 
 **A.K.A. “(racial slur) who told you that this hellhole of a website is
 a self help group?”**
@@ -602,9 +598,9 @@ to elicit a response, all under the guise of humor and irony. One member
 expressed his disappointment in the forum’s lack of sociality due to
 this use of irony stating:
 
-![A screenshot of a forum AI-generated content may be
-incorrect.](media/image8.png){width="6.268055555555556in"
-height="2.379861111111111in"}
+![](imgs/18.8.png)
+
+<br/>
 
 This post was immediately followed by a comment proving the original
 poster's point. A simple angry wojak which is an emote titled by the
@@ -639,8 +635,8 @@ and misogynistic discourse. She wrote about how the affordances of these
 forums encourage shitposting and therefore amplifies “new articulations
 of aggrieved manhood.”[^21chapter18_30] This aggrieved manhood is an aspect of the
 community that is not conducive to emotional support, compassion and
-connection.\
-\
+connection.
+
 Forum admin Galante actually participated in the interviews conducted by
 Daly and Reed under his Alexander Ash pseudonym. His perspective shines
 a light on the value of forum governance and the considerable impact of
@@ -657,9 +653,9 @@ threads has led to the most vitriolic posts getting the highest
 visibility and therefore engagement on the forum, this affordance has
 not been modified since the forum’s creation in 2017, pointing to the
 fact that rational discourse and community building might not be the
-true intention of those running the site.\
-\
-Real Men Shitpost
+true intention of those running the site.
+
+##Real Men Shitpost
 
 **A.K.A. “Leave that kumbaya shit for someone that care”**
 
@@ -681,8 +677,8 @@ was immediately met with toxicity.”** While Daly and Reed suggest that a
 dominant masculinity within the forum creates a shared social support, I
 disagree. This intense attachment to toxic masculinity inhibits social
 support and fractures collectivity within the community by default.
-Bates connected this issue to the wider manosphere when she wrote:\
-\
+Bates connected this issue to the wider manosphere when she wrote:
+
 *“while pretending what threatens these boys is women or immigrants or
 non-white men, the real threat comes from the very forms of rigid
 ‘manhood’ their so-called saviours are desperate to preserve and
@@ -690,13 +686,12 @@ promote.”*
 
 To address this lack of community one member suggested improving the
 relationships between incels in order to address Maslow’s hierarchy of
-needs.\
-\
-![A rainbow colored pyramid with a person in a crown AI-generated
-content may be incorrect.](media/image9.png){width="6.268055555555556in"
-height="2.2680555555555557in"}\
-Incels.wiki user Bibipi\
-\
+needs.
+
+![Incels.wiki user Bibipi](imgs/18.9.png)
+
+<br/>
+
 He wrote **“That might be taken care of in some way by strengthening
 bonds between incels, since we cannot connect with the rest of society
 due to them being fucking dicks to people they think are uglier. Some
@@ -717,16 +712,15 @@ fractured collectivity between members. The construction and
 perpetuation of masculinities within incel spaces is intrinsic to
 negative affect which makes it difficult to find solace within the
 community. Making it the perfect counter-intuitive space for lonely
-people to gather.\
-\
-Fatalism
+people to gather.
 
-![A blue rectangular object with a white border AI-generated content may
-be incorrect.](media/image10.png){width="6.268055555555556in"
-height="1.3368055555555556in"}\
-**\
-A.K.A. “We are already dead boyo”\
-**
+##Fatalism
+
+![](imgs/18.10.png)
+
+<br/>
+
+**A.K.A. “We are already dead boyo”**
 
 The forum defines itself through blackpill fatalism.
 
@@ -738,9 +732,9 @@ far less inflammatory or disingenuous in their approach while still
 fracturing any potential community building on the forum. One member’s
 response to a post exemplifies this perfectly: **“Expecting help to
 solve a problem that cannot be solved, as inceldom, is far beyond
-delusional.”\
-\
-**Because of how hopeless this outlook is, it is likely that blackpilled
+delusional.”**
+
+Because of how hopeless this outlook is, it is likely that blackpilled
 members have already fully accepted their loneliness and many are not
 using the community to remedy it. This means that the other half of the
 members who have not reached that level of desolation are met with
@@ -751,9 +745,9 @@ positivity from members, whether it be reassurance, a compliment or
 encouragement is met with hostility or dismissed by labeling it a ‘cope’
 or ‘copium.’
 
-![A cartoon of a green frog AI-generated content may be
-incorrect.](media/image11.jpeg){width="3.7142858705161856in"
-height="3.7142858705161856in"}
+![](imgs/18.11.jpeg)
+
+<br/>
 
 Incels have a special attachment to the concept of coping mechanisms,
 this is illustrated through their use of the word ‘cope’ within their
@@ -768,8 +762,8 @@ easily invalidated with the use of a one-word, low effort reply: cope.
 Another way this word is utilized on the forum is to refer to individual
 incels’ various hobbies, interests or even addictions. Labeling
 everything a coping mechanism negates any possible positive affect
-sharing common interests or problems could have on collectivity.\
-\
+sharing common interests or problems could have on collectivity.
+
 Researcher Grace Sharkey labeled this fatalistic behavior as an
 “aggressive performance of collective failure”[^21chapter18_32] which from what I
 observed was clearly manifesting through blackpill discourse. One
@@ -781,8 +775,8 @@ caused by their NEETdom. Many who identify as NEET have attached
 themselves to this identity and are resigned to this lifestyle despite
 it causing further social isolation. A popular term within incel/NEET
 vernacular that pairs nicely with the fatalism of the blackpill is LDAR,
-which is an acronym for Lay Down And Rot.\
-\
+which is an acronym for Lay Down And Rot.
+
 Laying down and rotting describes the mindset many incels adopt once
 they have attached themselves to the idea that there is no hope of them
 ascending. It goes beyond sexual in-opportunity, they do not believe
@@ -793,8 +787,8 @@ grow in real life. He claimed to need a break from incels and the
 NEETcels and rotters specifically. This shows how the fatalistic mindset
 negatively influences other members who have yet to fully give up on
 themselves. Many incels project their hopelessness onto their peers
-which makes any kind of attempted camaraderie especially toxic.\
-\
+which makes any kind of attempted camaraderie especially toxic.
+
 Incels display an overidentification with failure that feeds into the
 already harsh environment on the forum and contributes to the feedback
 loop of social isolation and negative affect. As a post within the
@@ -807,8 +801,8 @@ inescapable and above all else it is not their fault (it is of course,
 the fault of all womankind). Their collective failure sustains and
 validates their identities as incels which justifies their attachment to
 it. In his book *The Queer Art of Failure* Jack Halberstam explains how
-failure can be so enticing. He wrote:\
-\
+failure can be so enticing. He wrote:
+
 *“What kinds of reward can failure offer us? Perhaps most obviously,
 failure allows us to escape the punishing norms that discipline behavior
 and manage human development with the goal of delivering us from unruly
@@ -849,8 +843,8 @@ community is meant to function as a space to offer and receive support.
 One user replied: **“sounds like you're blackpill bitter and taking it
 out on us forumcels. We're mostly here to discuss things, delusional if
 you thought that somehow we can help. the blackpill is ultimate, there's
-no moral support for your face/height/etc”\
-**\
+no moral support for your face/height/etc”**
+
 Due to the biological determinism of blackpill theory many incels feel
 that not only is their life hopeless and meaningless, so are the lives
 of their fellow ‘brocels’. This interferes with their ability to connect
@@ -858,9 +852,9 @@ with one another since they are consistently perpetuating negative
 affect during their co-ruminations on the forum. The OP of the thread
 summarized the outcome of this behavior perfectly, posting **“No need
 for foids, normies, Simps or cucks to destroy us...we do their job very
-well.”\
-\
-**While posts seeking support on the forum do receive a variety of
+well.”**
+
+While posts seeking support on the forum do receive a variety of
 replies, some even providing advice or emotional support, many members
 perpetuate the type of hopelessness that encourages suicidal ideation
 both implicitly and explicitly. I witnessed one member who was
@@ -877,11 +871,11 @@ encouraging suicide like the following, **“Save money to move out, or
 save money for a gun to rope.”** Comments on other threads echoed this
 positive attachment yet extreme negative affect around incels and death,
 one user posting **“why live when you can die”** and another posting
-**“I wish we were never born.”\
-\
-**Fatalism is one of the three subcultural values Simon Cottee extracted
-from his analysis of the community. He wrote that:\
-\
+**“I wish we were never born.”**
+
+Fatalism is one of the three subcultural values Simon Cottee extracted
+from his analysis of the community. He wrote that:
+
 *“The whole incel subculture can be understood as a veritable counsel of
 despair that facilitates the self-damnation of those who participate in
 it. However, and paradoxically, this damnation is experienced as an
@@ -892,8 +886,8 @@ into a form of resistance against the “normie” status quo.”*[^21chapter18_
 
 This ties into the notion that the behavior created by their attachment
 to failure is an act of rebellion as well as self-preservation which is
-being weaponized against members of their own community.\
-\
+being weaponized against members of their own community.
+
 Forum members are very aware that the environment is not conducive to
 sociality and companionship, this is apparent through the concerns about
 behavior that are expressed within threads on the forum. This
@@ -914,15 +908,15 @@ for them to connect with others. The defeatist nature of the blackpill
 ideology ensures that those who joined the community with any sense of
 hope will soon not be able to imagine themselves as anything other than
 **“condemned to rot alone and be excluded from any meaningful connection
-or meaning.”\
-\
-**They end up believing that their lives are pointless, and they have
+or meaning.”**
+
+They end up believing that their lives are pointless, and they have
 nothing to live for. One member's take on the community sums up the
 toxic aspects of the space quite sharply: **“The entire purpose of it is
 to piss you off, isolate you, then send you down a rabbit hole that
-leads to your suicide.”\
-\
-**If we know there are incels who are genuinely seeking emotional
+leads to your suicide.”**
+
+If we know there are incels who are genuinely seeking emotional
 support and connection on these forums then the question becomes: why
 are they unable to find solace within their own community? The danger
 incel ideology poses to the outside world has been the dominating
@@ -936,8 +930,8 @@ community. Those that are active within incel community spaces seem to
 pose more of a danger to themselves and each other, breaking down any
 hope they still held for finding companionship leading young vulnerable
 men to the conclusion that they are subhuman and their lives are not
-worth living.\
-\
+worth living.
+
 The role the forum plays in this breakdown of hope for these men is
 significant. It is an environment that encourages members to flood
 conversations with low effort, vitriolic garbage posting in order for
@@ -957,8 +951,8 @@ uncomfortable and at times scared, it was hard to overlook the fact that
 those posts didn't feel authentic. Instead, the genuine moments on the
 forum were the ones where bitterly lonely men desperately reached out
 for connection and were met time and time again with indifference and
-outright verbal abuse.\
-\
+outright verbal abuse.
+
 Some men who are sucked into these spaces have actually found their way
 out with help from online communities. Subreddits like r/exredpill and
 r/IncelExit have provided a space for men to come together, question
@@ -966,8 +960,8 @@ those ideologies and talk about their problems in an environment that
 disallows suicide encouragement, misogyny, trolling and bullying while
 actually enforcing those rules. Those who are in the deepest trouble,
 however, don't want to water down their pain or hate in order to find
-support.\
-\
+support.
+
 But how does this pain and hate breed to begin with? What do these men
 lack that they are getting from these spaces, since it is so clearly not
 companionship and connection? Through this exploration I discovered the
@@ -977,17 +971,16 @@ non-members antagonize the community and exacerbate the vitriol.
 Subreddits like r/exredpill and r/IncelExit are the compassionate middle
 ground between scorning the incel and accepting their hateful rhetoric.
 But these men will not find the community they so desperately crave on a
-pseudonymous subreddit.\
-\
+pseudonymous subreddit.
+
 While the ideology of inceldom is veiled in the idea that men need to
 find value and fulfillment in the sexual market place, the real problems
 stem from isolation, scorn and lack of mental health resources. All
 problems that are harder to fix than simply banning a subreddit or
 forum. We need to look beyond the vitriol, see the lonely individual
 wailing for someone to care and find a way to help them hold on to their
-last shred of hope.\
-\
-\
+last shred of hope.
+
 ***Kate A. Babin (she/her)** is a Postgraduate Researcher within the
 Centre for Postdigital Cultures at Coventry University. Her research
 adopts a methodological approach of critical empathy, using feminist

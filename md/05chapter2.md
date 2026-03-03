@@ -60,18 +60,15 @@ closer to a method of pushing technology to its limits, generating
 useless content and making social interactions less clear and
 progressively more complicated.
 
-![A collage of a person standing in front of a building AI-generated
-content may be
-incorrect.](media/image1.jpeg){width="3.7282611548556432in"
-height="2.1887937445319334in"}
+![Screenshots from Yung Lean’s and Lily-Rose Depp’s Instagram](imgs/02.1.jpg)
 
-Screenshots from Yung Lean’s and Lily-Rose Depp’s Instagram
+<br/>
 
 There is something about the anti-glamourous attitude of these
 celebrities sharing unappealing, blurry, badly cropped, crooked, or
 extremely pixelated images that are reminiscent of the uncommitted and
 often boring way of dressing that some super-rich people like to be seen
-in public.[^05chapter2_1] As Caroline Busta writes in “The internet didn't Kill
+in public.[^05chapter2_1] As Caroline Busta writes in “The internet didn't kill
 counterculture-you just won't find it on Instagram”:[^05chapter2_2]
 
 > "Away from the parades, palaces, and disproportionate girths of
@@ -118,11 +115,9 @@ resist? Increase the degree of disorder. Force the user to pause for
 more than the 2.5 seconds of maximum attention span calculated by social
 media analytics. Add entropifying to one's own online narrative.
 
-![A collage of a wall and a bird nest AI-generated content may be
-incorrect.](media/image2.jpeg){width="3.907070209973753in"
-height="2.163043525809274in"}
+![Screenshots from Death Grips’ Instagram posts](imgs/02.2.jpg)
 
-Screenshots from Death Grips’ Instagram posts
+<br/>
 
 But the music industry is the cradle of more than just one aesthetic
 shift: the creepy Instagram profile of Sacramento trio Death Grips lends
@@ -168,12 +163,10 @@ types and forms, to navigate the Web aimlessly, authorless,
 recipientless. That is, until the abstraction of the *Black Metal *album
 (apologies to Kanye West and his Donda, which came much later).
 
-![A collage of people and symbols AI-generated content may be
-incorrect.](media/image3.jpeg){width="2.273944663167104in"
-height="2.3258431758530183in"}
+![A selection of album covers from World Music projects (Dean Blunt, Bar
+Italia, Inga Copeland, Hype Williams), 2009-2023](imgs/02.3.png)
 
-A selection of album covers from World Music projects (Dean Blunt, Bar
-Italia, Inga Copeland, Hype Williams), 2009-2023
+<br/>
 
 Direct descendants of Dean Blunt’s heritage, the Spanish visual artist
 duo Fomotrauma, associated with the Spanish label Rusia IDK, is the best
@@ -183,11 +176,9 @@ created images, ready instead to give context back to the precious
 digital junk that is destined to be lost and rediscovered in an endless
 cycle of downloads and screenshots.
 
-![A collage of images of a person AI-generated content may be
-incorrect.](media/image4.jpeg){width="2.9067891513560804in"
-height="1.890411198600175in"}
+![from Fomotrauma’s Instagram profile](imgs/02.4.jpg)
 
-from Fomotrauma’s Instagram profile
+<br/>
 
 In the paranoid loop of content suggested to users according to their
 darkest inclinations, new generations of users are interested in
@@ -220,11 +211,9 @@ Donald Gjoka, holds the same power: his Internet activity enraptures and
 confuses, portraying an online dimension where AI-created images,
 post-ironic memes, and childish drawings coexist on the same surface.
 
-![A blurry image of a tower AI-generated content may be
-incorrect.](media/image5.jpeg){width="1.767123797025372in"
-height="1.751509186351706in"}
+![JPEG, Thomas Ruff](imgs/02.5.jpg)
 
-JPEG, Thomas Ruff
+<br/>
 
 Debunking the idea that every trend is destined to disappear over time,
 the aesthetic trend that has most powerfully devirtualized the practice
@@ -255,15 +244,11 @@ sorry, you will not be able to consume this meme in 0.3 seconds. You'll
 have to wait and read the whole thing before (maybe) you can be rewarded
 with a dopamine rush.
 
- ![A screenshot of a website AI-generated content may be
-incorrect.](media/image6.jpeg){width="6.268055555555556in"
-height="3.761111111111111in"}
+![](imgs/02.6.jpg)
 
-![A group of men wearing military uniforms AI-generated content may be
-incorrect.](media/image7.jpeg){width="4.214668635170604in"
-height="4.253425196850394in"}
+![From the profiles @3rd.world.elite, @welcometomymemepage, @paranoiastate](imgs/02.7.jpg)
 
-From the profiles @3rd.world.elite, @welcometomymemepage, @paranoiastate
+<br/>
 
 The visual landscape has completely changed. Tired of the vulgar,
 didactical, and all-too-obvious content that TikTok stars keep shoving
@@ -332,7 +317,7 @@ and internet culture. Her work has appeared in online magazines
 including Dazed, i-D, 032c and Nero Editions. She holds a BA in Film and
 Photography, where she wrote a final dissertation about teen nihilism in
 cinema, and she's currently a MA student in Film Theory, where she
-investigates the links between cinema and digital culture. *
+investigates the links between cinema and digital culture.*
 
 [^05chapter2_1]: Simon Usborne. “Mark Zuckerberg and the Art of Being Smart
     Casual.” *The Independent*, November 10, 2014.

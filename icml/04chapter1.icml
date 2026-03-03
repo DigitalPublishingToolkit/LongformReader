@@ -1,0 +1,1674 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?aid style="50" type="snippet" readerVersion="6.0" featureSet="513" product="8.0(370)" ?>
+<?aid SnippetType="InCopyInterchange"?>
+<Document DOMVersion="8.0" Self="pandoc_doc">
+    <RootCharacterStyleGroup Self="pandoc_character_styles">
+      <CharacterStyle Self="$ID/NormalCharacterStyle" Name="Default" />
+      <CharacterStyle Self="CharacterStyle/" Name="">
+        <Properties>
+          <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
+        </Properties>
+      </CharacterStyle>
+      <CharacterStyle Self="CharacterStyle/Bold Italic" Name="Bold Italic" FontStyle="Bold Italic">
+        <Properties>
+          <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
+        </Properties>
+      </CharacterStyle>
+      <CharacterStyle Self="CharacterStyle/Italic" Name="Italic" FontStyle="Italic">
+        <Properties>
+          <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
+        </Properties>
+      </CharacterStyle>
+      <CharacterStyle Self="CharacterStyle/Link" Name="Link">
+        <Properties>
+          <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
+        </Properties>
+      </CharacterStyle> 
+    </RootCharacterStyleGroup>
+    <RootParagraphStyleGroup Self="pandoc_paragraph_styles">
+      <ParagraphStyle Self="$ID/NormalParagraphStyle" Name="$ID/NormalParagraphStyle"
+          SpaceBefore="6" SpaceAfter="6"> <!-- paragraph spacing -->
+        <Properties>
+          <TabList type="list">
+            <ListItem type="record">
+              <Alignment type="enumeration">LeftAlign</Alignment>
+              <AlignmentCharacter type="string">.</AlignmentCharacter>
+              <Leader type="string"></Leader>
+              <Position type="unit">10</Position> <!-- first tab stop -->
+            </ListItem>
+          </TabList>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Blockquote &gt; Paragraph" Name="Blockquote &gt; Paragraph" LeftIndent="10">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Caption" Name="Caption" LeftIndent="0">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Figure" Name="Figure" LeftIndent="0">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Footnote &gt; Paragraph" Name="Footnote &gt; Paragraph" LeftIndent="0">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Header1" Name="Header1" LeftIndent="0" PointSize="36">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Header2" Name="Header2" LeftIndent="0" PointSize="30">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Header3" Name="Header3" LeftIndent="0" PointSize="24">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Paragraph" Name="Paragraph" LeftIndent="0">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle> 
+    </RootParagraphStyleGroup>
+    <RootTableStyleGroup Self="pandoc_table_styles">
+      <TableStyle Self="TableStyle/Table" Name="Table" />
+    </RootTableStyleGroup>
+    <RootCellStyleGroup Self="pandoc_cell_styles">
+      <CellStyle Self="CellStyle/Cell" AppliedParagraphStyle="ParagraphStyle/$ID/[No paragraph style]" Name="Cell" />
+    </RootCellStyleGroup>
+  <Story Self="pandoc_story"
+      TrackChanges="false"
+      StoryTitle=""
+      AppliedTOCStyle="n"
+      AppliedNamedGrid="n" >
+    <StoryPreference OpticalMarginAlignment="true" OpticalMarginSize="12" />
+
+<!-- body needs to be non-indented, otherwise code blocks are indented too far -->
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header1">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>No Shot Like Screenshot: Banal, Sublime and Dangerous</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Dunja Nešović</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Originally published January 19th, 2022</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Figure">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Rectangle Self="uec" StrokeWeight="0" ItemTransform="1.00000 0 0 1.00000 150.00000 -100.00000">
+      <Properties>
+        <PathGeometry>
+          <GeometryPathType PathOpen="false">
+            <PathPointArray>
+              <PathPointType Anchor="-150.00000 -100.00000" LeftDirection="-150.00000 -100.00000" RightDirection="-150.00000 -100.00000" />
+              <PathPointType Anchor="-150.00000 100.00000" LeftDirection="-150.00000 100.00000" RightDirection="-150.00000 100.00000" />
+              <PathPointType Anchor="150.00000 100.00000" LeftDirection="150.00000 100.00000" RightDirection="150.00000 100.00000" />
+              <PathPointType Anchor="150.00000 -100.00000" LeftDirection="150.00000 -100.00000" RightDirection="150.00000 -100.00000" />
+            </PathPointArray>
+          </GeometryPathType>
+        </PathGeometry>
+      </Properties>
+      <Image Self="ue6" ItemTransform="1.00000 0 0 1.00000 -150.00000 -100.00000">
+        <Properties>
+          <Profile type="string">
+            $ID/Embedded
+          </Profile>
+        </Properties>
+        <Link Self="ueb" LinkResourceURI="file:imgs/01.1.png" />
+      </Image>
+    </Rectangle>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Caption">
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Through screenshotting, computational devices such as computers and smartphones give us an easy way of preserving the contents of their screens for a myriad of purposes. Whether screenshotting serves a creative, documentational or even a surveilling purpose, it represents in Jacob Gaboury’s words, “one of the many vernacular computational practices, in that there is a great deal of variance in how they are used, modified, and disseminated.”</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>https://www.fotomuseum.ch/de/2019/07/05/screen-selfies-and-high-scores/</Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> The desire to capture screen imagery tells us a lot about our relationship to the intricate worlds we experience through a flat and mildly penetrable surface.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The screenshot represents </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>the digital networked image</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, given that screenshot’s ontology is connected to its inherent embeddedness in its originating context of digital, screened technologies, cultures and modes of being, as it is materially and operationally always delimited and defined by them. Theoretically approaching the screenshot to support this account means examining its aesthetic, functional, and mediating characteristics that are specific to the networked, screened environment of its origin.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>First theoretical conceptualizations of the screenshot have approached it by comparing it and contextualizing it within the medium of photography. A significant portion of (a handful of) papers written on the screenshot discuss it in the context of in-game photography often for the purpose of legitimizing the screenshot medium within the art field. The screenshot is in those instances also named a photograph, which might additionally be due to the aesthetic of these ‘photographs’ that capture the video-game imagery marked by the simulation of the three-dimensional ‘real world’. Whether it concerns in-game photography or images of other screenscapes, screenshot’s link to photography becomes prevalent in its academic theorization.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>In many ways, the screenshot remediates, or integrates, the characteristics of photography in itself. Notably, it is a capture of light in an image, it encompasses simulated camera shutter sounds that follow the act of screenshotting, it creates stillness from an otherwise dynamic and moving environment and bears a strong indexical trace of as well as iconic resemblance to it, it represents a document and presumes active witnessing and world-making through perception and capture. But does this correlation to photography limit our understanding of this relatively new and underexplored medium? Jan Švelch reflects on the possibility that looking beyond photography when thinking about screenshots might help us gain a deeper comprehension of its properties and capacities:</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>By searching for similarities between screenshots and photography, the perspective of remediation downplays the technological differences between the various images that are commonly understood and labelled as screenshots. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Jan Svelch, ‘Redefining screenshots: Toward critical literacy of screen capture practices’, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Convergence: The International Journal of Research into New Media Technologies </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>27.2 (2020): 554-569.</Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>While Švelch's thesis accounts for a certain taxonomy of screen-capturing imagery, I am interested in downplaying screenshot's connection to photography to examine the specificity of vernacular practices of screenshotting. Susan Sontag notices in her essay ‘The Image-World’ that “when the notion of reality changes, so does that of the image, and vice versa.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Susan Sontag, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>On Photography</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, New York: Farrar, Straus and Giroux, 1977.</Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>” </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Bearing that in mind, studying the screenshot might reveal the nuances of our changed, ubiquitously screened (sense of) reality and how this peculiar image and image-making practice inserts itself into it or is otherwise producing it.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The peculiarity of screenshots might become obvious if we consider that other screens such as old television</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>John Smith, “</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>How to Take Screenshots on Your Smart TV Screen</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>,” </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Medium</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, October 22, 2019, </Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-1" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>https://medium.com/@johnkpdsmith/how-to-take-screenshots-on-your-smart-tv-screen-6596a2899e0d</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> and cinema screens have only served as an output of media content, framed as a window into a different kind of reality which, similar to non-mediatized reality, provides no option to the viewer of capturing and preserving the ‘raw’ image it presents to us. Of course, in the cases of screened reality as well as our material environment, the images of both could be captured with the aid of a camera that physically and aesthetically inserts itself between the subject and the object of the image. Screenshots, on the other hand, are created with minimal or no mediation that influences the final form of the image. In that sense, they ontologically and aesthetically more resemble the futuristic fantasies of capturing the images directly with our eyes.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Figure">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Rectangle Self="uec" StrokeWeight="0" ItemTransform="1.00000 0 0 1.00000 384.00000 -269.25000">
+      <Properties>
+        <PathGeometry>
+          <GeometryPathType PathOpen="false">
+            <PathPointArray>
+              <PathPointType Anchor="-384.00000 -269.25000" LeftDirection="-384.00000 -269.25000" RightDirection="-384.00000 -269.25000" />
+              <PathPointType Anchor="-384.00000 269.25000" LeftDirection="-384.00000 269.25000" RightDirection="-384.00000 269.25000" />
+              <PathPointType Anchor="384.00000 269.25000" LeftDirection="384.00000 269.25000" RightDirection="384.00000 269.25000" />
+              <PathPointType Anchor="384.00000 -269.25000" LeftDirection="384.00000 -269.25000" RightDirection="384.00000 -269.25000" />
+            </PathPointArray>
+          </GeometryPathType>
+        </PathGeometry>
+      </Properties>
+      <Image Self="ue6" ItemTransform="1.00000 0 0 1.00000 -384.00000 -269.25000">
+        <Properties>
+          <Profile type="string">
+            $ID/Embedded
+          </Profile>
+        </Properties>
+        <Link Self="ueb" LinkResourceURI="file:imgs/01.2.png" />
+      </Image>
+    </Rectangle>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Caption">
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>TRANSPARENT MEDIATION, NETWORKED AUTHORSHIP</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Vernacular screenshots depict the flat, two-dimensional screen surface that perceptively replicate the exact contents of the screen. In that sense, the screen imagery is transparently mediated, as there is no in-between device and operation that leaves the signs of its mediation in this image-making (such as it is in the case of camera or brush and canvas). In his work on the screenshot, Paul Frosh points out that we almost exclusively ‘look through’ screenshots, rather than looking at them, given that “the reflexive indicators of self-mediation are absent – signs which draw attention to the screenshot itself as a media object.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Paul Frosh, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>The Poetics of Digital Media</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, Cambridge (MA): MIT Press, 2018.</Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>”</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>On the other hand, given that “computer graphics, unlike film and television, do not begin as images”, screenshot represents a ‘secondary mediation’ in Gaboury’s terms, in the sense that the computer-generated images of the screen, are already a mediation of mathematical computation and visual representation of digital information.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Jacob Gaboury, “</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Screen Selfies and High Scores</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>,” </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Still Searching…</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content> blog, Fotomuseum Winterthur, July 5, 2019, </Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-2" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>https://www.fotomuseum.ch/en/2019/07/05/screen-selfies-and-high-scores/</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> Gaboury notes that screenshots are a significant medium insofar as they allow us to examine how humans have been visualizing computation both by investigating the technical processes of photographing screens, as well as the visual documentation of cultures that are being mediated through those screens.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Transparently mediating through screen capture, as well as representing a still copy of computational mediation, screenshots are located in the ambiguous territory of contemporary image-making that complicates the questions of mediation and authorship.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Screenshot can be classified as a technical image, which is a concept by Vilém Flusser that groups together the images created with technical devices.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Vilém Flusser, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Into the Universe of Technical Images</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, Minneapolis: University of Minnesota Press, 2011.</Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> In his account, technical images inherently lack dimension since they are assembled from particles that are only registrable and produced through the aid of apparatuses. He identifies the keys as the most important tools for creating these types of images. Flusser notes on photography:</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Then he [the photographer] takes an apparatus in hand to “grasp” (with concepts such as “perspective” or “shutter speed”) what he has visualized. The apparatus calculates these concepts automatically, and the photographer presses a button to release the machine to carry out these calculations, making the vision of the house into an image.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>In that sense, the human maker of technical images is, according to him, also a visualizer – they need to visualize the finished image and also visualize how to control the apparatus in the right way to achieve the desired result. Human technicality is of big importance in this process since it works together with the technology of the apparatus to produce an image. Screen imagery is already a finished technical image, programmed, designed and executed (or constantly in execution) usually by someone other than the one who is capturing a screenshot. The screenshot-taker (or screenshotter) presses the buttons on the apparatus (which are often not primarily designed to fit only this function), but they are at that moment not visualizing anything – they are merely recognizing and selecting. The screenshotter first recognizes the significant imagery from the screen and then selects the particular function of the keys and their combinations to instruct the technical device to take an exact image of the screen at that moment. The interventional input of the screenshotter, as well as the medium of screenshot, in terms of the characteristics it instills in the final image, is very small, almost non-existent.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>In a vain attempt to simulate the photographic intervention of brightness of the screenshot, I tried to re-adjust the brightness of the screen and take a screenshot only to see that the done image is always the same brightness - namely my device is programmed to capture the image as having the highest brightness as default.</Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Švelch notes that one of the most important characteristics of the screenshot as documentation is the irrelevance of authorship: “due to an arguably mechanical act of their creation, photographic screen capture and screenshot trivialize the creative input of their authors”.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Jan Svelch, ‘Redefining screenshots: Toward critical literacy of screen capture practices’, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Convergence: The International Journal of Research into New Media Technologies </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>27.2 (2020): 554-569.</Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> This irrelevance points to the diminished role of the user in creating a screenshot and the image’s higher level of ‘machinic objectivity’.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>In technical terms, screenshots are authored in the intersection of humans and machines, in which the machine (or the human that programmed the machine) determines what is visible, and what is possible to be captured, distributed and seen again. For example, streaming platforms such as Netflix and Mubi don’t allow screenshotting of their content, as the moving images they distribute across private screens are copy-righted and screenshotting them counts as infringement. The user is in those instances not permitted to take a screenshot, and their image-making practices of the screen are subjected to what they don’t see being programmed.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Figure">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Rectangle Self="uec" StrokeWeight="0" ItemTransform="1.00000 0 0 1.00000 234.48000 -132.00000">
+      <Properties>
+        <PathGeometry>
+          <GeometryPathType PathOpen="false">
+            <PathPointArray>
+              <PathPointType Anchor="-234.48000 -132.00000" LeftDirection="-234.48000 -132.00000" RightDirection="-234.48000 -132.00000" />
+              <PathPointType Anchor="-234.48000 132.00000" LeftDirection="-234.48000 132.00000" RightDirection="-234.48000 132.00000" />
+              <PathPointType Anchor="234.48000 132.00000" LeftDirection="234.48000 132.00000" RightDirection="234.48000 132.00000" />
+              <PathPointType Anchor="234.48000 -132.00000" LeftDirection="234.48000 -132.00000" RightDirection="234.48000 -132.00000" />
+            </PathPointArray>
+          </GeometryPathType>
+        </PathGeometry>
+      </Properties>
+      <Image Self="ue6" ItemTransform="1.00000 0 0 1.00000 -234.48000 -132.00000">
+        <Properties>
+          <Profile type="string">
+            $ID/Embedded
+          </Profile>
+        </Properties>
+        <Link Self="ueb" LinkResourceURI="file:imgs/01.3.png" />
+      </Image>
+    </Rectangle>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Caption">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>non-screenshot of Sans Soleil (Chris Marker, 1983), MUBI</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Without any speculation on how the screenshot might develop in terms of its expansion of affordances that allow for the greater agency of the user (both in technical and normative terms) and in turn greater similarity to the photographic medium, at this moment the technique concerning the screenshot is over-determined by the device that is merely allowing them to preserve what they are seeing being shown to them. As if our smartphones and computers are talking back to us through their option for screenshotting and saying “take a picture, it’ll last longer” thus affirming the relevance and impact of the imagery constantly presented to us. Frosh goes so far as to say that screenshot represents a selfie of the device:</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The screenshot is an image of the state of the device as it presents itself for viewing and interaction with a user, as subject to human intentionality and temporality. It preserves an instant of what we could call the ‘screenscape’: the dynamic, contingent, humanly oriented ‘face’ of the device as it appears on the screen. To stretch an analogy somewhat, the screenshot is the selfie of the device.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Paul Frosh, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>The Poetics of Digital Media</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, Cambridge (MA): MIT Press, 2018.</Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Selfie, as a digital image form, presupposes mechanical image-making in which the subject and the object of the photo are one and the same. In that sense, naming the screenshot the selfie of the device again locates the ‘authorship’ of the screenshot mainly in the machine. Historically, the subject of the image is always subjugated to the maker of the image, as not only beauty but also power, lies in the eye of the beholder. This dynamic is somewhat complicated by the screenshot, as the distinction between the image-taker and the object of the image is not as straightforward as it is in photography, painting and cinema.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>As the screen in this instance represents an output for images, as well as the potential input for the screenshot, it fuses the boundaries of human and machinic vision and image-making.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Zylinska, in her book Non-human Photography notes how non-human vision allows us to form a critical distance from the concept of perception as a given and embrace its creative characteristics:</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>We could therefore go so far as to suggest that our visual apparatus introduces edges and cuts into the imagistic flow: it cuts up the environment so that we can see it, and then helps us stitch it back together again. With this idea, we arrive at the concept of perception as active, or even world-making, rather than just secondary and responsive.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Joanna Zylinska, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Non-Human Photography</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, Cambridge (MA): MIT Press, 2017.</Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>In this sense, perception, as materialized through the screenshot, is world-making inasmuch as it is allowed to exist by the programmed interface. In the cases in which the screenshot is disallowed, it limits the user’s perception to be validated and creative, leaving all the power to the machine (and the other human who programmed the machine) to decide how a user can appropriate and visually work with their digital environment.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The question of authorship and creative input of the screenshotter is mainly based on what Nicholas Bourriaud named the aesthetic of post-production, that is, in the use and remix of already available data.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Nicholas Bourriaud, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Postproduction</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, New York: Lukas &amp; Sternberg, 2007.</Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> With postproduction, artists make use of already existing objects, cultural forms and the world itself. It is emblematic of the appearance of the web (although there are artists that engaged in Postproduction before its genesis – such as New Realists and Pop Artists for example), since “the activities of DJs, Web surfers, and postproduction artists imply a similar configuration of knowledge, which is characterized by the invention of paths through culture.“ He also notes that in that sense “the artwork functions as the temporary terminal of a network of interconnected elements, like a narrative that extends and reinterprets preceding narratives.“ Whereas the screenshot doesn’t necessarily have to be an artwork, its creative and aesthetic parameters are based on the selection and appropriation of what is already there, and in such a way that presumes an instant transformation of the 'raw' visual material into a barely mediated image.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Figure">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Rectangle Self="uec" StrokeWeight="0" ItemTransform="1.00000 0 0 1.00000 610.74126 -179.74825">
+      <Properties>
+        <PathGeometry>
+          <GeometryPathType PathOpen="false">
+            <PathPointArray>
+              <PathPointType Anchor="-610.74126 -179.74825" LeftDirection="-610.74126 -179.74825" RightDirection="-610.74126 -179.74825" />
+              <PathPointType Anchor="-610.74126 179.74825" LeftDirection="-610.74126 179.74825" RightDirection="-610.74126 179.74825" />
+              <PathPointType Anchor="610.74126 179.74825" LeftDirection="610.74126 179.74825" RightDirection="610.74126 179.74825" />
+              <PathPointType Anchor="610.74126 -179.74825" LeftDirection="610.74126 -179.74825" RightDirection="610.74126 -179.74825" />
+            </PathPointArray>
+          </GeometryPathType>
+        </PathGeometry>
+      </Properties>
+      <Image Self="ue6" ItemTransform="1.00000 0 0 1.00000 -610.74126 -179.74825">
+        <Properties>
+          <Profile type="string">
+            $ID/Embedded
+          </Profile>
+        </Properties>
+        <Link Self="ueb" LinkResourceURI="file:imgs/01.4.png" />
+      </Image>
+    </Rectangle>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Caption">
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>AND SO THE NEW AESTHETICIST SCREENSHOTS…</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>If, as Frosh notes, the screenshot “preserves an instant of the screenscape,” it also validates the digital environment as equally ‘real’ as the physical one through our ability to observe, document and preserve.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Paul Frosh, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>The Poetics of Digital Media</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, Cambridge (MA): MIT Press, 2018.</Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> He continues, “like physical space, we cannot occupy the same points of that [digital] space at the same time”. Screenshots confirm the fact that our digital environments are deeply personal, even though we, as smartphone and computer users, might still have the same (or quite similar depending on the OS we use) interface designs, affordances and technical devices we use to browse them. Even though the classical notion of a point of view doesn’t apply in screenshotting as it does in photography, it emphasizes more the changing of the digital environment from person to person rather than the ability of a body to take up different points in the same physical space. With the development of highly algorithmically curated digital environments, the originality of the screenshot and its subsequent point of view, again, unlike the photograph that demonstrates the skill of the camera operator to capture a lived moment in a technically virtuous and original way, stems from the uniqueness of the digital environment of the user (and of course their ability to recognize it).</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Screenshot as a creative and communicational practice belongs to post-digital or new aesthetics, which are defined by the intertwinement of humans and machines in realms of perception, image-making and visual languages. As David Berry and Michael Dieter observe in their definition of post-digital aesthetics, the role of the practitioner in the networked, platformized digital environment, which is “marked by the shift from exceptional to ordinary perceptions of digital creativity”, is also imagined in terms of techniques of recognizing patterns, cataloguing, curating, interpreting and transcribing), and then actualizing these engagements as artifacts for potential contemplation.”</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>David M. Berry and Michael Dieter, ‘Thinking Postdigital Aesthetics: Art, Computation and Design’, in David Berry and Michael Dieter (eds) </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Postdigital Aesthetics Art, Computation and Design</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, London: Palgrave Macmillan, 2019, pp.1-11.</Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> Additionally, Vito Campanelli identifies that the “most authentic nature of the New Aesthetic is precisely that of the archive, […] an archive constantly in motion”.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Vito Campanelli, ‘New Aesthetic in the Perspective on Social Photography’, David M. Berry and Michael Dieter (eds) </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Postdigital Aesthetics Art, Computation and Design</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, London: Palgrave Macmillan, 2019, pp. 259-270.</Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> Campanelli continues:</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The New Aestheticist is a new figure in between those of artist and curator, characterized by the capacity to aggregate aesthetic materials. In other words, the function of the New Aestheticist is to derive value from an image produced by machinic entities and to ‘ascribe’ an aesthetic to it.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Screenshot’s artistic and aesthetic potential is exactly located in this notion of finding the strange in the trivialized and commercialized digital environment and it is probably one of the most emblematic image forms that reflect the current configurations of what we call (digital) reality. Whether the screenshot serves an aesthetic, communicative or archival purpose, they generate in-between the humans and (their) machines, being computed and visually preserved at once. The 'in-betweenness' of screenshots corresponds to “the sublimity of the images produced by the innovative forms of collaboration between humans and machines enabled by digital media” which are representative of the New Aesthetic.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Ibid.</Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The online project “Screenshots of Despair, conceived as a Tumblr blog that relies on the screenshot submissions of everyday users, identifies itself as New Aesthetic poetry. It features mainly the incidental machinic imagery of the screen that uncannily anthropomorphizes the interface and its visual communicative practices. The imagery is sublime and uncanny, as it contains the traces of both human and non-human, producing the estranged familiar that might both be banal and fascinating.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Campanelli quotes Don DeLillo noting that in the images of the New Aesthetic we recognize ourselves ‘but also something other than ourselves; or rather, still ourselves – but ourselves complicated, enmeshed, othered’.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Ibid.</Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> The imagery on the screens we use is always ‘for us’ either because we sought them out, or were humanly or non-humanly (algorithmically) delivered to us and the archive we continue to build from them corresponds to the collection of traces of visual gifts we receive on a daily basis that we continue to use for different purposes.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Apart from selecting single instances from our environments for screenshotting, screenshots also have the potential to faithfully represent the fragmented, windowed environment of our computer screens. Artist Toru Izumida created a series of collages named simply ‘Screen Shots’ in which he “use[d] selections of online media to create unexpected combinations that are finalized into a single screenshot.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Beckett Mufson, “An Artist’s Screenshot Collages Capture Computerized Creativity,” </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>VICE</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, September 10, 2014, </Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-3" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>https://www.vice.com/en/article/qkwbxx/an-artists-screenshot-collages-capture-computerized-creativity</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>”</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Figure">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Rectangle Self="uec" StrokeWeight="0" ItemTransform="1.00000 0 0 1.00000 528.67133 -331.30070">
+      <Properties>
+        <PathGeometry>
+          <GeometryPathType PathOpen="false">
+            <PathPointArray>
+              <PathPointType Anchor="-528.67133 -331.30070" LeftDirection="-528.67133 -331.30070" RightDirection="-528.67133 -331.30070" />
+              <PathPointType Anchor="-528.67133 331.30070" LeftDirection="-528.67133 331.30070" RightDirection="-528.67133 331.30070" />
+              <PathPointType Anchor="528.67133 331.30070" LeftDirection="528.67133 331.30070" RightDirection="528.67133 331.30070" />
+              <PathPointType Anchor="528.67133 -331.30070" LeftDirection="528.67133 -331.30070" RightDirection="528.67133 -331.30070" />
+            </PathPointArray>
+          </GeometryPathType>
+        </PathGeometry>
+      </Properties>
+      <Image Self="ue6" ItemTransform="1.00000 0 0 1.00000 -528.67133 -331.30070">
+        <Properties>
+          <Profile type="string">
+            $ID/Embedded
+          </Profile>
+        </Properties>
+        <Link Self="ueb" LinkResourceURI="file:imgs/01.5.png" />
+      </Image>
+    </Rectangle>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Caption">
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>UNCANNILY INTACTILE</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The uncanniness of screenshots comes not only from their visual content but also from their lack of operativity. The screenshot deadens the interface, fossilizes it and disables any further exchange on the part of the user. The dynamic digital environment becomes its “shadow” through the screenshot, as Winfried Gerling would put it, given that the computer-generated images of the screen that usually have a utilitarian function, come to a ‘full stop’ through being screenshotted:</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>If the screen is filled with the screenshot of the previous status of the screen, the difference only becomes apparent when attempting to operate within the screenshot. The screenshot is taken as reality—that has been—on the computer screen (and pixel-precise). It is a strange confusion with reality that could never occur in photographs. The latter were only confused with nature early on; otherwise the photograph has always been understood as a representation.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Winfried Gerling, ‘Photography in the Digital’, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Photographies </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>11.2-3 (2018): 149-167.</Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>By becoming visually the same as the interface, and yet completely inoperational, the screenshot invokes uncanniness that might correspond to its meaning as psychoanalytically defined through human relationship to death, as Laura Mulvey writes in her account on film stills:</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>For human and all organic life, time marks the movement along a path to death, that is, to the stillness that represents the transformation of the animate into the inanimate. In cinema, the blending of movement and stillness touches on this point of uncertainty so that, buried in the cinema’s materiality, lies a reminder of the difficulty of understanding passing time and, ultimately, of understanding death.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Laura Mulvey, Death 24x a Second: Stillness and the Moving Image, Chicago: Reaktion Books, 2006.</Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>More often, the uncanniness of screenshots will elicit the feelings of frustration and anxiety we encounter when our computers freeze and become inoperable, shining the light on the amount of dependency and powerlessness we experience in those moments.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Figure">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Rectangle Self="uec" StrokeWeight="0" ItemTransform="1.00000 0 0 1.00000 446.09790 -279.44056">
+      <Properties>
+        <PathGeometry>
+          <GeometryPathType PathOpen="false">
+            <PathPointArray>
+              <PathPointType Anchor="-446.09790 -279.44056" LeftDirection="-446.09790 -279.44056" RightDirection="-446.09790 -279.44056" />
+              <PathPointType Anchor="-446.09790 279.44056" LeftDirection="-446.09790 279.44056" RightDirection="-446.09790 279.44056" />
+              <PathPointType Anchor="446.09790 279.44056" LeftDirection="446.09790 279.44056" RightDirection="446.09790 279.44056" />
+              <PathPointType Anchor="446.09790 -279.44056" LeftDirection="446.09790 -279.44056" RightDirection="446.09790 -279.44056" />
+            </PathPointArray>
+          </GeometryPathType>
+        </PathGeometry>
+      </Properties>
+      <Image Self="ue6" ItemTransform="1.00000 0 0 1.00000 -446.09790 -279.44056">
+        <Properties>
+          <Profile type="string">
+            $ID/Embedded
+          </Profile>
+        </Properties>
+        <Link Self="ueb" LinkResourceURI="file:imgs/01.6.png" />
+      </Image>
+    </Rectangle>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Caption">
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The other names for screenshot, including screengrab, according to Frosh, point to screenshot’s tactility through its becoming an object to be manipulated as a file and an image.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Paul Frosh, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>The Poetics of Digital Media</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, Cambridge (MA): MIT Press, 2018.</Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> Correspondingly, Martine Beugnet notes that the images in the era of the interface are marked not only by sight, but also by touch:</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Our experience as viewers increasingly become that of “users”: we touch the screen to activate a menu and select a resolution, to choose and enlarge an image, zoom into it or reduce its size, to start or pause a video, to scroll through or superimpose images, to slow down or speed up their course, to make them disappear.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Martine Beugnet, ‘Touch and See? Regarding Images in the Era of the Interface’</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>, InMedia</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content> [Online] 8.1 (2020).</Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>As screenshots can be manipulated by touch as any other digital image, they disable touch of what they represent, namely the interface. Lack of tactility is very much present in the screenshot, especially when encountered on touch screens, given that the touch becomes insignificant as it has no interfacial function it usually has when operating a computer or a smartphone through the screen. Their exactness in representation evokes uncomfortable feelings of the impossibility of interaction, a technological uncanny that won't subdue no matter how many times we tap the flat surface.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>On the other side, the uncanniness and even computational deceptiveness of screenshots come into play when the other ways of interfacial relations become present. A recent problem regarding screenshots concerns the screenshots of the CoronaPass QR code.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>https://www.security.nl/posting/715107/Aanpassing+CoronaCheck-app+moet+misbruik+screenshot+qr-codes+tegengaan</Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> As QR codes provide interaction through the scanning of visual data, the difference between the authentic QR code emanating from the app and a screenshot of it becomes invisible with a successful reading of the code by the scanner. Screenshot in that sense can facilitate, not the lack of interaction, but the unwanted, forbidden, or illegal interaction, through their mimicking of ‘screen authenticity’.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>AUTHENTICITY AND DATA EXTRACTIVISM</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The authenticity of screenshots is, in general, hard to pinpoint, given that the metadata they provide more or less only concerns the date, time, and device of taking the image, and contains no information on the operative contents of the screen</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>https://superuser.com/questions/1010186/how-to-prove-the-authenticity-of-a-screenshot/1010249</Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>. In that sense, they can easily be falsely fabricated</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>https://technastic.com/make-a-fake-create-fake-screenshots-for-almost-everything/</Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> and there are only a few ways to forensically determine if they are ‘real’ or not. Moreover, another layer of the authenticity of digital images arises in the context of the screenshot. The recent debate on screenshotting minted digital artworks</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>https://medium.datadriveninvestor.com/why-nfts-dont-have-a-screenshot-problem-4e8b284051b9</Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> invokes the Benjaminian discussion on the aura of digital artworks. The NFT as a digital certificate of ownership, devalues the imagistic properties of the digital artworks that can be easily replicated with the help of a few keys on your device. It displaces the ‘authenticity’ of the work on the place on the blockchain, rather than trying to preserve its possessional exclusivity like the streaming platforms, by disabling the image to be screen-replicated through the code. Moreover, this authenticity is also located in the proof of monetary value and ownership, rather than in the material and aesthetic properties of the image. As the function of the screenshot allows for immense reproduction and appropriation, the purpose of the NFT also might be read as a response to it, seeking to preserve the intended (market) value of the artwork.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Figure">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Rectangle Self="uec" StrokeWeight="0" ItemTransform="1.00000 0 0 1.00000 479.32867 -248.72727">
+      <Properties>
+        <PathGeometry>
+          <GeometryPathType PathOpen="false">
+            <PathPointArray>
+              <PathPointType Anchor="-479.32867 -248.72727" LeftDirection="-479.32867 -248.72727" RightDirection="-479.32867 -248.72727" />
+              <PathPointType Anchor="-479.32867 248.72727" LeftDirection="-479.32867 248.72727" RightDirection="-479.32867 248.72727" />
+              <PathPointType Anchor="479.32867 248.72727" LeftDirection="479.32867 248.72727" RightDirection="479.32867 248.72727" />
+              <PathPointType Anchor="479.32867 -248.72727" LeftDirection="479.32867 -248.72727" RightDirection="479.32867 -248.72727" />
+            </PathPointArray>
+          </GeometryPathType>
+        </PathGeometry>
+      </Properties>
+      <Image Self="ue6" ItemTransform="1.00000 0 0 1.00000 -479.32867 -248.72727">
+        <Properties>
+          <Profile type="string">
+            $ID/Embedded
+          </Profile>
+        </Properties>
+        <Link Self="ueb" LinkResourceURI="file:imgs/01.7.png" />
+      </Image>
+    </Rectangle>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Caption">
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The screenshot was already connected to Hito Steyerl’s concept of ‘poor image’</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Hito Steyerl, “</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>In Defense of the Poor Image</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>,” </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>e-flux Journal</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content> no. 10 (November 2009), </Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-4" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>https://www.e-flux.com/journal/10/61362/in-defense-of-the-poor-image/</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> by Švelch that generates in digital environments and is marked by its low resolution, lack of focus, easy reproducibility and shareability. Steyerl writes:</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The poor image is a copy in motion. Its quality is bad, its resolution substandard. As it accelerates, it deteriorates. It is a ghost of an image, a preview, a thumbnail, an errant idea, an itinerant image distributed for free, squeezed through slow digital connections, compressed, reproduced, ripped, remixed, as well as copied and pasted into other channels of distribution.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Not only is the screenshot a poor image, but it is also a free image, especially when conceived in the context of NFTs and digital artworks. Steyerl notes that the poor image lacks focus, due to its usually low resolution, which she also connects to the visual and narrative purpose of focus – to denote power – “focus is identified as a class position, a position of ease and privilege while being out of focus lowers one’s value as an image.” Taking another step in this direction, NFTs direct focus from the visual and material properties of an image to the digital certificate of ownership in order to position the artwork’s value. Given that a digital artwork can be screenshotted, and NFT (as an operational piece of code) cannot, the digital information of the screenshot as an image is stripped from the information of the original image.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Kelly Pendergrast writes</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Kelly Pendergrast, “</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Screen Memories</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>,” </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Real Life Mag</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, January 14, 2021, </Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-5" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>https://reallifemag.com/screen-memories/</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> on her screenshotting practices as a type of imagistic resistance to the corporate platform culture that extracts data and metadata from the endless flow of images it receives from the users:</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The act of screenshotting an image (rather than downloading it) strips out the metadata from the original photograph, and I don’t necessarily attribute the artist if I share. […] The screenshot is a gesture that lays claim to the act of seeing, and turns the framing and capturing of an image that often contains a mixture of windows and picture fields (a web page, a Microsoft Word window, all of it) into an act of creating anew. The old metadata: Gone! In its place, my image, with fresh data and the pleasingly prosaic file name “Screen Shot 2020-12-01 at 9.54.48 PM.”</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>By disrupting the circulation of data by creating a new piece of visual and digital information, the screenshot taker actively disrupts the traceability and computability of the image which could be used for surveillance and governance on the side proprietary digital platforms. The lack of original metadata in screenshots, whether they represent minted artworks or any other digital image, means shifting the focus and agency from the coded to the visual, as that is also the only realm accessible to most computer and smartphone users.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>In her account of poor images, Steyerl notes that they create ‘visual bonds’, which is a term by Russian avant-garde filmmaker Dziga Vertov:</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>This “visual bond” was, according to Vertov, supposed to link the workers of the world with each other. He imagined a sort of communist, visual, Adamic language that could not only inform or entertain, but also organize its viewers.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>By being devoid of monetary value, as well as useful metadata, screenshots are digital images with primarily visual quality, providing the users to establish visual bonds to other users and their respective digital environments, through their aesthetic, affective and informational purposes.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>DATA GATHERING, IMAGE SURVEILLANCE</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Apart from its aesthetic possibilities, one of the screenshot’s functions lies in its documentary nature. Frosh explains the documentary aspect of the screenshot as an archival and epistemic practice, which, when coupled with the heightened iconicity and indexicality of screenshot, points to the intensified visual aspect of the screenshot as a digital document – “documenting is an epistemic practice: the kind of knowing that is all wrapped up with showing, and showing wrapped with knowing.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Paul Frosh, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>The Poetics of Digital Media</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, Cambridge (MA): MIT Press, 2018.</Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>”</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Frances Corry presented a study on the potential harm of screenshot's documentarity. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Frances Corry, “</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Screenshot, Save, Share, Shame: Making Sense of New Media Through Screenshots and Public Shame</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>,” </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>First Monday</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content> 26, no. 4: </Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-6" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>https://firstmonday.org/ojs/index.php/fm/article/view/11649/10107</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> She chose to focus on two events, one that pertained to the use of screenshots to expose a sexual predator, and the other one to the misfortunate event of teenage suicide caused by exposing the private content of her videos via screenshotting and distributing the images. In her analysis, Corry offers a perspective on screenshots as images that</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>move digital information between the walls of seemingly private (e.g., one-to-one communication) or privatized realms (e.g., proprietary platforms) and public display, just as they threaten to save and circulate media that was assumed to be ephemeral. In each, they play with the expected boundaries of digital time and space.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>She notes that screenshots in that sense make manifest Wendy Chun’s and Sarah Friedland’s concept of leakiness in the digital realm that presupposes the “simultaneously breaching and sustaining assumed boundaries between public and private.” In both analyzed cases, the screenshotting practice manifests the power of the digital observer to preserve the instant of the fluid digital environment (that is also composed of other people and not only machines) and leverage or abuse that evidence to their liking.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Figure">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Rectangle Self="uec" StrokeWeight="0" ItemTransform="1.00000 0 0 1.00000 342.37762 -337.34266">
+      <Properties>
+        <PathGeometry>
+          <GeometryPathType PathOpen="false">
+            <PathPointArray>
+              <PathPointType Anchor="-342.37762 -337.34266" LeftDirection="-342.37762 -337.34266" RightDirection="-342.37762 -337.34266" />
+              <PathPointType Anchor="-342.37762 337.34266" LeftDirection="-342.37762 337.34266" RightDirection="-342.37762 337.34266" />
+              <PathPointType Anchor="342.37762 337.34266" LeftDirection="342.37762 337.34266" RightDirection="342.37762 337.34266" />
+              <PathPointType Anchor="342.37762 -337.34266" LeftDirection="342.37762 -337.34266" RightDirection="342.37762 -337.34266" />
+            </PathPointArray>
+          </GeometryPathType>
+        </PathGeometry>
+      </Properties>
+      <Image Self="ue6" ItemTransform="1.00000 0 0 1.00000 -342.37762 -337.34266">
+        <Properties>
+          <Profile type="string">
+            $ID/Embedded
+          </Profile>
+        </Properties>
+        <Link Self="ueb" LinkResourceURI="file:imgs/01.8.png" />
+      </Image>
+    </Rectangle>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Caption">
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Though the power of screenshots can be present and very significant as a catalysator of such extreme cases, it is also a fundamental part of much more mundane situations. Snapchat famously lets users know when their messages and sent photos are being screenshotted, in order to preserve the sense of transparency and security of its users that might deal with sensitive content while communicating with their peers. Kaitlyn Tiffany, in her account on screenshots, notes that the screenshot facilitates “the idea that anything and everything you do online could be—and let’s face it, probably is—captured by someone, somewhere, and then stored for future use, has imbued our lives online with a latent sense of paranoia.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Kaitlyn Tiffany, “</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Screenshots Are the Gremlins of the Internet</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>,” </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>The Atlantic</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, June 1, 2021, </Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-7" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>https://www.theatlantic.com/technology/archive/2021/06/screenshots-gremlins-internet/619062/</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>” Screenshots, in their everyday use, are used as an instrument of surveillance – peer-to-peer or lateral surveillance, as Mark Andrejevic names this type of surveillance produced by the pervasiveness of watching practices instituted by social media.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Mark Andrejevic, ‘The work of watching one another: Lateral surveillance, risk, and governance’, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Surveillance &amp; Society</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content> 2.4 (2005): 479-497.</Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>NO SHOT LIKE THE SCREENSHOT</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>As a very rudimentary medium, that more or less only allows its users to freeze and save the instant of their digital environment in the same way it is shown to them, screenshot tells a lot about the dynamics of the relationship of humans with their indispensable screens and different types of functions and values of the image in this screen-mediated environment. Screenshot continues to be framed and determined by the visible and invisible possibilities of the screen of its origin, as well as the eager and curious user who aims to establish a connection with it through the act of screenshotting. Similar to what we think we know about technical image-making, but simultaneously exceeding it and being embedded within the ephemeral images of computer and smartphone screens, the screenshot exists as a covert and simplified symptom of the complex web of relations users are subjected to in their everyday ‘time-wasting’.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Figure">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Rectangle Self="uec" StrokeWeight="0" ItemTransform="1.00000 0 0 1.00000 416.39161 -289.00699">
+      <Properties>
+        <PathGeometry>
+          <GeometryPathType PathOpen="false">
+            <PathPointArray>
+              <PathPointType Anchor="-416.39161 -289.00699" LeftDirection="-416.39161 -289.00699" RightDirection="-416.39161 -289.00699" />
+              <PathPointType Anchor="-416.39161 289.00699" LeftDirection="-416.39161 289.00699" RightDirection="-416.39161 289.00699" />
+              <PathPointType Anchor="416.39161 289.00699" LeftDirection="416.39161 289.00699" RightDirection="416.39161 289.00699" />
+              <PathPointType Anchor="416.39161 -289.00699" LeftDirection="416.39161 -289.00699" RightDirection="416.39161 -289.00699" />
+            </PathPointArray>
+          </GeometryPathType>
+        </PathGeometry>
+      </Properties>
+      <Image Self="ue6" ItemTransform="1.00000 0 0 1.00000 -416.39161 -289.00699">
+        <Properties>
+          <Profile type="string">
+            $ID/Embedded
+          </Profile>
+        </Properties>
+        <Link Self="ueb" LinkResourceURI="file:imgs/01.9.png" />
+      </Image>
+    </Rectangle>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Caption">
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold Italic">
+    <Content>Dunja Nešović</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>is a PhD Candidate in Communication Studies at Concordia University in Montréal/Tiohtià:ke and a Lab Coordinator/Research Assistant at the Digital Intimacy, Gender, and Sexuality Lab. Dunja's research broadly encompasses investigating digital media aesthetics and interfaces, with her current doctoral inquiry focusing on the mediation of lesbian desire in a convergent digital media environment. As a researcher, curator and editor, she collaborated with the Institute of Network Cultures (Amsterdam, NL), Tijdschrift Kunstlicht (Amsterdam, NL), Screen Walks (Photographer's Gallery in London and Fotomuseum Winterthur) and IMPAKT Festival (Utrecht, NL).</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+
+  </Story>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//www.theatlantic.com/technology/archive/2021/06/screenshots-gremlins-internet/619062/?utm_source=chatgpt.com" Name="link" DestinationURL="https://www.theatlantic.com/technology/archive/2021/06/screenshots-gremlins-internet/619062/?utm_source=chatgpt.com" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-7" Name="https://www.theatlantic.com/technology/archive/2021/06/screenshots-gremlins-internet/619062/?utm_source=chatgpt.com" Source="htss-7" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/https%3a//www.theatlantic.com/technology/archive/2021/06/screenshots-gremlins-internet/619062/?utm_source=chatgpt.com</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//firstmonday.org/ojs/index.php/fm/article/view/11649/10107?utm_source=chatgpt.com" Name="link" DestinationURL="https://firstmonday.org/ojs/index.php/fm/article/view/11649/10107?utm_source=chatgpt.com" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-6" Name="https://firstmonday.org/ojs/index.php/fm/article/view/11649/10107?utm_source=chatgpt.com" Source="htss-6" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/https%3a//firstmonday.org/ojs/index.php/fm/article/view/11649/10107?utm_source=chatgpt.com</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//reallifemag.com/screen-memories/?utm_source=chatgpt.com" Name="link" DestinationURL="https://reallifemag.com/screen-memories/?utm_source=chatgpt.com" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-5" Name="https://reallifemag.com/screen-memories/?utm_source=chatgpt.com" Source="htss-5" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/https%3a//reallifemag.com/screen-memories/?utm_source=chatgpt.com</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//www.e-flux.com/journal/10/61362/in-defense-of-the-poor-image/?utm_source=chatgpt.com" Name="link" DestinationURL="https://www.e-flux.com/journal/10/61362/in-defense-of-the-poor-image/?utm_source=chatgpt.com" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-4" Name="https://www.e-flux.com/journal/10/61362/in-defense-of-the-poor-image/?utm_source=chatgpt.com" Source="htss-4" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/https%3a//www.e-flux.com/journal/10/61362/in-defense-of-the-poor-image/?utm_source=chatgpt.com</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//www.vice.com/en/article/qkwbxx/an-artists-screenshot-collages-capture-computerized-creativity?utm_source=chatgpt.com" Name="link" DestinationURL="https://www.vice.com/en/article/qkwbxx/an-artists-screenshot-collages-capture-computerized-creativity?utm_source=chatgpt.com" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-3" Name="https://www.vice.com/en/article/qkwbxx/an-artists-screenshot-collages-capture-computerized-creativity?utm_source=chatgpt.com" Source="htss-3" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/https%3a//www.vice.com/en/article/qkwbxx/an-artists-screenshot-collages-capture-computerized-creativity?utm_source=chatgpt.com</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//www.fotomuseum.ch/en/2019/07/05/screen-selfies-and-high-scores/" Name="link" DestinationURL="https://www.fotomuseum.ch/en/2019/07/05/screen-selfies-and-high-scores/" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-2" Name="https://www.fotomuseum.ch/en/2019/07/05/screen-selfies-and-high-scores/" Source="htss-2" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/https%3a//www.fotomuseum.ch/en/2019/07/05/screen-selfies-and-high-scores/</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//medium.com/@johnkpdsmith/how-to-take-screenshots-on-your-smart-tv-screen-6596a2899e0d" Name="link" DestinationURL="https://medium.com/@johnkpdsmith/how-to-take-screenshots-on-your-smart-tv-screen-6596a2899e0d" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-1" Name="https://medium.com/@johnkpdsmith/how-to-take-screenshots-on-your-smart-tv-screen-6596a2899e0d" Source="htss-1" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/https%3a//medium.com/@johnkpdsmith/how-to-take-screenshots-on-your-smart-tv-screen-6596a2899e0d</Destination>
+    </Properties>
+  </Hyperlink>
+</Document>

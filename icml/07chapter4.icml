@@ -1,0 +1,1123 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?aid style="50" type="snippet" readerVersion="6.0" featureSet="513" product="8.0(370)" ?>
+<?aid SnippetType="InCopyInterchange"?>
+<Document DOMVersion="8.0" Self="pandoc_doc">
+    <RootCharacterStyleGroup Self="pandoc_character_styles">
+      <CharacterStyle Self="$ID/NormalCharacterStyle" Name="Default" />
+      <CharacterStyle Self="CharacterStyle/" Name="">
+        <Properties>
+          <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
+        </Properties>
+      </CharacterStyle>
+      <CharacterStyle Self="CharacterStyle/Bold Italic" Name="Bold Italic" FontStyle="Bold Italic">
+        <Properties>
+          <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
+        </Properties>
+      </CharacterStyle>
+      <CharacterStyle Self="CharacterStyle/Cite" Name="Cite">
+        <Properties>
+          <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
+        </Properties>
+      </CharacterStyle>
+      <CharacterStyle Self="CharacterStyle/Cite Italic" Name="Cite Italic" FontStyle="Italic">
+        <Properties>
+          <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
+        </Properties>
+      </CharacterStyle>
+      <CharacterStyle Self="CharacterStyle/Italic" Name="Italic" FontStyle="Italic">
+        <Properties>
+          <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
+        </Properties>
+      </CharacterStyle>
+      <CharacterStyle Self="CharacterStyle/Italic Link" Name="Italic Link" FontStyle="Italic">
+        <Properties>
+          <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
+        </Properties>
+      </CharacterStyle> 
+    </RootCharacterStyleGroup>
+    <RootParagraphStyleGroup Self="pandoc_paragraph_styles">
+      <ParagraphStyle Self="$ID/NormalParagraphStyle" Name="$ID/NormalParagraphStyle"
+          SpaceBefore="6" SpaceAfter="6"> <!-- paragraph spacing -->
+        <Properties>
+          <TabList type="list">
+            <ListItem type="record">
+              <Alignment type="enumeration">LeftAlign</Alignment>
+              <AlignmentCharacter type="string">.</AlignmentCharacter>
+              <Leader type="string"></Leader>
+              <Position type="unit">10</Position> <!-- first tab stop -->
+            </ListItem>
+          </TabList>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Caption" Name="Caption" LeftIndent="0">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Figure" Name="Figure" LeftIndent="0">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Footnote &gt; Paragraph" Name="Footnote &gt; Paragraph" LeftIndent="0">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Header1" Name="Header1" LeftIndent="0" PointSize="36">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Header2" Name="Header2" LeftIndent="0" PointSize="30">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Header3" Name="Header3" LeftIndent="0" PointSize="24">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Paragraph" Name="Paragraph" LeftIndent="0">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle> 
+    </RootParagraphStyleGroup>
+    <RootTableStyleGroup Self="pandoc_table_styles">
+      <TableStyle Self="TableStyle/Table" Name="Table" />
+    </RootTableStyleGroup>
+    <RootCellStyleGroup Self="pandoc_cell_styles">
+      <CellStyle Self="CellStyle/Cell" AppliedParagraphStyle="ParagraphStyle/$ID/[No paragraph style]" Name="Cell" />
+    </RootCellStyleGroup>
+  <Story Self="pandoc_story"
+      TrackChanges="false"
+      StoryTitle=""
+      AppliedTOCStyle="n"
+      AppliedNamedGrid="n" >
+    <StoryPreference OpticalMarginAlignment="true" OpticalMarginSize="12" />
+
+<!-- body needs to be non-indented, otherwise code blocks are indented too far -->
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header1">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Theory of the Stretched Image</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>August Kaasa Sundgaard</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Originally published November 7th, 2025</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>One day, while doomscrolling </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Reels</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, I came across a clip from </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Family Guy</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>. It was a scene I remembered from when I was a young teenager: Peter Griffin sitting on a couch prank-calling a refrigerator. Back then, I watched </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Family Guy</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> on my parents’ TV. Now I was encountering the same scene on my phone – only this time the originally horizontal video had been stretched so violently to fill TikTok’s vertical frame that Peter Griffin, a character known for being visibly overweight, suddenly looked slim.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The stretched (moving) image has proliferated far beyond this one TikTok and has become a staple of Gen Z internet aesthetics. Its exaggerated distortions appear silly and accidental, but its conditions of possibility are anything but.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Stretched to fit</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Beneath the surface, the stretch image is a networked image, hyperspecific to contemporary platform life. Similar to the poor image</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Hito Steyerl. “In Defense of the Poor Image.” e-flux Journal, no. 10 (November 2009). https://www.e-flux.com/journal/10/61362/in-defense-of-the-poor-image/</Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, or the deep fried meme</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Günseli Yalcinkaya. “Deep-Fried Memes: What Are They and Why Do They Matter?” Dazed Digital, November 11, 2022. https://www.dazeddigital.com/life-culture/article/57422/1/deep-fried-memes-surveillance-capitalism-instagram-reddit-censorship/</Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, it is both a result of and stained by the infrastructures that circulate it. More specifically, it is birthed by the devices we take photos </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>with</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> as well as the limitations imposed by the platforms we post </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>on</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>. An iPhone 12, for instance, records in a 4:3 aspect ratio. Yet the platforms demand otherwise: Instagram Stories are locked into 9:16 vertical, posts range between 1.91:1 and 3:4, YouTube defaults to 16:9 horizontal, and so on. As images and videos of different sizes move through these shifting aspect ratio regimes, stretching becomes an effective and “lazy” strategy to adapt content to new platformed contexts. The stretched image is therefore less a stable picture than a contingent cooperation between software, hardware, platforms, and users. In it, we see the tension between </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>human vision</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, which seeks coherence and proportion, and </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>machinic vision</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, which molds images to optimize for circulation, engagement, and profit.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Figure">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Rectangle Self="uec" StrokeWeight="0" ItemTransform="1.00000 0 0 1.00000 150.00000 -100.00000">
+      <Properties>
+        <PathGeometry>
+          <GeometryPathType PathOpen="false">
+            <PathPointArray>
+              <PathPointType Anchor="-150.00000 -100.00000" LeftDirection="-150.00000 -100.00000" RightDirection="-150.00000 -100.00000" />
+              <PathPointType Anchor="-150.00000 100.00000" LeftDirection="-150.00000 100.00000" RightDirection="-150.00000 100.00000" />
+              <PathPointType Anchor="150.00000 100.00000" LeftDirection="150.00000 100.00000" RightDirection="150.00000 100.00000" />
+              <PathPointType Anchor="150.00000 -100.00000" LeftDirection="150.00000 -100.00000" RightDirection="150.00000 -100.00000" />
+            </PathPointArray>
+          </GeometryPathType>
+        </PathGeometry>
+      </Properties>
+      <Image Self="ue6" ItemTransform="1.00000 0 0 1.00000 -150.00000 -100.00000">
+        <Properties>
+          <Profile type="string">
+            $ID/Embedded
+          </Profile>
+        </Properties>
+        <Link Self="ueb" LinkResourceURI="file:imgs/04.1.png" />
+      </Image>
+    </Rectangle>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Caption">
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The stretched image is fast and cost-effective, but this efficiency comes at the expense of &quot;quality&quot;. The stretched image is also lazy, ugly, and disproportionate. It distorts bodies, objects, and by virtue of this, “the real.” Unsurprisingly, it thrives in spaces where this same trade-off is valued. Most typically we find them in memes, but also, in floor-to-ceiling posters at affordable Thai massage salons (where an image simply needs to fill a wall), in internet spam (where it needs to fit a fixed ad space), and across Chinese low-cost dropshipping product ads.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Temu famously values quantity over quality, adding 10,000 new items every day. To sustain this pace, it often advertises products that don’t exist yet. Some are AI-generated designs produced only after purchase (like the viral AI gorilla couch), others are template-based goods where typically pop-cultural graphics are overlaid on cheap objects in infinite combinations. In the latter case, the source images (film posters, memes, celebrity photos) carry fixed aspect ratios that rarely align with the products they’re pasted onto. To solve this problem, images are “stretched to fit”.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Figure">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Rectangle Self="uec" StrokeWeight="0" ItemTransform="1.00000 0 0 1.00000 342.30100 -159.41137">
+      <Properties>
+        <PathGeometry>
+          <GeometryPathType PathOpen="false">
+            <PathPointArray>
+              <PathPointType Anchor="-342.30100 -159.41137" LeftDirection="-342.30100 -159.41137" RightDirection="-342.30100 -159.41137" />
+              <PathPointType Anchor="-342.30100 159.41137" LeftDirection="-342.30100 159.41137" RightDirection="-342.30100 159.41137" />
+              <PathPointType Anchor="342.30100 159.41137" LeftDirection="342.30100 159.41137" RightDirection="342.30100 159.41137" />
+              <PathPointType Anchor="342.30100 -159.41137" LeftDirection="342.30100 -159.41137" RightDirection="342.30100 -159.41137" />
+            </PathPointArray>
+          </GeometryPathType>
+        </PathGeometry>
+      </Properties>
+      <Image Self="ue6" ItemTransform="1.00000 0 0 1.00000 -342.30100 -159.41137">
+        <Properties>
+          <Profile type="string">
+            $ID/Embedded
+          </Profile>
+        </Properties>
+        <Link Self="ueb" LinkResourceURI="file:imgs/04.2.png" />
+      </Image>
+    </Rectangle>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Caption">
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>One interesting product I found was a wall tapestry of Mean Girls, where the protagonists' faces have been swapped with three female Love island US contestants. The image has been stretched so extensively that the women appear unnaturally wide – an ironic distortion, given that </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Mean Girls</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> was originally a satire of the “skinny, white” high-school archetype. This incoherence becomes proof of how the logic of speed and mass production overrides any human sense of logic, creating products that, as Caroline Busta wrote about Shein, are “less ‘fashion’ than tag clouds de-virtualized and remixed by human designers”.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Caroline Busta. “Hallucinating Sense in the Era of Infinity-Content: Technical Images, Film01, Angelicism, Art, Showtime, True Detective &amp; Shein.” Document Journal, May 29, 2024. https://www.documentjournal.com/2024/05/technical-images-film01-angelicism-art-showtime-true-detective-shein/.</Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> As the same graphic migrates from vertical towels to square pillows to horizontal tapestries, the bodies warp differently each time, producing a strange lineage of </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Love Island-Mean Girls</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> mutants – a kind of accidental, body-inclusive product collection. Stretching images in this way allows companies like Temu to sustain an inhuman pace of production, designing products in real time as culture moves. Just in time to capitalize on short-lived memes, fleeting trends, or the temporary relevance of a reality-TV show. The stretched image, while “poor,” is therefore a conduit for slop-on-demand and a token of what Daniel Feldman calls janky capitalism: a falling-apart weirdness of the world, while capital spins ever farther away from the human.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The cost-efficiency of the stretched image also helps explain why it appears so frequently in the online micro-scenes of Gen Z internet-based “underground” rappers like Nettspend, Xaviersobased, and collectives such as Shed Theory and Haunted Mound. These circles are defined by a relentless drive to release music – finished or not – and the stretched image neatly facilitates this by offering a quick, low-effort way to generate visuals. Fakemink, for example, has released nearly 100 songs on Spotify since 2023, twelve of which use stretched covers, perhaps partly, to sustain this accelerated pace of releasing. Speed, to which the stretched image responds to, is reflective of shifts in the broader music industry: Songs are increasingly shorter, sped-up versions are routinely produced for TikTok, and releases now occur on a rolling basis rather than as traditional albums cycles. These shifts are all pushed by culture shaped by algorithmic imperatives and shrinking attention spans, in which efficiency, speed, and continuous circulation govern both production and distribution. In ways analogous to how platformization of music accelerates sonic forms, the stretched image of, let's say Fakeminks London Saviour, functions as a visual counterpart allowing imagery to “keep up”.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Figure">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Rectangle Self="uec" StrokeWeight="0" ItemTransform="1.00000 0 0 1.00000 387.93311 -235.38462">
+      <Properties>
+        <PathGeometry>
+          <GeometryPathType PathOpen="false">
+            <PathPointArray>
+              <PathPointType Anchor="-387.93311 -235.38462" LeftDirection="-387.93311 -235.38462" RightDirection="-387.93311 -235.38462" />
+              <PathPointType Anchor="-387.93311 235.38462" LeftDirection="-387.93311 235.38462" RightDirection="-387.93311 235.38462" />
+              <PathPointType Anchor="387.93311 235.38462" LeftDirection="387.93311 235.38462" RightDirection="387.93311 235.38462" />
+              <PathPointType Anchor="387.93311 -235.38462" LeftDirection="387.93311 -235.38462" RightDirection="387.93311 -235.38462" />
+            </PathPointArray>
+          </GeometryPathType>
+        </PathGeometry>
+      </Properties>
+      <Image Self="ue6" ItemTransform="1.00000 0 0 1.00000 -387.93311 -235.38462">
+        <Properties>
+          <Profile type="string">
+            $ID/Embedded
+          </Profile>
+        </Properties>
+        <Link Self="ueb" LinkResourceURI="file:imgs/04.3.png" />
+      </Image>
+    </Rectangle>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Caption">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>A selection of album covers sourced from Soundcloud</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Stretching an image is not the only way to adapt it to platform constraints. Cropping is probably the more common solution when faced with such a “problem”. But what makes stretching far more interesting is that, while the cropped image erases its “former limbs”, the stretched image preserves them - though in distorted form. This allows the stretched image to 1) become an aesthetic in its own right and 2) visually carry the history of its circulation. Take Bladee’s 2013 music video </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>My Magic is Strong</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, for example: horizontally stretched footage shows Bladee frolicking on a grassy field, apparently shot vertically on a phone but stretched to fit YouTube’s horizontal frame. Or Yung Hurn’s TikTok videos for </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Sonne und Regen</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> and </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>100 tausend</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, originally horizontally posted on Youtube, later stretched and spliced to fit TikTok’s vertical frame. These stretched videos visibly trace their journey across platforms, much like poor images bear the scars of compression and digital degradation. Every stretch is a mark of repurposing, reformatting, and adaptation. In this sense, like the </Content>
+  </CharacterStyleRange>
+  <HyperlinkTextSource Self="htss-1" Name="" Hidden="false">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic Link">
+      <Content>poor image</Content>
+    </CharacterStyleRange>
+  </HyperlinkTextSource>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, the stretched image testifies to the acceleration and circulation inherent in audiovisual capitalism.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Hito Steyerl. “In Defense of the Poor Image.” e-flux Journal, no. 10 (November 2009). https://www.e-flux.com/journal/10/61362/in-defense-of-the-poor-image/</Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> Yet it also conveys a form of care, reflecting the attention of those who have granted it an extended life across new, platformed contexts. The stretched image thus carries a contradictory charge: both evidence of the violence that circulation enacts, and of the persistence and attention that keep it alive. Symbolically, it articulates the feeling of being pulled and pushed violently across digital platforms.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Figure">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Rectangle Self="uec" StrokeWeight="0" ItemTransform="1.00000 0 0 1.00000 419.83946 -178.43478">
+      <Properties>
+        <PathGeometry>
+          <GeometryPathType PathOpen="false">
+            <PathPointArray>
+              <PathPointType Anchor="-419.83946 -178.43478" LeftDirection="-419.83946 -178.43478" RightDirection="-419.83946 -178.43478" />
+              <PathPointType Anchor="-419.83946 178.43478" LeftDirection="-419.83946 178.43478" RightDirection="-419.83946 178.43478" />
+              <PathPointType Anchor="419.83946 178.43478" LeftDirection="419.83946 178.43478" RightDirection="419.83946 178.43478" />
+              <PathPointType Anchor="419.83946 -178.43478" LeftDirection="419.83946 -178.43478" RightDirection="419.83946 -178.43478" />
+            </PathPointArray>
+          </GeometryPathType>
+        </PathGeometry>
+      </Properties>
+      <Image Self="ue6" ItemTransform="1.00000 0 0 1.00000 -419.83946 -178.43478">
+        <Properties>
+          <Profile type="string">
+            $ID/Embedded
+          </Profile>
+        </Properties>
+        <Link Self="ueb" LinkResourceURI="file:imgs/04.4.png" />
+      </Image>
+    </Rectangle>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Caption">
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Aesthetic Silly Boys and Goth Girls</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Not all images that use this visual effect are consciously stretched to fit a given aspect ratio. This is because the stretched image has become its own aesthetic, sometimes but not always decoupled from the networked logics I just described. In the internet rap scene, à la Fakemink or Xaviersobased, for instance, the stretched image can make the rapper look wide and short, almost like Roblox characters or the reflection of a convex funhouse mirror. Stretching then becomes a tool for destabilizing rap’s traditional codes, softening its more brutal edges while reinforcing a consistent aesthetic of irony, silliness and chronically online humour that defines this corner of internet hip hop. The parallel extends into the sonic landscape as well. Rap collective Haunted Mound, for instance, consistently produces dark, muddy, and heavily distorted vocals – an effect not unlike what happens when you stretch an audio track.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Figure">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Rectangle Self="uec" StrokeWeight="0" ItemTransform="1.00000 0 0 1.00000 201.39860 -386.68531">
+      <Properties>
+        <PathGeometry>
+          <GeometryPathType PathOpen="false">
+            <PathPointArray>
+              <PathPointType Anchor="-201.39860 -386.68531" LeftDirection="-201.39860 -386.68531" RightDirection="-201.39860 -386.68531" />
+              <PathPointType Anchor="-201.39860 386.68531" LeftDirection="-201.39860 386.68531" RightDirection="-201.39860 386.68531" />
+              <PathPointType Anchor="201.39860 386.68531" LeftDirection="201.39860 386.68531" RightDirection="201.39860 386.68531" />
+              <PathPointType Anchor="201.39860 -386.68531" LeftDirection="201.39860 -386.68531" RightDirection="201.39860 -386.68531" />
+            </PathPointArray>
+          </GeometryPathType>
+        </PathGeometry>
+      </Properties>
+      <Image Self="ue6" ItemTransform="1.00000 0 0 1.00000 -201.39860 -386.68531">
+        <Properties>
+          <Profile type="string">
+            $ID/Embedded
+          </Profile>
+        </Properties>
+        <Link Self="ueb" LinkResourceURI="file:imgs/04.5.png" />
+      </Image>
+    </Rectangle>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Caption">
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Aestheticized versions of the stretched image appear in selfies posted by goths online. I didn't think much of this before I visited a gothic church in Belgium and saw how the church architecture, through its elongated arches, tall spires, and towering structures, can basically be thought of as a stretched church. The emphasis on verticality in gothic architecture is to reflect an upward reach, a stretch towards god, heaven and the divine. In this context, especially due to how a lot of these goth selfies feature christian symbolism like crosses, the stretched image feels like a way for them to channel that same aspiration, translating the monumental verticality of Gothic architecture into the digital, personal scale of the selfie.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>People stretch images also to signal a wide range of chronically online, alternative and niche aesthetic preferences – something you either </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>get</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> or you don’t. But the point I want to make is that this aesthetic did not emerge out of nowhere. It arises from platform-imposed constraints on aspect ratio, which force images to adapt in one way or another. Without this 21st-century visual ecosystem, where images circulate across platforms and can be easily edited, there would be little reason for this aesthetic to exist at all.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Platform Logic, and the Drive to Fill the Frame</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>There are two logics of social media platforms that have accelerated the tactics of stretching and solidified them into recognizable visual forms. The first logic, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>memetics</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, is driven by the way memes evolve through constant circulation, editing, screenshotting, and repurposing. Through these cycles of reproduction, users might stretch images to fit different aspect-ratio contexts of posting. The second logic, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>cross-posting</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, articulates how content creators often repurpose the same image or video across multiple platforms to maximize reach. In doing so, they are incentivized to reshape or “stretch” content to fit the aspect-ratio requirements of each platform, as “filling the screen” secures algorithmic visibility. As one of the most common pieces of advice for going viral suggests: always post in the platform’s native aspect ratio and avoid black bars at all costs.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The compulsive drive to “fill the screen” is not only enforced by platforms. It also reflects a deeper, almost biological impulse of how humans seek order and completeness - a tendency that has long been observed in art history. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Horror vacui</Content>
+  </CharacterStyleRange>
+  <HyperlinkTextSource Self="htss-2" Name="" Hidden="false">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic Link">
+      <Content>,</Content>
+    </CharacterStyleRange>
+  </HyperlinkTextSource>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> Latin for “fear of empty space,” is often used to describe artworks that fill the entire surface with detail and leave as little emptiness as possible. It references Aristotle’s old and disproven idea in physics that nature abhors an empty space. The same impulse is evident in contemporary phenomena, such as viral “oddly satisfying” videos featuring objects fitting perfectly together, like Buzzfeed’s </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Just 3 Minutes of Satisfying Perfect Fits</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, or in rage-baiting videos where nothing “fits”.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>If this horror vacui weren’t at play in posting, it would feel natural to use any aspect ratio and simply accept black “empty” bars filling the remaining space. Yet, seeing an image fill the screen, or its assigned frame, is more satisfying. The stretching of images is thus driven not only by platform incentives but also by this human desire for visual completeness. An example is Charli XCX’s now-iconic </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Brat</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> album cover, which features a neon green background and the album title in 90% vertically stretched Arial text. The cover is notable not only because its iconic status signals that stretched aesthetics are entering the mainstream, but also because stretching elements within a fixed aspect ratio (here, the square standard of records) creates a sense of visual satisfaction. Without the stretch, the word “BRAT” would feel misplaced, leaving too much empty space above and below. It simply would not be </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>brat</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>. The neuro-technological urge to fill the screen carries an inherent paradox: An image unnaturally stretched to fit a frame feels both repellent in its weirdness, yet seductive in its ability to fill the screen.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>On a side note, the stretched image is not the only contemporary visual form shaped by this desire to fill the screen. I suspect the same impulse may help explain the emergence of sludge videos. The usual analyses claim that sludge is a response to shortened attention spans and the demand for constant stimulation, but this doesn’t address why users began making these videos in the first place. Sure, experimentation likely played a role, but there is also a deeper “origin story” rooted in the fetish of filling the screen. Early sludge videos, for instance, often combined horizontal clips from </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Family Guy</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> with short, social-media-native vertical clips. The original </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Family Guy</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> footage was designed for horizontal television screens, but posting it on vertical platforms like TikTok created a mismatch. Placing additional clips next to it, and thereby creating sludge, worked as a remedy to this </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>horror vacui –</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> a way to visually “complete” the frame.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Figure">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Rectangle Self="uec" StrokeWeight="0" ItemTransform="1.00000 0 0 1.00000 313.64548 -178.91639">
+      <Properties>
+        <PathGeometry>
+          <GeometryPathType PathOpen="false">
+            <PathPointArray>
+              <PathPointType Anchor="-313.64548 -178.91639" LeftDirection="-313.64548 -178.91639" RightDirection="-313.64548 -178.91639" />
+              <PathPointType Anchor="-313.64548 178.91639" LeftDirection="-313.64548 178.91639" RightDirection="-313.64548 178.91639" />
+              <PathPointType Anchor="313.64548 178.91639" LeftDirection="313.64548 178.91639" RightDirection="313.64548 178.91639" />
+              <PathPointType Anchor="313.64548 -178.91639" LeftDirection="313.64548 -178.91639" RightDirection="313.64548 -178.91639" />
+            </PathPointArray>
+          </GeometryPathType>
+        </PathGeometry>
+      </Properties>
+      <Image Self="ue6" ItemTransform="1.00000 0 0 1.00000 -313.64548 -178.91639">
+        <Properties>
+          <Profile type="string">
+            $ID/Embedded
+          </Profile>
+        </Properties>
+        <Link Self="ueb" LinkResourceURI="file:imgs/04.6.png" />
+      </Image>
+    </Rectangle>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Caption">
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Now that a technical analysis of the stretched image is done, there are further questions to be asked: What is the stretched image stretching from and towards? What is it reaching for, with this straining, distorting movement?</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Slouching towards the Vertical</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Aspect ratio is not just a technical term describing the relative size of images and videos. Aspect ratios carry meaning and history – and they matter, especially in a time when so much of reality is mediated through images. The square image ratio, for instance, evokes vinyl sleeves, early Instagram, and Polaroids – the image-object that originally inspired Instagram’s name. Horizontal ratios call to mind landscapes, cinema, television, YouTube, and the computer screen. And vertical ratios evoke portraits, TikTok, short-form video, and the smartphone display. These are the associations I bring with me when I encounter stretched images online.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Figure">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Rectangle Self="uec" StrokeWeight="0" ItemTransform="1.00000 0 0 1.00000 109.20401 -206.48829">
+      <Properties>
+        <PathGeometry>
+          <GeometryPathType PathOpen="false">
+            <PathPointArray>
+              <PathPointType Anchor="-109.20401 -206.48829" LeftDirection="-109.20401 -206.48829" RightDirection="-109.20401 -206.48829" />
+              <PathPointType Anchor="-109.20401 206.48829" LeftDirection="-109.20401 206.48829" RightDirection="-109.20401 206.48829" />
+              <PathPointType Anchor="109.20401 206.48829" LeftDirection="109.20401 206.48829" RightDirection="109.20401 206.48829" />
+              <PathPointType Anchor="109.20401 -206.48829" LeftDirection="109.20401 -206.48829" RightDirection="109.20401 -206.48829" />
+            </PathPointArray>
+          </GeometryPathType>
+        </PathGeometry>
+      </Properties>
+      <Image Self="ue6" ItemTransform="1.00000 0 0 1.00000 -109.20401 -206.48829">
+        <Properties>
+          <Profile type="string">
+            $ID/Embedded
+          </Profile>
+        </Properties>
+        <Link Self="ueb" LinkResourceURI="file:imgs/04.7.png" />
+      </Image>
+    </Rectangle>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Caption">
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Of particular interest here is the vertically stretched image, where a horizontal image is forced into the vertical format of a phone. This type of image is constituted by a tension between the pre-vertical ecosystem of varied aspect ratios and the contemporary dominance of vertical media. In the late 2000s and early 2010s, social media images were far more diverse, reflecting how internet use was more evenly distributed between computers and phones. Computer-based platforms typically favored horizontal formats (e.g., YouTube), while mobile apps leaned toward vertical content (e.g., Snapchat), and platforms like Facebook, Tumblr, and Flickr were commonly used on both, creating a varied image ecosystem in terms of aspect ratio. Since then, the vertical orientation of phones has encouraged increased usage by making content consumption mobile, pushing the balance of aspect ratios strongly toward vertical formats.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The stretched vertical image operates as a site of historic tension and remediation, as seen in the instagram account of </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Cite">
+    <Content>@unicornchainsaw</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, which posts 2010s nostalgic content under the rules of vertical authoritarianism. The account is filled with digital relics from that era, such as the 2009 Instagram interface, clips from </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Skins</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> and </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Movie Star Planet</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, all stretched to fill the screen, regardless of their original aspect ratio. One reel, for example, features a slideshow of </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>justgirlythings</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> tumblr era images paired with a pitched-down version of OneRepublic's 2013 hit &quot;Counting Stars.&quot; In the 2025 </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Cite">
+    <Content>@sadkissed</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> version, these once-familiar hopecore horizontal images are stretched so aggressively to fit the vertical frame that the text becomes nearly unreadable.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>What makes this reel so striking is its temporal dissonance. I remember being a teenager when these types of sincere and hopeful images were a part of my everyday media diet. I would encounter them mostly on my family's stationary computer, on Tumblr or Facebook, and my encounter with them would be sincere. At least from what I can remember. The images evoke this feeling of a friendlier internet: a place you would visit, not a device you carried in your pocket at all times. However, the stretched editing in combination with the reel's distorted throwback music, introduces a darkness. It feels as if the images have been assaulted, forced to conform to the rigid, contemporary regime of verticality: a visual violence that mirrors the internet's shift from sincerity to a more cynical, irony-poisoned landscape.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Figure">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Rectangle Self="uec" StrokeWeight="0" ItemTransform="1.00000 0 0 1.00000 308.34783 -177.47157">
+      <Properties>
+        <PathGeometry>
+          <GeometryPathType PathOpen="false">
+            <PathPointArray>
+              <PathPointType Anchor="-308.34783 -177.47157" LeftDirection="-308.34783 -177.47157" RightDirection="-308.34783 -177.47157" />
+              <PathPointType Anchor="-308.34783 177.47157" LeftDirection="-308.34783 177.47157" RightDirection="-308.34783 177.47157" />
+              <PathPointType Anchor="308.34783 177.47157" LeftDirection="308.34783 177.47157" RightDirection="308.34783 177.47157" />
+              <PathPointType Anchor="308.34783 -177.47157" LeftDirection="308.34783 -177.47157" RightDirection="308.34783 -177.47157" />
+            </PathPointArray>
+          </GeometryPathType>
+        </PathGeometry>
+      </Properties>
+      <Image Self="ue6" ItemTransform="1.00000 0 0 1.00000 -308.34783 -177.47157">
+        <Properties>
+          <Profile type="string">
+            $ID/Embedded
+          </Profile>
+        </Properties>
+        <Link Self="ueb" LinkResourceURI="file:imgs/04.8.png" />
+      </Image>
+    </Rectangle>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Caption">
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>These images now appear as reels, the default mode of image production in the 2020s, rather than standalone posts, as was the norm before 2016. No longer fixed in place, they are absorbed into the infinite, algorithmically curated, globally synchronized doomscroll. The stretched image in this context bears the mark of this short-form vertical video revolution, the 'TikTokification' of Instagram, and the flattening of social media into a stream of endless, vertical content. The stretching signifies a forced adaptation, a relic of a past internet bent and distorted to fit the logic of a new one. The images feel like fractured echoes of a lost digital era. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>We cannot go back to 2010, we are stuck watching it as a reel.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The stretched vertical image therefore articulates anxiety, friction and strain in relation to the vertical image-regime that is dictating contemporary platform life. It exemplifies how platforms “force” the production of vertical images, and that this is not necessarily a comfortable or democratic choice. In recent years, not only Instagram but also an expanded ecosystem of platforms, YouTube, LinkedIn, Pornhub and Spotify, have all shifted toward short-form vertical video. This transition is not out of user demand, but because the format produces the most addictive engagement loops, and therefore maximizes profit. Recent image history can therefore be described as a process not only of “stretching” toward the vertical, but of “stretching” for attention, for engagement, and ultimately for monetization. If the vertical image is a visual form born from the way the vertical smartphones extend screen time and make content endlessly consumable through affording mobility, the stretched image is a counter-visual form. It allows non-vertical content, including pre-vertical internet images such as Tumblr posts and square Instagram macros, to persist under the authoritarian rule of verticality.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Vertical Music Videos &amp; Cross-post minimalism</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The vertical stretched image is not the only visual form born out of a smartphone-mediated reconfiguration of image production. Another example is the vertical music video. Pop artists such as Ellie Goulding, Selena Gomez, Billie Eilish, Camila Cabello, Halsey, Troye Sivan, and Bebe Rexha have all either released music videos made specifically for the phone screen or re-edited existing videos to fit the vertical aspect ratio of short-form platforms. What sets vertical music videos apart is not merely their aspect ratio, but the distinct visual language that verticality seems to foster. Across these videos, a strikingly dull minimalism and extreme self-absorption dominate: little to no narrative, with the singer’s body almost always filling the frame, mouthing the lyrics as if filming a TikTok. A comparison of the vertical and horizontal versions of Camila Cabello’s </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Havana</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> illustrates this difference clearly. The horizontal video is a full-scale production: a telenovela-style odyssey through the streets and everyday life of Cuba, complete with an ensemble cast, expanding the world of the song and underlining its ode to her hometown. The vertical version, by contrast, strips all that away. Frame after frame contains little more than Cabello herself, facing the camera and singing directly into the intimate space of the viewer’s phone screen.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Verticalization tends to reduce the music video’s capacity for narrative, context, and visual complexity, much like the rapid, fragmentary logic of social media content. In this context, verticalization is an active process that transforms traditionally rich media objects, like the music video, into slop. What's at stake here is the erosion of a cultural form that has, for decades, been one of popular music’s most experimental and boundary-pushing media objects.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Figure">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Rectangle Self="uec" StrokeWeight="0" ItemTransform="1.00000 0 0 1.00000 345.79264 -229.12375">
+      <Properties>
+        <PathGeometry>
+          <GeometryPathType PathOpen="false">
+            <PathPointArray>
+              <PathPointType Anchor="-345.79264 -229.12375" LeftDirection="-345.79264 -229.12375" RightDirection="-345.79264 -229.12375" />
+              <PathPointType Anchor="-345.79264 229.12375" LeftDirection="-345.79264 229.12375" RightDirection="-345.79264 229.12375" />
+              <PathPointType Anchor="345.79264 229.12375" LeftDirection="345.79264 229.12375" RightDirection="345.79264 229.12375" />
+              <PathPointType Anchor="345.79264 -229.12375" LeftDirection="345.79264 -229.12375" RightDirection="345.79264 -229.12375" />
+            </PathPointArray>
+          </GeometryPathType>
+        </PathGeometry>
+      </Properties>
+      <Image Self="ue6" ItemTransform="1.00000 0 0 1.00000 -345.79264 -229.12375">
+        <Properties>
+          <Profile type="string">
+            $ID/Embedded
+          </Profile>
+        </Properties>
+        <Link Self="ueb" LinkResourceURI="file:imgs/04.10.png" />
+      </Image>
+    </Rectangle>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Caption">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Cross-post Minimalism</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The dominance of smartphone-based media is not only producing more vertical content, as in the case of vertical music videos, but also reconfiguring horizontal content. This is evident in contemporary horizontal YouTube “slop”. Think of Jubilee (</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>“1 Capitalist vs 20 Anti-Capitalists”</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>), Cut (</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>“The Button”</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>), LADbible (</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>“Snack Wars”</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>), Colors Studio, Genius (</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>“Verified”</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>), The Skin Deep, BuzzFeed, or Pop the Balloon: what unites them is an extremely minimal set, often nothing more than a greenscreen or a single-colored background. I don’t interpret this shared visual language, which I call </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>cross-post minimalism</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, as incidental; I see it as a standardized aesthetic born out of the demands of platform circulation and cross-format portability. Indeed, YouTube videos today are rarely made just for YouTube – they are designed with the expectation that they will be crossposted as short-form vertical clips on TikTok, Reels, or Shorts. By keeping the set as minimal and uncluttered as possible, the footage can be cropped and repurposed across formats with little to no friction. The result facilitates circulation but produces a flattened aesthetic: portable, depersonalized, and ultimately reflecting a capitalist logic of efficiency.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The forced regime of verticality is not only significant because of what it represents but also because of how vertical frames inherently fit a different relation of objects than lets say a horizontal frame. A horizontal frame reflects our horizontal, landscape vision, and therefore favours capturing the dialogue, the environment and the world. It reflects a mode of viewing that is outwards. A vertical frame however, does not reflect this god-given way of seeing. It is designed for the individual, the single vertical body. My previous examples of Cabellos vertical music video for Havana, as well as the </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>cross-post minimalism</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> of Youtube slop show how vertical framing centers the individual, compressing context and privileging the singular over the collective. The hegemony of the vertical image is therefore not only symbolic of the extreme individualism and narcissism that plagues contemporary society, but also an accelerator for these processes.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The social consequences of verticalization is perfectly captured in a tiktok clip of a podcast where two men are having a conversation. Instead of showing their conversation logically as a horizontal frame where their eye-sights are aligned, they made the clip into a split-screen where the clips are put on top of each other to fit the vertical demands of TikTok. You can hear that they are talking together, but visually they are talking away from each other, into nothingness. This is what verticalization does to us. It fractures dialogue, isolates bodies, and reorients communication away from shared space and toward disconnected soliloquy.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>In response to this, I appreciate the trend on Instagram among cool Gen Z girls of posting horizontal photos in vertical stories. It has the feel of a quiet revolution...</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Figure">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Rectangle Self="uec" StrokeWeight="0" ItemTransform="1.00000 0 0 1.00000 142.67559 -208.41472">
+      <Properties>
+        <PathGeometry>
+          <GeometryPathType PathOpen="false">
+            <PathPointArray>
+              <PathPointType Anchor="-142.67559 -208.41472" LeftDirection="-142.67559 -208.41472" RightDirection="-142.67559 -208.41472" />
+              <PathPointType Anchor="-142.67559 208.41472" LeftDirection="-142.67559 208.41472" RightDirection="-142.67559 208.41472" />
+              <PathPointType Anchor="142.67559 208.41472" LeftDirection="142.67559 208.41472" RightDirection="142.67559 208.41472" />
+              <PathPointType Anchor="142.67559 -208.41472" LeftDirection="142.67559 -208.41472" RightDirection="142.67559 -208.41472" />
+            </PathPointArray>
+          </GeometryPathType>
+        </PathGeometry>
+      </Properties>
+      <Image Self="ue6" ItemTransform="1.00000 0 0 1.00000 -142.67559 -208.41472">
+        <Properties>
+          <Profile type="string">
+            $ID/Embedded
+          </Profile>
+        </Properties>
+        <Link Self="ueb" LinkResourceURI="file:imgs/04.9.png" />
+      </Image>
+    </Rectangle>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Caption">
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Future of the Stretched Image</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>So far I analyzed the stretched image as a hyperspecific artifact of the era of platform capitalism. Yet precisely because of this specificity, its future remains uncertain. The fate of the stretched image will be shaped by the constantly shifting interplay between platform-imposed conditions and the spontaneous, creative choices of users. This relationship can be productively examined through the lens of </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>strategies</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> and </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>tactics</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, as outlined by Michel de Certeau in </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>The Practice of Everyday Life</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> (1980).</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Michel de Certeau. The Practice of Everyday Life. Translated by Steven F. Rendall. Berkeley: University of California Press, 1984.</Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> Writing about psychogeography in the context of cities, de Certeau, defined strategies are the systems imposed by institutions – such as city layouts, maps, or traffic regulations – that structure movement and define what is possible in a given city. Tactics, by contrast, are the everyday, often subversive maneuvers through which individuals navigate and bend these systems: taking shortcuts, wandering off mapped routes, or using spaces in ways not intended.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Applied to social media, platforms’ rigid aspect-ratio regimes function as strategies, incentivizing certain forms of aspect ratios for posting. Stretching, by contrast, is a tactic: a user’s creative, “improper” maneuver to make content fit, sidestepping the friction of reshooting or redesigning. Stretching transforms images into a form of tactical improvisation, making them “habitable” within an otherwise constraining system.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>For a time, the conditions – or strategies – were constraining enough for stretched images to flourish. Yet I have observed a trend in which these conditions are narrowing. Lev Manovich’s re-thinking of De Certeau for the age of user-generated content can be useful here.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Lev Manovich. “The Practice of Everyday (Media) Life: From Mass Consumption to Mass Cultural Production?” Critical Inquiry 35, no. 2 (Winter 2009): 319–331.</Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> According to Manovich, tactics themselves can be absorbed and elevated into strategies. What begins as bottom-up, tactical play – remix, bricolage, mashup – can become formalized into the logic of the platform itself. This is visible in the trajectory of the stretched image. As users creatively bypassed strict aspect-ratio regimes – through stretching, split-screens, “sludgification,” or white-agram frames – platforms gradually adapted their policies, expanding the range of allowed aspect ratios. In 2019, for instance, Instagram introduced its “Layout” feature, allowing multiple horizontal images to be stacked within a vertical Story frame. Similarly, Instagram, once rigidly square, expanded its aspect ratio range from 1:1 to 1.91:1 landscape and 4:5 portrait, and by late 2025 even permitted ultra-wide video uploads (though not ultra-horizontal images). If these conditions continue to liberalize, the very tension that gave rise to the stretched image may disappear. We might therefore be at the end of the era of stretched images.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The increasing influence of AI on social media further complicates this picture. AI tools such as generative fill can now automatically adapt content to any aspect ratio, eliminating the need for creative workarounds like stretching. This is evident, for example, in the TikTok account </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Cite Italic">
+    <Content>@*filmsvertical</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>, where film classics such as </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Goodfellas</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Home Alone</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>, and </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Gladiator* have been processed through generative fill to remove the black bars that horizontal content would otherwise produce on TikTok’s vertical frame. Yet at the same time, there appears to be something about the logic of the stretched image that AI cannot grasp. I have repeatedly attempted to generate stretched images using AI, even specifying instructions like “pull the object in Photoshop,” but the outputs tend to be naturalistic distortions – a cat with a slightly elongated back, a man with chubby cheeks – rather than the digitally stretched effect produced by a human using photoshop. Seeing that AI cannot reproduce a stretched image, but can produce more normie social media posts like selfies, points to an interesting paradox when it comes to the stretched image: it is simultaneously inhuman – networked and technologically mediated– and irrepreducibly human, arising from aesthetic decisions and play that resist algorithmic reproduction. Maybe this resisting trait of the stretched image will allow it to survive, in a social media landscape increasingly contaminated by AI slop.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Figure">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Rectangle Self="uec" StrokeWeight="0" ItemTransform="1.00000 0 0 1.00000 398.28763 -262.23411">
+      <Properties>
+        <PathGeometry>
+          <GeometryPathType PathOpen="false">
+            <PathPointArray>
+              <PathPointType Anchor="-398.28763 -262.23411" LeftDirection="-398.28763 -262.23411" RightDirection="-398.28763 -262.23411" />
+              <PathPointType Anchor="-398.28763 262.23411" LeftDirection="-398.28763 262.23411" RightDirection="-398.28763 262.23411" />
+              <PathPointType Anchor="398.28763 262.23411" LeftDirection="398.28763 262.23411" RightDirection="398.28763 262.23411" />
+              <PathPointType Anchor="398.28763 -262.23411" LeftDirection="398.28763 -262.23411" RightDirection="398.28763 -262.23411" />
+            </PathPointArray>
+          </GeometryPathType>
+        </PathGeometry>
+      </Properties>
+      <Image Self="ue6" ItemTransform="1.00000 0 0 1.00000 -398.28763 -262.23411">
+        <Properties>
+          <Profile type="string">
+            $ID/Embedded
+          </Profile>
+        </Properties>
+        <Link Self="ueb" LinkResourceURI="file:imgs/04.11.png" />
+      </Image>
+    </Rectangle>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Caption">
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold Italic">
+    <Content>August Kaasa Sundgaard</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>(1999) is former intern and affiliated researcher at the Institute of Network Cultures. He holds a bachelor's degree in Liberal Arts from Leiden University and is currently enrolled in the University of Amsterdam Media Studies MA program. Through his collaborative project V.I.B.E., he has exhibited at Ars Electronica and Dutch Design Week, and has been published by Do Not Research.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+
+  </Story>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//en.wikipedia.org/wiki/Horror_vacui_(philosophy)" Name="link" DestinationURL="https://en.wikipedia.org/wiki/Horror_vacui_(philosophy)" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-2" Name="https://en.wikipedia.org/wiki/Horror_vacui_(philosophy)" Source="htss-2" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/https%3a//en.wikipedia.org/wiki/Horror_vacui_(philosophy)</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//www.e-flux.com/journal/10/61362/in-defense-of-the-poor-image" Name="link" DestinationURL="https://www.e-flux.com/journal/10/61362/in-defense-of-the-poor-image" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-1" Name="https://www.e-flux.com/journal/10/61362/in-defense-of-the-poor-image" Source="htss-1" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/https%3a//www.e-flux.com/journal/10/61362/in-defense-of-the-poor-image</Destination>
+    </Properties>
+  </Hyperlink>
+</Document>

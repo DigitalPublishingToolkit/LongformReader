@@ -32,9 +32,9 @@ TikTok.
 But before entering this particular *Girlcore*, I want to start with the
 algorithmic detours.
 
-![A purple rectangle with white border AI-generated content may be
-incorrect.](media/image1.png){width="1.2781102362204724in"
-height="0.34857502187226597in"}
+![](imgs/16.1.png)
+
+<br/>
 
 I type \#soviet, \#postsoviet, \#easterneurope, \#easternbloc in the
 search engine on Instagram, whilst the platform takes me to a temporal
@@ -62,17 +62,9 @@ next to a LADA in Kaliningrad, 1982. It’s all arbitrary. The page is
 trying to sell communist-coded T-shirts for 30 euros each, with the USSR
 logo printed on them.
 
-[\
-](https://networkcultures.org/longform/wp-content/uploads/sites/31/2025/04/Untitled-6.png)
+![](imgs/16.2.png)
 
-[\
-](https://networkcultures.org/longform/wp-content/uploads/sites/31/2025/04/Untitled-5.png)[\
-](https://networkcultures.org/longform/wp-content/uploads/sites/31/2025/04/Untitled-4.png)
-
-![](media/image2.png){width="5.160801618547682in"
-height="2.280792869641295in"}![](media/image3.png){width="5.160416666666666in"
-height="2.339511154855643in"}![](media/image4.png){width="5.17924978127734in"
-height="2.3291130796150483in"}
+<br/>
 
 I am stuck on the platform. And the platform is always in flux,
 continuously redifining lived experiences as residues from the past. I
@@ -139,8 +131,9 @@ continue scrolling. I type \#easterneuropeangirl, \#easternbloc,
 Doing the same thing on Youtube firstly takes me to the video, with a
 caption: „Do You Want a Central/Eastern European Girl Woman?
 
-![](media/image5.png){width="6.268055555555556in"
-height="1.4972222222222222in"}
+![](imgs/16.3.png)
+
+<br/>
 
 The video has 9 parts. It opens with an introduction, stating that this
 video is going to be about Central/Eastern Europeans as a group with
@@ -199,9 +192,9 @@ placticity that is both precondition and a product of becoming. Becoming
 then, happens through stories, relationality between those stories,
 elasticity, flexibility, morphing, destruction, and reinvention.
 
-![A purple rectangle with a white background AI-generated content may be
-incorrect.](media/image6.png){width="1.267240813648294in"
-height="0.4250371828521435in"}
+![](imgs/16.4.png)
+
+<br/>
 
 In this essay, I understand digital girlhood formed and constituted by
 Eastern Europe as not necessarily a dominant digital self-representation
@@ -223,8 +216,9 @@ significance. The next thing I see is a Georgian content creator,
 @foxy\_eleniko taking a similar video, but with a plot twist: the
 soundtrack was accompanied by a footage of the Russian invasion.
 
-![](media/image7.png){width="4.266666666666667in"
-height="2.4578554243219597in"}
+![](imgs/16.5.png)
+
+<br/>
 
 When observing different social media platforms, it is often noticeable
 that Eastern European girliness is mostly framed through Slavic lens,
@@ -245,9 +239,9 @@ playing into the image of the coloniser? Where is the boundary between
 identification and disidentification? Aesthetic pleasure and political
 unease?
 
-[\
-](https://networkcultures.org/longform/wp-content/uploads/sites/31/2025/04/Screenshot-2025-04-23-at-01.33.23.png)![](media/image8.png){width="4.745454943132109in"
-height="3.411091426071741in"}
+![](imgs/16.6.png)
+
+<br/>
 
 There is a political discomfort to experiencing a digital girlhood. So
 then, *who gets to call themselves a post-Soviet girl?*
@@ -274,8 +268,9 @@ We post from grey and white, and fog, and \#gloomy coquette, and
 And that’s the point of orientation, the “this” of a digital body, and
 “I” of its dwelling.
 
-![](media/image9.png){width="6.268055555555556in"
-height="2.6777777777777776in"}
+![](imgs/16.7.png)
+
+<br/>
 
 Fredrika Thelandersson defines “sad girl” as a “young woman who is
 unashamed of her emotional life and who fearlessly acts out her pain for
@@ -305,8 +300,9 @@ and dependence in a way that makes it seem like she is enjoying it.
 Here, Lana del Rey is Svetlana del Rey, singing not Summertime Sadness
 but “Letnaya Pechalka” (Summertime Sadness in Russian).
 
-![](media/image10.png){width="4.261521216097988in"
-height="3.440944881889764in"}
+![](imgs/16.8.png)
+
+<br/>
 
 During the Cold War, the Soviet Union created its own version of Winnie
 the Pooh—Vinni Pukh—a distinctly localized, animated bear that looked
@@ -337,9 +333,9 @@ Sensations of melancholia and nostalgia are merged with the Eastern
 European self. It is dirty and gore, but glorified and commodified, and
 most importantly, it is mundane.
 
-![A purple and white rectangle AI-generated content may be
-incorrect.](media/image11.png){width="1.5557086614173228in"
-height="0.40617016622922136in"}
+![](imgs/16.9.png)
+
+<br/>
 
 “It must be sunny at night and snowy in August” - Nostalghia, 1983
 Andrei Tarkovsky
@@ -407,10 +403,9 @@ machine?
 
 So, in this sense, *what* gets to call itself a post-Soviet girl?
 
-![A collage of a child in a garment lying in a puddle AI-generated
-content may be
-incorrect.](media/image12.png){width="6.268055555555556in"
-height="2.495138888888889in"}
+![](imgs/16.10.png)
+
+<br/>
 
 The post-Soviet girl took inspiration from early 2000s Russian social
 media platform Odnoklassniki.ru, which, at its peak was a digital stage
@@ -459,15 +454,11 @@ theoretical standpoint, but a memory that is continuously regenerated
 online. She becomes a memory-maker and digital rememberer of the past
 she might never have lived. And game is over.
 
-![A purple rectangle with a white background AI-generated content may be
-incorrect.](media/image13.png){width="2.0404844706911636in"
-height="0.6767432195975503in"}
+![](imgs/16.11.png)
 
-***Salome Berdzenishvili** is a writer and an independent researcher,
-currently working at Institute of Network Cultures. She holds a master's
-degree in Cultural Anthropology from Uppsala University and her research
-interests lie at the intersection of memory studies, digital cultures,
-post-socialist subjectivities, and feminist media practices.*
+<br/>
+
+***Salome Berdzenishvili*** *is an affiliated researcher at the Institute of Network Cultures and a PhD researcher at the Leibniz Institute. Her research interests lie at the intersection of memory studies, digital cultures, post-socialist subjectivities, and feminist media practices.*
 
 [^19chapter16_1]: Passport bro is a neologism coined to describe Western men who
     date or marry women from developing countries

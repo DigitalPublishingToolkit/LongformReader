@@ -1,0 +1,950 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?aid style="50" type="snippet" readerVersion="6.0" featureSet="513" product="8.0(370)" ?>
+<?aid SnippetType="InCopyInterchange"?>
+<Document DOMVersion="8.0" Self="pandoc_doc">
+    <RootCharacterStyleGroup Self="pandoc_character_styles">
+      <CharacterStyle Self="$ID/NormalCharacterStyle" Name="Default" />
+      <CharacterStyle Self="CharacterStyle/" Name="">
+        <Properties>
+          <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
+        </Properties>
+      </CharacterStyle>
+      <CharacterStyle Self="CharacterStyle/Bold Italic" Name="Bold Italic" FontStyle="Bold Italic">
+        <Properties>
+          <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
+        </Properties>
+      </CharacterStyle>
+      <CharacterStyle Self="CharacterStyle/Italic" Name="Italic" FontStyle="Italic">
+        <Properties>
+          <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
+        </Properties>
+      </CharacterStyle> 
+    </RootCharacterStyleGroup>
+    <RootParagraphStyleGroup Self="pandoc_paragraph_styles">
+      <ParagraphStyle Self="$ID/NormalParagraphStyle" Name="$ID/NormalParagraphStyle"
+          SpaceBefore="6" SpaceAfter="6"> <!-- paragraph spacing -->
+        <Properties>
+          <TabList type="list">
+            <ListItem type="record">
+              <Alignment type="enumeration">LeftAlign</Alignment>
+              <AlignmentCharacter type="string">.</AlignmentCharacter>
+              <Leader type="string"></Leader>
+              <Position type="unit">10</Position> <!-- first tab stop -->
+            </ListItem>
+          </TabList>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Caption" Name="Caption" LeftIndent="0">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Figure" Name="Figure" LeftIndent="0">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Footnote &gt; Paragraph" Name="Footnote &gt; Paragraph" LeftIndent="0">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Header1" Name="Header1" LeftIndent="0" PointSize="36">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Header2" Name="Header2" LeftIndent="0" PointSize="30">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Header3" Name="Header3" LeftIndent="0" PointSize="24">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Paragraph" Name="Paragraph" LeftIndent="0">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle> 
+    </RootParagraphStyleGroup>
+    <RootTableStyleGroup Self="pandoc_table_styles">
+      <TableStyle Self="TableStyle/Table" Name="Table" />
+    </RootTableStyleGroup>
+    <RootCellStyleGroup Self="pandoc_cell_styles">
+      <CellStyle Self="CellStyle/Cell" AppliedParagraphStyle="ParagraphStyle/$ID/[No paragraph style]" Name="Cell" />
+    </RootCellStyleGroup>
+  <Story Self="pandoc_story"
+      TrackChanges="false"
+      StoryTitle=""
+      AppliedTOCStyle="n"
+      AppliedNamedGrid="n" >
+    <StoryPreference OpticalMarginAlignment="true" OpticalMarginSize="12" />
+
+<!-- body needs to be non-indented, otherwise code blocks are indented too far -->
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header1">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Drown Your Laptop: On Office Sirens, Working from Home, and Aesthetics of Refusal</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Agnieszka Wodzińska</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Originally published on September 9th, 2024</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Summer came and went. I realised I had spent just as much time being outside as I did watching others be outside. On TikTok, I came across clips of people drinking and relaxing on beaches (screenshotted outfits that were particularly linen-heavy), hiking next to sprawling lakes (saved to my “places” folder), making colourful drinks, etc. This is all seasonal, standard, maybe predictable. But then I spotted another genre, one much more surprising and enigmatic: people on laptops and taking calls in the sea.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Figure">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Rectangle Self="uec" StrokeWeight="0" ItemTransform="1.00000 0 0 1.00000 376.11189 -345.90210">
+      <Properties>
+        <PathGeometry>
+          <GeometryPathType PathOpen="false">
+            <PathPointArray>
+              <PathPointType Anchor="-376.11189 -345.90210" LeftDirection="-376.11189 -345.90210" RightDirection="-376.11189 -345.90210" />
+              <PathPointType Anchor="-376.11189 345.90210" LeftDirection="-376.11189 345.90210" RightDirection="-376.11189 345.90210" />
+              <PathPointType Anchor="376.11189 345.90210" LeftDirection="376.11189 345.90210" RightDirection="376.11189 345.90210" />
+              <PathPointType Anchor="376.11189 -345.90210" LeftDirection="376.11189 -345.90210" RightDirection="376.11189 -345.90210" />
+            </PathPointArray>
+          </GeometryPathType>
+        </PathGeometry>
+      </Properties>
+      <Image Self="ue6" ItemTransform="1.00000 0 0 1.00000 -376.11189 -345.90210">
+        <Properties>
+          <Profile type="string">
+            $ID/Embedded
+          </Profile>
+        </Properties>
+        <Link Self="ueb" LinkResourceURI="file:imgs/20.1.png" />
+      </Image>
+    </Rectangle>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Caption">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>TikToks posted by users ggabrielaa_98 &amp; llumitatiana</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>I was immediately drawn to these visuals of seemingly self-aware and slightly unhinged performances of office diligence, set outdoors to the soft tunes of Kate Bush or Enigma’s “Sadeness” track. It made me think of feminist performance art from the 80s and 90s, but from there I started to wonder what else these clips can tell me about not just the microtrend bubbles but online and offline spaces beyond my For You page. Following writer Marlowe Granados: 'as TikTok rapidly proliferates, its aesthetic influence [...] can be seen beyond the platform;' my goal is to theorise with these videos and images to extract ideas about not just online trends, but also gender performativity, corporate culture, and even environmentalism. To do this, first we must consider the following: who is the office siren, and what on Earth is she doing?</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The Office Siren Emerges</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>It is not easy to pinpoint which user first started posting this kind of content. Bigger creators always have an easier time claiming that fame. Regardless, Tati Brueing, Gabriela Mendez, and Mimi Aarons all showed up on my feed around the same time over the summer, sharing their version of what commenters identify as the notorious 'office siren' aesthetic. Here, it is taken to the next level, as the creators descend into the water, evoking something mythological.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>When I search for the videos again, they are difficult to find as they often get posted without any hashtags or descriptions. Once I decide to search for the suggested 'office siren' term – which itself seems to have gained popularity at the start of 2024 – I first find fashion and beauty tips instead, all about how to achieve the look. They want me to become a sexy and confident female office worker reminiscent of 1990s and 2000s popular films and fashion magazines. The video game character Bayonetta often shows up as a reference, with her signature black-framed glasses and long dark hair. Characters from films like </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>The Devil Wears Prada</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> (2006) and </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Charlie’s Angels</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> (2000) also make appearances.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Figure">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Rectangle Self="uec" StrokeWeight="0" ItemTransform="1.00000 0 0 1.00000 576.00000 -240.00000">
+      <Properties>
+        <PathGeometry>
+          <GeometryPathType PathOpen="false">
+            <PathPointArray>
+              <PathPointType Anchor="-576.00000 -240.00000" LeftDirection="-576.00000 -240.00000" RightDirection="-576.00000 -240.00000" />
+              <PathPointType Anchor="-576.00000 240.00000" LeftDirection="-576.00000 240.00000" RightDirection="-576.00000 240.00000" />
+              <PathPointType Anchor="576.00000 240.00000" LeftDirection="576.00000 240.00000" RightDirection="576.00000 240.00000" />
+              <PathPointType Anchor="576.00000 -240.00000" LeftDirection="576.00000 -240.00000" RightDirection="576.00000 -240.00000" />
+            </PathPointArray>
+          </GeometryPathType>
+        </PathGeometry>
+      </Properties>
+      <Image Self="ue6" ItemTransform="1.00000 0 0 1.00000 -576.00000 -240.00000">
+        <Properties>
+          <Profile type="string">
+            $ID/Embedded
+          </Profile>
+        </Properties>
+        <Link Self="ueb" LinkResourceURI="file:imgs/20.2.jpg" />
+      </Image>
+    </Rectangle>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Caption">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Still from Charlie’s Angels (2000) with Lucy Liu in the centre, dir. Joseph McGinty Nichol</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>One text-post from TikTok describes the style as: 'sleek, feminine, professional'; 'Samantha Jones from Sex and the City,' 'feminine, sexy, and successful without caring if she’s being judged.' If this is an evolution of the girl boss, I don’t particularly want it. I hope we are not mutating trends just to make our way back to romanticising being a worker under late-stage capitalism. But if we are, is this what we need to feel better about the state of the world?</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Adding to this discourse, TikTok creator aiomiiii shares her verdict: 'to me, it’s like a costume of what people who don’t work think what it’s like to work [in an office]. I know it’s supposed to be vintage, work, recession, but it looks silly to me sometimes.' I look at the style tips: smokey 90s (I think?) eye make-up, lip liners and lip gloss, thin, black-rimmed glasses, sleek hair, playing with 'office-appropriate' patterns and materials but maybe showing more skin, subverting office-wear expectations, or bending various rules of what is 'office-appropriate.' The playfulness of the office siren aesthetic becomes clear. I am watching people online </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>playing dress-up</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, in a way that seems more aware of itself and its purposeful shallowness than many preceding TikTok fashion trends.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>It could be that the office siren is an evolution of corpcore, normcore’s 9-to-5 sibling. We seem to be commodifying every aspect of our lives by labelling ourselves ceaselessly and linking each label to a list of products to buy. It’s almost as though this is the only agency we have: when work is inescapable, permanent, when it bleeds into the rest of our lives, is it actually a rebellious act to narrow it down to its appearance—its signifiers—and choose to play with that, making the work unserious?</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The office siren aesthetic stirs up conversations around authenticity – </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>these people don’t even work in an office!</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> – and femininity in the workplace, with HR workers 'reviewing' office siren posts to share whether they would get in trouble. Some of us can’t seem to stop working, or policing, even when we go home.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The politics of the office siren look are interesting as they ask us what categories we are expected to apply when thinking about 'professional' appearance, and how much of it is rooted in discriminatory and objectifying convictions. Are office sirens objectifying themselves by wearing stockings and low-cut blouses? Or are they reclaiming their version of femininity in male-dominated office environments? Does it really matter, since this trend seems to belong on TikTok first—with its playfulness and performativity—and in physical workplaces second, if at all?</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Figure">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Rectangle Self="uec" StrokeWeight="0" ItemTransform="1.00000 0 0 1.00000 576.00000 -286.50000">
+      <Properties>
+        <PathGeometry>
+          <GeometryPathType PathOpen="false">
+            <PathPointArray>
+              <PathPointType Anchor="-576.00000 -286.50000" LeftDirection="-576.00000 -286.50000" RightDirection="-576.00000 -286.50000" />
+              <PathPointType Anchor="-576.00000 286.50000" LeftDirection="-576.00000 286.50000" RightDirection="-576.00000 286.50000" />
+              <PathPointType Anchor="576.00000 286.50000" LeftDirection="576.00000 286.50000" RightDirection="576.00000 286.50000" />
+              <PathPointType Anchor="576.00000 -286.50000" LeftDirection="576.00000 -286.50000" RightDirection="576.00000 -286.50000" />
+            </PathPointArray>
+          </GeometryPathType>
+        </PathGeometry>
+      </Properties>
+      <Image Self="ue6" ItemTransform="1.00000 0 0 1.00000 -576.00000 -286.50000">
+        <Properties>
+          <Profile type="string">
+            $ID/Embedded
+          </Profile>
+        </Properties>
+        <Link Self="ueb" LinkResourceURI="file:imgs/20.3.png" />
+      </Image>
+    </Rectangle>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Caption">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>An example of officeladyspecial content, predating the office siren trend by many years.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>One creator cites 'officeladyspecial,' a YouTube channel for a Japanese fetish website, as a source of inspiration. I watch their videos to see women in office wear walking on the shore, struggling against waves, drenched and confused. Maybe this content does pander to some kind of patriarchal desire of helplessness, but then again, it is self-proclaimed fetish content, unlike the videos I stumbled upon on my For You Page. It seems that the TikTok users’ references to pop culture point in the direction of empowerment instead of subjugation but the line is sometimes blurry, as was the case with the aesthetics of cottagecore a few years ago.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Figure">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Rectangle Self="uec" StrokeWeight="0" ItemTransform="1.00000 0 0 1.00000 460.19580 -353.45455">
+      <Properties>
+        <PathGeometry>
+          <GeometryPathType PathOpen="false">
+            <PathPointArray>
+              <PathPointType Anchor="-460.19580 -353.45455" LeftDirection="-460.19580 -353.45455" RightDirection="-460.19580 -353.45455" />
+              <PathPointType Anchor="-460.19580 353.45455" LeftDirection="-460.19580 353.45455" RightDirection="-460.19580 353.45455" />
+              <PathPointType Anchor="460.19580 353.45455" LeftDirection="460.19580 353.45455" RightDirection="460.19580 353.45455" />
+              <PathPointType Anchor="460.19580 -353.45455" LeftDirection="460.19580 -353.45455" RightDirection="460.19580 -353.45455" />
+            </PathPointArray>
+          </GeometryPathType>
+        </PathGeometry>
+      </Properties>
+      <Image Self="ue6" ItemTransform="1.00000 0 0 1.00000 -460.19580 -353.45455">
+        <Properties>
+          <Profile type="string">
+            $ID/Embedded
+          </Profile>
+        </Properties>
+        <Link Self="ueb" LinkResourceURI="file:imgs/20.4.png" />
+      </Image>
+    </Rectangle>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Caption">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Some answers to 'what is this aesthetic called?' in the comments under a video.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>So far, we considered what the 'original' office siren trend consisted of, and reflected on some of its characteristics and potential avenues of interpretation. It could be the case that just like many other aesthetic trends online, the office siren also mutated into something more, something different – oceanic, watery, performative, fluid and always shifting. Perhaps the hot weather of the summer months in the northern hemisphere pushed her in the direction of the beach, where she can work remotely into infinity. Why is this link to water so strong, even identified by one user as “ocean core”?</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Being Mythical / A Mythical Being</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Women and water have a lot of history, often existing together in various mythologies and collective imaginations. The term 'office siren' points us towards the Ancient Greek feminine part-animal figure (bird or fish) who lures sailors to their deaths with their beauty and hypnotising power.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Figure">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Rectangle Self="uec" StrokeWeight="0" ItemTransform="1.00000 0 0 1.00000 150.00000 -100.00000">
+      <Properties>
+        <PathGeometry>
+          <GeometryPathType PathOpen="false">
+            <PathPointArray>
+              <PathPointType Anchor="-150.00000 -100.00000" LeftDirection="-150.00000 -100.00000" RightDirection="-150.00000 -100.00000" />
+              <PathPointType Anchor="-150.00000 100.00000" LeftDirection="-150.00000 100.00000" RightDirection="-150.00000 100.00000" />
+              <PathPointType Anchor="150.00000 100.00000" LeftDirection="150.00000 100.00000" RightDirection="150.00000 100.00000" />
+              <PathPointType Anchor="150.00000 -100.00000" LeftDirection="150.00000 -100.00000" RightDirection="150.00000 -100.00000" />
+            </PathPointArray>
+          </GeometryPathType>
+        </PathGeometry>
+      </Properties>
+      <Image Self="ue6" ItemTransform="1.00000 0 0 1.00000 -150.00000 -100.00000">
+        <Properties>
+          <Profile type="string">
+            $ID/Embedded
+          </Profile>
+        </Properties>
+        <Link Self="ueb" LinkResourceURI="file:imgs/20.5.jpg" />
+      </Image>
+    </Rectangle>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Caption">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>John Waterhouse, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>The Siren</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, 1900.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Then we have sea nymphs, Nereids, much less threatening than sirens and therefore easier to paint as docile in subsequent depictions throughout centuries. All over the world, Suvannamaccha, nure-onna, drowned girls and mermaids, spirits and messengers haunt the canon of watery women and femmes.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The TikToks I am focusing on here are sirens reimagined: working girls, icons of remote work, patron saints of Teams, harbingers of corporate culture. To take calls from the shore is absurd, to pretend to work on your laptop as it drowns in seawater is tongue-in-cheek. These creators are performing productivity, just like so many others on TikTok who carefully prepare and share their morning and evening routines, exemplified by the ‘my 5 to 9 after my 9 to 5’ trend. But with office sirens, we have an acknowledgment of the silliness this kind of content shows – yes, I am recording my work, which means I had to set up this shot, so I might as well work on a laptop that is </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>not working</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>. Typing into oblivion looking at a black screen.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>If we consider my office sirens as sirens in the mythological sense, they are symbols of hybridity. Not just 'part-human, part-animal,' but also 'part-online, and part-in-person.' Hybridity as flexible work, part-remote work that these creators choose to conduct outside, in seas and oceans, rivers and creeks.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Hybridity, as in, you cannot escape your boss because they can see you through your webcam, and you are in your bedroom, working next to your bed, or maybe on your bed, and you can no longer cut your work out of your personal life, because your work is your life, your workspace is your leisure space, and you have no choice in the matter (if you don’t work, you die), so you should at least try to be happy.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The siren laughs. She takes her company laptop and drowns it. She performs the endless cycle of desk job tasks into absurdity. Underwater, the tools of her labour short-circuit and become obsolete. Here lies her monstrous nature, and in this rebellion, she does what the rest of us are too afraid to do: she gets closer to logging off. Still, she is stuck in the rituals of corporate work, an officeid, or an Outlookoë. This tension is interesting to me. As if the watery language of capital keeps the office siren bound to her oceanic desk.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Disrupting the Flow of Capital</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The relationship between this watery office siren aesthetic and remote work is something the creators themselves reference, adding captions or in-video text that echo the language of working from home.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Could it be that these creators, instead of working against corporate culture, are working </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>within</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> its confines to see what is possible, what kinds of boundaries they can push? I base this on memes that keep emerging over the years about high-paying senior members of staff taking calls from the most random places, as though it is not jarring or unexpected. Ceara O’Sullivan’s character Lorraine encapsulates this well in the “millennial vs. their boomer boss” series on TikTok. Younger workers are often not given the same level of flexibility as senior members of staff, bound by the expectation that you have to prove yourself, be on your best behaviour, embody professionalism in order to earn perks later down the line, perks that rarely come to younger generations, perks that seem expired, of a different time.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Figure">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Rectangle Self="uec" StrokeWeight="0" ItemTransform="1.00000 0 0 1.00000 150.00000 -100.00000">
+      <Properties>
+        <PathGeometry>
+          <GeometryPathType PathOpen="false">
+            <PathPointArray>
+              <PathPointType Anchor="-150.00000 -100.00000" LeftDirection="-150.00000 -100.00000" RightDirection="-150.00000 -100.00000" />
+              <PathPointType Anchor="-150.00000 100.00000" LeftDirection="-150.00000 100.00000" RightDirection="-150.00000 100.00000" />
+              <PathPointType Anchor="150.00000 100.00000" LeftDirection="150.00000 100.00000" RightDirection="150.00000 100.00000" />
+              <PathPointType Anchor="150.00000 -100.00000" LeftDirection="150.00000 -100.00000" RightDirection="150.00000 -100.00000" />
+            </PathPointArray>
+          </GeometryPathType>
+        </PathGeometry>
+      </Properties>
+      <Image Self="ue6" ItemTransform="1.00000 0 0 1.00000 -150.00000 -100.00000">
+        <Properties>
+          <Profile type="string">
+            $ID/Embedded
+          </Profile>
+        </Properties>
+        <Link Self="ueb" LinkResourceURI="file:imgs/20.6.jpg" />
+      </Image>
+    </Rectangle>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Caption">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Andrea Fraser, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Museum Highlights: Gallery Talk</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, 1989.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Writer Joshua Citarella claims that younger TikTok users are 'mocking a society in which self-determination and upward mobility have long since collapsed.'</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Joshua Citarella, ‘Welcome to TikTok, the Wildly Popular Video App Where Gen-Z Make the Rules,’ </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Artsy.net</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, 2018, https://www.artsy.net/article/artsy-editorial-tiktok-wildly-popular-video-app-gen-rules.</Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> So, if young people are indeed disillusioned with work culture as previous generations have known it, maybe they can find joy in imagining and enacting the ability to work absurdly. Why not take the edge off of the kind of work that need not be serious?</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Satirising corporate culture could be a way to break out of the confines that tell us to tie our dreams and aspirations to professional development. Especially in the wake of financial crises, political upheaval, and looming climate collapse in all their manifestations, the dire need of a senior colleague to check in on your workflow and progress on a random weekday afternoon feels completely unnecessary and inconsequential.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>This critique of ‘business as usual’ reminds me of second-wave institutional critique and works like Andrea Fraser’s “Museum Highlights: Gallery Talk.” As her alter-ego Jane Castleton – a visiting lecturer at the Philadelphia Museum of Art – Fraser takes visitors through the space, going through the motions and mannerisms of museum tours and sprinkling into the script jabs at the uncritical coloniality of North American (and European) museums, the exclusivity of donorship, and the increasing consumerism of institutions supposedly non-profit and in service of the public. Similarly, office sirens reach for the look of a diligent office worker and refuse to follow through, rebelling against the expectations of their ‘institution’—their employer, presumably a for-profit corporation. This refusal to follow through sheds light on modes of control built into seemingly neutral aesthetic and linguistic ways of being under late-stage capitalism.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>We are all human beings with complex inner lives that corporate work, or any kind of work, can never satiate. A lot of young people online are realising it and talking about seeking fulfilment elsewhere, settling for 'easy' jobs or ‘quiet-quitting.’ The pandemic played a significant role in this shift, highlighting the inconsequentiality of much of the labour that goes on in the West under late-stage capitalism.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>My office sirens chime in, typing away as their keys splash with seawater. I think this genre of videos emerged this summer partially due to this relatively recent push online to foster and protect our identities outside of work. If we go into the office to clock in and out, then its culture and conventions might start to look more and more constructed, therefore collapsable, malleable; material to manipulate and shape.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>This kind of play could be one method to take back some of the time and energy that corporate structures steal from workers. To pretend to work, to record yourself doing it; to post it and maybe make money from that instead, or just make it to express something, read comments, start some kind of conversation, however fleeting. Maybe it is possible to disrupt the flow of capital through this kind of ambivalent anti-corporate performance.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Figure">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Rectangle Self="uec" StrokeWeight="0" ItemTransform="1.00000 0 0 1.00000 400.00000 -282.50000">
+      <Properties>
+        <PathGeometry>
+          <GeometryPathType PathOpen="false">
+            <PathPointArray>
+              <PathPointType Anchor="-400.00000 -282.50000" LeftDirection="-400.00000 -282.50000" RightDirection="-400.00000 -282.50000" />
+              <PathPointType Anchor="-400.00000 282.50000" LeftDirection="-400.00000 282.50000" RightDirection="-400.00000 282.50000" />
+              <PathPointType Anchor="400.00000 282.50000" LeftDirection="400.00000 282.50000" RightDirection="400.00000 282.50000" />
+              <PathPointType Anchor="400.00000 -282.50000" LeftDirection="400.00000 -282.50000" RightDirection="400.00000 -282.50000" />
+            </PathPointArray>
+          </GeometryPathType>
+        </PathGeometry>
+      </Properties>
+      <Image Self="ue6" ItemTransform="1.00000 0 0 1.00000 -400.00000 -282.50000">
+        <Properties>
+          <Profile type="string">
+            $ID/Embedded
+          </Profile>
+        </Properties>
+        <Link Self="ueb" LinkResourceURI="file:imgs/20.7.jpg" />
+      </Image>
+    </Rectangle>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Caption">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Cindy Sherman, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Untitled Film Still #59</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, 1980: Satchel in hand: traveling for work or pleasure?</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>There is power in putting on a mask. You get glimpses of what life could be like if you were someone else, if you looked different, thought different. An array of artists—I am thinking here of Adrian Piper and Cindy Sherman—wear various personas, exploring new perspectives on how the world perceives them, how they perceive themselves depending on how they choose to present, what they choose to centre in their bodies of work. With Sherman’s famous untitled film stills series, it is exciting for viewers to decipher more-or-less cohesive identities for each character she presents, albeit while filling in blanks, but being able to use all the visual cues and references to popular culture the artist is leaving behind.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Meanwhile, my office sirens remain somewhat unknowable outside of their work identity. They put on vaguely vintage yet untraceable costumes and work on presumably broken equipment, which also reads as not 2024, but not specifically another date either. Their content critiques contemporary corporate obsessions with productivity, business, perceived success, but does not propose alternative ways of being beyond labour. Still, by uprooting a corporate aesthetic and making it absurd, they highlight the ruthlessness and pointlessness of business-as-usual, and this kind of disruption can resonate far and wide, like ripples on the surface of a lake.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Drowning in Emails, or Just Drowning?</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Finally, I wonder if my siren is an environmentalist. Does she despair at the thought of rising water levels? The determination of these (pretend) office workers to keep typing as their laptop hits the water makes me think of Tweets and memes about how young people today will probably have to keep working forever. So, the ocean-bound office siren might also embody a fear of working until we run out of breath, or a related but more ephemeral existential anxiety or dread.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>There is the obvious contrast between the laptops, phones, printers in these clips and the more 'natural' surroundings. Most of us probably don’t associate beaches with work: in fact, it is an image that comes to mind when you think of a holiday (how much this is influenced by travel agencies and capitalist definitions of 'relaxation,' I dare not think).</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Yet, in an era of constant availability, you might find yourself taking calls from places that in the past made you think of leisure. Nothing is sacred. Work can happen anywhere, holidays are only this sought-after and carbon-heavy because of extreme expectations over how much we should work, and even bodies of water cannot escape the residue of microplastics and bits of office equipment as my office sirens dip them in, protesting the very thing they must do to survive – work.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>This tension is what draws many users to these clips. It’s unexpected, even unhinged, to see our precious laptops reduced to malfunctioning props. The videos are often left to interpretation –posted without much of a description – which pushes users to ponder meaning and comment with compliments like 'this is art' (lured by the siren?). Indeed, it might be art. It definitely enters into conversation with a rich history of women and femme artists wearing personas and/or communing with nature, sometimes both, like Ana Mendieta’s ephemeral and haunting sillhouettes.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Figure">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Rectangle Self="uec" StrokeWeight="0" ItemTransform="1.00000 0 0 1.00000 450.12587 -347.41259">
+      <Properties>
+        <PathGeometry>
+          <GeometryPathType PathOpen="false">
+            <PathPointArray>
+              <PathPointType Anchor="-450.12587 -347.41259" LeftDirection="-450.12587 -347.41259" RightDirection="-450.12587 -347.41259" />
+              <PathPointType Anchor="-450.12587 347.41259" LeftDirection="-450.12587 347.41259" RightDirection="-450.12587 347.41259" />
+              <PathPointType Anchor="450.12587 347.41259" LeftDirection="450.12587 347.41259" RightDirection="450.12587 347.41259" />
+              <PathPointType Anchor="450.12587 -347.41259" LeftDirection="450.12587 -347.41259" RightDirection="450.12587 -347.41259" />
+            </PathPointArray>
+          </GeometryPathType>
+        </PathGeometry>
+      </Properties>
+      <Image Self="ue6" ItemTransform="1.00000 0 0 1.00000 -450.12587 -347.41259">
+        <Properties>
+          <Profile type="string">
+            $ID/Embedded
+          </Profile>
+        </Properties>
+        <Link Self="ueb" LinkResourceURI="file:imgs/20.8.png" />
+      </Image>
+    </Rectangle>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Caption">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Ana Mendieta, from </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Untitled: Silueta series</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, 1970s.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Media and theory scholar Martina Leeker comments: 'Art – specifically performance art – has traditionally prevailed as a method of gaining the distance necessary for a reflection and critique of techno-cultural conditions.'</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Martina Leeker, 'Performing (the) digital: Positions of critique in digital culture,' </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Performing the Digital</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, 2016, eds. Martina Leeker, Immanuel Schipper, Timon Beyes.</Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> So, perhaps these clips can be read as a collective performance of the inability to break out of capitalist expectations. In their mockery of corporate mannerisms, they propose an emerging aesthetic of refusal.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Figure">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Rectangle Self="uec" StrokeWeight="0" ItemTransform="1.00000 0 0 1.00000 576.00000 -383.25000">
+      <Properties>
+        <PathGeometry>
+          <GeometryPathType PathOpen="false">
+            <PathPointArray>
+              <PathPointType Anchor="-576.00000 -383.25000" LeftDirection="-576.00000 -383.25000" RightDirection="-576.00000 -383.25000" />
+              <PathPointType Anchor="-576.00000 383.25000" LeftDirection="-576.00000 383.25000" RightDirection="-576.00000 383.25000" />
+              <PathPointType Anchor="576.00000 383.25000" LeftDirection="576.00000 383.25000" RightDirection="576.00000 383.25000" />
+              <PathPointType Anchor="576.00000 -383.25000" LeftDirection="576.00000 -383.25000" RightDirection="576.00000 -383.25000" />
+            </PathPointArray>
+          </GeometryPathType>
+        </PathGeometry>
+      </Properties>
+      <Image Self="ue6" ItemTransform="1.00000 0 0 1.00000 -576.00000 -383.25000">
+        <Properties>
+          <Profile type="string">
+            $ID/Embedded
+          </Profile>
+        </Properties>
+        <Link Self="ueb" LinkResourceURI="file:imgs/20.9.jpg" />
+      </Image>
+    </Rectangle>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Caption">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>John Everett Millais, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Ophelia</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, 1852.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Interestingly, one of the most popularised synonyms of the climate crisis is the rise of sea levels. As hybrid creatures working in a hybrid way, my sirens bear the brunt of changing environments by having to work partially underwater. Through them, we might also watch ourselves transformed, hybrid beings emerging from foam, especially through TikTok as a recent study by Jian Lin, Joëlle Swart and Guohua Zeng argued that 'the boundaries and distinctions between users’ identities become less clear-cut and subject to constant modulation.' In light of all this, who and what might we become?</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Plastic is in our blood and our brains</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Damian Carrington, “Microplastics found in human blood for first time”, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>The Guardian</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, 22 March 2022, https://www.theguardian.com/environment/2022/mar/24/microplastics-found-in-human-blood-for-first-time.</Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>. We find it virtually everywhere we go. There is something monstrous in this kind of pollution, but monstrosity doesn’t have to mean a denial of humanity. It will be imperative to consider what kind of work is worth doing in these conditions, especially as they gain severity. Can we embrace monstrosity and hybridity – all siren-like, mythical, spanning across history – while making space for playfulness, joy, resistance, performance? Contemporary art scholar Anne Gerlieb suggests that 'TikTok favours playfulness over certain styles and looks.'</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Anne Gerlieb, ‘TikTok as a New Player in the Contemporary Arts Market: A Study with Special Consideration of Feminist Artists and a New Generation of Art Collectors,’ </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Arts</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, 10, 52, 2021.</Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> If the mode of being on the platform is playfulness instead of striving for cohesiveness (often associated with early 2010s Instagram feeds), then it is porous, and therefore more capable of moving through aesthetics and into another more relational way of being.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Where to Swim from Here?</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>My office siren takes on the behemoths of remote work and climate anxiety, working through them as she herself works. Through her eyes, we start to conceive of these notions differently. Through her submergence, we begin to see ourselves as more fluid, therefore more capable of facing various iterations of the future.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Trends on TikTok tend to move fast, transforming into new versions of themselves, merging into umbrella terms for similar sensibilities, or splitting into smaller sub-genres and trends. The girlboss phenomenon observed in the previous decade across platforms like Instagram and Pinterest might be rearing its head in the formulation of the TikTok office siren—a corporate girl seemingly content with her occupation, inspiring others to achieve the same. But the office siren in the sea knows she is being looked at. She puts on an absurd show that rejects normativity the girlboss craves. In contrast to previous microtrends and aesthetic-specific online communities, the office siren performs in manners and settings that point to her self-reflexivity.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>When considering previous outdoorsy aesthetics, VSCO girls come to mind. VSCO girls appeared online last decade, evoking a brand-friendly environmentalism and an appreciation for scrunchies, reusable water bottles, and a beachy lifestyle. Similarly, cottagecore users on TikTok and elsewhere filmed themselves in nature earnestly, walking through meadows and towards Victorian cottages on my feed as though to say: </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>I do this all the time anyway, I just decided to film it for you just this once.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Granados: </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>'TikTok shifts the visual dialogue away from the perfectly manicured aesthetic of Instagram, which is known more for its users’ aspirational, flawless image curation. TikTok instead privileges on-screen presence, performance, and bite-sized narrative'</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Marlowe Granados, ‘I Turn My Camera On: Notes on the aesthetics of TikTok,’ </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>The Baffler</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, no. 43, 2020.</Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>. It can be messy and ambivalent, but those qualities make some TikToks inherently more complex than content on other platforms.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The rise of earnest work-from-home videos on TikTok from the onset of the pandemic and the subsequent increase in critique towards influencer culture, followed by the phenomenon of 'easy jobs' and a stronger conviction to build identity outside of work all facilitate a space for watery office sirens to star in the kind of content they created this summer.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Even if we crave authenticity in what we encounter online, our platforms are built to give us just the opposite. They spike specific kinds of either vitriolic or banal content into virality and otherwise feed us images and clips that keep us on the platform without much meaningful action or real engagement. It’s like watching a puppet show and seeing all the strings: the magic is gone and the experience becomes distracting and jarring, odd and still somehow mesmerising.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Every now and then, a new kind of sensibility emerges from TikTok that jerks me out of this state of passive agitated consumption (last year, it was corecore). Lin, Swart, and Seng contend: 'TikTok as a platform is not only mediating and facilitating the production of short videos but has become culture itself.'</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Jian Lin, Joëlle Swart, Guohua Zeng, ‘Theorising TikTok cultures: Neuro-images in the era of short videos,’ </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Media, Culture &amp; Society</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, vol. 45, 8, 2023.</Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> And culture produced by femme creators online continues to feed my curiosity and propel me towards some kind of hopefuly engagement.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>As I wrap up, I keep close the notion that through TikTok and its endlessly personalised and mutating visual languages, a kind of transformation might occur. Experienced both by the creator and viewer – and perhaps the most interesting, in the blurry line between the two roles—this momentary shift creates an opportunity for a more conscious (self-conscious?) being online and offline. In this moment, we get a quick glimpse at the tethers that keep us moving like puppets, and as we look up, we might see who is holding up the strings.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold Italic">
+    <Content>Agnieszka Wodzińska</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content> is an art historian, writer, and lecturer based in Scotland. She is particularly interested in internet nostalgia, aesthetic online trends, and contemporary multimedia installation that deals with changing environmental and socio-political climates. Agnieszka has contributed texts and talks to Kunstlicht, The Hmm, Metropolis M, Woman Tech Lab, as well as the University of Edinburgh and University of Exeter.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+
+  </Story>
+  
+</Document>

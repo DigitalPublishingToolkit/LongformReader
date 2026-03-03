@@ -17,10 +17,10 @@ Rights: CC BY-NC 4.0
 ...
 
 
-# From Shitposting to Shitpublishing
+#From Shitposting to Shitpublishing
 
-## Ezequiel Soriano
-### Originally published on February 10th, 2025
+##Ezequiel Soriano
+###Originally published on February 10th, 2025
 
 These last years I have been spending my time publishing nonsensical
 books[^06chapter3_1] of illegible, plagiarized, stunning, low-quality, sublime, and
@@ -35,35 +35,29 @@ amateur poems, and automatic video transcriptions. In this article, I
 describe these publishing experiments as attempts to go from shitposting
 to shitpublishing.
 
-![A screenshot of a computer AI-generated content may be
-incorrect.](media/image1.png){width="3.6944444444444446in"
-height="4.263888888888889in"}
-
-Screenshot of Shitposting article in Wikipedia
+![Screenshot of Shitposting article in Wikipedia
 https://en.wikipedia.org/w/index.php?title=Shitposting&oldid=1189859960
-(or a keysmashed haiku)
+(or a keysmashed haiku)](imgs/03.1.png)
 
-## Definitions
+<br/>
+
+##Definitions
 
 Wikipedia describes *shitposting* as “the act of using an online forum
 or social media page to post content that is satirical and of
 ‘aggressively, ironically, and trollishly poor quality’”. The most liked
 definition of *shitposting* in the Urban Dictionary says:
 
-![A screenshot of a computer screen AI-generated content may be
-incorrect.](media/image2.png){width="4.513888888888889in"
-height="3.4583333333333335in"}
+![Screenshot of urban dictionary definition of 'Shitposting' by
+thesinner6666](imgs/03.2.png)
 
-Screenshot of urban dictionary definition of 'Shitposting' by
-thesinner6666
+<br/>
 
 However, the most flavored shitpublishing definitions linger in the
 shadows of these web pages. One of the last definitions on Urban
-Dictionary is:![A screenshot of a computer AI-generated content may be
-incorrect.](media/image3.png){width="5.777777777777778in"
-height="3.4583333333333335in"}
+Dictionary is:![Screenshot of Urban Dictionary definition of 'shitpost' by ClassyUwU](imgs/03.3.png)
 
-Screenshot of Urban Dictionary definition of 'shitpost' by ClassyUwU
+<br/>
 
 In the Shitposting Wikipedia article, on the 10th of November 2017,
 someone with the IP 204.109.101.63, erased the description of *shitpost*
@@ -73,11 +67,10 @@ Rises*. In these shitposting gestures, we can identify the core idea of
 such as books, an encyclopedia, academic journal, or journalist
 articles.
 
-![A screenshot of a phone AI-generated content may be
-incorrect.](media/image4.png){width="6.268055555555556in"
-height="1.1027777777777779in"}
+![A screenshot of the first talk entry of Wikiedia’s Shitposting article.](imgs/03.4.png)
 
-A screenshot of the first talk entry of Wikiedia’s Shitposting article.
+<br/>
+
 
 ## Spamming Books
 
@@ -97,11 +90,9 @@ materiality that many modernist poets were experimenting with. It
 creates pieces of internet vernacular literature that are not meant to
 be read but to be weighed.
 
-![A screenshot of a computer AI-generated content may be
-incorrect.](media/image5.png){width="6.268055555555556in"
-height="2.670138888888889in"}
+![Amazon Screenshot of the books ASDFGH by Asdfgh](imgs/03.5.png)
 
-Amazon Screenshot of the books ASDFGH by Asdfgh
+<br/>
 
 Shitpublishing approaches book-making in the same materialist way.
 Amazon hosts several books of this *keysmashed* shitpublishing
@@ -148,12 +139,12 @@ described in the Library of Artistic Print on Demand (apod.li) as a
 “unique representation \[which\] makes spam messages appear as objects
 worth documenting and investigating”.
 
-![A person sitting at a desk with a computer AI-generated content may be
-incorrect.](media/image6.jpg){width="4.375in" height="3.125in"}
+![Rule 84. There are no authors on the internet](imgs/03.6.jpg)
 
-Rule 84. There are no authors on the internet
+<br/>
 
-## The Uncanny Book Valley 1: POD
+
+##The Uncanny Book Valley 1: POD
 
 Shitpublishing defines the uncanny book valley. These *things* are made
 to look like books, but if you approach them as a “readership” you will
@@ -183,9 +174,9 @@ George R. Martin III, *The Ai-Eye of Argon: Or, I Wrote a Novel with
 A.I. Assistance, But You Probably Should Not* by Martin Berman-Gorvine
 or *Chat GPT for Babies* by MR Mikhail Zerafa.
 
-![A collage of a toy AI-generated content may be
-incorrect.](media/image7.png){width="6.268055555555556in"
-height="4.415277777777778in"}Chat GPT for Babies Book Cover.
+![Chat GPT for Babies Book Cover.](imgs/03.7.png)
+
+<br/>
 
 But let's take it one step at a time. There are two milestones in the
 development of shitpublishing: Print on Demand (POD) platforms and
@@ -206,14 +197,9 @@ OR A BOOK CONVERTED FROM A MICROSOFT WORD DOCUMENT BY CHRIS SYLVESTER
 relevance of trolling in shitpublishing. Trolling about authorship,
 originality, authenticity, urgency, value, and hard work:
 
-![A close up of a letter AI-generated content may be
-incorrect.](media/image8.png){width="4.444444444444445in"
-height="5.916666666666667in"}
+![Cover of *STILL LIFE WITH THE POKÉMON YELLOW VERSION TEXT DUMP IN 30 PT. MONACO FONT JUSTIFIED TO MARGIN DISTRIBUTED AS A PDF OR A BOOK CONVERTED FROM A MICROSOFT WORD DOCUMENT BY CHRIS SYLVESTER 2012/2013*, by Chris Sylvester](imgs/03.8.png)
 
-Cover of *STILL LIFE WITH THE POKÉMON YELLOW VERSION TEXT DUMP IN 30 PT.
-MONACO FONT JUSTIFIED TO MARGIN DISTRIBUTED AS A PDF OR A BOOK CONVERTED
-FROM A MICROSOFT WORD DOCUMENT BY CHRIS SYLVESTER 2012/2013*, by Chris
-Sylvester
+<br/>
 
 Shitpublishing is a performance that implies the gesture of publishing.
 We should not interpret these creative acts by actually reading the
@@ -282,7 +268,7 @@ zine composed exclusively of b/n photographs of soccer players smoking.
 Or *Tutorial de Paella Clásica*, a printed powerpoint presentation
 created by the author's father about how to cook a Paella.
 
-## The Uncanny Book Valley 2. The Advent of chatGPT
+##The Uncanny Book Valley 2. The Advent of chatGPT
 
 With the advent of ChatGPT, StableDiffusion, and other broadly used
 generative AI tools, shitpublishing created a deeper uncanny book
@@ -296,17 +282,15 @@ as quickly as copypasting. Now, lazy and fast books look more like
 actual books and, at the same time, they have become much more
 unpleasant and uncanny than copypasted books.
 
-![A graph of books and a graph of information AI-generated content may
-be incorrect.](media/image9.jpeg){width="4.475in"
-height="3.927153324584427in"}
-
-The Uncanny Book Valley. 1) A notebook; 2) List of recurring The
+![The Uncanny Book Valley. 1) A notebook; 2) List of recurring The
 Simpsons characters (Amperamp Press, 2013); 3) Blank On Demand by Silvio
 Lorusso and Giulia Ciliberto; 4) The Communist Manifesto (in Comic Sans)
 by Friedrich Engels and Karl Marx; 5) Los amigos de la aventura by Dan
 Wislow; 6) “Lance and the Pawsitively Perfect Christmas” by Charmaine
 Lewis; 7) Be bold with bananas by Fruit Distributors Ltd; 8) Don Quixote
-by Miguel de Cervantes.
+by Miguel de Cervantes.](imgs/03.9.jpg)
+
+<br/>
 
 I have some paradigmatic examples of these AI generated shitbooks in my
 virtual library. I found lots of children books, like Mahlon Berv’s *A
@@ -354,7 +338,7 @@ Amazon shitpublishing. Chuck Tingle creates a game of mirrors within a
 game of mirrors, publishing slightly real books that look like fake
 books and are in fact fake books whose fakeness makes them real books.
 
-## This Is Not the Flood We Expected (or Is It?)
+##This Is Not the Flood We Expected (or Is It?)
 
 Similarly to what happened to shitposting, in recent years
 shitpublishing has become darker. Once upon a time, shitposting
@@ -392,70 +376,27 @@ by UNESCO for a publication to qualify as a book. And *Una cosa hecha*
 sentence “Plant a Tree, Have a Son, Write a Book” as many times as
 needed to fill 50 pages.
 
-The goal with these books was to give them an ISBN and add them to my CV
-in order to increase my publications section as a PhD student. A few
-months later I came across this article: ‘A researcher who publishes a
-study every two days reveals the darker side of science’. Apparently,
-“Thousands of scientists around the world publish at least one study
-every five days”. It seems that my naive act of hacking the curriculum
-is an act that is carried out with worse intentions and better means by
-academics all over the world.
+The goal with these books was to give them an ISBN and add them to my CV in order to increase my publications section as a PhD student. A few months later I came across this article: ‘A researcher who publishes a study every two days reveals the darker side of science’. Apparently, “Thousands of scientists around the world publish at least one study every five days”. It seems that my naive act of hacking the curriculum is an act that is carried out with worse intentions and better means by academics all over the world.
 
-This scenario should lead us to ask ourselves how to deal with the new
-scale of “flooding the zone with shit” that LLMs facilitate. The poetic
-gestures of shitpublishing (from Troll Thread to Chuck Tingle) are
-exercises that radically mimic broader postdigital publishing dynamics.
-These artistic gestures emulate the general dynamics of shitpublishing,
-re-framing these publishing gestures to ambivalently portray the
-situation. The critical dimension of these literary gestures lies in the
-fact that they unveil shitpublishing, reframing it as critical and
-meticulous observation.
+This scenario should lead us to ask ourselves how to deal with the new scale of “flooding the zone with shit” that LLMs facilitate. The poetic gestures of shitpublishing (from Troll Thread to Chuck Tingle) are
+exercises that radically mimic broader postdigital publishing dynamics. These artistic gestures emulate the general dynamics of shitpublishing, re-framing these publishing gestures to ambivalently portray the situation. The critical dimension of these literary gestures lies in the fact that they unveil shitpublishing, reframing it as critical and meticulous observation.
 
-Likewise, the artistic exercises of shitpublishing create a necessary
-reflection on cultural valorization and our understanding of culture or
-knowledge. They expose a sort of ideological consensus about books being
-the *guardians of knowledge*. Instead of reproducing a Fahrenheit
-451-style critical discourse on censorship, they dismantle the
-technology of the book as inherently emancipatory.
+Likewise, the artistic exercises of shitpublishing create a necessary reflection on cultural valorization and our understanding of culture or knowledge. They expose a sort of ideological consensus about books being the *guardians of knowledge*. Instead of reproducing a Fahrenheit 451-style critical discourse on censorship, they dismantle the technology of the book as inherently emancipatory.
 
-But these acts of radical mimesis of late-platform capitalism's
-accelerated dynamics simultaneously reproduce these forms while
-criticizing them. Shitpublishing is digital publishing accelerationism.
-And we know that accelerationism is fine for aesthetics but that it is
-not a wise political tactic. Maybe shitpublishing is as political and
-activist as avant-garde literature could be. In this article, I have
-talked about shitpublishing as closely related to hacking. But,
-considering it in broader political terms, what is it hacking against?
-Perhaps the very idea of the book, the value given to the written word,
-or literacy as a technology. If it is those things, then it's the same
-as in Pop Art, Dadaism or Conceptual Writing. Maybe the political
-potential is not in the “genre” or the “tool”, but in the contexts you
-flood with shit.
+But these acts of radical mimesis of late-platform capitalism's accelerated dynamics simultaneously reproduce these forms while criticizing them. Shitpublishing is digital publishing accelerationism. And we know that accelerationism is fine for aesthetics but that it is not a wise political tactic. Maybe shitpublishing is as political and activist as avant-garde literature could be. In this article, I have
+talked about shitpublishing as closely related to hacking. But, considering it in broader political terms, what is it hacking against? Perhaps the very idea of the book, the value given to the written word,
+or literacy as a technology. If it is those things, then it's the same as in Pop Art, Dadaism or Conceptual Writing. Maybe the political potential is not in the “genre” or the “tool”, but in the contexts you flood with shit.
 
-![Cartoon of a person with glasses AI-generated content may be
-incorrect.](media/image10.png){width="6.268055555555556in"
-height="4.58125in"}
+![](imgs/03.10.png)
 
-Shitpublishing, of course, pertains to speed and irrelevancy. It is fast
-publishing but, of course, it is not urgent publishing. *In Here and
-now? Explorations in Urgent Publishing*, the INC reflects on the fact
-that ‘Despite the promises of the desktop publishing revolution and the
-immediacy of publishing on the web, acceleration and optimization did
-not speed up the publishing process as much as hoped for’. Well, maybe
-it did speed up the publishing process towards weird places that are
-still unexplored. Towards practices and ways that we must try to
-understand in order to deal with the undetermined consequences they may
-bring. Maybe it will cause the fall (or bigger success) of platforms
-like Amazon Books, or it will challenge the classist approaches to books
-as cultural goods, and therefore, books will no longer be seen as
-something inherently positive. Perhaps reading will no longer be
-synonymous with critical thinking, and that’s something I still don’t
-know how to take.
+<br/>
+
+Shitpublishing, of course, pertains to speed and irrelevancy. It is fast publishing but, of course, it is not urgent publishing. *In Here and now? Explorations in Urgent Publishing*, the INC reflects on the fact that ‘Despite the promises of the desktop publishing revolution and the immediacy of publishing on the web, acceleration and optimization did
+not speed up the publishing process as much as hoped for’. Well, maybe it did speed up the publishing process towards weird places that are still unexplored. Towards practices and ways that we must try to understand in order to deal with the undetermined consequences they may bring. Maybe it will cause the fall (or bigger success) of platforms like Amazon Books, or it will challenge the classist approaches to books as cultural goods, and therefore, books will no longer be seen as something inherently positive. Perhaps reading will no longer be synonymous with critical thinking, and that’s something I still don’t know how to take.
 
 *Special thanks to Diego Asterio for her sharp comments on this text. *
 
-*\
-**Ezequiel Soriano** is an anthropologist and artist interested in
+***Ezequiel Soriano** is an anthropologist and artist interested in
 digital orality, plagiarism, and machine creativity. Through textual
 experimentation and ethnographic research, he explores everyday
 practices that play with disciplinary mechanisms in order to disrupt
@@ -479,4 +420,3 @@ Xcol, UOC, USC, or the Institute of Network Cultures.*
 
 [^06chapter3_5]: Marshall McLuhan, *Understanding Media: The Extensions of Man,
     (Gingko Press, 1964)*
-### 

@@ -17,14 +17,12 @@ Rights: CC BY-NC 4.0
 ...
 
 
-# New Dependencies
+#New Dependencies
 
-## Lukas Engelhardt
-
+##Lukas Engelhardt
 ### Originally published on March 29th, 2022
 
-*\
-It seems that many people today experience a space problem. This applies
+*It seems that many people today experience a space problem. This applies
 to the physical world where living spaces in the city become less
 affordable by the day as wages continue to stagnate. And this is also
 the case for the digital spaces we inhabit, where governments and
@@ -36,41 +34,40 @@ find useful tactics to counteract the effects of the cloud. This is an
 attempt to find ways in which our experience with the negotiation of
 physical space can help us with our digital conundrum.*
 
-![A building with a sign on top AI-generated content may be
-incorrect.](media/image1.png){width="3.9230774278215224in"
-height="5.241346237970253in"}\
-*fig A.1: A Thundercloud, a mix of a cloud icon and the international
+![*fig A.1: A Thundercloud, a mix of a cloud icon and the international
 squatting sign that resembles lightning strike, hanging on a small
-(squatted?) computer.*
+(squatted?) computer.*](imgs/05.1.png)
 
-## 0 Point of departure
+<br/>
 
-  **self hosting**                                             **squatting**
-  ------------------------------------------------------------ ------------------------------------------------------------
-  refusing (privacy) policies  ✔                               refusing (housing) policies  ✔
-  hosting and serving (files) ✔                                hosting and serving (people) ✔
-  programming (computers) ✔                                    programming (events) ✔
-  don't pay rent (software as service) ✔                       don't pay rent (actual rent) ✔
-  community building (licenses and policies) ✔                 community building (door policies) ✔
-  security (encryption) ✔                                      security (barricades) ✔
-  constant maintenance ✔                                       constant maintenance ✔
-  resist cloud control ✔                                       resist crowd control ✔
-  using existing infrastructures ✔                             using existing infrastructures ✔
-  recycling (old hardware) ✔                                   recycling (building materials) ✔
-  open source principles ✔                                     open source principles ✔
-  following manuals and protocols ✔                            following manuals and protocols ✔
-  improvised structures & unconventional design strategies ✔   improvised structures & unconventional design strategies ✔
-  disaster always imminent: data loss ✔                        disaster always imminent: eviction ✔
-  Everything went downhill from \~2010 ✔                       Everything went downhill from \~2010 ✔
-  nostalgia ✔                                                  nostalgia ✔
-  nomadic in nature: changing ip addresses ✔                   nomadic in nature: changing addresses ✔
-  situating yourself in a network ✔                            situating yourself in a network ✔
-  de-appropriating someone else's space ✖                      de-appropriating someone else's space ✔
 
+##Point of departure
+
+| **self hosting**| **squatting**|
+| ----------- | ----------- |
+| refusing (privacy) policies  ✔  |refusing (housing) policies  ✔|
+|hosting and serving (files) ✔|hosting and serving (people) ✔|
+|programming (computers) ✔|programming (events) ✔|
+|don't pay rent (software as service) ✔|don't pay rent (actual rent) ✔|
+|community building (licenses and policies) ✔|community building (door policies) ✔|
+|security (encryption) ✔|security (barricades) ✔|
+|constant maintenance ✔|constant maintenance ✔|
+|resist cloud control ✔|resist crowd control ✔|
+|using existing infrastructures ✔|using existing infrastructures ✔|
+|recycling (old hardware) ✔|recycling (building materials) ✔|
+|open source principles ✔|open source principles ✔|
+|following manuals and protocols ✔|following manuals and protocols ✔|
+|improvised structures & unconventional design strategies ✔|improvised structures & unconventional design strategies ✔|
+|disaster always imminent: data loss ✔|disaster always imminent: eviction ✔|
+|Everything went downhill from ~2010 ✔|Everything went downhill from ~2010 ✔|
+|nostalgia ✔|nostalgia ✔|
+|nomadic in nature: changing ip addresses ✔|nomadic in nature: changing addresses ✔|
+|situating yourself in a network ✔|situating yourself in a network ✔|
+|de-appropriating someone else's space ✖|de-appropriating someone else's space ✔|
 *fig. 0.1: A lot of words in tech are referring to things in the real
 world.*
 
-## 1 Cloud Gazing
+##Cloud Gazing
 
 On September 12, 2010, the YouTube Channel revelation13net uploaded a
 video titled *By Psychokinesis a Psychic turns a Cloud into a Square
@@ -85,8 +82,8 @@ like a mantra of sorts, altering and distorting their voice as the video
 progresses. The cloud slowly changes shape, and by the end of the video
 it does look more like a square than in the beginning of the video,
 though it's hard to say whether this might just have been the way it was
-always going to naturally change shape.\
-\
+always going to naturally change shape.
+
 In September 2008, the free software advocate Richard Stallman expressed
 his concerns regarding cloud computing to *The Guardian*, claiming that
 it was stupid and just a way to lock users into proprietary
@@ -104,8 +101,8 @@ Simpsons*, which later ended up becoming something of a meme. The image
 shows a newspaper clipping in which Abe Simpson, the elderly father of
 one of the protagonists, Homer Simpson, angrily shakes his fist at the
 sky under the headline *Old Man Yells at Cloud*. Since my 30th birthday
-last year, I have sometimes thought this image is actually about me.\
-\
+last year, I have sometimes thought this image is actually about me.
+
 The Cloud is a mythical space. Its name alludes to its opaque-ness,
 veiling what it actually describes, which you could call network
 infrastructure, or maybe just someone else's computer.[^08chapter5_3]
@@ -116,30 +113,28 @@ no concrete knowledge about. It's the part beyond the blinking lights of
 our router, it’s *internet*. Its shape alludes to the uncertainty of
 what is out there, something elusive that constantly changes shape, is
 hard to grasp. The cloud is something we don't understand, by
-definition.\
-\
+definition.
+
 This inherent uncertainty is maybe why attempts to refuse it can often
 feel futile. Even defining what it is that we are refusing exactly is
 already a tiring exercise. As is often the case with computers, the
 conversation is one-sided, with us yelling at the cloud, trying to shape
 it, but not getting a response. Because the cloud doesn't care. Despite
-this perceived futility, a vague feeling of urgency remains.\
-\
+this perceived futility, a vague feeling of urgency remains.
 In 2019, web designer Becca Abbe sensed the dawn of what she called The
 Internet's Back-to-the-Land Movement, a new movement of users away from
 the cloud, in reference to the 1960s counter cultural movements away
 from the cities in the US.[^08chapter5_4] It seems tempting to leave the celestial
 cloud behind, with all its fake news and inequalities, to get back down
 to the ground truth, so to say. But what exactly is this land we would
-return to, and who exactly is going there?\
-\
-2 Surfing the Web
+return to, and who exactly is going there?
 
-![A map of the ocean AI-generated content may be
-incorrect.](media/image2.jpeg){width="5.331886482939632in"
-height="3.4102569991251093in"}\
-*fig. 2.1: None of this makes any sense. Thank you Paul Bille for
-finding this image.*
+##Surfing the Web
+
+![*fig. 2.1: None of this makes any sense. Thank you Paul Bille for
+finding this image.*](imgs/05.2.jpg)
+
+<br/>
 
 Before the cloud was a cloud it was an ocean. We know this, because it
 could be *surfed*. In 1986, when the internet wasn't commercially
@@ -161,8 +156,8 @@ just a year later, librarian Jean "netmom" Armour Polly published an
 article called Surfing the Internet on the University of Minnesota
 Wilson Library Bulletin, and shortly after that, Tom Mandel of Stanford
 Research Institute (SRI) wrote another one called Surfing the Wild
-Internet.\
-\
+Internet.
+
 What all these examples have in common is that they evoke the fun of the
 web, but also the skill required to, well, surf it, as well as some
 sense of the fluidity, randomness, chaos, and even danger that it
@@ -171,10 +166,9 @@ fun, and temporarily, before hanging up your wet suit and returning to
 real life.[^08chapter5_9] Especially back then, when cities and interfaces were
 less smooth, people were less sad and personal computers were just
 beginning to become a thing, it perfectly captured this new, mysterious
-and seemingly bottomless place that was the internet[^08chapter5_10]—other
-exhausted geographic metaphors include cyberspace, the electronic
-frontier and the information superhighway.\
-\
+and seemingly bottomless place that was the internet[^08chapter5_10]—other exhausted geographic metaphors include cyberspace, the electronic
+frontier and the information superhighway.
+
 Today nobody surfs anymore (the ocean has evaporated into the cloud, you
 could say). But despite the immiscibility of water and technology, the
 image of the internet as a separate space free from the constraints of
@@ -185,14 +179,11 @@ that we use to connect our computers to the internet, in *anchor* links,
 torrent sites,[^08chapter5_13] browser icons[^08chapter5_14] or the names of NFT
 marketplaces.[^08chapter5_15] The Network is eternal, and so is the ocean.
 
-![A car with text on it AI-generated content may be
-incorrect.](media/image3.png){width="4.040748031496063in"
-height="5.025640857392826in"}\
-*Watch me. Advertising by Honda in a 1994 outdoor magazine.\
-*
+![*Watch me. Advertising by Honda in a 1994 outdoor magazine.*](imgs/05.3.png)
 
-## \
-3 Back to the Sea
+<br/>
+
+##Back to the Sea
 
 > If you want to build a ship, don’t drum up people to collect wood and
 > don’t assign them tasks and work, but rather teach them to long for
@@ -210,8 +201,8 @@ was funded by venture capitalist and strangely obsessive *Lord of the
 Rings* fan Peter Thiel[^08chapter5_17], with the goal of making governments
 *smart*. Claiming that most of the land in the world is already taken,
 the seasteaders propose building floating cities in international
-waters, free from convention, regulation, and taxes.\
-\
+waters, free from convention, regulation, and taxes.
+
 Up until 2020 most attempts to make these dreams come true had been of
 moderate success, with crypto millionaire, anti-taxer and anti-vaxxer
 Chad Elwartowski coming closest when he and his girlfriend spent two
@@ -221,11 +212,11 @@ off the coast of Thailand.[^08chapter5_18] Elwartowski is one of the founders of
 which has been developing so called *SeaPods*, floating luxury homes
 that look remarkably similar to Apple AirPods in renders. The platform
 in Thailand (which looked nothing like those renders) had been the first
-prototype.\
-\
+prototype.
+
 But in 2020 Ocean Builders decided to give it one more try. Due to the
 COVID-19 pandemic, the cruise ship industry had almost gone under and
-they managed to buy an old, 245m cruise ship for a bit less that \$10m,
+they managed to buy an old, 245m cruise ship for a bit less than $10m,
 around one tenth of its pre-pandemic price. They named it the MS
 Satoshi, after the presumed author of the original Bitcoin white paper.
 The plan was to lay anchor off the coast of Panama, where it would be
@@ -233,16 +224,16 @@ incorporated into an artificial, floating island in the shape of the
 Bitcoin B. Until then they would auction off the 777 cabins to a
 clientele of digital nomads, startup founders and crypto enthusiasts,
 and finally establish the first truly free, crypto-only (and mostly
-male), seasteading society (or *seavilization*[^08chapter5_19]).\
-\
+male), seasteading society (or *seavilization*[^08chapter5_19]).
+
 Maybe it's stretch to claim there is a (mostly metaphorical) affinity of
 everything-crypto to the ocean and the freedoms it promises. But many
 have described the feeling of web3[^08chapter5_20] to be reminiscent of the early
 days of the internet, among them Signal founder and former
 sailboat-squatter[^08chapter5_21] Moxie Marlinspike.[^08chapter5_22] And the image just
 *fits*—it speaks of a desire for the internet (the world?) to be a wide,
-open and adventurous place again.\
-\
+open and adventurous place again.
+
 In any case, the ocean builders didn't fare well on their endeavors.
 Journalist Sophie Elmhirst recounts the following unfolding of
 unfortunate events in great schadenfreude-laden detail for *The
@@ -253,15 +244,15 @@ libertarian leaps for freedom like this fail because they don't bother
 to answer the question of who will do all the cleaning.[^08chapter5_25] In her
 article, Elmhirst sums up the MS Satoshi's ultimate dilemma. "*The high
 seas*", she writes, "*while appearing borderless and free, are, in fact,
-some of the most tightly regulated places on Earth*”.\
-\
-![A sailboat on the water AI-generated content may be
-incorrect.](media/image4.jpg){width="6.268055555555556in"
-height="3.5229166666666667in"}\
-*fig. 3.1: Not as endless and free as we thought. Still from the 1998
-movie The Truman Show.*\
-\
-4 Back to the Land
+some of the most tightly regulated places on Earth*”.
+
+![*fig. 3.1: Not as endless and free as we thought. Still from the 1998
+movie The Truman Show.*](imgs/05.4.jpg)
+
+<br/>
+
+
+##Back to the Land
 
 While today most people recognize that the internet is prone to tight
 regulation, in its beginning a lot of people thought of it borderless
@@ -274,8 +265,8 @@ they could build new lives, new utopias, new modes of (smart?)
 governance. Barlow's text reads as a challenge to the governments of
 what he calls the Industrial World, or the world outside of the
 computers, who, according to him, had no legitimate claim to govern
-cyberspace.\
-\
+cyberspace.
+
 Twenty-five years later this document has been critiqued to exhaustion.
 Many people have pointed out, and Barlow himself has admitted since,
 that this clear division between digital and physical space is not a
@@ -283,8 +274,8 @@ very good model for describing the world—after all, the internet runs on
 real computers, which stand in real rooms that are connected to the rest
 of the world with real cables, all of which is powered by real
 electricity. The internet obviously runs on physical infrastructure,
-which exists in the physical world.\
-\
+which exists in the physical world.
+
 In his essay Imagining the Internet: Explaining our Digital Transition,
 Brewster Kahle, founder of the Internet Archive, explores the different
 metaphors that we have collectively used throughout the years to try and
@@ -293,8 +284,8 @@ became more and more mobile, and more and more tied to our real
 identities. Around that time, cartoons depicting the internet shifted in
 tone: the surfers of the 90s became prisoners, bound to their oversized
 phones with heavy chains. As anonymity slowly disappeared, the optimism
-of the 90s evaporated.\
-\
+of the 90s evaporated.
+
 Today the virtual is not separate but augmented,[^08chapter5_26] which is maybe why
 the image of the cloud, hovering above us, overlaid like another layer
 in Photoshop (or Gimp), continues to stick around (that and the
@@ -304,8 +295,8 @@ inequalities inherent to both, since we can no longer treat them as
 independent from one another. Consequently, inequalities in the virtual
 (where we are limited to the possibilities the interface affords
 us)[^08chapter5_27] cannot be solved from within it, just as code running in a
-sandbox cannot affect the system outside of it.\
-\
+sandbox cannot affect the system outside of it.
+
 If Cyberspace was the indefinite space between the nodes, that magical
 place that existed between your computer and mine, then a digital
 back-to-the-land movement has to focus precisely on these nodes and
@@ -313,22 +304,19 @@ their physical connections, the underlying infrastructure, which is
 overwhelmingly grounded, even if sometimes submerged in water. We don't
 need spatial metaphors, because we are dealing with real, physical
 space.[^08chapter5_28] Luckily for us, we have much more experience in negotiating
-physical space than virtual space.\
-\
-![A group of people holding a banner AI-generated content may be
-incorrect.](media/image5.png){width="5.32051290463692in"
-height="3.404750656167979in"}\
-*fig 4.1: A group of people negotiating physical space. The occupation
-of Hotel Mokum, photo by Sammy Iason, 2021.*
+physical space than virtual space.
 
-## 5 Occupying the Land
+![*fig 4.1: A group of people negotiating physical space. The occupation of Hotel Mokum, photo by Sammy Iason, 2021.*](imgs/05.5.png)
 
-![A diagram of squatting AI-generated content may be
-incorrect.](media/image6.png){width="2.139045275590551in"
-height="2.487179571303587in"}\
-*fig. 5.1 In the words of singer Nelly Furtado, All good things come to
+<br/>
+
+##Occupying the Land
+
+![*fig. 5.1 In the words of singer Nelly Furtado, All good things come to
 an end. Thank you to Ada Reinthal for the initial diagram. Written in
-mermaid.js.*
+mermaid.js.*](imgs/05.6.png)
+
+<br/>
 
 Squatting is the act of occupying an unoccupied space without owning it
 or having permission to use it. It occurs around the world and is mostly
@@ -337,8 +325,8 @@ build settlements on unoccupied land, which over time often develop into
 shanty towns and slums. In 2003, the United Nations estimated that
 globally more than 1 billion people were living in squats and slums,
 projecting this number to increase up to 1.5 billion by 2020.[^08chapter5_29] For
-most of these people, squatting is a tactic to survive.\
-\
+most of these people, squatting is a tactic to survive.
+
 In the Global North the term usually means something different. Here,
 squatting is mostly residential, meaning that it involves the occupation
 of vacant buildings in the city. While it's a response to the various
@@ -347,8 +335,8 @@ alternative to homelessness for many (undocumented) people, it also
 often has an activist dimension. In their eponymous 2019 book, the
 collective *Architecture of Appropriation* conceptualizes squatting not
 only as a social movement and historical phenomenon but as a kind of
-*spatial activism*.[^08chapter5_30]\
-\
+*spatial activism*.[^08chapter5_30]
+
 In the Netherlands, squatting developed into a politically motivated
 movement after World War 2, but it wasn't until 1971 that squatters
 acquired legal protection,[^08chapter5_31] and squatting became institutionalized.
@@ -358,8 +346,8 @@ advice to whomever was interested, and the action itself was
 protocolized in the form of freely available manuals—interaction with
 the authorities and police including. In the book, *Architecture of
 Appropriation* suggest that since its beginnings, the squatting movement
-has had a decidedly *open source* character.\
-\
+has had a decidedly *open source* character.
+
 In 2010, around the time the internet became a cloud, squatting became a
 criminal offense in the Netherlands.[^08chapter5_32] In the following two years
 more than 330 squats were evicted in Amsterdam alone. In its prime, this
@@ -368,8 +356,8 @@ society of sorts.[^08chapter5_33] This aspect of embedding yourself in a *networ
 is a central aspect of political squatting—the internal network of the
 occupants, a local network with the neighbors, a regional network with
 the local scene, or an international network of political squatters
-around the world; they are equally important.\
-\
+around the world; they are equally important.
+
 One way this *networked-ness* might be epitomized is in the convention
 of naming a newly-squatted building after the address where it is
 located.[^08chapter5_34] By doing this, the squatters embed themselves into the
@@ -379,8 +367,8 @@ and location independent. If they get evicted, the collective can squat
 another place next week, and the place will have a different address and
 a different name. Its identity will simultaneously be the same and
 completely different, similar to the way a computer gets assigned a new
-IP address in a network.\
-\
+IP address in a network.
+
 The connections between these nodes in a network are not abstract but
 can and have been diagrammatically mapped out, the emergency list of the
 former Amsterdam squat *Plantage Dok* being an example of that.[^08chapter5_35]
@@ -391,19 +379,17 @@ first place. Instead of a network that is concerned with things like
 scalability, it operates on different principles. It is in its essence a
 network of solidarity.
 
-![A diagram of a company AI-generated content may be
-incorrect.](media/image7.png){width="6.268055555555556in"
-height="2.9618055555555554in"}\
-*fig. 5.2 No cloud in sight on the Alarmlijst Artis (here expressed in a
-mermaid.js script)*\
-\
-6 Welcome to Hotel Mokum
+![*fig. 5.2 No cloud in sight on the Alarmlijst Artis (here expressed in a
+mermaid.js script)*](imgs/05.7.png)
 
-![A screenshot of a social media post AI-generated content may be
-incorrect.](media/image8.jpg){width="4.647389545056868in"
-height="2.9358978565179354in"}\
-*fig 6.1: A former meme*\
-\
+<br/>
+
+##Welcome to Hotel Mokum
+
+![*fig 6.1: A former meme*](imgs/05.8.jpg)
+
+<br/>
+
 Many of us struggled with the pressure, the excitement, the exhaustion,
 the uncertainty, the lack of structure, impostor syndrome. The let-down
 effect was real. Immediately after the action a number of people got
@@ -411,8 +397,8 @@ sick. Most of us had stopped exercising, ate unhealthily, and couldn't
 keep up with simple household tasks. Someone said their home had started
 to look like a squat, while our squat had slowly started to look like a
 home. At the same time, most of us experienced difficulty in leaving, in
-going home, and felt guilty when we missed just a day or two.\
-\
+going home, and felt guilty when we missed just a day or two.
+
 We squatted Hotel Mokum on October 16, 2021. None of us had really
 expected to succeed. In the secretive meetings with the real squatters
 in which we planned the action (out of a general distrust of technology
@@ -424,8 +410,8 @@ course, the police can just decide to leave, but more likely they will
 turned out differently, and they did leave, and there we were, 20-odd
 20-somethings and me, and all six floors of the former hotel right in
 the center of Amsterdam were ours, and every news outlet in town wanted
-to talk to us.\
-\
+to talk to us.
+
 The day of the action we got drunk, the day after we started programming
 events. Our first event was a series of screenings, curated by Mateo and
 Jeffrey Babcock from *Jeffrey's Underground Cinema(s)*. From then on, we
@@ -435,8 +421,8 @@ tournament, an exhibition with more than 70 participants, a
 demonstration and seemingly infinite amounts of bar nights. Fueled by a
 mix of enthusiasm, disbelief and constant fear of eviction, we went on
 and on, and every time it got better and bigger, and every time it was
-packed.\
-\
+packed.
+
 When we didn't have a public program, we worked on the building. It had
 been gutted to the core and in the two years that it had been abandoned,
 it had decayed dramatically. After changing the locks, we cleared out
@@ -448,8 +434,8 @@ built living rooms and bed rooms, furnished it all, and
 cleaned—everything, endless amounts of times. Hardly any of us had ever
 squatted before, let alone on this scale, and without the unconditional
 and selfless support and expertise from helpers, friends and members of
-the squatting scene, we could have never pulled any of it off.\
-\
+the squatting scene, we could have never pulled any of it off.
+
 Whatever time was left, we spent in meetings. We had to organize and
 decide on events, fill the sleeping schedule, plan the renovations, find
 legal representation, write public statements, apply for funding, talk
@@ -460,8 +446,8 @@ building and formulate a corona policy. We organized on the fly—we set
 up Signal groups and a Matrix server, learned hand signs, kept times,
 moderated meetings, argued and solved conflicts, did check-ins and kept
 notes of everything. We made decisions collectively—not simply by
-majority, but looking for consensus even in disagreement.\
-\
+majority, but looking for consensus even in disagreement.
+
 Even though most of us didn't live at Hotel Mokum, we needed this place,
 and it needed us. We were starting to neglect the lives we had outside
 of it—it was consuming us. After a month, we came together in an emo
@@ -474,8 +460,8 @@ expressing it to each other. That had been the collective experience. At
 the emo meeting we acknowledged what happened outside of it. For a brief
 moment, the collective dissipated into a collection of individuals, each
 with their own, unique experience, with complaints, insecurities and
-dirty apartments.\
-\
+dirty apartments.
+
 One by one we assured each other, complimented each other on *good
 shares*. It was emotional and supportive. A lot of us hadn't known each
 other before the action, but in this moment of allowing ourselves to be
@@ -487,13 +473,16 @@ from autonomous, we depended on each other's solidarity; we knew that we
 *could* depend on each other, and that these new dependencies were
 voluntary.
 
-![A diagram of a business process AI-generated content may be
-incorrect.](media/image9.png){width="6.268055555555556in"
-height="3.936111111111111in"}\
-*fig. 6.2: Angry individuals becoming angry individuals. The story of
-Hotel Mokum and some of its enablers, in mermaid.js\
-\
-*7 Trespassing, an Afterword\
+![*fig. 6.2: Angry individuals becoming angry individuals. The story of
+Hotel Mokum and some of its enablers, in mermaid.js
+*](imgs/05.9.png)
+
+<br/>
+
+---
+
+##Trespassing, an Afterword
+
 There are few contact points where the augmented nature of the virtual
 becomes as explicit as in the (mostly cloudy) city of Amsterdam. By
 1993, internet access here was still limited to a small number of
@@ -504,30 +493,30 @@ internet. Aptly named, the *Digital City* still used the *metaphor* of
 the city not only in its name but also as an interface. To send emails
 you would have to go to the post office, for public discussions you
 would visit the neighborhood cafe. While text-based initially, many
-parts were later illustrated.\
-\
+parts were later illustrated.
+
 Today, in the capital of Europe's largest data center hub,[^08chapter5_38] the
 relationship between the digital and the city (the augmenter and the
 augmentee, if you will) has fundamentally shifted. Their conflation is
 maybe most apparent when looking at Airbnb. Arguably, Amsterdam has
 suffered especially severely from Airbnb's business model.[^08chapter5_39] In his
 2016 essay *Techno-Feudalism and The Tragedy of The Commons*, William
-Kherbek explains this process:\
-\
+Kherbek explains this process:
+
 1. People rent out surplus rooms and apartments on Airbnb.
 
-2\. As there is usually more money to be made on Airbnb than with
+2. As there is usually more money to be made on Airbnb than with
 traditional rental agreements, more and more living space is offered on
 the platform, leading to a decrease in availability of traditional
 housing and a consequential increase in rent prices as supply shortens.
 
-3\. The extra income from Airbnb lets the hosts keep up with rising costs
+3. The extra income from Airbnb lets the hosts keep up with rising costs
 of living (for example: rent) as wages continue to stagnate, which
 creates a dependency.
 
-4\. This leads to pressure on people to participate in the secondary
-housing market (Airbnb) in order to keep up and survive.\
-\
+4. This leads to pressure on people to participate in the secondary
+housing market (Airbnb) in order to keep up and survive.
+
 Kherbek argues that, while this process is commonly called platform
 capitalism, the situation is actually closer to feudalism than to
 capitalism (even if capitalism is the outcome). Big tech companies
@@ -539,8 +528,8 @@ refusal to take part in the system becomes increasingly penalized
 through social and financial pressure, as demonstrated in the Airbnb
 example. Under techno-feudalism the few own the property the many have
 to live on, and the data enclosed in the walled garden of the cloud is
-the pasture from the tragedy of the commons.[^08chapter5_41]\
-\
+the pasture from the tragedy of the commons.[^08chapter5_41]
+
 In a similar vein, Silvio Lorusso argues that we can apply the logic of
 labor to the digital and that there are no class-less computers[^08chapter5_42]:
 there are coders[^08chapter5_43] and there are users[^08chapter5_44] (or hackers and
@@ -552,8 +541,8 @@ who states that in an ideal world, ordinary users shouldn't \[have to\]
 know what drivers or patches are. Similarly, in his 2018 book *The New
 Dark Age* the artist and writer James Bridle claims we shouldn't need to
 know how to code in order to use a computer, after all we don't need to
-understand plumbing to use the toilet.[^08chapter5_46]\
-\
+understand plumbing to use the toilet.[^08chapter5_46]
+
 When we squatted Hotel Mokum, we didn't know anything[^08chapter5_47] about
 plumbing, which was a problem because the building didn't have a toilet
 (or water pipes), so we needed to build one. However, a lot of the more
@@ -566,8 +555,8 @@ would be more *professional* than the rest of us), it also carries a
 liberating sentiment. While these practical skills might be vital for
 activism, they are not a requirement. In the right environments, we can
 pick them up along the way. The labor is liberated from class—you don’t
-need to be a plumber to plumb.\
-\
+need to be a plumber to plumb.
+
 Lorusso writes that the problem might not be illiteracy, but that
 instead it's about the ability to define our own behavioral patterns.
 Constant imposed driver and system updates often disrupt these (the
@@ -579,8 +568,8 @@ the situation is something central to the squatting movement. In their
 book, Architecture of Appropriation pose that unscripted and collective
 spatial tactics used by squatters to transform the spaces they inhabit
 have left behind a spatial heritage that still speaks of the desire to
-put the right to *live* above the right to own (private) property.[^08chapter5_48]\
-\
+put the right to *live* above the right to own (private) property.[^08chapter5_48]
+
 If there is anything to learn from the world of squatting when building
 a digital practice, it is not about a literal translation of the concept
 of occupation from the physical to the virtual,[^08chapter5_49] but it is about
@@ -606,55 +595,56 @@ they shape them to their likings over long periods of time. They know
 and avoid the tourist traps. They have neighborhoods, and they have
 neighbors. Neighbors that can hopefully help them fix their toilets.
 
-![A diagram of a toilet AI-generated content may be
-incorrect.](media/image10.png){width="3.6050656167979in"
-height="2.987179571303587in"}\
-*fig. 7.1: It’s not rocket science*\
-\
+![*fig. 7.1: It’s not rocket science*](imgs/05.10.png)
+
+<br/>
+
 Appendix: Incomplete and Unordered List of Reasons to Refuse *The Cloud*
 
-Workers in the Global South are being exploited and our devices are
+- Workers in the Global South are being exploited and our devices are
 assembled by modern day slaves.
 
-Rare metals like cobalt, essential for lithium batteries, are extracted
+- Rare metals like cobalt, essential for lithium batteries, are extracted
 under horrible conditions and, among others, by children.
 
-Other metals, like lithium, are extracted from indigenous lands without
+- Other metals, like lithium, are extracted from indigenous lands without
 consent or regard for the environment.
 
-E-Waste is polluting the planet and is being dumped in landfills without
+- E-Waste is polluting the planet and is being dumped in landfills without
 regulations in the global south, poisoning both the lands and the
 people.
 
-Tech companies are constantly spying on us through our devices. The
+- Tech companies are constantly spying on us through our devices. The
 right to privacy is being eroded.[^08chapter5_52]
 
-This information is passed on to government agencies and the
+- This information is passed on to government agencies and the
 surveillance state is being facilitated.
 
-Social media companies profit from radicalization, and a divided
+- Social media companies profit from radicalization, and a divided
 political landscape, fake news, disconnected filter bubbles and rabbit
 holes are not by-products but part of the product.
 
-The internet, and most devices we carry in our pockets, like smart
+- The internet, and most devices we carry in our pockets, like smart
 phones, are developed from US military technology.
 
-Tech is a race to the brain stem. Some of the most educated people in
+- Tech is a race to the brain stem. Some of the most educated people in
 the world put all their energy into selling us ads. Thinking we could
 resist the machinery is like thinking we could win against a super
 computer in chess.
 
-It's addictive on purpose. At places like the Stanford Persuasive
+- It's addictive on purpose. At places like the Stanford Persuasive
 Technology Lab people have been trained to specifically find ways of
 persuading users to change their behavior through digital stimuli like
 rewards.
 
-Big companies that have incomprehensible terms and conditions instead of
+- Big companies that have incomprehensible terms and conditions instead of
 constitutions can censor users without any form of accountability or
-oversight.\
-\
+oversight.
+
 *fig. AP.1: The terms cloud is a bit of a stand-in for everything wrong
 with the internet, in this case*
+
+***Lukas Engelhardt (Hamburg, 1991)** is a graphic designer in Amsterdam. He is interested in the aesthetics of autonomy: the way it looks and feels, the way we talk about it, the groups and individuals who struggle for it – and the tactics, terms and conditions necessary to create and maintain it, online as well as offline. He's part of the Amsterdam-based publishing collective Spookstad that emerged from the housing struggle and promotes direct emancipatory action runs the graphic design studio Correspondence with Justus Gelberg in Berlin.*
 
 [^08chapter5_1]: Bobby Johnson, “Cloud computing is a trap, warns GNU founder
     Richard Stallman”, *The Guardian*, September 29, 2008,

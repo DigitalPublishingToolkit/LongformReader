@@ -1,0 +1,947 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?aid style="50" type="snippet" readerVersion="6.0" featureSet="513" product="8.0(370)" ?>
+<?aid SnippetType="InCopyInterchange"?>
+<Document DOMVersion="8.0" Self="pandoc_doc">
+    <RootCharacterStyleGroup Self="pandoc_character_styles">
+      <CharacterStyle Self="$ID/NormalCharacterStyle" Name="Default" />
+      <CharacterStyle Self="CharacterStyle/" Name="">
+        <Properties>
+          <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
+        </Properties>
+      </CharacterStyle>
+      <CharacterStyle Self="CharacterStyle/Bold" Name="Bold" FontStyle="Bold">
+        <Properties>
+          <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
+        </Properties>
+      </CharacterStyle>
+      <CharacterStyle Self="CharacterStyle/Bold Italic" Name="Bold Italic" FontStyle="Bold Italic">
+        <Properties>
+          <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
+        </Properties>
+      </CharacterStyle>
+      <CharacterStyle Self="CharacterStyle/Cite" Name="Cite">
+        <Properties>
+          <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
+        </Properties>
+      </CharacterStyle>
+      <CharacterStyle Self="CharacterStyle/Italic" Name="Italic" FontStyle="Italic">
+        <Properties>
+          <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
+        </Properties>
+      </CharacterStyle> 
+    </RootCharacterStyleGroup>
+    <RootParagraphStyleGroup Self="pandoc_paragraph_styles">
+      <ParagraphStyle Self="$ID/NormalParagraphStyle" Name="$ID/NormalParagraphStyle"
+          SpaceBefore="6" SpaceAfter="6"> <!-- paragraph spacing -->
+        <Properties>
+          <TabList type="list">
+            <ListItem type="record">
+              <Alignment type="enumeration">LeftAlign</Alignment>
+              <AlignmentCharacter type="string">.</AlignmentCharacter>
+              <Leader type="string"></Leader>
+              <Position type="unit">10</Position> <!-- first tab stop -->
+            </ListItem>
+          </TabList>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Caption" Name="Caption" LeftIndent="0">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Figure" Name="Figure" LeftIndent="0">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Footnote &gt; Paragraph" Name="Footnote &gt; Paragraph" LeftIndent="0">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Header1" Name="Header1" LeftIndent="0" PointSize="36">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Header2" Name="Header2" LeftIndent="0" PointSize="30">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Header3" Name="Header3" LeftIndent="0" PointSize="24">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Paragraph" Name="Paragraph" LeftIndent="0">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle> 
+    </RootParagraphStyleGroup>
+    <RootTableStyleGroup Self="pandoc_table_styles">
+      <TableStyle Self="TableStyle/Table" Name="Table" />
+    </RootTableStyleGroup>
+    <RootCellStyleGroup Self="pandoc_cell_styles">
+      <CellStyle Self="CellStyle/Cell" AppliedParagraphStyle="ParagraphStyle/$ID/[No paragraph style]" Name="Cell" />
+    </RootCellStyleGroup>
+  <Story Self="pandoc_story"
+      TrackChanges="false"
+      StoryTitle=""
+      AppliedTOCStyle="n"
+      AppliedNamedGrid="n" >
+    <StoryPreference OpticalMarginAlignment="true" OpticalMarginSize="12" />
+
+<!-- body needs to be non-indented, otherwise code blocks are indented too far -->
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header1">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Becoming and Unbecoming – Eastern European Girlhood Online</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Salome Berdzenishvili</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Originally published April 23rd, 2025</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>I want to trace the shift of girlhood in Eastern Europe, of girls who were born in politically and culturally turbulent post-soviet 90s and early 2000s, the turbulency that later on found itself locked and frozen in the memes, cloaked in soft-edged irony on Tumblr, Instagram, and TikTok.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>But before entering this particular </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Girlcore</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, I want to start with the algorithmic detours.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Figure">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Rectangle Self="uec" StrokeWeight="0" ItemTransform="1.00000 0 0 1.00000 150.00000 -40.12500">
+      <Properties>
+        <PathGeometry>
+          <GeometryPathType PathOpen="false">
+            <PathPointArray>
+              <PathPointType Anchor="-150.00000 -40.12500" LeftDirection="-150.00000 -40.12500" RightDirection="-150.00000 -40.12500" />
+              <PathPointType Anchor="-150.00000 40.12500" LeftDirection="-150.00000 40.12500" RightDirection="-150.00000 40.12500" />
+              <PathPointType Anchor="150.00000 40.12500" LeftDirection="150.00000 40.12500" RightDirection="150.00000 40.12500" />
+              <PathPointType Anchor="150.00000 -40.12500" LeftDirection="150.00000 -40.12500" RightDirection="150.00000 -40.12500" />
+            </PathPointArray>
+          </GeometryPathType>
+        </PathGeometry>
+      </Properties>
+      <Image Self="ue6" ItemTransform="1.00000 0 0 1.00000 -150.00000 -40.12500">
+        <Properties>
+          <Profile type="string">
+            $ID/Embedded
+          </Profile>
+        </Properties>
+        <Link Self="ueb" LinkResourceURI="file:imgs/16.1.png" />
+      </Image>
+    </Rectangle>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Caption">
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>I type #soviet, #postsoviet, #easterneurope, #easternbloc in the search engine on Instagram, whilst the platform takes me to a temporal limbo of brutalist and socialist-modernist architecture, prevailing in Eastern European countries. The more I scroll, the more this visual field is dominated by dimly lit Eastern European Khruschyovka apartment blocks, where the moodboard centers around the shades of grey, faded blue, and dark brown, lullied by Molchat Doma’s (literally) any track.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Or I find myself in front of dystopian-looking bus stop in the middle of nowhere flirting with Tarkowskian cinematography, the caption luring me into buying a paper edition of </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Soviet Bus Stops Vol. 1, Vol. 2</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, and another collection titled </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Soviet Metro Stations</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>I am pretty sure I don’t need it. In fact, I’ve had enough. Although the fun part for potential customers is the caption promising them edition box sets, prints, and LP soundtrack, except for some reason, the deal does not specify what kind of soundtrack is actually included. I wonder which sound would go well with Soviet Metro stations and bus stops, and continue scrolling, next stop being an educational Instagram page curating ANYthing Soviet, ranging from communist posters to Russian prima ballerina’s Irina Kolpakova’s performance in Leningrad, in 1972, from Soviet color TV sets to a random photograph of a person standing next to a LADA in Kaliningrad, 1982. It’s all arbitrary. The page is trying to sell communist-coded T-shirts for 30 euros each, with the USSR logo printed on them.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Figure">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Rectangle Self="uec" StrokeWeight="0" ItemTransform="1.00000 0 0 1.00000 150.00000 -100.00000">
+      <Properties>
+        <PathGeometry>
+          <GeometryPathType PathOpen="false">
+            <PathPointArray>
+              <PathPointType Anchor="-150.00000 -100.00000" LeftDirection="-150.00000 -100.00000" RightDirection="-150.00000 -100.00000" />
+              <PathPointType Anchor="-150.00000 100.00000" LeftDirection="-150.00000 100.00000" RightDirection="-150.00000 100.00000" />
+              <PathPointType Anchor="150.00000 100.00000" LeftDirection="150.00000 100.00000" RightDirection="150.00000 100.00000" />
+              <PathPointType Anchor="150.00000 -100.00000" LeftDirection="150.00000 -100.00000" RightDirection="150.00000 -100.00000" />
+            </PathPointArray>
+          </GeometryPathType>
+        </PathGeometry>
+      </Properties>
+      <Image Self="ue6" ItemTransform="1.00000 0 0 1.00000 -150.00000 -100.00000">
+        <Properties>
+          <Profile type="string">
+            $ID/Embedded
+          </Profile>
+        </Properties>
+        <Link Self="ueb" LinkResourceURI="file:imgs/16.2.png" />
+      </Image>
+    </Rectangle>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Caption">
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>I am stuck on the platform. And the platform is always in flux, continuously redifining lived experiences as residues from the past. I am drawn to </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>ugly, dysfunctional and hysterical,</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> and I want to see my stance as a point of departure.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The Soviet past is ugly because of how I think of the 90s, full of poverty, gruesomeness and the intensified instinct of survival. Whether through revolutions or wars in some post-soviet countries, or through standing in the endless queues for bread, or celebrating rare moments when electricity and gas would return, the ugliness lies in what we were left with after the system fed off itself, and when it was no longer forever.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>It is dysfunctional because of its very infrastructure: multi-storey apartment blocks and the coin-operated elevators built in Soviet times are spaces that are now crumbling, and this infrastructural breakdown is dysfunctional and fragile. There is a Soviet</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Georgian film shot in 1984, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Blue Mountains</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>or</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>an Unbelievable Story</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, which follows a young author battling with Soviet bureaucracy trying to publish his novel, just to find himself neglected every time he goes to the publishing house. One of the key scenes of the film centers around an elevator that often needs to be fixed, people get trapped inside, that then forces them to wait for a technician to come, and the wait becomes a story.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>This is to say that metaphorically, the bureaucratic failures of the late Soviet state mirrors the dysfunctionalities and flaws of living experiences. However, the contrast between the material and digital representations of either abandoned or malfunctioned infrastructure is that the </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Digital</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> does not disguise itself as order. Instead, it pretends it is on stage, continuously failing itself, and the failing here becomes an ultimate script. The infrastructure crumblessness is then intentional, aestheticised.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>This is hysterical.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Because it insists for being explicit in nature, something grand. Brutalist architecture within the Soviet paradigm often mirrors this insistence: 8-to-15-storey buildings, generic in colour which is, in most cases, grey like a concrete. Their roofs are also quite utopian, as they overlook the landscape of other twin-like building blocks built in a certain trajectory. This reminds me of 2007 film </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>4 Months, 3 Weeks and 2 Days,</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> about two girls trying to get an illegal abortion in communist Romania, the film being full of memory souvenirs and soviet interior from the late days of the Ceausescu era, or a 2002 film </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Lilya 4ever,</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> about Lilya and her friend, Volodya, living in Russia, fantasizing about a better life.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Here, the main plot-twist scene happens on the roof, when they stare across the foggy Silent-Hill-mooded landscape, as a getaway from the living reality. This is hysterical because it screams the endlessness of brutalism, sad in nature, and syncs well with T.a.t.u girls singing „They Won’t Catch Us“, running away in a snowstorm while being on a crumbling car.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Girls</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>I am drawn to these because they are familiar and familial, and I continue scrolling. I type #easterneuropeangirl, #easternbloc, #postsovietigirl in the search bar.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Doing the same thing on Youtube firstly takes me to the video, with a caption: „Do You Want a Central/Eastern European Girl Woman?</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Figure">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Rectangle Self="uec" StrokeWeight="0" ItemTransform="1.00000 0 0 1.00000 768.00000 -181.50000">
+      <Properties>
+        <PathGeometry>
+          <GeometryPathType PathOpen="false">
+            <PathPointArray>
+              <PathPointType Anchor="-768.00000 -181.50000" LeftDirection="-768.00000 -181.50000" RightDirection="-768.00000 -181.50000" />
+              <PathPointType Anchor="-768.00000 181.50000" LeftDirection="-768.00000 181.50000" RightDirection="-768.00000 181.50000" />
+              <PathPointType Anchor="768.00000 181.50000" LeftDirection="768.00000 181.50000" RightDirection="768.00000 181.50000" />
+              <PathPointType Anchor="768.00000 -181.50000" LeftDirection="768.00000 -181.50000" RightDirection="768.00000 -181.50000" />
+            </PathPointArray>
+          </GeometryPathType>
+        </PathGeometry>
+      </Properties>
+      <Image Self="ue6" ItemTransform="1.00000 0 0 1.00000 -768.00000 -181.50000">
+        <Properties>
+          <Profile type="string">
+            $ID/Embedded
+          </Profile>
+        </Properties>
+        <Link Self="ueb" LinkResourceURI="file:imgs/16.3.png" />
+      </Image>
+    </Rectangle>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Caption">
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The video has 9 parts. It opens with an introduction, stating that this video is going to be about Central/Eastern Europeans as a group with similarities“, and continues with defining what a </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>passport bro</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Passport bro is a neologism coined to describe Western men who date or marry women from developing countries</Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> is. The narrative here takes a form of how-to manual for men fantasizing about women, who, and I quote: „still possess the core values that have been abandoned by the West womenhood, that being these women wanting to cook for men, to pamper them, to make them feel like they are the king of the household. At the same time, they are gorgeous, they take care of themselves, they cook in the kitchen while looking like runway models“. One of his tips for getting „Eastern European women girls“ is to be genuine: „they don’t like masks, they have been raised by fathers and mothers that have been as direct as it comes, okay?“.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The heteronormative, manosphere-driven presuppositions of what an Eastern European „girl woman“, to cite Vigo’s Dad, stands for, is a classic dollified imagery for the latter. On a last note, the author finishes his video with the most relevant twist to the story, which is, to have patience towards them, „because sometimes they tend to be explosive“, and due to this, men should enter the stage to maintain endurance and tolerance. He continues by giving a short lecture on the culture in Eastern and Central Europe being stoic – that women here tend to be tough, which he calls a generational trauma. This interpretation sillifies the matter at hand, and misreads both stoicism and trauma. To reduce the complexity of Eastern and Central European womanhood to trauma that must be “handled” or “waited out” by male patience is not only patronizing, but also erases the radically different historical trajectories and lived experiences that shaped these regions throughout the 20th century. Moreover, to homogenise these experiences under the guise of generational damage decontextualises history and further reinforces a gendered colonial gaze.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>But this essay is not a history lesson.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>I want to go back to the dollified gaze that is created by certain male community towards Eastern European women. I argue that there is a sharp difference between manosphere’s built-in-Disneyland imagery towards women in general, and the specific fantasy they construct around „Eastern European women girls“. The difference is that here, the fantasy towards the East is a bit </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>tilted</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>: these women are a bit dysfunctional, because they might be of </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>an explosive nature</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>. They are </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>a bit out of order</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, just like Soviet elevators. Furthermore, the need to be patient with them implies that these women are in need of fixing or rescuing. Yet, fixing here is framed not as a tool to change something in women, but as an opportunity for men to demonstrate their enduring qualities. And change for these women is not necessary because, being </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>just a bit out of it</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> is part of the fantasy.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>This commodification of invented womenhood, especially by this certain gaze, frames her as a mere function. Heather Warren-Crow works with an understanding of girlhood as an idea of mobility preceding the fixity of womanhood and implying an unfinished process of personal development.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Girlhood is, perhaps, a state of unfinishedness, unfinishedness and placticity that is both precondition and a product of becoming. Becoming then, happens through stories, relationality between those stories, elasticity, flexibility, morphing, destruction, and reinvention.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Figure">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Rectangle Self="uec" StrokeWeight="0" ItemTransform="1.00000 0 0 1.00000 288.00000 -100.50000">
+      <Properties>
+        <PathGeometry>
+          <GeometryPathType PathOpen="false">
+            <PathPointArray>
+              <PathPointType Anchor="-288.00000 -100.50000" LeftDirection="-288.00000 -100.50000" RightDirection="-288.00000 -100.50000" />
+              <PathPointType Anchor="-288.00000 100.50000" LeftDirection="-288.00000 100.50000" RightDirection="-288.00000 100.50000" />
+              <PathPointType Anchor="288.00000 100.50000" LeftDirection="288.00000 100.50000" RightDirection="288.00000 100.50000" />
+              <PathPointType Anchor="288.00000 -100.50000" LeftDirection="288.00000 -100.50000" RightDirection="288.00000 -100.50000" />
+            </PathPointArray>
+          </GeometryPathType>
+        </PathGeometry>
+      </Properties>
+      <Image Self="ue6" ItemTransform="1.00000 0 0 1.00000 -288.00000 -100.50000">
+        <Properties>
+          <Profile type="string">
+            $ID/Embedded
+          </Profile>
+        </Properties>
+        <Link Self="ueb" LinkResourceURI="file:imgs/16.4.png" />
+      </Image>
+    </Rectangle>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Caption">
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>In this essay, I understand digital girlhood formed and constituted by Eastern Europe as not necessarily a dominant digital self-representation but a </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>fragmented girliness </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>that centers around the peripheries of implicit or explicit understandings on how to be a girl online, and how to perform this discourse. This particular girliness is fragmented because it draws from disconnected, often contradictory cultural and digital discourses.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>For example, in 2023, a Russian song from the 2000s, “Moy Marmeladny” (My Marmalade), went viral on TikTok and Instagram, serving #EasternEuropeanGirlCore, with an emphasis on Slavic-ness, often accompanied by girls wearing slavic fur hats and fur coats in the wintry weather while lip-syncing to the lyrics. Yet, for me and other Georgians, the song’s resurgence was unsettling. In the context of Russia’s centuries-long bloody colonial history toward Georgia, this seemingly innocent trend carried a weight of historical and political significance. The next thing I see is a Georgian content creator, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Cite">
+    <Content>@foxy</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>_eleniko taking a similar video, but with a plot twist: the soundtrack was accompanied by a footage of the Russian invasion.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Figure">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Rectangle Self="uec" StrokeWeight="0" ItemTransform="1.00000 0 0 1.00000 690.79720 -399.27273">
+      <Properties>
+        <PathGeometry>
+          <GeometryPathType PathOpen="false">
+            <PathPointArray>
+              <PathPointType Anchor="-690.79720 -399.27273" LeftDirection="-690.79720 -399.27273" RightDirection="-690.79720 -399.27273" />
+              <PathPointType Anchor="-690.79720 399.27273" LeftDirection="-690.79720 399.27273" RightDirection="-690.79720 399.27273" />
+              <PathPointType Anchor="690.79720 399.27273" LeftDirection="690.79720 399.27273" RightDirection="690.79720 399.27273" />
+              <PathPointType Anchor="690.79720 -399.27273" LeftDirection="690.79720 -399.27273" RightDirection="690.79720 -399.27273" />
+            </PathPointArray>
+          </GeometryPathType>
+        </PathGeometry>
+      </Properties>
+      <Image Self="ue6" ItemTransform="1.00000 0 0 1.00000 -690.79720 -399.27273">
+        <Properties>
+          <Profile type="string">
+            $ID/Embedded
+          </Profile>
+        </Properties>
+        <Link Self="ueb" LinkResourceURI="file:imgs/16.5.png" />
+      </Image>
+    </Rectangle>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Caption">
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>When observing different social media platforms, it is often noticeable that Eastern European girliness is mostly framed through Slavic lens, which then focuses on shared stereotypical tropes of Slavic femininity, precisely, pale skin, thin bodies, greyness, whiteness, white, white, white. There is a dissonance in relating to this aesthetic. By subsuming Eastern European digital girlhood into a singular Slavic identity risks overshadowing the nuances of other Eastern European countries that are not part of Slavic culture. “Doing Eastern European girlhood” on the internet in a Slavic way is not that much resisted through memes or other visual content, but it is commodified and reproduced, almost like a default. This generates a confusing mix of cultural tropes drawn from disparate geographies and histories: if a Russiangirlcore with its elegant fur hats and fur coats, endless winter and song </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Moy Marmeladniy</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> is a dominant visual and affective representation of this particular girlhood online – does relating to this aesthetic mean I am playing into the image of the coloniser? Where is the boundary between identification and disidentification? Aesthetic pleasure and political unease?</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Figure">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Rectangle Self="uec" StrokeWeight="0" ItemTransform="1.00000 0 0 1.00000 326.26573 -234.62937">
+      <Properties>
+        <PathGeometry>
+          <GeometryPathType PathOpen="false">
+            <PathPointArray>
+              <PathPointType Anchor="-326.26573 -234.62937" LeftDirection="-326.26573 -234.62937" RightDirection="-326.26573 -234.62937" />
+              <PathPointType Anchor="-326.26573 234.62937" LeftDirection="-326.26573 234.62937" RightDirection="-326.26573 234.62937" />
+              <PathPointType Anchor="326.26573 234.62937" LeftDirection="326.26573 234.62937" RightDirection="326.26573 234.62937" />
+              <PathPointType Anchor="326.26573 -234.62937" LeftDirection="326.26573 -234.62937" RightDirection="326.26573 -234.62937" />
+            </PathPointArray>
+          </GeometryPathType>
+        </PathGeometry>
+      </Properties>
+      <Image Self="ue6" ItemTransform="1.00000 0 0 1.00000 -326.26573 -234.62937">
+        <Properties>
+          <Profile type="string">
+            $ID/Embedded
+          </Profile>
+        </Properties>
+        <Link Self="ueb" LinkResourceURI="file:imgs/16.6.png" />
+      </Image>
+    </Rectangle>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Caption">
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>There is a political discomfort to experiencing a digital girlhood. So then, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>who gets to call themselves a post-Soviet girl?</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Some visual representations of certain cultural tropes on the internet have an ability to swallow the peripheral, the micro. They are exclusionary of plurality of practices and images. I frame this Girlhood within this exclusionary aesthetic, however, while it renders certain aspects of Eastern Europeanism as invisible and marginal, it also constitutes something completely new.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>This is Where I Post From</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>“This” is a zero-point orientation here, the point from which the world unfolds, as Husserl would write, and then “this” and “that” start to matter. And there is a distance between them.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The fact that “I” am “there”, “posting”, is the starting point for my orientation in space.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>We post from grey and white, and fog, and #gloomy coquette, and #angelcore, and #grungecore, #wintercore, #slavicgirl and #sadgirl.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>And that’s the point of orientation, the “this” of a digital body, and “I” of its dwelling.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Figure">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Rectangle Self="uec" StrokeWeight="0" ItemTransform="1.00000 0 0 1.00000 584.55944 -180.75524">
+      <Properties>
+        <PathGeometry>
+          <GeometryPathType PathOpen="false">
+            <PathPointArray>
+              <PathPointType Anchor="-584.55944 -180.75524" LeftDirection="-584.55944 -180.75524" RightDirection="-584.55944 -180.75524" />
+              <PathPointType Anchor="-584.55944 180.75524" LeftDirection="-584.55944 180.75524" RightDirection="-584.55944 180.75524" />
+              <PathPointType Anchor="584.55944 180.75524" LeftDirection="584.55944 180.75524" RightDirection="584.55944 180.75524" />
+              <PathPointType Anchor="584.55944 -180.75524" LeftDirection="584.55944 -180.75524" RightDirection="584.55944 -180.75524" />
+            </PathPointArray>
+          </GeometryPathType>
+        </PathGeometry>
+      </Properties>
+      <Image Self="ue6" ItemTransform="1.00000 0 0 1.00000 -584.55944 -180.75524">
+        <Properties>
+          <Profile type="string">
+            $ID/Embedded
+          </Profile>
+        </Properties>
+        <Link Self="ueb" LinkResourceURI="file:imgs/16.7.png" />
+      </Image>
+    </Rectangle>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Caption">
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Fredrika Thelandersson defines “sad girl” as a “young woman who is unashamed of her emotional life and who fearlessly acts out her pain for others to see”. Is posting “This is Where I Post From” acting out on the pain of the architecture? Is it a way to declare, “This is where I become legible?”, “This is where I suffer and remember?” Just like similar to Vidler’s analysis on Poe’s “The House of Ushers”: “the site was desolate. The walls blank and almost literally“faceless”, its windows “eye-like” but without life – “vacant”, the socialist modernist building blocks follow the same trajectory. On top of it, they are an archive of memory and tradition, embodied in their walls and objects. Yet, the latter is not a memory-driven archive in its nature, but it is a memory as performance. Through girl-coded mythmaking, it mourns something through image, becomes vacant and devoid of any empirical memory and history the moment it is decontextualised in the digital space. This does not mean that such production is devoid of meaning, it’s quite the opposite: it becomes meaningful precisely as it enters the stage of sadness, taking the role of main character playing the sorrow. This sorrow is both commodified and reclaimed by Eastern European girlhood as a digitally mundane cultural experience of the melancholia.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>What this certain girlhood also reclaims, is appropriating Western girlhood on its own terms, and especially the West sadness embodied by a pop culture persona, such as Lana del Rey singing about female weakness and dependence in a way that makes it seem like she is enjoying it. Here, Lana del Rey is Svetlana del Rey, singing not Summertime Sadness but “Letnaya Pechalka” (Summertime Sadness in Russian).</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Figure">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Rectangle Self="uec" StrokeWeight="0" ItemTransform="1.00000 0 0 1.00000 295.50000 -211.00000">
+      <Properties>
+        <PathGeometry>
+          <GeometryPathType PathOpen="false">
+            <PathPointArray>
+              <PathPointType Anchor="-295.50000 -211.00000" LeftDirection="-295.50000 -211.00000" RightDirection="-295.50000 -211.00000" />
+              <PathPointType Anchor="-295.50000 211.00000" LeftDirection="-295.50000 211.00000" RightDirection="-295.50000 211.00000" />
+              <PathPointType Anchor="295.50000 211.00000" LeftDirection="295.50000 211.00000" RightDirection="295.50000 211.00000" />
+              <PathPointType Anchor="295.50000 -211.00000" LeftDirection="295.50000 -211.00000" RightDirection="295.50000 -211.00000" />
+            </PathPointArray>
+          </GeometryPathType>
+        </PathGeometry>
+      </Properties>
+      <Image Self="ue6" ItemTransform="1.00000 0 0 1.00000 -295.50000 -211.00000">
+        <Properties>
+          <Profile type="string">
+            $ID/Embedded
+          </Profile>
+        </Properties>
+        <Link Self="ueb" LinkResourceURI="file:imgs/16.8.png" />
+      </Image>
+    </Rectangle>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Caption">
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>During the Cold War, the Soviet Union created its own version of Winnie the Pooh—Vinni Pukh—a distinctly localized, animated bear that looked and behaved quite differently from his Disney counterpart. Characters were fashioned from Soviet Socialist Realist aesthetic, which meant that form should be subordinated to content. This was a soft-power move from the USSR to repurpose Western narratives through a distinctly Soviet lens. By no means am I comparing the Soviet Union politics with Digital girlhood, rather, I suggest that Eastern European girliness also filters and reimagines the Western pop-cultural canon by reclaiming the agency over narrative, aesthetics, and affect.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>When coining the term “Sad Girl Theory”, Audrey Wollen writes that the internalised suffering women experience should be categorized as an act of resistance. Although, the trope itself often risks falling into stereotypical terrains, as in representing primarily white bodies that are the genesis of digital depression and melancholia. Mooney, in her essay “Black Carefree Girls”, notes that even in case of resistance, the latter is emerged from the contours of affective legacies of whiteness. The affective legacies that Eastern European women inherit are not necessarily those of the Western liberal subject, but rather shaped by a melancholia that stems from being both inside and outside of Europeanness, of whiteness, of the West.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>And while being inbetween these social structures, Eastern European girlhood started to reclaim sadness as a normative cultural experience. Sensations of melancholia and nostalgia are merged with the Eastern European self. It is dirty and gore, but glorified and commodified, and most importantly, it is mundane.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Figure">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Rectangle Self="uec" StrokeWeight="0" ItemTransform="1.00000 0 0 1.00000 288.00000 -76.87500">
+      <Properties>
+        <PathGeometry>
+          <GeometryPathType PathOpen="false">
+            <PathPointArray>
+              <PathPointType Anchor="-288.00000 -76.87500" LeftDirection="-288.00000 -76.87500" RightDirection="-288.00000 -76.87500" />
+              <PathPointType Anchor="-288.00000 76.87500" LeftDirection="-288.00000 76.87500" RightDirection="-288.00000 76.87500" />
+              <PathPointType Anchor="288.00000 76.87500" LeftDirection="288.00000 76.87500" RightDirection="288.00000 76.87500" />
+              <PathPointType Anchor="288.00000 -76.87500" LeftDirection="288.00000 -76.87500" RightDirection="288.00000 -76.87500" />
+            </PathPointArray>
+          </GeometryPathType>
+        </PathGeometry>
+      </Properties>
+      <Image Self="ue6" ItemTransform="1.00000 0 0 1.00000 -288.00000 -76.87500">
+        <Properties>
+          <Profile type="string">
+            $ID/Embedded
+          </Profile>
+        </Properties>
+        <Link Self="ueb" LinkResourceURI="file:imgs/16.9.png" />
+      </Image>
+    </Rectangle>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Caption">
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>“It must be sunny at night and snowy in August” - Nostalghia, 1983 Andrei Tarkovsky</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Nostalgia works like memory; it is connected to passages, means of communication, and entangled with both remembrance and forgetting. When we remember, we risk losing parts of ourselves, as this comes with the danger of forgetting what once was. When we remember a time that is long lost, we might be trying to remember the time that has never existed, and we start yearning for it. Nostalgia is a longing sentiment for the loss and displacement, and it dwells in the past that is not connected to the present in a way that it is not confined to the time and space.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Nostalgia does not orient itself towards the future in cyberspaces, but works as a source of fantasy, where longing is not for the past as it was, but for the past it could have been. In this sense, nostalgia becomes imaginary. Imaginary, because it deals with the border zone between longing and reflection, a speculative lifeworld where desire and memory start to blur.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The dreamy and grey landscape of dystopian buildings do not come to life, but dwell in afterlife. Robert Bvurton writes in “Anatomy of Melancholy”, that he writes of melancholy by being busy to avoid melancholy. My relationship with Eastern European girlhood works the same way: I write about it in order to keep it at bay. But in this act of avoidance, I unintentionally reconstitute it. The very girlhood I try to escape is provoked  by remembering, stylizing, and theorizing.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Eastern European digital girlhood comes with its own particular architecture, which feels almost embedded within the platforms it portrays itself. It is not just about images, but also about atmospheres algorithmically repeated into a recognisable mood. Gloomy afternoons and foggy evenings without light or shadow, just gradients of grey. Small, cramped kitchen rooms steeped in cigarette smoke. Someone by the window, staring across all the identical buildings as if they were one. I have been there, I have felt that, but the romanticized and glorified part of the image production in digital spaces makes me displaced, not only because it’s oriented towards the Slavicness, but also because this type of melancholia and nostalgia it creates is overly consumable, public, and neat. It blurs the difference between being from a place and being styled after it. Its intention becomes sustaining a feeling that has been formed on the internet, and is reconstituted by the latter over and over again. So, this public feeling of nostalgia and constructed melancholia becomes part of a digital mythology this girlhood centers itself around: and it displaces some users, more than others.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>I feel the displacement on the internet and I still feel stuck on the platform, the nostalgia is painful but more painful is the realisation that I cannot leave this public, curated feeling. Because this particular girlhood, with all its beauty of low-pixel images and monochronic palette intimacy has become the place for imaginary selves that never fully got to be.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>This sub-cultural space becomes not just a playful memory-space, but a space for longing that is not tied to its origin.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>And if this is the case, if the algorithm recycles and memeifies accummulated knowledge of the past and present across post-Eastern Bloc and post-Soviet grounds, if it feeds users back their own imaginary or non-imaginary longings through thematic filters, through monetised melancholia and platform capitalism, then what kind of authorship is left? Do I take ownership over these longings, or does algorithm do it for me? Am I the one remembering or am I being remembered by the machine?</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>So, in this sense, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>what</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> gets to call itself a post-Soviet girl?</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Figure">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Rectangle Self="uec" StrokeWeight="0" ItemTransform="1.00000 0 0 1.00000 469.25874 -186.79720">
+      <Properties>
+        <PathGeometry>
+          <GeometryPathType PathOpen="false">
+            <PathPointArray>
+              <PathPointType Anchor="-469.25874 -186.79720" LeftDirection="-469.25874 -186.79720" RightDirection="-469.25874 -186.79720" />
+              <PathPointType Anchor="-469.25874 186.79720" LeftDirection="-469.25874 186.79720" RightDirection="-469.25874 186.79720" />
+              <PathPointType Anchor="469.25874 186.79720" LeftDirection="469.25874 186.79720" RightDirection="469.25874 186.79720" />
+              <PathPointType Anchor="469.25874 -186.79720" LeftDirection="469.25874 -186.79720" RightDirection="469.25874 -186.79720" />
+            </PathPointArray>
+          </GeometryPathType>
+        </PathGeometry>
+      </Properties>
+      <Image Self="ue6" ItemTransform="1.00000 0 0 1.00000 -469.25874 -186.79720">
+        <Properties>
+          <Profile type="string">
+            $ID/Embedded
+          </Profile>
+        </Properties>
+        <Link Self="ueb" LinkResourceURI="file:imgs/16.10.png" />
+      </Image>
+    </Rectangle>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Caption">
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The post-Soviet girl took inspiration from early 2000s Russian social media platform Odnoklassniki.ru, which, at its peak was a digital stage for public validation. Users would publish their pictures and rate each other. If you’d get 5+ stars (which required some payment), it meant that you were high in rating. Its initial aesthetics, and broadly, its visual culture was steeped in low-pixel gore. For girls, this often meant sitting against the backdrop of a wall-mounted carpet, biting a rose, or posing in front of fast housing blocks.  I remember it all being very muddy. This muddiness has now become a foundational aesthetic, just like a canon event for her. She does not care that she’s acting like a mermaid in the muddy water, she doesn’t need to explain it, because she’s from </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>there</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>. And this “</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>there</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>“ can be anything and anywhere, but that also does not matter, because the difference is already flattened, which became part of this aesthetic. Foggy weather tied to Eastern Europeanness helps to reinforce this homogeneity. It smoothes over the glitches, the bugs, the details that might localise, or individualise. So, she dissolves into mist.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>She is a chainsmoker, because what do you mean you were born in Eastern Europe and don’t smoke? Creative part about her is that she’s double-layered, she’s shy sometimes, but other times overly expressive, performative, even excessive. She loves Kafka, Dostoevsky, and all the existential male authors that suffered, again, existentially, because their pain feels like hers. Her girl dinner is coffee and cigarettes, chewing through thousand agonies of existence. She needs to make herself visible, to make herself valid.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>She knows a spot, but when she takes you there it’s all rust and concrete, and she’s obviously wearing Adidas tracksuit with white stripes, because that’s what she learnt from Slavic squatters.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Perhaps, this is all unfinished, and plastic. She ties herself to the past tropes of turbulent 90s and kitch 2000s, but she continues, mutates, and refabricates herself while aestheticising and commodifying the residue. She is also unbecoming, in that she resists finality. Aesthetically, she exists in the grey zone of fog and distortion, and in some ways, she is liminal, disorienting, always standing on the threshold. It is a loop of becoming and unbecoming that keeps Eastern European girlhood in motion, rather than in place.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>This is what gets to call itself a post-Soviet girl, anything or anyone that plays with the ill-fitting currated greyness, or concrete, or dampness on the Internet. It is not a memory from a traditional theoretical standpoint, but a memory that is continuously regenerated online. She becomes a memory-maker and digital rememberer of the past she might never have lived. And game is over.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Figure">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Rectangle Self="uec" StrokeWeight="0" ItemTransform="1.00000 0 0 1.00000 288.00000 -92.25000">
+      <Properties>
+        <PathGeometry>
+          <GeometryPathType PathOpen="false">
+            <PathPointArray>
+              <PathPointType Anchor="-288.00000 -92.25000" LeftDirection="-288.00000 -92.25000" RightDirection="-288.00000 -92.25000" />
+              <PathPointType Anchor="-288.00000 92.25000" LeftDirection="-288.00000 92.25000" RightDirection="-288.00000 92.25000" />
+              <PathPointType Anchor="288.00000 92.25000" LeftDirection="288.00000 92.25000" RightDirection="288.00000 92.25000" />
+              <PathPointType Anchor="288.00000 -92.25000" LeftDirection="288.00000 -92.25000" RightDirection="288.00000 -92.25000" />
+            </PathPointArray>
+          </GeometryPathType>
+        </PathGeometry>
+      </Properties>
+      <Image Self="ue6" ItemTransform="1.00000 0 0 1.00000 -288.00000 -92.25000">
+        <Properties>
+          <Profile type="string">
+            $ID/Embedded
+          </Profile>
+        </Properties>
+        <Link Self="ueb" LinkResourceURI="file:imgs/16.11.png" />
+      </Image>
+    </Rectangle>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Caption">
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold Italic">
+    <Content>Salome Berdzenishvili</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>is an affiliated researcher at the Institute of Network Cultures and a PhD researcher at the Leibniz Institute. Her research interests lie at the intersection of memory studies, digital cultures, post-socialist subjectivities, and feminist media practices.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+
+  </Story>
+  
+</Document>

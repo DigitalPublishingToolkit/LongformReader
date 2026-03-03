@@ -23,29 +23,11 @@ Rights: CC BY-NC 4.0
 
 ### Originally published January 19th, 2022
 
-![](media/image1.png){width="6.409027777777778in"
-height="0.8723403324584427in"}
+![](imgs/01.1.png)
 
-![](media/image2.png){width="6.409027777777778in"
-height="0.4320625546806649in"}
+<br/> 
 
-![](media/image3.png){width="6.5in" height="0.6979166666666666in"}
-
-![](media/image4.png){width="6.5in" height="0.5277777777777778in"}
-
-![](media/image5.png){width="6.5in" height="0.2951388888888889in"}
-
-![](media/image6.png){width="6.595744750656168in"
-height="0.5616262029746282in"}
-
-![](media/image7.png){width="6.372727471566054in"
-height="0.8326760717410324in"}
-
-![](media/image8.png){width="6.5in"
-height="1.2770833333333333in"}![](media/image9.png){width="6.5in"
-height="0.4486111111111111in"}![](media/image10.png){width="6.5in"
-height="0.61875in"}![](media/image11.png){width="6.5in"
-height="0.27152777777777776in"}Through screenshotting, computational
+Through screenshotting, computational
 devices such as computers and smartphones give us an easy way of
 preserving the contents of their screens for a myriad of purposes.
 Whether screenshotting serves a creative, documentational or even a
@@ -99,8 +81,8 @@ While Švelch's thesis accounts for a certain taxonomy of
 screen-capturing imagery, I am interested in downplaying screenshot's
 connection to photography to examine the specificity of vernacular
 practices of screenshotting. Susan Sontag notices in her essay ‘The
-Image-World’ that “*when the notion of reality changes, so does that of
-the image, and vice versa.*[^04chapter1_3]*” *Bearing that in mind, studying the
+Image-World’ that “when the notion of reality changes, so does that of
+the image, and vice versa.[^04chapter1_3]*” *Bearing that in mind, studying the
 screenshot might reveal the nuances of our changed, ubiquitously
 screened (sense of) reality and how this peculiar image and image-making
 practice inserts itself into it or is otherwise producing it.
@@ -119,8 +101,9 @@ the final form of the image. In that sense, they ontologically and
 aesthetically more resemble the futuristic fantasies of capturing the
 images directly with our eyes.
 
-![](media/image12.png){width="5.54623687664042in"
-height="3.9244356955380577in"}
+![](imgs/01.2.png)
+
+<br/> 
 
 ## TRANSPARENT MEDIATION, NETWORKED AUTHORSHIP
 
@@ -202,9 +185,9 @@ in those instances not permitted to take a screenshot, and their
 image-making practices of the screen are subjected to what they don’t
 see being programmed.
 
-![](media/image13.png){width="4.7in" height="2.644753937007874in"}
+![non-screenshot of Sans Soleil (Chris Marker, 1983), MUBI](imgs/01.3.png)
 
-non-screenshot of Sans Soleil (Chris Marker, 1983), MUBI
+<br/> 
 
 Without any speculation on how the screenshot might develop in terms of
 its expansion of affordances that allow for the greater agency of the
@@ -276,9 +259,9 @@ parameters are based on the selection and appropriation of what is
 already there, and in such a way that presumes an instant transformation
 of the 'raw' visual material into a barely mediated image.
 
-![A screenshot of a phone AI-generated content may be
-incorrect.](media/image14.png){width="6.5in"
-height="1.9131944444444444in"}
+![](imgs/01.4.png)
+
+<br/> 
 
 ## AND SO THE NEW AESTHETICIST SCREENSHOTS…
 
@@ -362,11 +345,9 @@ Shots’ in which he “use\[d\] selections of online media to create
 unexpected combinations that are finalized into a single
 screenshot.[^04chapter1_18]”
 
-![Close-up of a computer screen AI-generated content may be
-incorrect.](media/image15.png){width="5.381583552055993in"
-height="3.360614610673666in"}
+![](imgs/01.5.png)
 
-## 
+<br/> 
 
 ## UNCANNILY INTACTILE
 
@@ -404,8 +385,9 @@ frustration and anxiety we encounter when our computers freeze and
 become inoperable, shining the light on the amount of dependency and
 powerlessness we experience in those moments.
 
-![](media/image16.png){width="4.986297025371829in"
-height="3.118758748906387in"}
+![](imgs/01.6.png)
+
+<br/> 
 
 The other names for screenshot, including screengrab, according to
 Frosh, point to screenshot’s tactility through its becoming an object to
@@ -464,8 +446,9 @@ and appropriation, the purpose of the NFT also might be read as a
 response to it, seeking to preserve the intended (market) value of the
 artwork.
 
-![](media/image17.png){width="4.423245844269466in"
-height="2.275475721784777in"}
+![](imgs/01.7.png)
+
+<br/> 
 
 The screenshot was already connected to Hito Steyerl’s concept of ‘poor
 image’[^04chapter1_27] by Švelch that generates in digital environments and is
@@ -564,8 +547,9 @@ preserve the instant of the fluid digital environment (that is also
 composed of other people and not only machines) and leverage or abuse
 that evidence to their liking.
 
-![](media/image18.png){width="2.5887040682414697in"
-height="2.5394739720034996in"}
+![](imgs/01.8.png)
+
+<br/> 
 
 Though the power of screenshots can be present and very significant as a
 catalysator of such extreme cases, it is also a fundamental part of much
@@ -599,16 +583,11 @@ the screenshot exists as a covert and simplified symptom of the complex
 web of relations users are subjected to in their everyday
 ‘time-wasting’.
 
-![](media/image19.png){width="3.1315791776027995in"
-height="2.1670122484689416in"}
+![](imgs/01.9.png)
 
-***Dunja Nešović** is a recent graduate of the RMA programme in Critical
-Studies in Art and Culture at Vrije Universiteit Amsterdam. Having a
-background in film production and theory, she complemented her passion
-for audiovisual culture with media studies theories and perspectives
-that allow for inspecting the pervasive and everyday uses of technology.
-Her most recent research interests comprised of inspecting digitally
-created and mediated notions of visibility, identity, and sociality.*
+<br/> 
+
+***Dunja Nešović*** *is a PhD Candidate in Communication Studies at Concordia University in Montréal/Tiohtià:ke and a Lab Coordinator/Research Assistant at the Digital Intimacy, Gender, and Sexuality Lab. Dunja's research broadly encompasses investigating digital media aesthetics and interfaces, with her current doctoral inquiry focusing on the mediation of lesbian desire in a convergent digital media environment. As a researcher, curator and editor, she collaborated with the Institute of Network Cultures (Amsterdam, NL), Tijdschrift Kunstlicht (Amsterdam, NL), Screen Walks (Photographer's Gallery in London and Fotomuseum Winterthur) and IMPAKT Festival (Utrecht, NL).*
 
 [^04chapter1_1]: https://www.fotomuseum.ch/de/2019/07/05/screen-selfies-and-high-scores/
 

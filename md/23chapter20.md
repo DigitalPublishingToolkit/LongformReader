@@ -17,11 +17,11 @@ Rights: CC BY-NC 4.0
 ...
 
 
-# Drown Your Laptop: On Office Sirens, Working from Home, and Aesthetics of Refusal
+#Drown Your Laptop: On Office Sirens, Working from Home, and Aesthetics of Refusal
 
-## Agnieszka Wodzińska
+##Agnieszka Wodzińska
 
-## Originally published on September 9th, 2024
+###Originally published on September 9th, 2024
 
 *Summer came and went. I realised I had spent just as much time being
 outside as I did watching others be outside. On TikTok, I came across
@@ -32,10 +32,10 @@ seasonal, standard, maybe predictable. But then I spotted another genre,
 one much more surprising and enigmatic: people on laptops and taking
 calls in the sea.*
 
-![A screenshot of a phone AI-generated content may be
-incorrect.](media/image1.png){width="6.268055555555556in"
-height="5.764583333333333in"}TikToks posted by users ggabrielaa\_98 &
-llumitatiana
+![TikToks posted by users ggabrielaa_98 &
+llumitatiana](imgs/20.1.png)
+
+<br/>
 
 I was immediately drawn to these visuals of seemingly self-aware and
 slightly unhinged performances of office diligence, set outdoors to the
@@ -50,7 +50,7 @@ online trends, but also gender performativity, corporate culture, and
 even environmentalism. To do this, first we must consider the following:
 who is the office siren, and what on Earth is she doing?
 
-## The Office Siren Emerges
+##The Office Siren Emerges
 
 It is not easy to pinpoint which user first started posting this kind of
 content. Bigger creators always have an easier time claiming that fame.
@@ -71,10 +71,10 @@ Bayonetta often shows up as a reference, with her signature black-framed
 glasses and long dark hair. Characters from films like *The Devil Wears
 Prada* (2006) and *Charlie’s Angels* (2000) also make appearances.
 
-![A person in a leather dress and a group of men in suits AI-generated
-content may be incorrect.](media/image2.jpg){width="6.268055555555556in"
-height="2.6118055555555557in"}Still from Charlie’s Angels (2000) with
-Lucy Liu in the centre, dir. Joseph McGinty Nichol
+![Still from Charlie’s Angels (2000) with Lucy Liu in the centre, dir. Joseph McGinty Nichol
+](imgs/20.2.jpg)
+
+<br/>
 
 One text-post from TikTok describes the style as: 'sleek, feminine,
 professional'; 'Samantha Jones from Sex and the City,' 'feminine, sexy,
@@ -110,8 +110,8 @@ The office siren aesthetic stirs up conversations around authenticity –
 *these people don’t even work in an office!* – and femininity in the
 workplace, with HR workers 'reviewing' office siren posts to share
 whether they would get in trouble. Some of us can’t seem to stop
-working, or policing, even when we go home.\
-\
+working, or policing, even when we go home.
+
 The politics of the office siren look are interesting as they ask us
 what categories we are expected to apply when thinking about
 'professional' appearance, and how much of it is rooted in
@@ -122,29 +122,26 @@ environments? Does it really matter, since this trend seems to belong on
 TikTok first—with its playfulness and performativity—and in physical
 workplaces second, if at all?
 
-![A person lying on her back in water AI-generated content may be
-incorrect.](media/image3.png){width="6.268055555555556in"
-height="3.1173611111111112in"}
-
-An example of officeladyspecial content, predating the office siren
+![An example of officeladyspecial content, predating the office siren
 trend by many years.
+](imgs/20.3.png)
+
+<br/>
 
 One creator cites 'officeladyspecial,' a YouTube channel for a Japanese
 fetish website, as a source of inspiration. I watch their videos to see
 women in office wear walking on the shore, struggling against waves,
 drenched and confused. Maybe this content does pander to some kind of
-patriarchal desire of helplessness, but then again, it is
-self-proclaimed fetish content, unlike the videos I stumbled upon on my
+patriarchal desire of helplessness, but then again, it is self-proclaimed fetish content, unlike the videos I stumbled upon on my
 For You Page. It seems that the TikTok users’ references to pop culture
 point in the direction of empowerment instead of subjugation but the
 line is sometimes blurry, as was the case with the aesthetics of
 cottagecore a few years ago.
 
-![Screens screenshot of a phone AI-generated content may be
-incorrect.](media/image4.png){width="6.268055555555556in"
-height="4.813888888888889in"}\
-Some answers to 'what is this aesthetic called?' in the comments under a
-video.
+![Some answers to 'what is this aesthetic called?' in the comments under a
+video.](imgs/20.4.png)
+
+<br/>
 
 So far, we considered what the 'original' office siren trend consisted
 of, and reflected on some of its characteristics and potential avenues
@@ -156,7 +153,7 @@ northern hemisphere pushed her in the direction of the beach, where she
 can work remotely into infinity. Why is this link to water so strong,
 even identified by one user as “ocean core”?
 
-## Being Mythical / A Mythical Being
+##Being Mythical / A Mythical Being
 
 Women and water have a lot of history, often existing together in
 various mythologies and collective imaginations. The term 'office siren'
@@ -164,17 +161,16 @@ points us towards the Ancient Greek feminine part-animal figure (bird or
 fish) who lures sailors to their deaths with their beauty and
 hypnotising power.
 
-![A painting of a person playing a harp AI-generated content may be
-incorrect.](media/image5.jpeg){width="2.5643088363954507in"
-height="3.9875in"}\
-John Waterhouse, *The Siren*, 1900.
+![John Waterhouse, *The Siren*, 1900.](imgs/20.5.jpg)
+
+<br/>
 
 Then we have sea nymphs, Nereids, much less threatening than sirens and
 therefore easier to paint as docile in subsequent depictions throughout
 centuries. All over the world, Suvannamaccha, nure-onna, drowned girls
 and mermaids, spirits and messengers haunt the canon of watery women and
-femmes.\
-\
+femmes.
+
 The TikToks I am focusing on here are sirens reimagined: working girls,
 icons of remote work, patron saints of Teams, harbingers of corporate
 culture. To take calls from the shore is absurd, to pretend to work on
@@ -209,7 +205,7 @@ stuck in the rituals of corporate work, an officeid, or an Outlookoë.
 This tension is interesting to me. As if the watery language of capital
 keeps the office siren bound to her oceanic desk.
 
-## Disrupting the Flow of Capital
+##Disrupting the Flow of Capital
 
 The relationship between this watery office siren aesthetic and remote
 work is something the creators themselves reference, adding captions or
@@ -228,11 +224,9 @@ yourself, be on your best behaviour, embody professionalism in order to
 earn perks later down the line, perks that rarely come to younger
 generations, perks that seem expired, of a different time.
 
-![A person in a suit and glasses yelling at a water fountain
-AI-generated content may be
-incorrect.](media/image6.jpeg){width="4.761485126859142in"
-height="3.4875in"}\
-Andrea Fraser, *Museum Highlights: Gallery Talk*, 1989.
+![Andrea Fraser, *Museum Highlights: Gallery Talk*, 1989.](imgs/20.6.jpg)
+
+<br/>
 
 Writer Joshua Citarella claims that younger TikTok users are 'mocking a
 society in which self-determination and upward mobility have long since
@@ -287,12 +281,11 @@ kind of conversation, however fleeting. Maybe it is possible to disrupt
 the flow of capital through this kind of ambivalent anti-corporate
 performance.
 
-![A person walking down a sidewalk AI-generated content may be
-incorrect.](media/image7.jpg){width="5.555555555555555in"
-height="3.9166666666666665in"}
+![Cindy Sherman, *Untitled Film Still \#59*, 1980: Satchel in hand:
+traveling for work or pleasure?](imgs/20.7.jpg)
 
-Cindy Sherman, *Untitled Film Still \#59*, 1980: Satchel in hand:
-traveling for work or pleasure?
+<br/>
+
 
 There is power in putting on a mask. You get glimpses of what life could
 be like if you were someone else, if you looked different, thought
@@ -317,7 +310,7 @@ highlight the ruthlessness and pointlessness of business-as-usual, and
 this kind of disruption can resonate far and wide, like ripples on the
 surface of a lake.
 
-## Drowning in Emails, or Just Drowning?
+##Drowning in Emails, or Just Drowning?
 
 Finally, I wonder if my siren is an environmentalist. Does she despair
 at the thought of rising water levels? The determination of these
@@ -350,10 +343,9 @@ be art. It definitely enters into conversation with a rich history of
 women and femme artists wearing personas and/or communing with nature,
 sometimes both, like Ana Mendieta’s ephemeral and haunting sillhouettes.
 
-![A person lying in water AI-generated content may be
-incorrect.](media/image8.png){width="5.5681813210848645in"
-height="4.297357830271216in"}\
-Ana Mendieta, from *Untitled: Silueta series*, 1970s.
+![Ana Mendieta, from *Untitled: Silueta series*, 1970s.](imgs/20.8.png)
+
+<br/>
 
 Media and theory scholar Martina Leeker comments: 'Art – specifically
 performance art – has traditionally prevailed as a method of gaining the
@@ -363,11 +355,10 @@ performance of the inability to break out of capitalist expectations. In
 their mockery of corporate mannerisms, they propose an emerging
 aesthetic of refusal.
 
-![A painting of a person in water AI-generated content may be
-incorrect.](media/image9.jpg){width="6.268055555555556in"
-height="4.168055555555555in"}
+![John Everett Millais, *Ophelia*, 1852.](imgs/20.9.jpg)
 
-John Everett Millais, *Ophelia*, 1852.
+<br/>
+
 
 Interestingly, one of the most popularised synonyms of the climate
 crisis is the rise of sea levels. As hybrid creatures working in a
@@ -393,7 +384,7 @@ associated with early 2010s Instagram feeds), then it is porous, and
 therefore more capable of moving through aesthetics and into another
 more relational way of being.
 
-## Where to Swim from Here?
+##Where to Swim from Here?
 
 My office siren takes on the behemoths of remote work and climate
 anxiety, working through them as she herself works. Through her eyes, we
@@ -450,8 +441,8 @@ it was corecore). Lin, Swart, and Seng contend: 'TikTok as a platform is
 not only mediating and facilitating the production of short videos but
 has become culture itself.'[^23chapter20_6] And culture produced by femme creators
 online continues to feed my curiosity and propel me towards some kind of
-hopefuly engagement.\
-\
+hopefuly engagement.
+
 As I wrap up, I keep close the notion that through TikTok and its
 endlessly personalised and mutating visual languages, a kind of
 transformation might occur. Experienced both by the creator and viewer –
@@ -459,8 +450,8 @@ and perhaps the most interesting, in the blurry line between the two
 roles—this momentary shift creates an opportunity for a more conscious
 (self-conscious?) being online and offline. In this moment, we get a
 quick glimpse at the tethers that keep us moving like puppets, and as we
-look up, we might see who is holding up the strings.\
-\
+look up, we might see who is holding up the strings.
+
 ***Agnieszka Wodzińska** is an art historian, writer, and lecturer based
 in Scotland. She is particularly interested in internet nostalgia,
 aesthetic online trends, and contemporary multimedia installation that

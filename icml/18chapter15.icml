@@ -1,0 +1,1889 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?aid style="50" type="snippet" readerVersion="6.0" featureSet="513" product="8.0(370)" ?>
+<?aid SnippetType="InCopyInterchange"?>
+<Document DOMVersion="8.0" Self="pandoc_doc">
+    <RootCharacterStyleGroup Self="pandoc_character_styles">
+      <CharacterStyle Self="$ID/NormalCharacterStyle" Name="Default" />
+      <CharacterStyle Self="CharacterStyle/" Name="">
+        <Properties>
+          <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
+        </Properties>
+      </CharacterStyle>
+      <CharacterStyle Self="CharacterStyle/Bold" Name="Bold" FontStyle="Bold">
+        <Properties>
+          <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
+        </Properties>
+      </CharacterStyle>
+      <CharacterStyle Self="CharacterStyle/Bold Italic" Name="Bold Italic" FontStyle="Bold Italic">
+        <Properties>
+          <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
+        </Properties>
+      </CharacterStyle>
+      <CharacterStyle Self="CharacterStyle/Italic" Name="Italic" FontStyle="Italic">
+        <Properties>
+          <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
+        </Properties>
+      </CharacterStyle>
+      <CharacterStyle Self="CharacterStyle/Link" Name="Link">
+        <Properties>
+          <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
+        </Properties>
+      </CharacterStyle> 
+    </RootCharacterStyleGroup>
+    <RootParagraphStyleGroup Self="pandoc_paragraph_styles">
+      <ParagraphStyle Self="$ID/NormalParagraphStyle" Name="$ID/NormalParagraphStyle"
+          SpaceBefore="6" SpaceAfter="6"> <!-- paragraph spacing -->
+        <Properties>
+          <TabList type="list">
+            <ListItem type="record">
+              <Alignment type="enumeration">LeftAlign</Alignment>
+              <AlignmentCharacter type="string">.</AlignmentCharacter>
+              <Leader type="string"></Leader>
+              <Position type="unit">10</Position> <!-- first tab stop -->
+            </ListItem>
+          </TabList>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Blockquote &gt; Paragraph" Name="Blockquote &gt; Paragraph" LeftIndent="10">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Caption" Name="Caption" LeftIndent="0">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Figure" Name="Figure" LeftIndent="0">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Footnote &gt; Paragraph" Name="Footnote &gt; Paragraph" LeftIndent="0">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Header1" Name="Header1" LeftIndent="0" PointSize="36">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Header2" Name="Header2" LeftIndent="0" PointSize="30">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Header3" Name="Header3" LeftIndent="0" PointSize="24">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Italic &gt; Footnote &gt; Paragraph" Name="Italic &gt; Footnote &gt; Paragraph" LeftIndent="0">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/NumList &gt; Paragraph" Name="NumList &gt; Paragraph" NumberingExpression="^#.^t" NumberingLevel="1" BulletsAndNumberingListType="NumberedList" LeftIndent="0">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/NumList &gt; first &gt; Paragraph" Name="NumList &gt; first &gt; Paragraph" NumberingExpression="^#.^t" NumberingLevel="1" BulletsAndNumberingListType="NumberedList" LeftIndent="0">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Paragraph" Name="Paragraph" LeftIndent="0">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle> 
+    </RootParagraphStyleGroup>
+    <RootTableStyleGroup Self="pandoc_table_styles">
+      <TableStyle Self="TableStyle/Table" Name="Table" />
+    </RootTableStyleGroup>
+    <RootCellStyleGroup Self="pandoc_cell_styles">
+      <CellStyle Self="CellStyle/Cell" AppliedParagraphStyle="ParagraphStyle/$ID/[No paragraph style]" Name="Cell" />
+    </RootCellStyleGroup>
+  <Story Self="pandoc_story"
+      TrackChanges="false"
+      StoryTitle=""
+      AppliedTOCStyle="n"
+      AppliedNamedGrid="n" >
+    <StoryPreference OpticalMarginAlignment="true" OpticalMarginSize="12" />
+
+<!-- body needs to be non-indented, otherwise code blocks are indented too far -->
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header1">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Girl Math Fundamentals – Proof by Subversion</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Irma Mastenbroek</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Originally published November 20th, 2025</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>“All models are wrong, but some are useful.”</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Italic &gt; Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>George E Box. P. “Science and Statistics.” </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Journal of the American Statistical Association</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content> 71, no. 356 (December 1976): 791–799.</Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content> George Box - “Models are stupid and we need more of them.” Paul Smaldino </Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Girl Math allowed girlies who just spent a little too much money to rationalise their purchases by framing them as financially sensible, even when they weren't, back on the internet in 2023. According to this logic, a girl earns income when a friend cancels dinner plans or when she returns a dress to the store. The reverse is also true. If something is heavily discounted and she decides not to buy it, she'd be sadly missing out on 'free' money. The girl concludes her argument by teasing &quot;Girl Math!&quot; and then goes about her day, enjoying her purchase guilt-free.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Contrary to what the name might suggest, Girl Math is not gender or age-bound. It’s an inclusive tool, an attitude to life, that anyone can use to make life more enjoyable. Acknowledging the humour and irony shaping the argument, one can easily find this indulgent, consumption-oriented attitude relatable. Girl Math is familiar, obnoxious, and justifies everything, and therefore, we love it. Beyond this market’s logical illogical nonsense, Girl Math offers a deeper, more complex unfolding of a mathematical paradigm that has been historically oppressed. Indeed, with these emergent practices of logic, consumers and girlies get an opportunity to reflect on how 'making sense' and 'rational thinking' can inhabit a deeper sense of intuition and reasoning. There is something counterintuitive, almost blasphemous, about Girl Math, as it juxtaposes the hegemony of a system of reasoning that, for a long time, has controlled the narrative around what is rationally acceptable.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>As both a mathematician and a girl, I’ll admit I didn't know whether to laugh or cry when I first encountered the Girl Math phenomenon. It reminded me of a pink kid's T-shirt I once saw in a store that said: &quot;Too Pretty to Do Math.&quot; I wasn't sure which part of me was more offended: the mathematician or the girl. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Ehm. Excuse me, are you calling me ugly? Or dumb? Or both?</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> The tiny pink shirt, staring at me, reassembled a threat to feminism by supporting the patriarchal misconception that girls have to be pretty, agreeable, stupid, and, most of all, bad at math. On surface level, it might look like Girl Math is doing the same. It goes without saying that the cliche that a girl is too cute to do math is wrong. This is a patriarchal rhetoric that is so simple and reductive that it does not need further analysis.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Figure">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Rectangle Self="uec" StrokeWeight="0" ItemTransform="1.00000 0 0 1.00000 288.00000 -235.12500">
+      <Properties>
+        <PathGeometry>
+          <GeometryPathType PathOpen="false">
+            <PathPointArray>
+              <PathPointType Anchor="-288.00000 -235.12500" LeftDirection="-288.00000 -235.12500" RightDirection="-288.00000 -235.12500" />
+              <PathPointType Anchor="-288.00000 235.12500" LeftDirection="-288.00000 235.12500" RightDirection="-288.00000 235.12500" />
+              <PathPointType Anchor="288.00000 235.12500" LeftDirection="288.00000 235.12500" RightDirection="288.00000 235.12500" />
+              <PathPointType Anchor="288.00000 -235.12500" LeftDirection="288.00000 -235.12500" RightDirection="288.00000 -235.12500" />
+            </PathPointArray>
+          </GeometryPathType>
+        </PathGeometry>
+      </Properties>
+      <Image Self="ue6" ItemTransform="1.00000 0 0 1.00000 -288.00000 -235.12500">
+        <Properties>
+          <Profile type="string">
+            $ID/Embedded
+          </Profile>
+        </Properties>
+        <Link Self="ueb" LinkResourceURI="file:imgs/15.1.png" />
+      </Image>
+    </Rectangle>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Caption">
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The Girl Math trick borrows from that exact patriarchal misconception that girls are dumb and bad with money and runs with it.  In “Everyone is a Girl Online” Alex Quicho describes the subversive tactics of the girl online.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Alex Quicho. “Everyone Is a Girl Online.” </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Wired</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>. Accessed 01/10/2025. https://www.wired.com/story/girls-online-culture/.</Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> The girl now found a way to apply her tricks on the language of logical rigidity, transforming it into a shallow consumerist argument, while simultaneously rendering an alternative way of thinking.The Girl memes at boys and their unwavering devotion to the almighty objective truth. It’s no surprise, then, that Girl Math’s most popular meme format is pissing off boys with her logic</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Girls Always Knew Something About Pure Math</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>What do I know about this? Well, I am a math girly myself. I didn't get into this field because I was so disciplined, organised, or hard-working. In fact, I was quite the opposite. I was a chaotic child. I would forget about exams, lose my books, and never do my homework. In most classes, you had to accept the rules of the game: memorising history dates, conjugating French verbs you will never use, and nod politely at the idea that GDP is a serious measure of well-being. Quite the nightmare. I couldn't help but be critical of all these assumptions. Who decided this? Why that? What if I disagree? Pure math, however, barely asked me to memorise or accept anything blindly. It did not force itself upon reality, nor did it punish me for my lack of obedience. Pure math rewarded stubbornness.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Interestingly enough, there's a common assumption that maths is one of the most dictatorial disciplines, as it presupposes and imposes strict, regulated rules and manners. However, to my understanding and practice of mathematics, pure math is a much more speculative, playful, and poetic field of reasoning. In pure math, problems are solved not because we need or want to know the answer for any practical reason. They are solved just for the fuck of it, because we enjoy the puzzle. Like solving a difficult Sudoku. Essentially, we do it just for funzies.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The commonly encountered applied math doctrine that is oppressive and non-negotiable will, from here on, be referred to as Boy Math. It is a logic that is rarely structurally argued but instead imposed. Formulas are supposed to come flying from the air and be accepted. Refuse to comply, and you'll be overruled. The girl makes fun of this kingdom by opposing their super-duper profound big-boi logic. This is no joke to boys. They are so serious about logic. They can't help but respond very emotionally to Girl Math statements. Of course, the girl fully anticipated their frustrations, but she wasn't triggered. In fact, she was hoping for this response. After all, boys not getting it is part of the joke. This is where it started to dawn on me that the girl is not only funny but also making a valid mathematical point. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>The girls who get it, get it.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>What are girls trying to do here? Pissing boys off by bothering them with illogical nonsense? Yes. But the girls are making another observation: keeping emotions and general vibes out of the math equation is a design choice that could well be undone. With Girl Math, the girls are telling the world: </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>we don’t really care about your numbers and formulas. For us, the vibes matter. Numbers are fake, intuition is real.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>What is Pure Math Anyway?</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The Silly Girl Knows a Thing or Two</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>To dismiss Girl Math as a stupid, transparent, and ‘shallow joke’ would be a missed opportunity to reflect on its deeper occlusion. In their INC longform about the Silly Girl, Mela Miekus and Mita Medri analyse the political potency of specific viral girl trends.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Mela Miekus and Mita Medri. “Silly Girl Theory, Scrolling the Digital Playgrounds.” Institute of Network Cultures, February 16, 2024. https://networkcultures.org/longform/2024/02/16/silly-girl-theory-scrolling-the-digital-playgrounds/.</Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> The researchers imply that the figure of the silly girl “eats girl dinner, does girl math, romanticises her life, and laughs at boys who think about the Roman Empire.” The authors argue that Girl Math is much more than an indulgent, humorous approach to financial decision-making; they see it as a tool for &quot;hating on the boys.&quot; This strategy entails using silly rationale to devalue notions of logic, seriousness, and money and thereby glitching the broader system that rules our neoliberal reality.' What if, indeed, the silly girl has spotted a crack in the boy-thought prison? What if, in all her delusions, she was right? Is Girl Math mathing? Let’s embark on this path.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Figure">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Rectangle Self="uec" StrokeWeight="0" ItemTransform="1.00000 0 0 1.00000 384.00000 -212.25000">
+      <Properties>
+        <PathGeometry>
+          <GeometryPathType PathOpen="false">
+            <PathPointArray>
+              <PathPointType Anchor="-384.00000 -212.25000" LeftDirection="-384.00000 -212.25000" RightDirection="-384.00000 -212.25000" />
+              <PathPointType Anchor="-384.00000 212.25000" LeftDirection="-384.00000 212.25000" RightDirection="-384.00000 212.25000" />
+              <PathPointType Anchor="384.00000 212.25000" LeftDirection="384.00000 212.25000" RightDirection="384.00000 212.25000" />
+              <PathPointType Anchor="384.00000 -212.25000" LeftDirection="384.00000 -212.25000" RightDirection="384.00000 -212.25000" />
+            </PathPointArray>
+          </GeometryPathType>
+        </PathGeometry>
+      </Properties>
+      <Image Self="ue6" ItemTransform="1.00000 0 0 1.00000 -384.00000 -212.25000">
+        <Properties>
+          <Profile type="string">
+            $ID/Embedded
+          </Profile>
+        </Properties>
+        <Link Self="ueb" LinkResourceURI="file:imgs/15.2.png" />
+      </Image>
+    </Rectangle>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Caption">
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Mathematics is often perceived as an unambiguous, objective field, despite the language of mathematics being frank about its subjectivity.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Edward Rothstein. “The Subjective Underbelly of Hardheaded Math.” </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>The New York Times</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, December 20, 1997. </Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-1" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>https://www.nytimes.com/1997/12/20/books/the-subjective-underbelly-of-hardheaded-math.html</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> Indeed, a mathematical text openly admits a subjective world-building by explicitly using ‘we’ and ‘us’ to signal our deliberate foundational choices: ‘let us assume,’ ‘we observe,’ ‘we infer.’ In this context, ‘we’ means you, the reader, and I, the writer. In that exercise, we interlock our fingers and enter this thought castle together. Mathematics is the process of building conceptual thought palaces, in which we literally choose and design everything, from the foundations to the wallpaper.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Philip J. Davis and Reuben Hersh. </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>The Mathematical Experience</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>. Boston: Birkhäuser, 1982.</Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> In that world, pure mathematics has very little to do with accurately describing reality or with making a truth claim: </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>it is lore in the making</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>In </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Is Math Real</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, mathematician Eugenia Cheng argues for a similar thought deconstruction on what we assume math is.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Eugenia Cheng. </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Is Math(s) Real?.</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content> London: Profile Books, 2023. (Pages cited: 12–14.) https://profilebooks.com/work/is-maths-real/.</Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> She asks us to start from the very basis of what we’ve been taught: “Why does 1 + 1 = 2?” One possible answer to this question is, “It just does!”—a variant of “Because I say so!”, an answer that has been frustrating children for generations. Both answers suggest an authority figure who makes the rules, doesn’t have to justify them, and expects everyone else to follow them blindly. From a young age, we're taught to treat formulas as if they were immutable laws of the universe. In high school, we memorize the ABCs, learn the Pythagorean theorem, and accept the rules of arithmetic, all presented as facts we must take. By skipping the step of making assumptions explicit, the system frames consequences as inevitabilities rather than as outcomes of a constructed world. Students absorb the logic, the proofs, and the 'laws', often without realising that they are operating in a universe designed by human choice. Training obedience: follow the rules, get the correct answer, and trust authority. While this educational strategy can be justified through the argument of 'basic knowledge', I would argue, alongside Eugenia Cheng, that &quot;my love of maths is somewhat driven by my love of breaking rules, or at least pushing against them.&quot;</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <HyperlinkTextSource Self="htss-2" Name="" Hidden="false">
+  </HyperlinkTextSource>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Rectangle Self="uec" StrokeWeight="0" ItemTransform="1.00000 0 0 1.00000 384.00000 -211.50000">
+      <Properties>
+        <PathGeometry>
+          <GeometryPathType PathOpen="false">
+            <PathPointArray>
+              <PathPointType Anchor="-384.00000 -211.50000" LeftDirection="-384.00000 -211.50000" RightDirection="-384.00000 -211.50000" />
+              <PathPointType Anchor="-384.00000 211.50000" LeftDirection="-384.00000 211.50000" RightDirection="-384.00000 211.50000" />
+              <PathPointType Anchor="384.00000 211.50000" LeftDirection="384.00000 211.50000" RightDirection="384.00000 211.50000" />
+              <PathPointType Anchor="384.00000 -211.50000" LeftDirection="384.00000 -211.50000" RightDirection="384.00000 -211.50000" />
+            </PathPointArray>
+          </GeometryPathType>
+        </PathGeometry>
+      </Properties>
+      <Image Self="ue6" ItemTransform="1.00000 0 0 1.00000 -384.00000 -211.50000">
+        <Properties>
+          <Profile type="string">
+            $ID/Embedded
+          </Profile>
+        </Properties>
+        <Link Self="ueb" LinkResourceURI="file:imgs/15.3.png" />
+      </Image>
+    </Rectangle>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Breaking rules involves deconstructing what's known and assembling new ideas and ways of mathing. Albert Einstein once famously said, &quot;Pure mathematics is, in its way, the poetry of logical ideas.&quot;</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Albert Einstein. “Obituary for Emmy Noether.” </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>The New York Times,</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content> May 5, 1935.</Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> A 'good mathematical proof' is often praised for its elegance and its beauty. On the other hand, a proof that would solely be 'technically correct' but which would lack prose and creativity could be criticised for being too formal, overly technical, clunky, and therefore ugly. The value of a proof lies not in its correctness, but in its style, in its ability to hit a nerve, in the satisfaction of when it </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>clicks.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Pure Math?</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>How does this translate to Girl Math, then? Where to start? In pure mathematics, we begin by choosing axioms, definitions, and rules of inference. We decide what we define as a point, a line, or a set. We determine what it means to add, to fold, to rotate. Then we explore the consequences of those choices. The entire edifice is built on our starting assumptions (axioms), which are arbitrary. If the mathematical text suggests 'let's assume xyz', and you, for some reason, snap back with a 'well, how about let's not?', that's totally okay. You only have to continue reading if you're interested in what happens, or if you're happy to assume what we just suggested. If not, all good. Axioms are pure assumptions, meaning that they explicitly do not have to be true; they might well be false… It doesn't really matter.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Figure">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Rectangle Self="uec" StrokeWeight="0" ItemTransform="1.00000 0 0 1.00000 288.00000 -168.75000">
+      <Properties>
+        <PathGeometry>
+          <GeometryPathType PathOpen="false">
+            <PathPointArray>
+              <PathPointType Anchor="-288.00000 -168.75000" LeftDirection="-288.00000 -168.75000" RightDirection="-288.00000 -168.75000" />
+              <PathPointType Anchor="-288.00000 168.75000" LeftDirection="-288.00000 168.75000" RightDirection="-288.00000 168.75000" />
+              <PathPointType Anchor="288.00000 168.75000" LeftDirection="288.00000 168.75000" RightDirection="288.00000 168.75000" />
+              <PathPointType Anchor="288.00000 -168.75000" LeftDirection="288.00000 -168.75000" RightDirection="288.00000 -168.75000" />
+            </PathPointArray>
+          </GeometryPathType>
+        </PathGeometry>
+      </Properties>
+      <Image Self="ue6" ItemTransform="1.00000 0 0 1.00000 -288.00000 -168.75000">
+        <Properties>
+          <Profile type="string">
+            $ID/Embedded
+          </Profile>
+        </Properties>
+        <Link Self="ueb" LinkResourceURI="file:imgs/15.4.png" />
+      </Image>
+    </Rectangle>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Caption">
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>So, there's no need to prove assumptions or even justify why they would make any sense. If you wish to assume some nonsense, such as ‘nothing that only men like is cool’ or '0=1', math won't stop you. Math will say, 'You do you, queen. Let's run with that’. Quick enough, you would discover that assuming 0=1 makes all numbers disappear, and that the entire number line would collapse into one point. But worry not, you have not broken math, but instead built the smallest, flattest possible mathematical world where distinctions vanish, but some structure remains. Even this degenerate universe counts as mathematics. So then, how have mathematicians come up with their assumptions and definitions if they can assume and define anything they'd like? Well, that's the unfolding of history: mathematicians assumed things that allowed them to create a world in which the things they wished to be true could be true.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Chances are, my dear reader, it took you by surprise to learn that math is not objective, nor inherently 'true'. You might even have felt a bit of resistance to the idea: a knot in your stomach or a nagging feeling of disbelief. After all, we've been taught to trust numbers, formulas, and proofs as universal truths. However, math is not static but constantly mutating, and it doesn't always look &quot;logical&quot; when perceived. Take the square root of –1. For ages, everyone agreed that it was impossible by definition: a square is always positive. Negative times negative is positive; positive times positive is positive. So, of course, no real number squared could ever give you –1. Trying to take its square root just seemed stupid. Then, one day, some random dude, namely Euler, contested and posed, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>&quot;Okay, but what if I just call it 'i' and say i×i=−1?”</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>. At the time, other mathematicians basically rolled their eyes: </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>“Dude, that’s not a number.”</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> He doubled down: </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>“Okay, fine, it’s not a real number, shall we call it an imaginary number?”</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> To which the math establishment replied: </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>“For the love of God, please shut up.” </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>And yet, once Euler’s “</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>i”</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> was admitted into the math club, previously impossible calculations started unravelling beautifully. Entire families of polynomial equations that had no solutions before suddenly opened up. Centuries later, these &quot;imaginary&quot; numbers revealed themselves to be so useful that, without them, we would not have the mathematics needed for radios, computers, and cell phones. They have since been renamed complex numbers, because how can we justify calling them &quot;imaginary&quot; (explicitly not genuine) when they are used in real-world problems?</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Holy numbers</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>So, what about those real numbers —how real are they? Real numbers consist of all numbers on the number line. That seems, perhaps, quite unambiguous. However, there was a time when only rational numbers were allowed. We must go back to the Pythagoreans, a cult-like group of ancient Greek mathematicians who believed that whole numbers were holy, divine, and connected to the gods. They also fiercely believed they had proven that all numbers were rational. Why? Because they thought they had shown that every point on the number line could be expressed as a ratio of whole numbers, leaving no gaps. Their reasoning was elegant: suppose a gap existed between two rational points, a/b and c/d. Then the midpoint (a/b + c/d)/2 would also be a rational number in the gap. That means our gap is now cut in half, and we can continue this process forever until all gaps are filled, contradicting our assumption that a gap existed. That was until Hippasus of Metapontum (a Pythagorean himself) discovered that the hypotenuse of a 1 by 1 square, c = sqrt(2)​, cannot be written as a ratio of integers. In other words, sqrt(2)​ was suddenly </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>irrational</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>. This shattered the Pythagorean worldview: if not all numbers were rational, then the divine order they worshipped had cracks. Hippasus of Metapontum's discovery was controversial. According to Vinay Kathotia in the article &quot;The Unreasonable Man,&quot; the gods, or the Pythagoreans, drowned him at sea, or hundreds of oxen were sacrificed to appease the deities.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Vinay Kathotia. “The Unreasonable Man.” Cambridge Maths. Accessed 15/10/2025. https://www.cambridgemaths.org/errors/404.aspx?aspxerrorpath=/blogs/unreasonable-man/.</Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> Regardless of which story is true, this finding “shattered the foundations of the Pythagorean world, and someone died.”</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Is this what happens when one questions the status quo of maths? Is this doomed violence against the rules what motivates the girl's silly attitude, covering herself with a mask of naivety and stupidity? Girl Math makes her point using rather subtle, subversive strategies, because she intuitively remembers how dangerous it is to oppose big boi logic inside his doctrine. She is ingrained with the survival instinct of her ancestors. She remembers how those who strayed from the path of reason were branded heretics, madmen, witches, and were drowned at sea. She intuits the cost of appearing irrational in a world that treats logic as law. So, instead of moving directly in opposition to logic, she makes logic go sideways. She jokes. She exaggerates. She memes. She says, &quot;Girl Math kinda makes sense to me, idk why are you so upset, I'm literally just a dumb and harmless girl.” Arguably, that’s the smartest thing the girl does: act naive and dumb, because she knows that if she makes you laugh at her, then you won’t burn her at the stake.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>After centuries of mathematicians redefining what counts as a number, a proof, and even </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>truth</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, we can step back and ask: Is this what the girl is currently doing? Is she breaking the foundations of mathematics? The answer is yes and no. Yes, according to the boys clutching their axioms. No, according to every great mathematician who rewrote old rules to make new fields of mathematics possible. When a girl explains Girl Math with examples like &quot;cash is free,&quot; &quot;returning something to the store is equal to making a profit,&quot; or &quot;if I book and pay for my holiday now, by the time it comes around, it's free,&quot; she is invoking mathematical power. Indeed, each of these statements functions as a type of axiom within the Girl Math system: starting assumptions we accept without proof. She is also playing with the terms—'profit' now includes returns, 'free' now includes prepaid holidays—therefore giving new definitions to terms within her system. From these axioms and definitions, logical consequences follow: if cash is free, spending doesn't reduce net wealth; if returns count as profit, every return is a positive contribution and can be spent on another latte. Mathematically speaking, she is constructing a conceptual world, a playful version of pure math. She chooses the rules, explores the outcomes, and creates an internally consistent system, even if she might later change her mind. Girl Math, in this sense, is precisely what pure mathematicians do: build worlds, test their consequences, discover truths relative to the rules they've set, destroy, build again. </Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>A Simple Demonstration</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>We can actually mathematically prove Girl Math. Let's explore what a Girl Math proof might look like by proving the following Girl Math Theorem: Upon returning a dress worth 50 to the tore and swapping it for a shirt worth 30, we yield a profit of 20.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Figure">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Rectangle Self="uec" StrokeWeight="0" ItemTransform="1.00000 0 0 1.00000 384.00000 -208.50000">
+      <Properties>
+        <PathGeometry>
+          <GeometryPathType PathOpen="false">
+            <PathPointArray>
+              <PathPointType Anchor="-384.00000 -208.50000" LeftDirection="-384.00000 -208.50000" RightDirection="-384.00000 -208.50000" />
+              <PathPointType Anchor="-384.00000 208.50000" LeftDirection="-384.00000 208.50000" RightDirection="-384.00000 208.50000" />
+              <PathPointType Anchor="384.00000 208.50000" LeftDirection="384.00000 208.50000" RightDirection="384.00000 208.50000" />
+              <PathPointType Anchor="384.00000 -208.50000" LeftDirection="384.00000 -208.50000" RightDirection="384.00000 -208.50000" />
+            </PathPointArray>
+          </GeometryPathType>
+        </PathGeometry>
+      </Properties>
+      <Image Self="ue6" ItemTransform="1.00000 0 0 1.00000 -384.00000 -208.50000">
+        <Properties>
+          <Profile type="string">
+            $ID/Embedded
+          </Profile>
+        </Properties>
+        <Link Self="ueb" LinkResourceURI="file:imgs/15.5.png" />
+      </Image>
+    </Rectangle>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Caption">
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Upon finalising a proof, a mathematician concludes their argument with this tiny square. Alternatively, they use the abbreviation Q.E.D. (quod erat demonstrantum: that which needed to be demonstrated). Similarly, a girl concludes her mathematics by giggling, &quot;Girl Math!&quot; And of course, the boys will despair...</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Boy Math Ideology </Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Boys Just Don't Get It</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>After Girl Math had her moment, boys were quick to mimic their own version of mathematics online, because after all, they can't let us have anything. The first Boy Math meme version on the internet—the one below—demonstrates how the logic would operate. Of course, it is written by bois, for bois, and it’s very unfunny.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Figure">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Rectangle Self="uec" StrokeWeight="0" ItemTransform="1.00000 0 0 1.00000 288.00000 -162.00000">
+      <Properties>
+        <PathGeometry>
+          <GeometryPathType PathOpen="false">
+            <PathPointArray>
+              <PathPointType Anchor="-288.00000 -162.00000" LeftDirection="-288.00000 -162.00000" RightDirection="-288.00000 -162.00000" />
+              <PathPointType Anchor="-288.00000 162.00000" LeftDirection="-288.00000 162.00000" RightDirection="-288.00000 162.00000" />
+              <PathPointType Anchor="288.00000 162.00000" LeftDirection="288.00000 162.00000" RightDirection="288.00000 162.00000" />
+              <PathPointType Anchor="288.00000 -162.00000" LeftDirection="288.00000 -162.00000" RightDirection="288.00000 -162.00000" />
+            </PathPointArray>
+          </GeometryPathType>
+        </PathGeometry>
+      </Properties>
+      <Image Self="ue6" ItemTransform="1.00000 0 0 1.00000 -288.00000 -162.00000">
+        <Properties>
+          <Profile type="string">
+            $ID/Embedded
+          </Profile>
+        </Properties>
+        <Link Self="ueb" LinkResourceURI="file:imgs/15.6.png" />
+      </Image>
+    </Rectangle>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Caption">
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The earliest online conceptions of Boy Math were based on deduction and optimisation, explicitly oriented towards saving money —a plain, factual way to do math. It lacked the poetry, playfulness, and delusions that made Girl Math so relatable.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Girls were pretty quick to eclipse this variant. Here's what happened. Trigger warning: fragile male egos, proceed with caution. This might hurt.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Figure">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Rectangle Self="uec" StrokeWeight="0" ItemTransform="1.00000 0 0 1.00000 288.00000 -308.25000">
+      <Properties>
+        <PathGeometry>
+          <GeometryPathType PathOpen="false">
+            <PathPointArray>
+              <PathPointType Anchor="-288.00000 -308.25000" LeftDirection="-288.00000 -308.25000" RightDirection="-288.00000 -308.25000" />
+              <PathPointType Anchor="-288.00000 308.25000" LeftDirection="-288.00000 308.25000" RightDirection="-288.00000 308.25000" />
+              <PathPointType Anchor="288.00000 308.25000" LeftDirection="288.00000 308.25000" RightDirection="288.00000 308.25000" />
+              <PathPointType Anchor="288.00000 -308.25000" LeftDirection="288.00000 -308.25000" RightDirection="288.00000 -308.25000" />
+            </PathPointArray>
+          </GeometryPathType>
+        </PathGeometry>
+      </Properties>
+      <Image Self="ue6" ItemTransform="1.00000 0 0 1.00000 -288.00000 -308.25000">
+        <Properties>
+          <Profile type="string">
+            $ID/Embedded
+          </Profile>
+        </Properties>
+        <Link Self="ueb" LinkResourceURI="file:imgs/15.7.png" />
+      </Image>
+    </Rectangle>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Caption">
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Slowly but surely, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>boy math</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> escaped the world of finance bros and was co-opted by girls to laugh at the delusional logic boys preach every day (see the memes above). In a flash, the girls started producing way funnier content, to the point that their satire even made the boys laugh. Touche. But what happened here? Did the joke get hijacked for a gender-war mud-fight? Or did it expose a deeper issue in gendered rhetorics?</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Boy Math, for purposes of this article, refers to a deep tendency to cling to numeric formulas and a fundamental belief in a global, binary and unquestionable truth. Often, this doctrine is violent and forces reality to conform to its abstract models. This paradigm can be exemplified by this non-exhaustive list of boy behaviours: counting macros, looksmaxxing, an unshakeable belief in crypto, freaking out over the dropping birth rate, investing in effective altruism, and demanding infinite economic growth on a finite planet. On Urban Dictionary, a user named boymather defines the term similarly:  </Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Figure">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Rectangle Self="uec" StrokeWeight="0" ItemTransform="1.00000 0 0 1.00000 288.00000 -131.25000">
+      <Properties>
+        <PathGeometry>
+          <GeometryPathType PathOpen="false">
+            <PathPointArray>
+              <PathPointType Anchor="-288.00000 -131.25000" LeftDirection="-288.00000 -131.25000" RightDirection="-288.00000 -131.25000" />
+              <PathPointType Anchor="-288.00000 131.25000" LeftDirection="-288.00000 131.25000" RightDirection="-288.00000 131.25000" />
+              <PathPointType Anchor="288.00000 131.25000" LeftDirection="288.00000 131.25000" RightDirection="288.00000 131.25000" />
+              <PathPointType Anchor="288.00000 -131.25000" LeftDirection="288.00000 -131.25000" RightDirection="288.00000 -131.25000" />
+            </PathPointArray>
+          </GeometryPathType>
+        </PathGeometry>
+      </Properties>
+      <Image Self="ue6" ItemTransform="1.00000 0 0 1.00000 -288.00000 -131.25000">
+        <Properties>
+          <Profile type="string">
+            $ID/Embedded
+          </Profile>
+        </Properties>
+        <Link Self="ueb" LinkResourceURI="file:imgs/15.8.png" />
+      </Image>
+    </Rectangle>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Caption">
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Let's now dive into our own characterisation of Boy Math, as we are relatively uninterested in smashing fragile egos and want to have a constructive conversation about the heritage of logic.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Who’s the Boy, and Is He a True Mathematician?</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Just as the girl is not a human, not a biological entity, not a gender, a boy is not either. A boy is an archetype, a distilled pattern of thought and behaviour, a mathematical logic embodied in a persona. He is the embodiment of rigid optimisation, crude statements, and binary thinking. A boy believes there is a &quot;correct&quot; path for everything: the right investment, the perfect rice-to-chicken ratio, and the optimal dating strategy. The boy thinks emotions are a distraction and empathy is a problem. He lives in a world of absolutes, where assumptions are invisible rules and deviations from the norm are either mere errors to be corrected or outliers to be ignored. In short, a boy is a system: predictable, internally consistent, and deeply committed to maximising outcomes while minimising ambiguity. It is the ruling system of our apocalyptic neoliberal technocratic world.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Figure">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Rectangle Self="uec" StrokeWeight="0" ItemTransform="1.00000 0 0 1.00000 288.00000 -108.37500">
+      <Properties>
+        <PathGeometry>
+          <GeometryPathType PathOpen="false">
+            <PathPointArray>
+              <PathPointType Anchor="-288.00000 -108.37500" LeftDirection="-288.00000 -108.37500" RightDirection="-288.00000 -108.37500" />
+              <PathPointType Anchor="-288.00000 108.37500" LeftDirection="-288.00000 108.37500" RightDirection="-288.00000 108.37500" />
+              <PathPointType Anchor="288.00000 108.37500" LeftDirection="288.00000 108.37500" RightDirection="288.00000 108.37500" />
+              <PathPointType Anchor="288.00000 -108.37500" LeftDirection="288.00000 -108.37500" RightDirection="288.00000 -108.37500" />
+            </PathPointArray>
+          </GeometryPathType>
+        </PathGeometry>
+      </Properties>
+      <Image Self="ue6" ItemTransform="1.00000 0 0 1.00000 -288.00000 -108.37500">
+        <Properties>
+          <Profile type="string">
+            $ID/Embedded
+          </Profile>
+        </Properties>
+        <Link Self="ueb" LinkResourceURI="file:imgs/15.9.png" />
+      </Image>
+    </Rectangle>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Caption">
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The boy uses math with his own agenda and on his own premises, forcing reality to fit his model. Boy Math is based on false dichotomies and requires binary outcomes. It commands a formula for everything, designs a world where efficiency is worshipped, and context barely exists. In other words, Boy Math is structurally incapable of being silly. It believes in absolutes, prizes predictability, and treats its axioms as commandments rather than choices. Unlike pure mathematics, he does not allow his assumptions to be questioned. He uses proof by intimidation, oppresses alternative modes of reasoning, and if his arguments don’t stick, he might just drown someone at sea. But the girl has a weapon against him. Girl looks at Boy and laughs at him. She pities his cute little brain that is so busy with its predictable thought patterns that it can’t bear nuance, contradiction, or relational complexity.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The Cambridge Dictionary of Philosophy states that &quot;an irrational belief is one that obviously conflicts with what one should know.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Cambridge Dictionary of Philosophy. 3rd ed. Cambridge University Press, 2015.</Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> This characterisation of an irrational belief is identical with the psychiatric characterisation of a delusion.&quot; The irrational is not only wrong—she's literally crazy. Yet the concept of rationality itself is surprisingly subjective and hard to pin down. The Cambridge Dictionary of Philosophy initially defines rationality as a purely normative concept: &quot;if it is rational, we ought to choose it.&quot; By definition, then, a rationalist is always right. However, the text immediately concedes that this definition is paradoxical: &quot;often, competing actions, beliefs, or desires count as rational.&quot; In other words, rationality is a universal rule that's different for everyone.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>To work around these contradictions, the Dictionary suggests that within the rationalist doctrine, irrationality provides a more stable basis for a universal definition of rationality. All accounts can agree that &quot;to say [something] is irrational is to claim that it should always be avoided.&quot; Rationality, it follows, is anything that is not irrational. It's genuinely poetic that rationality becomes most unambiguous only when defined by its disowned twin, irrationality.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>In light of this definition, we could revisit the story of Hippasus and the Pythagoreans and ask ourselves whether drowning the guy was a rational decision (assuming it was the Pythagoreans who did it). For the Pythagoreans, irrational numbers obviously conflicted with what they knew. An irrational number was considered a textbook irrational because it contradicted their &quot;all is number&quot; belief. Other rationalists might argue that losing a life over a mathematical argument is irrational, as it is precisely the type of thing we generally ought to avoid. What is rational remains a normative judgement: it depends. To fully understand the origins of the rationality doctrine, we should begin by debunking its foundational myth: the idea that the earliest philosophical thought originated in Man, specifically in three Greek boys: Socrates, Plato, and Aristotle.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Three Greek Boys</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Boy Math Descendants</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>In Western rational history, the lexicon generally starts with Plato. We consider him the Boy Math patient zero, although one might question whether he would have agreed with said doctrine. In Plato’s Theory of Forms, the philosopher claims that proper form does not exist in the messy material world but rather in the realm of abstraction. The world we see is imperfect and contingent, a perceivable reality that Plato saw as a degraded reflection of a purer, more abstract essence. For example, there are circular things everywhere: tree trunks, the sun, our veins. However, the 'perfect' circle is one we can only create in our minds. This is the core idea of Plato's cave: a philosopher's task is to turn away from the imperfect shadows and seek the proper Form that casts them. In many ways, boy math starts here: Plato made a deliberate move away from organic textures and toward theoretical perfection. The philosopher believed this type of thinking to be of a higher form than what was possible in the material world, therefore becoming the daddy of mind over matter. Trust the idea, not the body. Plato walked so Silicon Valley could run the simulation.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Aristotle's Teachings</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>“We think we have scientific knowledge of a thing only when we think that we know the cause on which the fact depends.” - Aristotle in Posterior Analytics</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Aristotle was Plato's successor, and a worthy, true patient 1 of boy math, as his philosophy paved the way for Andrew Tate-type reasoning. In the philosophical history folklore, Aristotle applied Plato’s vision of the mind over matter to later turn to his own visions of rationality and ways of describing natural order. In the article presenting Aristotle’s legacy on the Stanford Encyclopedia of Philosophy, Marc Cohen describes how, ‘in Aristotle’s logic, the basic ingredients of reasoning are given in terms of inclusion and exclusion relations, of the sort graphically captured many years later by the device of Venn diagrams.’</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Marc Cohen. “Aristotle.” </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Stanford Encyclopedia of Philosophy.</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content> Accessed 28/10/2025. https://plato.stanford.edu/entries/aristotle/.</Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> Aristotle’s philosophy differed from Plato's in that sense that he stepped out of the theory of abstract forms and claimed order and hierarchy in the natural world with the following motto: “Better known by nature.”</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Aristotle had argued that reasoning is separate from the truth, revealing that one can easily prove nonsense on the basis of false premises. This can be illustrated by a very simple example: “If the earth is a donut, then the earth must have a hole” is deductively true given that the first premise is required. According to Aristotle’s own words in Posterior Analytics: ‘simply saying that something is the case if it is the case, by which device, it is easy to prove anything’.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Aristotle, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Posterior Analytics.</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content> Translated by Jonathan Barnes. Clarendon Press, 1994.</Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> Aristotle posed that true premises would always lead to true conclusions. But how would we know which premises are true? The philosopher insisted that the necessity of finding true premises must lie in “the nature of things.” But seeking truth in the natural world required categorization and hierarchical dichotomies. In his worldview, those natural premises included: the notion that there are fundamental differences between the sexes and that men were of a higher hierarchy, as well as a natural and undeniable fundamental difference between master and slave. Out of the many ways we could have chosen to dictate categories, he designed the following:</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Aristotle. </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Politics</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>. Translated by H. Rackham. Loeb Classical Library. Cambridge, MA: Harvard University Press, 1932.</Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>“The male, unless constituted in some respect contrary to nature, is by nature more expert at leading than the female, and the elder and complete than the younger and incomplete.” </Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>“The relation of male to female is by nature a relation of superior to inferior and ruler to ruled.” </Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>“The slave is wholly lacking the deliberative element; the female has it, but it lacks authority; the child has it, but it is incomplete.” </Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>As the citations show, the philosopher believed that women, like slaves, lacked the capacity to fully understand logic and partake in philosophy. In the blog post 10 controversial things Aristotle said about women, Shawn Buckles reveals the misogynistic premises on which this theory was built:</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Shawn Buckles. “10 Controversial Things Aristotle Said About Women.” </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Wisdom Short</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>. Accessed 20/10/2025. https://wisdomshort.com/philosophers/aristotle/on-women.</Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>&quot;When you consider Aristotle’s take on psychology, he saw women as less capable of rational thought compared to men. He felt that women were more excitable and governed by their emotions, which undermined their ability to reason as effectively as men.”</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>In that matter, we can conclude that Aristotle was definitely a boy:</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Mela Miekus and Mita Medri. “Silly Girl Theory, Scrolling the Digital Playgrounds.” Institute of Network Cultures, February 16, 2024. https://networkcultures.org/longform/2024/02/16/silly-girl-theory-scrolling-the-digital-playgrounds/.</Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> his views on natural order read as the earliest red pill white male supremacy content. Thank the gods there is Girl Math. All this to say that, when the girls online called their silly economic philosophy </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Girl Math</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, I think they had a point. </Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Formalising Girl Math</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Astrology: A Possible Lineage of Girl Math?</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>We are arriving at our final destination: an emergent mathematical formulation of Girl Math Fundamentals—which, by the way, I invented myself. What if we start mathematically formalizing historically marginalized communal systems of thought? Before we dive in the math, let's have a quick look at a concrete manifestation of Girl Math. A cute point of departure for this journey through reason is (of course) astrology. A few years ago, the joke that crypto trading is really just astrology for boys went viral. The analogy obviously pissed them off, as illustrated in the below Reddit rant:</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Figure">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Rectangle Self="uec" StrokeWeight="0" ItemTransform="1.00000 0 0 1.00000 384.00000 -193.87500">
+      <Properties>
+        <PathGeometry>
+          <GeometryPathType PathOpen="false">
+            <PathPointArray>
+              <PathPointType Anchor="-384.00000 -193.87500" LeftDirection="-384.00000 -193.87500" RightDirection="-384.00000 -193.87500" />
+              <PathPointType Anchor="-384.00000 193.87500" LeftDirection="-384.00000 193.87500" RightDirection="-384.00000 193.87500" />
+              <PathPointType Anchor="384.00000 193.87500" LeftDirection="384.00000 193.87500" RightDirection="384.00000 193.87500" />
+              <PathPointType Anchor="384.00000 -193.87500" LeftDirection="384.00000 -193.87500" RightDirection="384.00000 -193.87500" />
+            </PathPointArray>
+          </GeometryPathType>
+        </PathGeometry>
+      </Properties>
+      <Image Self="ue6" ItemTransform="1.00000 0 0 1.00000 -384.00000 -193.87500">
+        <Properties>
+          <Profile type="string">
+            $ID/Embedded
+          </Profile>
+        </Properties>
+        <Link Self="ueb" LinkResourceURI="file:imgs/15.10.png" />
+      </Image>
+    </Rectangle>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Caption">
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>A boy sees astrology as nothing but extremely inaccurate statistical predictions used to scam people by giving them a false sense of hope. To crypto boys, there’s nothing worse than being compared to something as ‘stupid as astrology’, a practice that is often dismissed as ‘unscientific’. Indeed, the idea that celestial patterns correspond to human behaviour isn’t empirically verifiable. However, these critics conveniently forget that all logical systems are based on unverifiable assumptions. Within its own framework, astrology is a closed logical system: it operates through clearly defined entities (planets, signs, houses, aspects) and consistent transformation rules (transits, retrogrades). The reasoning inside this system is valid: the logic holds, even if the system’s axioms aren’t ‘true’ in the physicalist sense. Mathematically speaking, that’s allowed. Formal systems don’t need to be </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>true</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> to be </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>coherent</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>. Geometry still works on a flat plane, even though we know space is curved. Classical logic still works, even if the universe is quantum. What matters in math is internal consistency: that the operations preserve structure relative to their own assumptions. Referring to the famous quote often attributed to George Box, in applied mathematics, it is “all models are wrong, but some are useful”. If we know that we’re all wrong all the time, then why discriminate between economics and astrology?</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>When an astrologist says, “Venus in Aries means desire moves fast and impulsively,” it’s a valid deduction from a symbolic grammar where Venus = attraction, Aries = action, and their combination = passionate pursuit. Whether or not Venus actually influences anyone is irrelevant to the logic of the statement. In short, astrology </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>maths</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>: it's a rigorous interpretive calculus of symbolic correspondences. If astrology is a closed logical system, a set of rules, and inference moves, then nothing in principle stops us from formalising it the way mathematicians formalise any other theory. Pick your primitives (planets, signs, houses), write down the axioms (what each symbol means), make your transformation rules (combinations of symbolic meanings), and then derive consequences for the next Mercury retrograde. It would be an amusing exercise to mathematically prove astrology: to write down the whole doctrine in a set of axioms, some inference rules, some definitions, and a bunch of mathematical formulas, and publish it with the claim that Astrology is mathematically rigorous. Suddenly, scientists would pull their hair, bite their nails, see their paradigm collapse, screaming, “BUT YOUR ASSUMPTIONS ARE WRONG!!!” And then the girlies would giggle, “All models are wrong, but some are pretty and useful.”</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>To take Girl Math seriously is to consider that just because it's math doesn't mean it has to be true. By speaking in the dialect of formalism, we expose the political studs that prop up what counts as &quot;rational.&quot; Essentially, a formal Girl Math argument uses proof by subversion, deliberately provoking the boys to dismantle the logical house they built themselves. Let's leave the classic &quot;cash is free&quot; Girl Math examples behind and go up a few levels of abstraction. In essence, what point are the girls making? What is their larger philosophy about? In Girl Math, something is true because it feels true, because we are resonating with the statement, because we need it to feel good, or because it's funny. In Girl Math, the truth is vibe-based: an &quot;it depends&quot;-type of truth, built by noticing patterns between things and contextualising how we feel about them, rather than an external authority declaring what's fact. Girl Math is essentially 'omg, same!'-math. It is at this point that Category Theory becomes interesting. This relatively new field of abstract mathematics, first formalised in the 1940s by Eilenberg and Mac Lane, was called &quot;generalised abstract nonsense,&quot; which sounds like a perfect basis for formal Girl Math.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Samuel Eilenberg and Saunders Mac Lane. “General Theory of Natural Equivalences.” </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Transactions of the American Mathematical Society 58</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, no. 2 (1945): 231–294.</Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> What was so novel about Category Theory?</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Category Theory as a Secret Ingredient for Girl Math</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Imagine traditional mathematics, from now on called trad math, as a big tree. The roots and trunk are the foundational axioms, and the different branches of the tree symbolise the branches of mathematics: algebra, number theory, set theory, Galois theory, etc.. Now, before Category Theory was invented, mathematicians would be solving a math problem somewhere on a leaf in this tree, and then realise that they recognised the problem to be structurally similar to one they had encountered all the way on the other side of the tree. They then have to formally climb this tree and tediously figure out how to reach the top, while occasionally taking wrong turns, getting lost, and climbing back onto the right path. Once their destination was reached, the mathematicians would solve the problem of that particular leaf and then take it with them to climb all the way back to where they started. This results in lengthy, tedious proofs that can span hundreds of pages or a whole stack of books. That was until Category Theory. If you already know that your current problem is similar to the other problem, why don't you just jump from one leaf to the other? If we know that the tree is meaningfully connected, why show off all the acrobatics required to get from one place to the other? Just fly there. Category Theory poses: if you can show that your problem can be translated into another problem, you are allowed to jump there, take their solution, and translate it back to your problem, as though they defined the air surrounding the tree. Needless to say, the type of mathematicians who spent thirty years of their life on mathematical acrobatics inside the math tree were quite pissed that these pseudo-mathematicians suggested they could have simply flown there. Despite the initial backlash, Category Theory's &quot;abstract nonsense&quot; has stood the test of time and is now widely used within and beyond formal mathematics.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Category Theory resembles “</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>omg, same</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>”-math, as all we need is some reasonable equivalence between worlds. Two systems don’t need to </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>be</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> identical; they need to be </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>the same-ish</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>. It is fine for things to behave alike even if they don't look alike at all. Once you start thinking that way, you realise this style of thinking isn't at all limited to abstract mathematics. The old mathematicians (</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>trad mathers</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>) stayed stuck climbing the same tree, but Category Theory gave mathematicians abstract portals. The &quot;objects&quot; don't have to be numbers or shapes anymore. They could be meanings, moods, memes. If they consistently relate to each other, they can live in a mathematical category.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>But what exactly is a category? A category C consists of:</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/NumList &gt; first &gt; Paragraph" NumberingContinue="false">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>Objects: </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>A collection of entities, usually denoted A,B,C,…</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/NumList &gt; Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>Morphisms (arrows between objects):</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> A morphism represents a relationship or transformation between two objects. For objects A and B, a morphism f is f: A→B</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/NumList &gt; Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>Composition: </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>If one morphism connects A to B, and another morphism connects B to C, then A must connect to C.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/NumList &gt; Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>Identity morphisms:</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> Every object has a “do nothing” morphism that maps the object to itself.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>In Girl Math terms, a category C consists of :</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/NumList &gt; first &gt; Paragraph" NumberingContinue="false">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>Objects:</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>things</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> girls care about</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/NumList &gt; Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>Morphisms: </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>the </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>vibes</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> between things</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/NumList &gt; Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>Composition: </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>If there’s a vibe between A and B, and there’s a vibe between B and C, then there’s also a vibe between A and C (namely, through B).</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/NumList &gt; Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>Identity morphism:</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> an object, say a girl, can ponder “</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>but what if I’m right?</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>” in which case her situation stays the same.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The fundamental difference between Category Theory and </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>trad math</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, is that the focus is not so much on the things themselves, but rather how they interact. It means we do not have to spend as much time on defining the object, but the object gets defined by its relevant connections. This is extremely powerful for complex systems, such as (and there she is again): astrology! Astrology apps like Co-star are often coded in Haskell, which is a programming language based on… (drum roll)... Category Theory.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Co–Star Astrology. “Why Haskell.” Accessed 20/10/2025. https://www.costarastrology.com/why-haskell.</Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> Trying to encode astrology in </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>trad math </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>would be like trying to fit a cloud into a box. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Trad math</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> relies on fixed objects and rigid rules: numbers have exact values, operations are deterministic, and proofs are step-by-step. Astrology isn’t deterministic in </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>that</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> way. If you tried to describe astrology in trad math, you'd have to assign exact definitions to inherently fuzzy concepts, such as &quot;love potential = 7.3&quot; or &quot;career vibe = 5&quot;, and define rules for combining them. But these rules will collapse under the complexity of all possible interactions, or they'd reduce astrology to a rigid doctrine, which it isn't. We would be losing the relational richness and interpretable freedom that make astrology so meaningful.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Category Theory solves this issue of mathematical rigidity because it doesn't care so much about the details of the objects themselves. Instead, it focuses only on morphisms: how things relate and interact. A planet's meaning might not be a fixed definition; it's instead a relationship between objects (planet, house, sign, person) that can be contextualised. Say two astrologers disagree on what Mars means. One sees Mars as aggression; the other sees it as desire. In a category-theoretic model, you don't need to rebuild the entire cosmos just because Mars got rebranded. Instead, you simply open up the &quot;Mars&quot; box, tweak its internal mappings, and the overall structure of correspondences still holds. This adaptability is why CoStar uses a category theory-based programming language like Haskell. They earn their money by giving hyper-personalised predictions, which require continuously changing the astrological model they use for your daily horoscope. These predictions are based in part on their astrological model combined with your birth chart, and in part on optimisations of your personal preferences to lure you back to their app every day.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Once you've gone through all this, it becomes hard </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>not</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> to see how crypto and astrology are secretly cousins. Both claim to formalise </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>vibes</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> into </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>systems</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>. Both use symbolic logic to track invisible forces (be it planetary or economic) that supposedly shape the future. Both attract followers who speak a specialised dialect (&quot;moon in Aries,&quot; &quot;bull market&quot;) and believe that, with the correct chart or chain, you can predict the future. The observed structural similarity between the two fields lies at the heart of the 'crypto is astrology for boys' joke, which can be mathematically formalised and possibly even proven using category theory.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>If we consider Astro and Crypto as categories, the girls online claim they are categorically equivalent. To support this claim, two categories could be defined and shown to share a common structure. For instance, in </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>Astro</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, the </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>objects</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> could be planets, signs, houses; the </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>morphisms</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> could be aspects and transits. In </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>Crypto</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, the </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>objects</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> are entities like tokens, wallets, and exchanges; the </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>morphisms</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> transactions, swaps, and correlations. Between the two categories, certain concepts share a similar vibe, and we could describe this similarity by defining a </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>functor</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>: a mapping between categories.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Let us define a functor F:</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Astro → Crypto</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Planets ↦ Tokens </Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Transits ↦ Price movements </Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Retrogrades ↦ Bear markets </Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Conjunctions ↦ Mergers</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>A retrograde in astrology is the moment a planet appears to move backward, which symbolises a time for re-evaluation. Similarly, a bear market is a moment of collective doubt in crypto, a loss of momentum. To show that F: Astro → Crypto are categorically equivalent, we need to shape both the Astro and Crypto categories in such a way that we can draw a vibe-arrow between each of the objects and morphisms. The beauty is that we do not need similarity or exact same-ness; we instead need a </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>kind of same-ish</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> vibe.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>In this formulation, the </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>pattern girlies</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> don't actually need to become data scientists or cite existing research to be mathematically rigorous in their theories. They can simply formalise their intuitions and write down made-up theories. Describing these formulas in dry, abstract, mathematical language casts the girl as brilliant and correct. In doing so, she mirrors the &quot;proof by authority&quot; that </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Boy Math</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> has long monopolised. Contrary to her evil twin, Girl Math is quite aware of the ambiguity of it all, but alas, she can live with multiple realities. Where Boy Math seeks certainty, Girl Math alchemises vibes and contradictions.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Girl Math is Pure Vibes</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>So far, we've laid the foundation for a rhetoric we call Metaphorical Proof. Such proof doesn't demand that two things be identical; it's enough to show they behave similarly enough for a pattern to hold. This 'Omg, same!' feeling is formalised as a mathematical isomorphism, which sounds legit. When a girl claims that 'buying something on sale is basically saving money', she is performing a Metaphorical Proof through vibe preservation. The math works not because it's true in a universal sense, but because it</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content> feels</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> internally consistent to her lived reality. Girls online recognise themselves in it, and that resonance constitutes its proof. The swarm relatability renders the theory true. (</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Statistics, hello?</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>)</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>This leads us to one of the most beautiful and radical features of Category Theory: the </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Truth Object.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> In </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>trad math</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, truth is a global constant: either true or false, a binary light switch that applies everywhere in the system. On the contrary, Category Theory allows us to </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>redefine what truth means</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> in different contexts; each category can have its own internal logic. In the category of quantum physics, for example, truth becomes probabilistic, an 'it depends'-type truth: a superposition of possibilities. Formal Girl Math goes one step further: its truth object is not binary or probabilistic, but subjectively resonant. In her world, something is true if it vibrates between girlies, if it holds aesthetic, emotional, or social coherence. Girl Math's truth object could be defined as: the degree of vibration between a statement and a subject. Truth as such is not imposed from above; it’s felt from within. Every mathematician secretly intuits that truth is a feeling: a proof isn’t proven until it makes sense to you.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>This paradigm shift from binaries to vibes also echoes Donna Haraway’s refusal of the true/false dichotomy. In her </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Cyborg Manifesto</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, she suggests that purity itself is the problem, that concepts such as natural/artificial, male/female, good/bad were never opposites but co-dependent fabrications. From a Girl Math perspective, a statement and its contradiction can coexist as equally valid morphisms in the same category. &quot;Men oppress women&quot; and &quot;women exploit men&quot; can both be true, depending on which morphism you're following—which node of power you inhabit. Girl Math merely makes explicit what math has always been: a poetics of abstract forms. We reimagine rigour. Instead of an objective, global truth, we propose a vibrational truth. Instead of proving by contradiction, we prove by recognitions delivered as ironic jokes. In the Cyborg Manifesto, Donna Haraway describes irony as follows:</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Donna Haraway. “A Cyborg Manifesto.” In </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Simians, Cyborgs, and Women: The Reinvention of Nature.</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content> New York: Routledge, 1991. (Page cited: 3.)</Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> “Irony is about contradictions that do not resolve into larger wholes, even dialectically, about the tension of holding incompatible things together because both or all are necessary and true. Irony is about humour and serious play. It is also a rhetorical strategy and a political method, one I would like to see more honoured within socialist-feminism.”</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Long live the queen. Since we agree with Haraway’s perspective on the fundamental reality of truth, we craft Girl Math Fundamentals in a way that will hold contradictions. For instance, if we claim 'boys are dumb', we implicitly acknowledge possible situations in which boys are smart. If we declare 'cash is free,' we also concede the financial reality that sometimes cash is valuable. This embedded contradiction space preserves the freedom of pattern expression, the poetry and play that underpin Critical Girl Theory. As we construct the formal Girl Math universe, we choose to embed a fundamental truth duality: </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>everything I just said, but reversed, is always also true. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>This way, no matter what she says, a girl is per definition always right. </Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Figure">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Rectangle Self="uec" StrokeWeight="0" ItemTransform="1.00000 0 0 1.00000 288.00000 -382.12500">
+      <Properties>
+        <PathGeometry>
+          <GeometryPathType PathOpen="false">
+            <PathPointArray>
+              <PathPointType Anchor="-288.00000 -382.12500" LeftDirection="-288.00000 -382.12500" RightDirection="-288.00000 -382.12500" />
+              <PathPointType Anchor="-288.00000 382.12500" LeftDirection="-288.00000 382.12500" RightDirection="-288.00000 382.12500" />
+              <PathPointType Anchor="288.00000 382.12500" LeftDirection="288.00000 382.12500" RightDirection="288.00000 382.12500" />
+              <PathPointType Anchor="288.00000 -382.12500" LeftDirection="288.00000 -382.12500" RightDirection="288.00000 -382.12500" />
+            </PathPointArray>
+          </GeometryPathType>
+        </PathGeometry>
+      </Properties>
+      <Image Self="ue6" ItemTransform="1.00000 0 0 1.00000 -288.00000 -382.12500">
+        <Properties>
+          <Profile type="string">
+            $ID/Embedded
+          </Profile>
+        </Properties>
+        <Link Self="ueb" LinkResourceURI="file:imgs/15.11.png" />
+      </Image>
+    </Rectangle>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Caption">
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Girl Math Manifesto</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>It's true for me but you do you</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>If it resonates, it is right.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>No need for research.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>No data science or evidence.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Authority is a performance.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>The language of mathematical certainty,</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>mirrors and mocks Boy Math.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Math symbols make a girl sound smart and right.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Girls know truth is paradoxical</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Contradictions are necessary and true.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>And if vibes are everything,</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Girls are never wrong.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Oh my god, same!</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>The girls who get it, get it.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Q.E.D</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Quintisentially Emotionally Demonstrated.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold Italic">
+    <Content>Irma Mastenbroek</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>is a Berlin-based digital rights activist and technofeminist. With a background in mathematics, she specializes in network science, optimization, and artificial intelligence (AI). Irma founded LODelle, a platform for digital feminist networks, and is an active participant in the Digital Intimacy Coalition. This collaborative initiative aims to hold major online pornography platforms accountable, promoting a rebuilt industry focused on mutual consent and sexual empowerment.Professionally, Irma researches AI bias and works on issues related to AI auditing and non-discrimination law. She co-organized an AI art exhibition, curated for re:publica, and has spoken at both CCC and re:publica events. Currently, she is developing a new mathematical field designed to formalize historically marginalized areas of reasoning.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+
+  </Story>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//networkcultures.org/longform/wp-content/uploads/sites/31/2025/11/7-scaled.png" Name="link" DestinationURL="https://networkcultures.org/longform/wp-content/uploads/sites/31/2025/11/7-scaled.png" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-2" Name="https://networkcultures.org/longform/wp-content/uploads/sites/31/2025/11/7-scaled.png" Source="htss-2" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/https%3a//networkcultures.org/longform/wp-content/uploads/sites/31/2025/11/7-scaled.png</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//www.nytimes.com/1997/12/20/books/the-subjective-underbelly-of-hardheaded-math.html" Name="link" DestinationURL="https://www.nytimes.com/1997/12/20/books/the-subjective-underbelly-of-hardheaded-math.html" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-1" Name="https://www.nytimes.com/1997/12/20/books/the-subjective-underbelly-of-hardheaded-math.html" Source="htss-1" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/https%3a//www.nytimes.com/1997/12/20/books/the-subjective-underbelly-of-hardheaded-math.html</Destination>
+    </Properties>
+  </Hyperlink>
+</Document>

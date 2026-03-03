@@ -17,17 +17,15 @@ Rights: CC BY-NC 4.0
 ...
 
 
-# Cycles: the Sacred and the Doomed, On Optimization, PMDD and its Metaphors.
+#Cycles: the Sacred and the Doomed, On Optimization, PMDD and its Metaphors.
 
-## Morgane Billuart
+##Morgane Billuart
 
-### Originally published on December 13th, 2021
+###Originally published on December 13th, 2021
 
-![A screenshot of a computer AI-generated content may be
-incorrect.](media/image1.png){width="6.268055555555556in"
-height="4.436111111111111in"}
+![Assemblages of screenshots from different internet resources](imgs/06.1.png)
 
-Assemblages of screenshots from different internet resources
+<br/>
 
 > We must know whether we want to change the world to experience it with
 > the same sensorial system like the one we already possess, or whether
@@ -36,25 +34,25 @@ Assemblages of screenshots from different internet resources
 >
 > Testo Junkie, Paul Preciado[^09chapter6_1]
 
-### Day 15 - The Number One Enemy
+###Day 15 - The Number One Enemy
 
 I woke up earlier than Juli. It’s day 15. The fog is slowly appearing
 around me. I don’t see it, but I feel and hear it. It is this silent
 cynical voice within my head telling me that every attempt is worthless.
 It is the slowly escalating anxiety rushing through my veins when I
 start focusing on what could go wrong. The sun’s rays are piercing
-through the mosquito net. Juli is still sleeping.\
-\
-How do people do it? How can they do it?\
-\
+through the mosquito net. Juli is still sleeping.
+
+How do people do it? How can they do it?
+
 The image of my parents rises in my head; the stupid idea of their
 monogamy and the concept of sleeping in the same bed every night. I
 remember thinking that doing something else would be the ultimate proof
 of being unloved. This thought on endless continuity and consistency
 feels like a weight, a terrible pressure. I sense it pouring all over
 me, laying in bed, covered by a light blanket and the sleeping arms of
-Juli.\
-\
+Juli.
+
 In her book *Illness as a Metaphor*, Susan Sontag investigates the
 cultural and aesthetic representations of disease in society. She
 explains how they are often displayed as images and meanings, instead of
@@ -69,8 +67,8 @@ an empirical one. Still, I wondered, how does one treat a condition as a
 disease, when it is, in essence, seen as a fundamental component of our
 lives? How to approach an experience that has been understood and
 studied for so long as an unavoidable and fatal component of our
-bodies?\
-\
+bodies?
+
 Before it was even categorized as a disease, PMDD existed as a metaphor.
 Nowadays, it is the symbol of our bodies’ treatment and the prejudices
 around it. More than a disease, it is the result of our limited
@@ -79,16 +77,16 @@ social life. PMDD is the impact on how one’s body is reflected in
 society. It is only once we understand the role that this metaphor
 plays, and how it limits the possibilities for treatment, that we can
 understand what is at stake behind the acknowledgment of such
-conditions.\
-\
+conditions.
+
 Irritability, Nervousness, Lack of control, Agitation, Anger, Insomnia,
 Difficulty in concentrating, Depression, Severe fatigue, Anxiety,
 Confusion, Forgetfulness, Poor self-image, Paranoia, Emotional
 sensitivity, Crying spells, Moodiness, Trouble sleeping, Abdominal
 cramps, Bloating, Constipation, Nausea, Vomiting, Pelvic heaviness or
 pressure, Backache, Decreased coordination, Painful menstruation,
-Diminished sex drive, Appetite changes, Food cravings, Hot flashes.\
-\
+Diminished sex drive, Appetite changes, Food cravings, Hot flashes.
+
 One of the first questions that come to mind when reading this list is
 “Whose menstruating bodies do not suffer from those symptoms?”. Surely,
 the severity of those and their frequency may vary from one individual
@@ -100,8 +98,8 @@ it, specifically because the symptoms can be so diverse. As far as
 scientific knowledge goes, it is generally understood as a dysfunctional
 reaction of the body from the changes of hormones throughout the month.
 These symptoms usually disappear at the beginning of each cycle, when
-menstruation starts.\
-\
+menstruation starts.
+
 It is complex to study PMDD as a real condition because it regroups all
 of the symptoms that, individually, can be dealt with, but as a whole,
 can make it impossible for any human being to function[^09chapter6_2]. It is too
@@ -120,8 +118,8 @@ the working environment were a thing and if generic medicine tried to
 look into the causes and not the symptoms. PMDD is one of the many
 diseases which is not understood (yet) because there's no interest, no
 lobby (yet). It is one more phenomenon, one demonstration that our world
-and systems have not been designed by other than men.\
-\
+and systems have not been designed by other than men.
+
 Those who suffer from this condition are moralized not only by the
 medical field but also by the people surrounding them. Perhaps their
 mental confusion is understood as hysteria, their low libido is seen as
@@ -134,8 +132,8 @@ knowledge on the subject, and by its confrontation with society’s norms.
 While it is still hard to know and tell where the condition comes from,
 what triggers, and what exacerbates it, using PMDD as a metaphoric
 condition enables a lens to look into the technologies of menstruating
-bodies and the advancements designed for them.\
-\
+bodies and the advancements designed for them.
+
 Over the course of the past century, enormous breakthroughs and progress
 have been made in the research field of menstruating bodies and female
 conditions. The era of the mystery of blood and burnt witches is,
@@ -150,7 +148,7 @@ functioning of our bodies, we are presently given the chance to better
 understand the mechanisms of power and oppression behind this
 technological progression.
 
-## The Insufficient Technology of the Body
+##The Insufficient Technology of the Body
 
 Menstruating bodies and technologies have an ambiguous relationship.
 Firstly, the ability to be fertile and give life remains one of the
@@ -195,12 +193,10 @@ not adequate. As a result of their feeling of being misunderstood, these
 communities meet and exchange their knowledge on alternative digital
 platforms.
 
-![A screenshot of a social media post AI-generated content may be
-incorrect.](media/image2.jpg){width="6.268055555555556in"
-height="3.526388888888889in"}\
-Screenshot from the group PMDD/Severe PMS Support, post by Shealene
-Downey\
-\
+![Screenshot from the group PMDD/Severe PMS Support, post by Shealene Downey](imgs/06.2.jpg)
+
+<br/>
+
 Yes, science and generic medicine offered more comfort than pain in our
 lives. Although it would be too easy to pretend that the technological
 advances in the last century were only liberating and emancipating. By
@@ -211,8 +207,8 @@ demonstrate more complex dynamics. With or without the pill, with or
 without these conditions, our bodies are gradually realizing that the
 environments in which we evolve are not, by definition, designed for us.
 A problem that neither the pill, anti-depressants, nor this false
-political promise can hide anymore.\
-\
+political promise can hide anymore.
+
 If these conditions are indeed a representation of our failed
 technology, recent studies which looked into the hormonal and social
 roots of PMS, universally known or experienced as premenstrual syndrome,
@@ -220,16 +216,16 @@ demonstrated that its symptoms are highly impacted by the social
 environment one exists in. Researchers investigated how its effects
 changed depending on the social environment, demonstrating how
 menstruating bodies, when failing to be super-efficient and adequate,
-often failed into self-pathologization:\
-\
+often failed into self-pathologization:
+
 *“When women were able to be alone, they reported that their
 premenstrual symptoms were reduced; the ‘PMS’ effectively disappeared,
 and they felt ‘better’. However, many of the women we interviewed never
 took time out for themselves in the whole month, and spent little time
 engaged in leisure activities, focusing instead on the needs of others,
-common to women who present with ‘PMS’ clinically .”*[^09chapter6_4]*\
-\
-*These perspectives on the subject matter invite us to wonder: what is
+common to women who present with ‘PMS’ clinically .”*[^09chapter6_4]
+
+These perspectives on the subject matter invite us to wonder: what is
 it that makes these bodies inadequate in the first place? What is the
 reference we’re looking into to determine how one should function? While
 the conditions we mentioned earlier (PCOS, PMDD, and others) are often
@@ -283,17 +279,15 @@ we be calling women the mentally ill or society's wounded?”[^09chapter6_6] Whi
 this realization is a question that could be applied to a broad range of
 conditions and diseases, it is specifically urgent to look into how the
 criteria and expectations of our cultures can lead to the aggravation of
-those.\
-\
-Upgraded and Updated: on Hormone Replacement and Alleviation
+those.
 
-![A screenshot of a social media post AI-generated content may be
-incorrect.](media/image3.png){width="6.268055555555556in"
-height="5.213888888888889in"}
+##Upgraded and Updated: on Hormone Replacement and Alleviation
 
-Screenshot of the Facebook group PMDD/Severe PMS support, posted by
-Shakeeb Rhaman.\
-\
+![Screenshot of the Facebook group PMDD/Severe PMS support, posted by
+Shakeeb Rhaman.](imgs/06.3.png)
+
+<br/>
+
 As previously mentioned, it is difficult and tedious to diagnose PMDD.
 Even though the condition seems to have been named for more than 20
 years, institutes and research in its regard remain succinct. As a
@@ -324,8 +318,7 @@ unspoken. Are they veiled by the designed cure? What are the
 technologies proposed, and what are the implications behind these
 choices?
 
-### \
-Day 14 - Memories of Diane 35
+###Day 14 - Memories of Diane 35
 
 The perfect cycle’s length is 28 days. So are the number of these pills
 that I had to swallow. They say ovulation happens two weeks before
@@ -427,11 +420,10 @@ main hormone-induced within the first two weeks of each month,
 progesterone, arriving right after ovulation, seems to be the culprit of
 the sudden change in mood, embodiment, and perception.
 
-![A person and person sitting in a chair AI-generated content may be
-incorrect.](media/image4.jpg){width="2.8313473315835522in"
-height="5.025640857392826in"}
+![Memes posted by @pmddmemes on Instagram.](imgs/06.4.jpg)
 
-Memes posted by @pmddmemes on Instagram.
+<br/>
+
 
 While the studies of PMDD and its impact on mental and social life were
 rendered public forty years ago[^09chapter6_10], it does appear that the medical
@@ -482,8 +474,8 @@ anger. Those hide their day-to-day experience as a way not to be
 discriminated against. Not to be judged. While many fights for these
 conditions’ visibility and the importance of its study field, it is
 still a vigorous battle to claim the recognition of the incapacity to
-perform and live optimally in society.\
-\
+perform and live optimally in society.
+
 In 2002, almost twenty years ago, Joan C Chrisler and Paula Caplan
 published *The strange case of Dr. Jekyll and Ms. Hyde: How PMS became a
 cultural phenomenon and a psychiatric disorder.* In this paper, they
@@ -511,15 +503,14 @@ Thankfully, throughout the years, an army of enraged and disappointed
 bodies gathered to discuss and collect information and experiences which
 could not be found or mentioned in the earlier times.
 
-## Femtech, in Between Holistic and Transhuman Perspectives
+##Femtech, in Between Holistic and Transhuman Perspectives
 
-![Cartoon dinosaur with mouth open and leaf AI-generated content may be
-incorrect.](media/image5.png){width="6.268055555555556in"
-height="4.325694444444444in"}
+![A meme posted by @pmddmemes on Instagram.](imgs/06.5.png)
 
-A meme posted by @pmddmemes on Instagram.
+<br/>
 
-### Day 29 - Still a week to go
+
+###Day 29 - Still a week to go
 
 In moments like these, I feel the urgent need to alter my body or alter
 my perception. My detachment from people and from physicality has been
@@ -553,13 +544,11 @@ Why am I not choosing to feel something? Why am I not choosing drugs?
 Not choosing the pill, not choosing the SRRI’s? Who am I trying to be a
 fierce warrior for?
 
-![A white bottle on a keyboard AI-generated content may be
-incorrect.](media/image6.jpg){width="6.268055555555556in"
-height="3.5256944444444445in"}
+![Rendered image, Screenshot of the Jstor Library, Article “Is Prozac a
+feminist drug?”](imgs/06.6.jpg)
 
-Rendered image, Screenshot of the Jstor Library, Article “Is Prozac a
-feminist drug?”\
-\
+<br/>
+
 The isolation generated by the knowledge gaps led those who suffer from
 the condition to find alternative ways to connect through the internet.
 YouTube, Tik Tok, and Reddit became the site of experiences and
@@ -583,8 +572,8 @@ online gatherings and testimonies in the age of the internet and
 fast-online-shipping, a new and exponential market appeared - a market
 much bigger than the PMDD or PCOS market alone. A market whose mission
 it is to change society, science, the condition of women and to vary the
-treatments and their accessibility: the world of FemTec.\
-\
+treatments and their accessibility: the world of FemTech.
+
 As we started to face the sudden deterministic realization of our bodies
 and their conditioning, researchers and tech experts started to
 assemble, aiming to develop new tools and concepts which would help our
@@ -610,14 +599,16 @@ moment to reflect on these technologies, their promises, and the
 obstacles one might encounter when trying to design new technology and a
 new philosophy for inclusion and care.
 
-![A smart phone and a cube AI-generated content may be
-incorrect.](media/image7.jpg){width="6.268055555555556in"
-height="6.268055555555556in"}Images extracted from the article “Femtech
+![Images extracted from the article “Femtech
 startups on the rise as investors scent profits in women's health”,
-written by Gene Marks in The Guardian. The Elvie pelvic floor trainer is
+written by Gene Marks in The Guardian. 
+](imgs/06.7.jpg)
+
+<br/>
+
+The Elvie pelvic floor trainer is
 just one of a number of products from ‘femtech’ startups which have
-raised almost \$50m in recent months.\
-\
+raised almost $50m in recent months.
 As mentioned earlier, we should not only focus on fixes for our bodies
 in society and ways to optimize pain or time, but rather think of
 objects and interfaces which offer care and understanding of our
@@ -635,8 +626,8 @@ patriarchy and capitalism. Within this new field, many questions arise.
 What can science and technology do to our bodies? Through which aim? For
 who’s interest? Should we even try to understand these phenomena? Or
 shall we, as Preciado suggested, live in a world of “molecular
-excitation”?\
-\
+excitation”?
+
 While this research field grows and while waiting for more discoveries
 and fixes to appear, self-diagnosis and medication seem to be one of the
 ways that patients learn to deal with the condition of PMDD. At this
@@ -652,9 +643,9 @@ also to question the world itself. On the good days, in the first two
 weeks, I am optimistic and fearless of the obstacles coming in the way
 of this revolution. On the last two, it becomes harder to stay positive,
 but at least anger and inadequacy drive me to write. Until the next
-cycle.\
-\
-Day 3 - The Dream Girl
+cycle.
+
+###Day 3 - The Dream Girl
 
 Still not at my cutest because my hair is still kind of greasy from the
 hormones. I always love to shower around the 7th day. I am finally clean
@@ -662,8 +653,8 @@ and renewed. In the evening, I grab my phone to log in to Field. I don’t
 know what I am looking for but I NEED attention. I have a partner and
 great friends but I DEMAND care. There is something in the way I carry
 myself and walk around the world. My stomach is now flat, my cravings
-are gone.\
-\
+are gone.
+
 I am the dream girl. I feel hot and smart. I desire and I am desired, I
 stare back because I am a young flesh, young blood, and because it feels
 so rare, so intense to feel adequate. There is something in the smell of
@@ -688,8 +679,8 @@ something bigger, stronger, wiser than me will limit my thinking and
 actions. It is because the time is so short that I choose not to think
 of the evil anymore. I would rather focus on what functions, look at the
 bleach of my hair, the hydration of my peachy skin, happily notice the
-lubrication of my genitals, all of this while I still can.\
-\
+lubrication of my genitals, all of this while I still can.
+
 I have no hate, no. I feel no repression, I go out like a trophy, I am
 above what is dictated because I am exactly what I was intended to
 become. I will happily smile at strangers and perhaps fantasize for a

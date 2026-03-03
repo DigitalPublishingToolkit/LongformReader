@@ -21,9 +21,9 @@ Rights: CC BY-NC 4.0
 > dollar artist loft my daddy bought me for graduating art school. I
 > hate my dad.” - Hipster Barista meme
 
-Creative Class Consciousness: Today’s Art of the Working Class
+#Creative Class Consciousness: Today’s Art of the Working Class
 
-## Sepp Eckenhaussen
+##Sepp Eckenhaussen
 
 There is a general confusion about class composition under
 post-neoliberal capitalism.[^12chapter9_1] Where is the working class? There is
@@ -34,7 +34,7 @@ labour and the representation of workers. Who and what are we? Who are
 our comrades, and who are our adversaries? How to break the wheel of
 disorganisation? How to collectivise and resist?
 
-## The Author as Producer
+##The Author as Producer
 
 In his groundbreaking book *History and Class Consciousness* from 1923,
 György Lukács for the first time foregrounded ‘class consciousness’ in
@@ -70,7 +70,7 @@ consciousness. Before asking “What does the author as a producer produce
 today?”, we must first consider: How can the author today understand
 themselves as a producer once again?
 
-## The Art Worker
+##The Art Worker
 
 In response to this question, people working in the arts – including
 myself – have taken to calling ourselves ‘art workers’. Historically,
@@ -125,7 +125,7 @@ leisurely stroll along some of these theories. Where we will meet
 precarians, projectarians, cybertarians, cognitarians, and other members
 of emergent (dangerous?) classes along the way.
 
-## Precariat
+##Precariat
 
 Since the 1980s, deregulation of labour markets, privatisation,
 increasing numbers of freelancers, and other trends in post-Fordist
@@ -293,7 +293,7 @@ of organising. Let us, then, zoom in on the specific conditions of art
 within the global, digitally mediated production chains of contemporary
 capitalism.
 
-## Projectariat
+##Projectariat
 
 The first thing to notice about work and class in the arts, is a
 persistent cognitive dissonance. Many artists somehow think that the
@@ -368,7 +368,7 @@ social circle. In a review of Szreder’s book, Kim Charnley summarised:
 banal exploitation. Actually, the projectariat produces the artyzol that
 perpetuates its own exploitation.”[^12chapter9_26]
 
-## Entreprecariat
+##Entreprecariat
 
 We must, unfortunately, push the point of material and ideological
 complicity further. A growing group of (young) creatives identifies with
@@ -423,7 +423,7 @@ poverty among themselves), is right up the alley of a neoliberal
 manager. The entreprecariat, in other words, is the perfect neoliberal
 subject.
 
-## Cybertariat
+##Cybertariat
 
 Working conditions on digital platforms like Patreon and Substack have
 already come up a few times. It is no coincidence that the rise of
@@ -476,7 +476,9 @@ theorist, but most end up as lumpen slop creators.[^12chapter9_31] The art world
 has been transformed less by the extravaganza of ‘stupid’ NFT money than
 by the extremely precarious conditions of online gig work.[^12chapter9_32]
 
-## Art of the Working Class, Art of the People 
+---
+
+##Art of the Working Class, Art of the People 
 
 I can imagine that the ‘riot of the -riat’ presented above has provoked
 eye-rolls, or at least some nervous laughter. Who needs precariats,

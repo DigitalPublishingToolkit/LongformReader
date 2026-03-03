@@ -17,9 +17,9 @@ Rights: CC BY-NC 4.0
 ...
 
 
-# Silly Girl Theory: Scrolling the Digital Playgrounds
+#Silly Girl Theory: Scrolling the Digital Playgrounds
 
-## By Mela Miekus & Mita Medri
+##By Mela Miekus & Mita Medri
 
 ***Dictionary:***
 
@@ -47,9 +47,9 @@ it as things associated with girlhood, especially those that accompanied
 our coming-of-age years that were done exclusively by girls and
 ridiculed by boys, e.g. collecting silly bands.*
 
-![A screenshot of a computer AI-generated content may be
-incorrect.](media/image1.png){width="6.268055555555556in"
-height="3.9138888888888888in"}Design by Kaja Cichocka
+![Design by Kaja Cichocka](imgs/14.1.png)
+
+<br/>
 
 ## Who is Silly Girl?
 
@@ -67,9 +67,9 @@ this year, besides the inundation of girl trends spreading all over
 social media, with TikTok at the forefront, has been the rise of a new
 digital girl: the Silly Girl.
 
-![A collage of different images of people AI-generated content may be
-incorrect.](media/image2.jpeg){width="6.268055555555556in"
-height="3.917361111111111in"}
+![](imgs/14.2.jpg)
+
+<br/>
 
 Silly Girl takes inspiration from her digital girl predecessors, but she
 is unique in her quirkiness. From her bedroom (the girl online kingdom),
@@ -81,9 +81,9 @@ account or at least an account dedicated solely to shitposting. Silly
 Girl eats girl dinner, does girl math, romanticizes her life, and laughs
 at boys who think about the Roman Empire.
 
-![A collage of two people AI-generated content may be
-incorrect.](media/image3.jpg){width="3.6419750656167977in"
-height="3.6419750656167977in"}
+![](imgs/14.3.jpg)
+
+<br/>
 
 Her style is eccentric, with mismatched socks, striped sweaters, and her
 hair is a never-ending art project. She likes her bows and pinks but she
@@ -97,8 +97,8 @@ she chooses not to. After all, she is just a girl. Even though the Silly
 Girl likes to feign innocence, she should not be mistaken for being
 incapable or clueless. She certainly is ‘in the know’. She probably
 knows more than you do. She’s just plotting and trolling, practising her
-tomfoolery.\
-\
+tomfoolery.
+
 Think Doja Cat with her unserious online presence like trolling her
 fans, trashposting on Insta, or always being unfiltered. She may take it
 a step or two too far, but the point is that you can’t, and in fact,
@@ -117,9 +117,9 @@ She loves Hello Kitty, hair clips, bows, and ribbons, all quintessential
 girlhood signifiers. *This is where she posts from and on the internet
 she is forever 13.*
 
-![A group of women sitting at a table with food AI-generated content may
-be incorrect.](media/image4.jpg){width="5.72839457567804in"
-height="1.9242738407699038in"}
+![](imgs/14.4.jpg)
+
+<br/>
 
 She has re-embraced her youth and all of the cute, pink, expressive, and
 childlike sense of wonder that this entails. Being a girl is not lame
@@ -128,7 +128,7 @@ unapologetically indulging in an essentialist girlhood, yet, there is a
 level of playfulness and performativity here. She brings a goofiness, or
 dare we say, a silliness, to the table.
 
-## Theorizing Silliness
+##Theorizing Silliness
 
 Dictionaries define silliness as the quality of lacking good/common
 sense; foolishness, absurdity, ridiculousness, or irrationality, or
@@ -138,9 +138,9 @@ as “Tis a Silly Place” circling over ranging social media. The silliness
 practised by the Silly Girl is embedded in these definitions, but she
 manages to reframe it a little. She makes it her own.
 
-![A dark purple background with white text AI-generated content may be
-incorrect.](media/image5.jpg){width="3.8765430883639547in"
-height="2.4953149606299214in"}
+![](imgs/14.5.jpg)
+
+<br/>
 
 In *The Ambiguity of Play*, Brian Sutton-Smith theorizes different
 rhetorics of play. He brings forward an analysis of the historical
@@ -182,9 +182,9 @@ Trying to do them the boy way (see dictionary) was Girlboss’s thing, but
 she failed and ended up selling her soul to the hustle. Silly girl
 refuses these modes of operating.
 
-![A couple of words on a white background AI-generated content may be
-incorrect.](media/image6.jpg){width="6.268055555555556in"
-height="2.1875in"}
+![](imgs/14.6.jpg)
+
+<br/>
 
 The *I'm Just a Girl* slogan stormed the web in 2023. It quickly spread
 to mainstream platforms with all types of girls everywhere sharing their
@@ -208,7 +208,7 @@ their smooth and ingrained nature and sillifies them. This mode of
 silliness is thereby drawn to be exclusively for girls (see dictionary),
 boys (see dictionary) are kindly asked to leave the room.
 
-## I’m Literally Just a Girl
+##I’m Literally Just a Girl
 
 As she memetically expresses herself, the Silly Girl and her silliness
 often play on the aesthetic quality of cuteness. In exploring cuteness
@@ -222,9 +222,9 @@ quite explicit in this function. In harnessing the cuteness of the girly
 symbol of the bow, an image of a coquette chicken nugget channels the
 endearing powerlessness of girlhood.
 
-![A rabbit in a basket and a plate of food AI-generated content may be
-incorrect.](media/image7.jpg){width="5.308641732283465in"
-height="3.414798775153106in"}
+![](imgs/14.7.jpg)
+
+<br/>
 
 While such implications elicit essentialist understandings of what being
 a girl is, the use of such cuteness also works to rupture these
@@ -240,8 +240,8 @@ functions to expose societal connotations of what cuteness infers. The
 Silly Girl uses cuteness precisely in this way. She sprinkles cuteness
 with heavy notes of mimicry: she is so cute that it hurts. She is
 deploying it to expose the patriarchal sadistic desires that are
-transposed onto the things that society deems cute.\
-\
+transposed onto the things that society deems cute.
+
 Beyond the guise of docility, Silly Girl expresses her cuteness and
 girliness in a tongue-in-cheek way. Sure, the Silly Girl can be cute and
 she responds to what Ngai theorizes, however, she is not just cute, she
@@ -261,8 +261,8 @@ the white, heteronormative, patriarchal matrix. The *girl* (read
 dictionary definition), as a glitched body, is proof that this system is
 flawed and the Silly Girl expresses this glitch visibly through her
 exaggerated and silly use of cuteness. Through her sillification of
-cuteness, she performs the ridiculousness of patriarchy.\
-\
+cuteness, she performs the ridiculousness of patriarchy.
+
 In playing on cute imagery, you’ve probably seen girls pretending to be
 cute animals online with captions like “When you hurt me, this is who
 you’re hurting” or “This is me if you even care.” As girls express
@@ -280,9 +280,9 @@ passivity to essentially reap the benefits of patriarchal assumptions of
 her weakness and vulnerability. If she's so incapable, if she's so
 clueless, then we should really just give her a break already.
 
-![A cartoon of a child and a stuffed animal AI-generated content may be
-incorrect.](media/image8.jpg){width="5.2839501312335955in"
-height="2.706956474190726in"}
+![](imgs/14.8.jpg)
+
+<br/>
 
 The Silly Girl loves to play on this dumbness aspect of being cute,
 again practising her ignorance is bliss attitude. This is best
@@ -297,8 +297,8 @@ hypothetically getting drafted. Silly Girl does not want to go to war.
 Silly Girls think war is silly and so, through these memes, they sillify
 the whole ordeal in general. War is a boy thing. Boys like the military.
 Silly Girls are not down with the military-industrial complex and the
-violent regimes of the state.\
-\
+violent regimes of the state.
+
 Furthermore, Silly Girl milks this assumption that she is incompetent,
 to lower expectations, and get others to cut her some slack when she
 turns a little devious. She’s too cute to understand, so how can she
@@ -323,9 +323,9 @@ the external gaze. She is aware that the essentialist ideas she plays
 with have a history of violence. Yet her play is strategic. The Silly
 Girl ingests patriarchal assumptions and digests them only to exert them
 as her own. After all, no one can hurt her by infantilizing or
-simplifying who she is, when she already does that herself.\
-\
-Silly Girl as Psychic Armor
+simplifying who she is, when she already does that herself.
+
+##Silly Girl as Psychic Armor
 
 Earlier internet days provided people the opportunity to be whoever they
 wanted online. Today, with tracking IDs, Cookies, and the centralized
@@ -343,11 +343,11 @@ space”[^17chapter14_7]. The DVW is more often than not a dangerous vessel for
 spreading alt-right ideology, but their online frivolity can teach us a
 lesson or two. Indeed, the DVW visualizes that digital spaces can still
 allow for a level of playfulness, and this mode of being has potent
-political potential.\
-\
-![A comparison of a chart AI-generated content may be
-incorrect.](media/image9.jpg){width="5.555555555555555in"
-height="2.9291918197725284in"}
+political potential.
+
+![](imgs/14.9.jpg)
+
+<br/>
 
 Digital girlhood takes the shape of a performance embedded in a similar
 logic. For years now, girls have treated the internet as a space for
@@ -391,8 +391,8 @@ Russel recalls her coming-of-age years in the following way; “I was a
 young body: Black, female-identifying, femme, queer. There was no
 pressure pause, no reprieve; the world around me never let me forget
 these identifiers. Yet online I could be whatever I wanted.” We turn to
-the internet to disassociate from our troubles. To cosplay a little.\
-\
+the internet to disassociate from our troubles. To cosplay a little.
+
 Silly girl at her essence is politically aware, but she chooses to
 ignore that and have fun, be ironic, and be “baby”. There is a
 tremendous privilege in this chosen ignorance. Not everyone can just
@@ -424,12 +424,12 @@ evoke imagery of mental instability but are expressed quite differently.
 The Silly Girl clowns her emotions and is not pretty when she cries. She
 roams the web avoiding her silly little dark thoughts, sprinkling heavy
 satire onto any unfortunate situation. What’s more, her sadness often
-turns into delusion.\
-\
-![A black and white background with white text AI-generated content may
-be incorrect.](media/image10.jpg){width="6.268055555555556in"
-height="2.1055555555555556in"}\
-\
+turns into delusion.
+
+![](imgs/14.10.jpg)
+
+<br/>
+
 Silly Girl is completely Delulu—and she loves it. Being rational is
 overrated and lame, she leaves that to the boys. When Silly Girls get
 together, they love to validate each other’s delusions and manifest
@@ -443,7 +443,7 @@ Being delusional is then yet another way in which she chooses to troll
 her struggles. Ironic detachment comes in handy when you’re busy trying
 to avoid a mental breakdown.
 
-## Anti-Boy
+##Anti-Boy
 
 According to Christine H. Tran, “to \#girlboss is to pursue neoliberal
 values of individual choicehood as the primary vector of women’s
@@ -453,10 +453,11 @@ instead of trying to enter the system, she tries to disturb it through
 her taunting online persona. In doing so, she confronts neoliberal
 values that favour the grind, productivity, rationality, and normcore.
 Two strategies are key here: hating on the boys, and sillifying money
-and logic.\
-![A screenshot of a cartoon AI-generated content may be
-incorrect.](media/image11.jpg){width="5.222222222222222in"
-height="2.4358027121609798in"}
+and logic.
+
+![](imgs/14.11.jpg)
+
+<br/>
 
 In this world boys symbolize anyone or anything that produces, reflects,
 or maintains the hegemonic structures based on patriarchy,
@@ -470,8 +471,8 @@ trend that helped her expose the peculiar nature of the *boy* brain.
 Boys think about the Roman Empire a lot because it is a symbol of order,
 logic, and masculinity - all the things that Silly Girl hates. Thus by
 laughing at the boys, she is laughing at the entire system, and through
-that, sillifying it.\
-\
+that, sillifying it.
+
 Silly Girl provides a counter-space where logic, rationality, and
 seriousness are traded in for affect, irony, and quirkiness. The popular
 trend *Girl Math* that stormed TikTok resonates here. The videos bring
@@ -492,7 +493,7 @@ Thus, by hating on the boys, she is hating on notions, of logic,
 seriousness, and money and thereby glitching the wider system that rules
 our neoliberal reality.
 
-## Trading Silliness
+##Trading Silliness
 
 The bodies of young girls become sites of struggle where many different
 disciplines compete. And more often than not, money becomes inextricable
@@ -532,11 +533,11 @@ usually the case, brands and marketing campaigns were quick to jump on
 this bandwagon. *Barbie* was the highest-grossing film release of 2023,
 Shein’s online store is full of tops with bows, and Popeye’s launched
 their limited “girl dinner” meal, signalling that the commercialization
-process is well on its way.\
-\
-![A person in a room with text AI-generated content may be
-incorrect.](media/image12.jpg){width="4.843793744531934in"
-height="4.814815179352581in"}
+process is well on its way.
+
+![](imgs/14.12.jpg)
+
+<br/>
 
 Nevertheless, Silly Girl is not just the pink girl who eats girl dinner
 and does girl math. Yes, she does plenty of these things too but don’t
@@ -555,8 +556,7 @@ processes. The key is to stay moving and never allow the system to
 enclose her within a stable identity category that can be reproduced for
 profit.
 
-## \
-Is Everyone in on the Joke?
+##Is Everyone in on the Joke?
 
 The ironic online presence of the Silly Girl may also pose certain
 issues in terms of the reception or impact of her content. Silly Girl’s
@@ -570,11 +570,11 @@ Post-irony, through its ambiguous form, can easily avoid any political
 categorization, thus leaving Silly content both open to depoliticization
 as well as misinterpretation. While she may be engaging in essentialist
 roleplay to ridicule patriarchal assumptions, her performance may be
-taken too literally.\
-\
-![A couple of women in orange jumpsuits AI-generated content may be
-incorrect.](media/image13.jpeg){width="4.259259623797026in"
-height="4.204520997375328in"}
+taken too literally.
+
+![](imgs/14.13.jpg)
+
+<br/>
 
 The liberal audience of pink entrepreneurs has catapulted these girl
 trends into mainstream fame without maintaining the dark humour that
@@ -595,7 +595,7 @@ important to intervene in these politically contested spaces and, as put
 by Geert Lovink, “reclaim the power of definition in the fight against
 right-wing meme hegemony”.[^17chapter14_10]
 
-## Girlhood as Grief
+##Girlhood as Grief
 
 In the end, Silly Girl is a digital reprieve where one can come to bask
 in the ironic warmth of a worry-free life. Each of these digital girl
@@ -625,8 +625,8 @@ experience—the loss of innocence, of ignorance, of bodily sovereignty.
 We grieve the blissful, unattainable, and imagined girlhood experience.
 Some clench this fantasy with their fists before it can peel away,
 others cannot wait to leave it behind. In either case, girlhood is such
-an ephemeral state perhaps because it rarely ever fully belongs to us.\
-\
+an ephemeral state perhaps because it rarely ever fully belongs to us.
+
 Our digital escape through girl identities is an attempt to reclaim what
 has been lost. Through her lonesome tears, the Sad Girl expresses
 herself through **depression**. In attempting to assert herself within
@@ -636,8 +636,8 @@ The Silly Girl, on the other hand, with her performative ignorance and
 comedic mask, hides within the comfort of **denial**. While each virtual
 girl persona embodies a certain emotive manifestation of the grieving
 process, there is no progression in this ‘process’. There is no linear
-framework for this grief. It is simply a fact of girlhood.\
-\
+framework for this grief. It is simply a fact of girlhood.
+
 After being so inconsolably sad, pitifully pleading, and dreadfully
 enraged, she’s tired, she just wants to put her feet up and act a little
 silly and she deserves a little treat.
@@ -650,6 +650,8 @@ holds a Master in Curating Art and Cultures from the University of
 Amsterdam (2025). She was a curator-in-training at the Stedelijk Museum
 Amsterdam (2024-25). In 2025/26, she is a researcher at the Institute of
 Network Cultures.*
+
+***Mita Medri** is an Amsterdam-based researcher and writer. Her research explores digital girlhood, conspiracy cultures, and digital occultism, engaging questions of cultural memory, truth, and contemporary myth-making. She holds a Master's degree in Arts and Culture: Design Cultures from Vrije Universiteit Amsterdam (2024). As of 2025, she works in the curatorial team at IMPAKT - Centre for Media Culture.*
 
 [^17chapter14_1]: Brian Sutton-Smith, *The Ambiguity of Play*, (Harvard University
     Press, 2001).

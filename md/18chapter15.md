@@ -23,7 +23,8 @@ Rights: CC BY-NC 4.0
 
 ### Originally published November 20th, 2025
 
-“All models are wrong, but some are useful.”[^18chapter15_1] George Box - *“Models
+*“All models are wrong, but some are useful.”[^18chapter15_1] 
+George Box - “Models
 are stupid and we need more of them.” Paul Smaldino *
 
 Girl Math allowed girlies who just spent a little too much money to
@@ -65,9 +66,9 @@ doing the same. It goes without saying that the cliche that a girl is
 too cute to do math is wrong. This is a patriarchal rhetoric that is so
 simple and reductive that it does not need further analysis.
 
-![A screenshot of a test AI-generated content may be
-incorrect.](media/image1.png){width="4.166666666666667in"
-height="3.4444444444444446in"}
+![](imgs/15.1.png)
+
+<br/>
 
 The Girl Math trick borrows from that exact patriarchal misconception
 that girls are dumb and bad with money and runs with it.  In “Everyone
@@ -144,9 +145,9 @@ What if, indeed, the silly girl has spotted a crack in the boy-thought
 prison? What if, in all her delusions, she was right? Is Girl Math
 mathing? Let’s embark on this path.
 
-![A chain on a graph paper AI-generated content may be
-incorrect.](media/image2.png){width="6.268055555555556in"
-height="3.5131944444444443in"}
+![](imgs/15.2.png)
+
+<br/>
 
 Mathematics is often perceived as an unambiguous, objective field,
 despite the language of mathematics being frank about
@@ -161,8 +162,8 @@ foundations to the wallpaper.[^18chapter15_5] In that world, pure mathematics h
 very little to do with accurately describing reality or with making a
 truth claim: *it is lore in the making*.
 
-In[ *Is Math
-Real*](https://www.hachettebookgroup.com/titles/eugenia-cheng/is-math-real/9781541601826/?lens=basic-books),
+In *Is Math
+Real*,
 mathematician Eugenia Cheng argues for a similar thought deconstruction
 on what we assume math is.[^18chapter15_6] She asks us to start from the very basis
 of what we’ve been taught: “Why does 1 + 1 = 2?” One possible answer to
@@ -184,11 +185,9 @@ knowledge', I would argue, alongside Eugenia Cheng, that "my love of
 maths is somewhat driven by my love of breaking rules, or at least
 pushing against them."
 
-[\
-](https://networkcultures.org/longform/wp-content/uploads/sites/31/2025/11/7-scaled.png)![A
-cat wearing a white coat AI-generated content may be
-incorrect.](media/image3.png){width="6.268055555555556in"
-height="3.470138888888889in"}
+[](https://networkcultures.org/longform/wp-content/uploads/sites/31/2025/11/7-scaled.png)![](imgs/15.3.png)
+
+<br/>
 
 Breaking rules involves deconstructing what's known and assembling new
 ideas and ways of mathing. Albert Einstein once famously said, "Pure
@@ -215,9 +214,9 @@ happy to assume what we just suggested. If not, all good. Axioms are
 pure assumptions, meaning that they explicitly do not have to be true;
 they might well be false… It doesn't really matter.
 
-![A screenshot of a black background AI-generated content may be
-incorrect.](media/image4.png){width="3.875638670166229in"
-height="2.280898950131234in"}
+![](imgs/15.4.png)
+
+<br/>
 
 So, there's no need to prove assumptions or even justify why they would
 make any sense. If you wish to assume some nonsense, such as ‘nothing
@@ -333,9 +332,9 @@ Girl Math proof might look like by proving the following Girl Math
 Theorem: Upon returning a dress worth 50 to the tore and swapping it for
 a shirt worth 30, we yield a profit of 20.
 
-![A white paper with black text AI-generated content may be
-incorrect.](media/image5.png){width="4.146067366579177in"
-height="2.258610017497813in"}
+![](imgs/15.5.png)
+
+<br/>
 
 Upon finalising a proof, a mathematician concludes their argument with
 this tiny square. Alternatively, they use the abbreviation Q.E.D. (quod
@@ -353,9 +352,9 @@ anything. The first Boy Math meme version on the internet—the one
 below—demonstrates how the logic would operate. Of course, it is written
 by bois, for bois, and it’s very unfunny.
 
-![A screenshot of a social media post AI-generated content may be
-incorrect.](media/image6.png){width="6.268055555555556in"
-height="3.5395833333333333in"}
+![](imgs/15.6.png)
+
+<br/>
 
 The earliest online conceptions of Boy Math were based on deduction and
 optimisation, explicitly oriented towards saving money —a plain, factual
@@ -366,9 +365,9 @@ Girls were pretty quick to eclipse this variant. Here's what happened.
 Trigger warning: fragile male egos, proceed with caution. This might
 hurt.
 
-![A screenshot of a social media post AI-generated content may be
-incorrect.](media/image7.png){width="3.6853937007874014in"
-height="3.9516108923884516in"}
+![](imgs/15.7.png)
+
+<br/>
 
 Slowly but surely, *boy math* escaped the world of finance bros and was
 co-opted by girls to laugh at the delusional logic boys preach every day
@@ -388,9 +387,9 @@ the dropping birth rate, investing in effective altruism, and demanding
 infinite economic growth on a finite planet. On Urban Dictionary, a user
 named boymather defines the term similarly:  
 
-![A white paper with blue text AI-generated content may be
-incorrect.](media/image8.png){width="5.07865157480315in"
-height="2.3221358267716536in"}
+![](imgs/15.8.png)
+
+<br/>
 
 Let's now dive into our own characterisation of Boy Math, as we are
 relatively uninterested in smashing fragile egos and want to have a
@@ -412,9 +411,9 @@ predictable, internally consistent, and deeply committed to maximising
 outcomes while minimising ambiguity. It is the ruling system of our
 apocalyptic neoliberal technocratic world.
 
-![A white background with black text AI-generated content may be
-incorrect.](media/image9.png){width="3.966292650918635in"
-height="1.5951301399825022in"}
+![](imgs/15.9.png)
+
+<br/>
 
 The boy uses math with his own agenda and on his own premises, forcing
 reality to fit his model. Boy Math is based on false dichotomies and
@@ -469,9 +468,7 @@ and Aristotle.
 
 ### Boy Math Descendants
 
-[\
-](https://networkcultures.org/longform/wp-content/uploads/sites/31/2025/11/16.png)In
-Western rational history, the lexicon generally starts with Plato. We
+In Western rational history, the lexicon generally starts with Plato. We
 consider him the Boy Math patient zero, although one might question
 whether he would have agreed with said doctrine. In Plato’s Theory of
 Forms, the philosopher claims that proper form does not exist in the
@@ -568,12 +565,9 @@ astrology. A few years ago, the joke that crypto trading is really just
 astrology for boys went viral. The analogy obviously pissed them off, as
 illustrated in the below Reddit rant:
 
-![A screenshot of a computer AI-generated content may be
-incorrect.](media/image10.png){width="6.268055555555556in"
-height="3.1729166666666666in"}
+![](imgs/15.10.png)
 
-###### [**\
-**](https://networkcultures.org/longform/wp-content/uploads/sites/31/2025/11/15.png)
+<br/>
 
 A boy sees astrology as nothing but extremely inaccurate statistical
 predictions used to scam people by giving them a false sense of hope. To
@@ -861,13 +855,13 @@ universe, we choose to embed a fundamental truth duality: *everything I
 just said, but reversed, is always also true. *This way, no matter what
 she says, a girl is per definition always right. 
 
-![A screenshot of a cell phone AI-generated content may be
-incorrect.](media/image11.png){width="2.1333333333333333in"
-height="2.7963068678915137in"}
+![](imgs/15.11.png)
+
+<br/>
 
 ## Girl Math Manifesto
 
-*** **It's true for me but you do you*
+*It's true for me but you do you*
 
 *If it resonates, it is right.*
 
@@ -899,7 +893,7 @@ height="2.7963068678915137in"}
 
 *Quintisentially Emotionally Demonstrated.*
 
-***Irma Mastenbroek** is a Berlin-based digital rights activist and
+***Irma Mastenbroek*** *is a Berlin-based digital rights activist and
 technofeminist. With a background in mathematics, she specializes in
 network science, optimization, and artificial intelligence (AI). Irma
 founded LODelle, a platform for digital feminist networks, and is an

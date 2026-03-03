@@ -72,9 +72,9 @@ might do some print jobs, and so on. The uniqueness of each internet
 cafe is not limited to the novelty of the business idea, as much as its
 associated community, which defines its unique purpose.
 
-![A store with a sign and a video game machine AI-generated content may
-be incorrect.](media/image1.png){width="6.015977690288714in"
-height="3.2765955818022747in"}
+![](imgs/22.1.jpg)
+
+<br/>
 
 Internet cafes were originally called cyber cafes, after London’s own
 Cyberia Cafe (according to the Brits), although early variants of it
@@ -149,9 +149,9 @@ very small but relevant overview of internet cafes in Romania straight
 out of 2004, in a study on Internet access in the country at the
 time.[^25chapter22_8]
 
-![A group of people sitting in front of computers AI-generated content
-may be incorrect.](media/image2.png){width="6.085106080489939in"
-height="4.005274496937883in"}
+![](imgs/22.2.jpg)
+
+<br/>
 
 It seems that 2004 had quite the downer vibe, as the writers were not so
 sure about the future prospects of the internet cafe. But even from
@@ -252,9 +252,9 @@ as to 2008 as a legitimate period of Starnet activity, but this can only
 be implied by looking up Stargrill’s opening year, which was a
 restaurant sharing both the location and the name with Starnet.
 
-![A rainbow over a sign AI-generated content may be
-incorrect.](media/image3.png){width="3.9468088363954505in"
-height="2.9288418635170603in"}
+![](imgs/22.3.jpg)
+
+<br/>
 
 Beyond the respectable humble beginnings and perhaps some (possible)
 loopholes at play, we suspect that it took quite the time to eventually
@@ -321,9 +321,9 @@ internal economy they could manage through this UI and that really
 reinforced the idea that you are not using a regular computer, you are
 using Starnet’s curated version of it.
 
-![A row of computer monitors AI-generated content may be
-incorrect.](media/image4.png){width="5.755319335083114in"
-height="3.2105074365704285in"}
+![](imgs/22.4.png)
+
+<br/>
 
 After you logged in to your account, one last thing to do before playing
 was to, of course, buy hours. Buying hours was the main Starnet product.
@@ -367,9 +367,9 @@ lane, or respawning.
 printed and handed to you. Each one started with a small message that
 read: “The best Internet Cafe in Romania”*
 
-![A close-up of a receipt AI-generated content may be
-incorrect.](media/image5.png){width="2.675120297462817in"
-height="2.170213254593176in"}
+![](imgs/22.5.jpg)
+
+<br/>
 
 ## The "Full Night" Experience
 
@@ -420,8 +420,9 @@ when it came time to have a siggy break, everyone came outside the
 locale in good spirits, reminiscing about the crazy experience that was
 the previous match, regardless if it was a loss or a win.
 
-![](media/image6.png){width="5.083443788276465in"
-height="3.1955971128608924in"}
+![](imgs/22.6.jpg)
+
+<br/>
 
 In its *golden days*, a Starnet establishment would usually be
 frequented by high schoolers skipping class, young professionals who
@@ -583,9 +584,9 @@ opening schedules, with exact visiting days being planned and announced
 weeks or even months ahead of time; whereas the former would just open
 immediately after a lockdown - at least that is what the documents said.
 
-![A room with a table and a fan AI-generated content may be
-incorrect.](media/image7.png){width="3.0645166229221346in"
-height="3.0954133858267716in"}
+![](imgs/22.7.jpg)
+
+<br/>
 
 According to official documents and the vigilant eyes of the police,
 Starnet was conducting business as usual. Within an old historical
@@ -689,7 +690,7 @@ for its internet cafes? Or will the behind-the-scenes politics tarnish
 their reputation and make the public skeptical as to the validity of
 such a subculture?
 
-***Ruxandra Mărgineanu** & **Radu-Mihai Tănasă**  are both members of
+***Ruxandra Mărgineanu & Radu-Mihai Tănasă ****are both members of
 the Iași-based artistic collective Apartament 6 (AP.6). The Startnet
 project is done as part of AP.6’s overarching artistic research on
 authentic Balkan spaces. On a local level, AP.6 is one of Iași’s only

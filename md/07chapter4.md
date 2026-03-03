@@ -37,7 +37,7 @@ and has become a staple of Gen Z internet aesthetics. Its exaggerated
 distortions appear silly and accidental, but its conditions of
 possibility are anything but.
 
-## \#Stretched to fit
+###Stretched to fit
 
 Beneath the surface, the stretch image is a networked image,
 hyperspecific to contemporary platform life. Similar to the poor
@@ -57,8 +57,9 @@ tension between *human vision*, which seeks coherence and proportion,
 and *machinic vision*, which molds images to optimize for circulation,
 engagement, and profit.
 
-![](media/image1.png){width="5.5921052055993in"
-height="2.3684208223972005in"}
+![](imgs/04.1.png)
+
+<br/> 
 
 The stretched image is fast and cost-effective, but this efficiency
 comes at the expense of "quality". The stretched image is also lazy,
@@ -80,9 +81,9 @@ posters, memes, celebrity photos) carry fixed aspect ratios that rarely
 align with the products they’re pasted onto. To solve this problem,
 images are “stretched to fit”.
 
-![A screenshot of a video AI-generated content may be
-incorrect.](media/image2.png){width="5.3815791776027995in"
-height="2.6315791776027995in"}
+![](imgs/04.2.png)
+
+<br/> 
 
 One interesting product I found was a wall tapestry of Mean Girls, where
 the protagonists' faces have been swapped with three female Love island
@@ -125,16 +126,16 @@ music accelerates sonic forms, the stretched image of, let's say
 Fakeminks London Saviour, functions as a visual counterpart allowing
 imagery to “keep up”.
 
-![A screenshot of a cellphone AI-generated content may be
-incorrect.](media/image3.png){width="5.79955927384077in"
-height="3.5087893700787403in"}
+![A selection of album covers sourced from Soundcloud](imgs/04.3.png)
+
+<br/> 
 
 Stretching an image is not the only way to adapt it to platform
 constraints. Cropping is probably the more common solution when faced
 with such a “problem”. But what makes stretching far more interesting is
 that, while the cropped image erases its “former limbs”, the stretched
 image preserves them - though in distorted form. This allows the
-stretched image to 1) to become an aesthetic in its own right and 2)
+stretched image to 1) become an aesthetic in its own right and 2)
 visually carry the history of its circulation. Take Bladee’s 2013 music
 video *My Magic is Strong*, for example: horizontally stretched footage
 shows Bladee frolicking on a grassy field, apparently shot vertically on
@@ -156,11 +157,11 @@ enacts, and of the persistence and attention that keep it alive.
 Symbolically, it articulates the feeling of being pulled and pushed
 violently across digital platforms.
 
-![A screenshot of a video AI-generated content may be
-incorrect.](media/image4.png){width="5.7016087051618545in"
-height="2.4235028433945756in"}
+![](imgs/04.4.png)
 
-## Aesthetic Silly Boys and Goth Girls
+<br/> 
+
+### Aesthetic Silly Boys and Goth Girls
 
 Not all images that use this visual effect are consciously stretched to
 fit a given aspect ratio. This is because the stretched image has become
@@ -177,9 +178,9 @@ Haunted Mound, for instance, consistently produces dark, muddy, and
 heavily distorted vocals – an effect not unlike what happens when you
 stretch an audio track.
 
-![A person in a white tank top AI-generated content may be
-incorrect.](media/image5.png){width="1.1184372265966753in"
-height="2.15in"}
+![](imgs/04.5.png)
+
+<br/> 
 
 Aestheticized versions of the stretched image appear in selfies posted
 by goths online. I didn't think much of this before I visited a gothic
@@ -202,7 +203,7 @@ Without this 21st-century visual ecosystem, where images circulate
 across platforms and can be easily edited, there would be little reason
 for this aesthetic to exist at all.
 
-## Platform Logic, and the Drive to Fill the Frame
+### Platform Logic, and the Drive to Fill the Frame
 
 There are two logics of social media platforms that have accelerated the
 tactics of stretching and solidified them into recognizable visual
@@ -265,7 +266,9 @@ on vertical platforms like TikTok created a mismatch. Placing additional
 clips next to it, and thereby creating sludge, worked as a remedy to
 this *horror vacui –* a way to visually “complete” the frame.
 
-![](media/image6.png){width="3.64in" height="2.13in"}
+![](imgs/04.6.png)
+
+<br/> 
 
 Now that a technical analysis of the stretched image is done, there are
 further questions to be asked: What is the stretched image stretching
@@ -285,8 +288,9 @@ ratios evoke portraits, TikTok, short-form video, and the smartphone
 display. These are the associations I bring with me when I encounter
 stretched images online.
 
-![](media/image7.png){width="1.0260870516185476in"
-height="1.9565212160979877in"}
+![](imgs/04.7.png)
+
+<br/> 
 
 Of particular interest here is the vertically stretched image, where a
 horizontal image is forced into the vertical format of a phone. This
@@ -316,10 +320,6 @@ version, these once-familiar hopecore horizontal images are stretched so
 aggressively to fit the vertical frame that the text becomes nearly
 unreadable.
 
-![A screenshot of a video AI-generated content may be
-incorrect.](media/image8.png){width="3.5391305774278217in"
-height="1.8in"}
-
 What makes this reel so striking is its temporal dissonance. I remember
 being a teenager when these types of sincere and hopeful images were a
 part of my everyday media diet. I would encounter them mostly on my
@@ -332,6 +332,10 @@ music, introduces a darkness. It feels as if the images have been
 assaulted, forced to conform to the rigid, contemporary regime of
 verticality: a visual violence that mirrors the internet's shift from
 sincerity to a more cynical, irony-poisoned landscape.
+
+![](imgs/04.8.png)
+
+<br/> 
 
 These images now appear as reels, the default mode of image production
 in the 2020s, rather than standalone posts, as was the norm before 2016.
@@ -364,11 +368,7 @@ content, including pre-vertical internet images such as Tumblr posts and
 square Instagram macros, to persist under the authoritarian rule of
 verticality.
 
-![A small house with a triangular roof AI-generated content may be
-incorrect.](media/image9.png){width="1.7312281277340333in"
-height="2.51540791776028in"}
-
-## Vertical Music Videos & Cross-post minimalism
+### Vertical Music Videos & Cross-post minimalism
 
 The vertical stretched image is not the only visual form born out of a
 smartphone-mediated reconfiguration of image production. Another example
@@ -399,10 +399,14 @@ media objects, like the music video, into slop. What's at stake here is
 the erosion of a cultural form that has, for decades, been one of
 popular music’s most experimental and boundary-pushing media objects.
 
+![Cross-post Minimalism](imgs/04.10.png)
+
+<br/> 
+
 The dominance of smartphone-based media is not only producing more
 vertical content, as in the case of vertical music videos, but also
 reconfiguring horizontal content. This is evident in contemporary
-horizontal YouTube “slop,”. Think of Jubilee (*“1 Capitalist vs 20
+horizontal YouTube “slop”. Think of Jubilee (*“1 Capitalist vs 20
 Anti-Capitalists”*), Cut (*“The Button”*), LADbible (*“Snack Wars”*),
 Colors Studio, Genius (*“Verified”*), The Skin Deep, BuzzFeed, or Pop
 the Balloon: what unites them is an extremely minimal set, often nothing
@@ -449,9 +453,9 @@ In response to this, I appreciate the trend on Instagram among cool Gen
 Z girls of posting horizontal photos in vertical stories. It has the
 feel of a quiet revolution...
 
-![A person wearing a black hat AI-generated content may be
-incorrect.](media/image10.png){width="2.6173917322834646in"
-height="1.6695647419072617in"}
+![](imgs/04.9.png)
+
+<br/> 
 
 ## Future of the Stretched Image
 
@@ -523,14 +527,11 @@ reproduction. Maybe this resisting trait of the stretched image will
 allow it to survive, in a social media landscape increasingly
 contaminated by AI slop.
 
-![A cat standing on a white surface AI-generated content may be
-incorrect.](media/image11.png){width="4.8375in" height="3.175in"}
+![](imgs/04.11.png)
 
-***August Kaasa Sundgaard** (1999) is former intern and *[affiliated
-researcher](https://networkcultures.org/blog/author/august/)* at the
-Institute of Network Cultures. He holds a bachelor's degree in Liberal
-Arts from Leiden University and is currently enrolled in the University
-of Amsterdam Media Studies MA program. *
+<br/> 
+
+***August Kaasa Sundgaard*** *(1999) is former intern and affiliated researcher at the Institute of Network Cultures. He holds a bachelor's degree in Liberal Arts from Leiden University and is currently enrolled in the University of Amsterdam Media Studies MA program. Through his collaborative project V.I.B.E., he has exhibited at Ars Electronica and Dutch Design Week, and has been published by Do Not Research.*
 
 [^07chapter4_1]: Hito Steyerl. “In Defense of the Poor Image.” e-flux Journal, no.
     10 (November 2009).

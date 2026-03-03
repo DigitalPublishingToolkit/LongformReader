@@ -17,21 +17,20 @@ Rights: CC BY-NC 4.0
 ...
 
 
-# Skylines I’ve Never Seen: Net-Real China as Hopeium
+#Skylines I’ve Never Seen: Net-Real China as Hopeium
 
-## Aleksy Domke
+##Aleksy Domke
 
-### Originally published on May 1st, 2025
+###Originally published on May 1st, 2025
 
-![A bridge over a river with buildings in the background AI-generated
-content may be
-incorrect.](media/image1.jpeg){width="6.268055555555556in"
-height="3.5256944444444445in"}
+![](imgs/07.1.png)
+
+<br/>
 
 My old roommate is crashing at my place. As a thank you, he gives me an
 incredibly well-designed box of Sina Ginger Candy. Sized like a
-cigarette box, a beautiful illustration of a ginger root \[inside joke
-about rhizome\] occupies the center, with red Chinese writing placed
+cigarette box, a beautiful illustration of a ginger root [inside joke
+about rhizome] occupies the center, with red Chinese writing placed
 vertically on either side. On top, “Sina Ginger Candy” is written in an
 Evangelion-like, vertically stretched serif font. The rest of the label
 is sprinkled with various symbols and certificates like “real ginger.” I
@@ -43,11 +42,11 @@ We spend the next morning talking about Weibo thirst traps, Xiaohongshu
 shopping streams,[^10chapter7_1] Chinese aunties in Balenciaga sweats and the
 sublime Chinese manufacturing industry. If this was 2022 we would
 probably be talking about some random meme or a niche Bandcamp release
-\[we are edgy like that\]. In 2025 we’re discussing the wonders of
+[we are edgy like that\]. In 2025 we’re discussing the wonders of
 economic development in a country we’ve both never been to, but somehow
-share a strong connection with.\
-\
-China’s Soft Power Grind
+share a strong connection with.
+
+##China’s Soft Power Grind
 
 With the release of Trump 2, the American machine of computational
 propaganda steps into overclock. Multipliers on the CPU — *China
@@ -103,9 +102,9 @@ seems to have lost its momentum, exhausting its grip on media, allowing
 a shift in Western reporting and public opinion. One demographic has
 swallowed a disproportionate amount of China-pills — the chronically
 online Western youth. What happened here? And what’s the role of social
-media and meme culture in all of this?\
-\
-Algorithmic Politics & Aesthetic Logics
+media and meme culture in all of this?
+
+##Algorithmic Politics & Aesthetic Logics
 
 The worldview-forming process for digital natives is usually based
 around whatever slop they get served on their algorithmic plates. The
@@ -126,7 +125,7 @@ force of reality. The database of ideas has fallen victim to a
 deterministic algorithm — people don’t analyze politics, they scroll
 into them. Knowledge collapses into aesthetics. Your
 carefully-researched argument and a swiss knife of references will never
-be content. Joe Rogan is though. \[*liberal destroyed*\]
+be content. Joe Rogan is though. [*liberal destroyed*]
 
 The left’s search for a reciprocal Joe Rogan is a Web 2.0 equivalent of
 Fisher’s reflexive impotence. The Democrats recognize their Kamala HQ
@@ -136,12 +135,12 @@ set out on a vibe-seeking venture, blindly chasing after their
 opponents' successes. In spectacle politics, you either win the
 aesthetic arms race or you get offloaded from collective memory.[^10chapter7_8]
 
-&gt; recommendation\_watchnext.serve()\
-\
-![A screenshot of a phone AI-generated content may be
-incorrect.](media/image2.png){width="6.268055555555556in"
-height="3.3993055555555554in"}\
-\
+&gt;recommendation_watchnext.serve()
+
+![](imgs/07.2.png)
+
+<br/>
+
 A sigma-esque montage of first-tier skylines like Shenzhen or Shanghai;
 high-rises glistering with hypercoordinated addressable RGB LEDs. Bullet
 trains and shiny pick-and-place machine timelapses interpose the aerial
@@ -170,15 +169,14 @@ captioned with “*Do nothing. Win.*” and spread as a response to
 America’s failures in the economic arms race. Extrapolating this analogy
 further, a hustle-culture-adjacent phrase “making moves in silence” can
 describe China’s Peaceful Development Policy — Xi is making moves in
-silence while Western powers implode before our very eyes.\
-\
-![A person in a suit and tie AI-generated content may be
-incorrect.](media/image3.jpg){width="4.2727613735783025in"
-height="3.1084339457567802in"}\
-![Men in suits shaking hands with a red line AI-generated content may be
-incorrect.](media/image4.jpeg){width="5.301205161854768in"
-height="2.9842038495188103in"}\
-\
+silence while Western powers implode before our very eyes.
+
+![](imgs/07.3.jpg)
+
+![](imgs/07.4.jpg)
+
+<br/>
+
 This seduction of image, as described by Baudrillard,[^10chapter7_9]
 instrumentalizes affective labels like &lt;prestige&gt;
 &lt;authority&gt; in warfare of pre-cognitive capture. All those
@@ -188,8 +186,8 @@ not just infrastructure, it’s a semiotic spirit, seducing users into
 pre-coded reactions. The scroll is no longer informational but
 ritualistic, ceremonial. While Western tech might have you visualize
 Christian signifiers, they soon might be replaced with Buddhist or
-Taoist ones. \[feel free to use this idea in your next installation for
-that unpaid show you have in East London.\] Akin to online alt-right’s
+Taoist ones. [feel free to use this idea in your next installation for
+that unpaid show you have in East London.] Akin to online alt-right’s
 tactics, the symbolic authority collapses into a circulating set of
 signs.
 
@@ -230,9 +228,9 @@ visual associations in my brain placed a stamp of approval on my
 hyperobsession. As shivers extend down my spine, I think to
 myself—*based*—as I proceed to put on *Ke Mu San* (hardstyle remix) on
 SoundCloud. I realize I no longer care about the factual, I am here for
-the vibe.\
-\
-IShowSpeed — Hyperrealist China & Statecraft Through Livestream
+the vibe.
+
+##IShowSpeed — Hyperrealist China & Statecraft Through Livestream
 
 *Awaiting the mythical fall of the west, you’re stuck in the limbo of
 enshittified remnants of European welfare-states. Your outlook for the
@@ -241,9 +239,9 @@ hyperrealist demon of x.com has taken over. The tsunami of blue
 checkmarks flooded your content village and wiped out your niche twitter
 poetry community. Someone responded to you liking a video of a baby
 monkey getting mopped on the ground by an adult monkey. You open YouTube
-in a new tab, IShowSpeed is live right now.\
-\
-*IShowSpeed, a 20 year-old American streamer has announced his Asia
+in a new tab, IShowSpeed is live right now.*
+
+IShowSpeed, a 20 year-old American streamer has announced his Asia
 Tour. Asia in question: China and Mongolia. Not the Western associative
 reflex of Korea or Japan. China. “\[IShowSpeed\] embarked on a marathon
 livestreaming tour across China, broadcasting for six uninterrupted
@@ -269,7 +267,7 @@ I get absorbed by the aftermath of clips from Speed’s stream. A never
 ending forest of massive, hypermodern skyscrapers, dotted with spotless
 architectural landmarks. Superhighways converge with elevated rail
 overpasses designed for an operating speed of 350 km/h. BYD’s Yangwang
-U9, a \$250k electric supercar packed with lavish features like
+U9, a $250k electric supercar packed with lavish features like
 individual wheel drive or a capability to perform brief vertical jumps.
 The night sky is broken up with DJI drones sparkling with colorful LEDs.
 Speed yells in excitement, “Zoom out, show the whole city! Chat, this is
@@ -312,14 +310,11 @@ the real China go? These semiotic labels distill the most recent and
 engagement-optimized elements of modern China, abandoning pre-internet
 culture in the quest for maximum affect.
 
-![A person in a suit AI-generated content may be
-incorrect.](media/image5.png){width="2.8313254593175854in"
-height="3.275819116360455in"}![A screenshot of a social media post
-AI-generated content may be
-incorrect.](media/image6.png){width="2.795180446194226in"
-height="3.300269028871391in"}\
+![](imgs/07.5.png)
 *on the right: meme portraying IShowSpeed as a khan of the Mongol
 Empire*
+
+<br/>
 
 An official account of the Chinese embassy in the U.S. tweeted “The
 20-year-old popular American YouTuber IShowSpeed has kicked off a
@@ -351,9 +346,9 @@ impressionable teens, but he’s one of the biggest streamers in the
 world. His support and position on Palestine without a doubt played a
 role in countering Zionist narratives from alt-right groypers like
 Asmongold. Expectedly, his visit to China has the potential to cement
-the already rapid sinicization of Gen Alpha and beyond.\
-\
-China Runs Without an RTX4090
+the already rapid sinicization of Gen Alpha and beyond.
+
+##China Runs Without an RTX4090
 
 Cyberpunk aesthetics avoid the utopian tendencies of earlier fiction. A
 sense of nihilism and hopelessness encompass neon city landscapes, urban
@@ -397,13 +392,13 @@ by a chain of global events. Related not only anthropologically and
 aesthetically, but also aspirationally, both phenomena position
 themselves against an antagonistic hegemony. One side claiming to resist
 “woke capital,” feminism and globalism, and the other, American
-hegemonic power.\
-\
-![A screenshot of a black and white screen AI-generated content may be
-incorrect.](media/image7.png){width="4.053652668416448in"
-height="2.8674693788276464in"}\
-\
-Borrowed Futures — Red Hauntology
+hegemonic power.
+
+![](imgs/07.6.png)
+
+<br/>
+
+##Borrowed Futures — Red Hauntology
 
 Having defined a relevant political framework, linking algorithmic
 reprogramming of aesthetics into worldview, digital sinicization has
@@ -537,11 +532,11 @@ content in a fight for a future beyond the LAN. Aligning with a foreign
 adversary to puncture the domestic content bubble in protest of
 homogenous local traffic.
 
-![A panda bear in a hospital bed AI-generated content may be
-incorrect.](media/image8.jpeg){width="5.861111111111111in"
-height="3.2916666666666665in"}
+![](imgs/07.7.jpg)
 
-## Hope with Chinese Characteristics
+<br/>
+
+##Hope with Chinese Characteristics
 
 As the West descends deeper into corpofascism, China lives the life
 promised to you by the neoliberal dream. China is living through the
@@ -595,9 +590,11 @@ of Western exceptionalism, the *Chinese Dream* shimmers through the dark
 with individually-addressable LEDs. Exercising its healing properties
 over fiberoptic veins, Net-Real China is an opium for the neoliberal
 crisis of futures. Now I’ll be booking my flights to Shanghai to address
-the extraterritorial placebo.\
-\
-Postscript: A Note on Freedom
+the extraterritorial placebo.
+
+---
+
+##Postscript: A Note on Freedom
 
 Chinese society’s submission to the state is not unique, but rather a
 larger trend in much of Asia. With a soft exception of
@@ -616,8 +613,8 @@ In America, the party changes, the policy stays static — in China, the
 party stays in power, the policy undergoes radical transformations.
 While an overarching set of vague values looms in the background, the
 intricate data-driven decision process evolves rapidly in close pursuit
-of material needs.\
-\
+of material needs.
+
 ***Aleksy Domke** is an interdisciplinary artist and researcher whose
 work engages with the internet, technology, philosophy and Chinese
 cultural influence. Their writing revolves around the internet – its
